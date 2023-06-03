@@ -10,27 +10,27 @@ OKX注册地址：https://www.okx.com/join/7227018
 成功注册后，请下载APP，苹果需要海外苹果账号，自己去申请一个，申请方法，请查看youtube：https://www.youtube.com/watch?v=oY396wEXzww&t=87s
 申请成功后，登录苹果应用商店，搜索 okx
 #### Android下载方式
-<img src=".../assets/img/okx-android-menu.png" width="50%">
+<img src="../assets/img/okx-android-menu.png" width="50%">
 
 打开左上角的菜单选项，一直往下，在最底部选择
 
-<img src=".../assets/img/okx-android-download.png" width="50%">
+<img src="../assets/img/okx-android-download.png" width="50%">
 
 页面就会自动跳转到下载APP的页面
 ### 打开APP领取盲盒
 打开APP后，在左上角菜单里面，找到邀请好友，里面就有你的盲盒，或者打开APP也会提醒你。能领取几美金BTC，如果你入金将会获得更多奖励。
 ### C2C购买USDT获得双倍奖励
 在APP首页，有一个我要买币，选择C2C，或者快捷买币，大家不用买多，只买10元人民币就行。
-<img src=".../assets/img/c2c-buy.png" width="50%">
+<img src="../assets/img/c2c-buy.png" width="50%">
 
 接下来就会找到与你交易的人，新手交易快捷买币，到时候会在右上角有消息提醒，再进行交易进行了，大家可以放心购买，欧易会做担保。
 充值成功后，又可以领取盲盒奖励，并且奖励翻倍。
 ### 怎么转账交易
-<img src=".../assets/img/okx-transfer.png" width="80%">
+<img src="../assets/img/okx-transfer.png" width="80%">
 
 点击最下面的资产按钮，然后选择提币，接下来选择你盲盒领取到的币种，一般是 BTC和ETH，然后选择内部转账（免费）
 ### 欧易钱包切换
-<img src=".../assets/img/okx-packet.png" width="80%">
+<img src="../assets/img/okx-packet.png" width="80%">
 
 切换成功后就行了
 需要撸空投的话，点击里面的发现，在发现里面输入相应的空投网址，按照空投步骤进行操作就可以了。
@@ -38,6 +38,6 @@ OKX注册地址：https://www.okx.com/join/7227018
 如果我也想邀请别人来注册，领取盲盒怎么弄？
 在okx的 app 中点击选择左上角菜单，然后选择邀请好友
 邀请成功后，你和好友都有盲盒，好友入金你们都会获得双倍收益，好友交易你更是可以获得返佣。
-<img src=".../assets/img/okx-inivite.png" width="80%">
+<img src="../assets/img/okx-inivite.png" width="80%">
 
 具体流程查看以上截图
