@@ -1,5 +1,6 @@
-优质海外应用教程，国内禁止使用
-### [电报注册方法](./docs/register)
+### [电报安卓注册下载方法](./docs/telegram-android)
+### [电报苹果注册下载方法](./docs/telegram-ios)
+### [电报综合下载注册方法](./docs/register)
 ### [推特注册方法](./docs/twitter)
 ### [VPN方法，内含苹果和安卓](./docs/vpn)
 ### [okx 欧易注册流程](./docs/okx)
