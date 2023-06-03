@@ -1,8 +1,9 @@
 # 海外软件技术教程交流&区块链技术交流
 
-### [电报安卓注册下载方法](./docs/telegram-android)
-### [电报苹果注册下载方法](./docs/telegram-ios)
-### [电报综合下载注册方法](./docs/register)
+### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code)
+### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android)
+### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios)
+### [电报 telegram 纸飞机 综合下载注册方法](./docs/register)
 ### [推特注册方法](./docs/twitter)
 ### [VPN方法，内含苹果和安卓](./docs/vpn)
 ### [okx 欧易注册流程](./docs/okx)
