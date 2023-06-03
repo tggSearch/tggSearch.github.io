@@ -1,0 +1,84 @@
+# 推特/小蓝鸟/twitter 该如何注册
+
+整理分为 3 个大步骤
+1. 下载 VPN 网络梯子，海外加速器（如果你已经有，请跳到第二步）；
+2. 下载 推特 twitter 小蓝鸟；
+3. 注册登陆；
+
+## 网络梯子加速器VPN
+这是海外用户的加速器，主要是给海外用户加速使用。
+### Android（安卓）
+[首选注册地址](https://www.三毛机场.xyz/#/register?code=6xuhG85m)
+如果首选地址无法打开
+[备用地址](https://www.三毛机场.xyz/#/register?code=6xuhG85m)
+看不懂的看下面的图片教程！！！！！！
+1. 使用上面的首选注册地址链接去注册，里面有一个订阅服务，建议选择5块一个月的就行<font color="#dd0000">（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</font>；
+2. 订阅完成后，在左侧菜单栏有个使用文档，点击打开，里面有软件下载（小火箭）；
+3. 选择你要选择的平台，安卓选择最好一个安卓下载地址就可以了；
+4. （小火箭 Clash）下载完成后，回到网页左侧菜单选择仪表盘，里面有一个一键订阅，弹出的菜单选择导入到Clash For Android，点击就会拉起你刚下载的APP，然后等待它配置完成，完成后点击右上角按钮保存；
+5. 打开（小火箭 Clash），然后选择主页的配置按钮，进去后，勾选一个你刚才载入的配置，如果没有可选择的，要回到第4步；
+6. 选择后回到（小火箭 Clash）首页，选择“点击启动”，就可以启动了，启动后，有一个代理的按钮，你可以进去最好选择香港节点；
+
+看不懂的可以看图片教程
+![注册教程](.../assets/img/android-register.png)
+### iOS（苹果）
+#### 苹果推荐方法
+可以前往这里购买
+[https://idappstore.cc/](https://idappstore.cc/)
+打不开上面的用下面的
+[https://appidshop.com/](https://appidshop.com/)
+<font color="#dd0000">（特别申明：自己负责，不是我的服务，有问题找平台客服）</font>，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
+
+登录成功请下载2个软件，一个叫做 shadowrocket 一个叫做 twitter
+
+没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！
+
+[https://idappstore.cc/](https://idappstore.cc/)
+打不开上面的用下面的
+[https://appidshop.com/](https://appidshop.com/)
+#### 接下来的步骤和安卓基本是一样的
+[首选注册地址](https://bit.ly/3LhP25y)
+如果首选地址无法打开
+[备用地址](https://www.三毛机场.xyz/#/register?code=6xuhG85m)
+看不懂的看下面的图片教程！！！！
+1. 使用上面的首选地址链接去注册，里面有一个订阅服务，建议选择5块一个月的就行<font color="#dd0000">（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</font>；
+2. 确保上面的（小火箭 shadowrocket）苹果app下载完成后，回到网页左侧菜单选择仪表盘，里面有一个一键订阅，弹出菜单，选择导入 shadowrocket，点击就会拉起你刚下载的APP，然后等待它配置完成，这时候在主页就会看到很多节点选择的；
+3. 打开（小火箭 shadowrocket），里面可以选择节点，可以选择一个香港节点，注意由于使用人多，晚上会卡，可以选择其他的节点，比如日本，然后打开第一个按钮，按钮原来显示“未连接”，打开那个开关就行了；
+4. 这时候会在任务栏有一个vpn标识就算成功了；
+
+看不懂的可以看图片教程
+![注册教程](.../assets/img/ios-register.png)
+## 推特twitter应用下载
+打开这个链接：
+请开梯子下载！！！请开梯子打开下载！！！
+[https://twitter.com/settings/download](https://twitter.com/settings/download)
+打开后会自动识别你的手机机型
+苹果选择 iOS 跳转到 APPStore
+安卓选择 Android 跳转到 googleplay
+
+好了大部分用户可能没有 googleplay 怎么办呢？前往这里下载 apk 版本
+[https://m.apkpure.com/cn/twitter/com.twitter.android](https://m.apkpure.com/cn/twitter/com.twitter.android)
+## 注册推特
+### 打开梯子
+请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。<font color="#dd0000">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</font>
+### 打开推特注册
+请使用邮箱注册，可以用qq邮箱，例如xxx@qq.com，注册过程中需要邮箱验证码，请务必填写真实的
+特别注意，你的出生日期要选一个大于18岁的生日，不然会无法注册
+
+### 注册后，提示账号已经锁定
+按照流程解锁就行了。
+
+### 注册流程
+接下来就按照步骤操作就行了，不想操作的，直接点击下面的跳过
+正常用注册的账号登陆即可
+### 关注我们的官方号
+进入后，点击下面打开关注
+[关注点击](https://twitter.com/softwareLatn)
+
+或者搜索 软件翻译官
+## 常见问题
+### iOS怎么下载
+这里需要注意，大家切换苹果商店账号，可以前往 设置->个人信息->媒体与购买->退出登陆->返回前一个页面->再次进入个人信息->点击媒体与购买->选择不是xxx->输入你的苹果id即可，不要全部退出
+海外苹果免费账号分享，多试试，试试多几个账号，需要注册永久的，看youtube视频介绍[https://www.youtube.com/watch?v=oY396wEXzww&t=87s](https://www.youtube.com/watch?v=oY396wEXzww&t=87s)，这个平台也有提示 [https://freevpn007.cf/share.html](https://freevpn007.cf/share.html)
+
+<font color="#dd0000">其他问题请提issue</font>
