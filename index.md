@@ -4,25 +4,25 @@
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./telegram">
-        <img src="./assets/img/telegram.png" alt="电报教程" height=80px>
+        <img src="./assets/img/telegram.png" alt="电报教程" height=50px>
         <p>电报教程</p>
     </a>
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./twitter">
-        <img src="./assets/img/twitter.png" alt="推特教程" height=80px>
+        <img src="./assets/img/twitter.png" alt="推特教程" height=50px>
         <p>推特教程</p>
     </a>
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./okx">
-        <img src="./assets/img/okx.png" alt="欧易教程" height=80px>
+        <img src="./assets/img/okx.png" alt="欧易教程" height=50px>
         <p>推特教程</p>
     </a>
   </div>
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./vpn">
-        <img src="./assets/img/shadowrocket.jpeg" alt="小火箭教程" height=80px>
+        <img src="./assets/img/shadowrocket.jpeg" alt="小火箭教程" height=50px>
         <p>小火箭教程</p>
     </a>
   </div>
