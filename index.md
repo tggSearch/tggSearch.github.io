@@ -9,6 +9,12 @@
     </a>
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="./telegram">
+        <img src="./assets/img/telegram.png" alt="电报教程" height=80px>
+        <p>电报教程</p>
+    </a>
+  </div>
+    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./twitter">
         <img src="./assets/img/twitter.png" alt="推特教程" height=80px;>
         <p>推特教程</p>
