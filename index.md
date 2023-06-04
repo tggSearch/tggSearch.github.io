@@ -1,34 +1,6 @@
 # 软件翻译官 海外软件技术交流
 
 ## 核心软件教程
-<div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
-  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="./telegram">
-        <img src="./assets/img/telegram.png" alt="电报教程" height=80px>
-        <p>电报教程</p>
-    </a>
-  </div>
-   <a href="./twitter">
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-        <img src="./assets/img/twitter.png" alt="推特教程" height=80px;>
-        <p>推特教程</p>
-    </div>
-  </a>
-  <a href="./okx">
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-        <img src="./assets/img/okx.png" alt="欧易教程" height= 80px;>
-        <p>欧易教程</p>
-    </div>
-  </a>
-   <a href="./vpn">
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-        <img src="./assets/img/shadowrocket.jpeg" alt="小火箭教程" height= 80px;>
-        <p>小火箭教程</p>
-    </div>
-  </a>
-</div>
-
-
 ## 常见问题汇总
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code)
 ### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android)
