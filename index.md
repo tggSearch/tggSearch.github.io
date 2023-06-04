@@ -1,4 +1,4 @@
-# 电报、纸飞机、telegram、twitter、youtube 合作QQ联系：技术合作，请联系QQ：1702242347
+# 软件翻译官 海外软件技术交流
 
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code)
 ### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android)
