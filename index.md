@@ -1,4 +1,4 @@
-# 软件翻译官 海外软件技术交流
+# 海外软件技术交流
 
 ## 核心软件教程
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
