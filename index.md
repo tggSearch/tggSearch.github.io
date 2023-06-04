@@ -8,24 +8,24 @@
         <p>电报教程</p>
     </a>
   </div>
-   <a href="./twitter">
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+        <a href="./twitter">
         <img src="./assets/img/twitter.png" alt="推特教程" height=80px;>
         <p>推特教程</p>
-    </div>
-  </a>
-  <a href="./okx">
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    </a>
+  </div>
+   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+     <a href="./okx">
         <img src="./assets/img/okx.png" alt="欧易教程" height= 80px;>
         <p>欧易教程</p>
+    </a>
     </div>
-  </a>
-   <a href="./vpn">
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-        <img src="./assets/img/shadowrocket.jpeg" alt="小火箭教程" height= 80px;>
-        <p>小火箭教程</p>
-    </div>
-  </a>
+     <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="./vpn">
+            <img src="./assets/img/shadowrocket.jpeg" alt="小火箭教程" height= 80px;>
+            <p>小火箭教程</p>
+    </a>
+   </div>
 </div>
 
 
