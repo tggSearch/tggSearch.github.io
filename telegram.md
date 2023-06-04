@@ -6,3 +6,4 @@
 ### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android)
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios)
 ### [电报 telegram 纸飞机 综合下载注册方法](./docs/register)
+### [电报群打不开提示这个信息怎么办？英文 spread pornographic content](./docs/telegram-group-spc.md)

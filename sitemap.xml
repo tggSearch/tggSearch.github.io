@@ -60,9 +60,15 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/telegram-no-sms-code</loc>
-        <lastmod>2023-06-03T00:00:00+00:00</lastmod>
+        <lastmod>2023-06-03T03:12:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tggsearch.github.io/docs/telegram-group-spc.md</loc>
+        <lastmod>2023-06-04T08:53:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
