@@ -17,7 +17,7 @@
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./okx">
         <img src="./assets/img/okx.png" alt="欧易教程" height=50px>
-        <p>推特教程</p>
+        <p>欧易教程</p>
     </a>
   </div>
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
