@@ -1,14 +1,6 @@
 # 软件翻译官 海外软件技术交流
 
 ## 核心软件教程
-<style>
-
-
-  .item img {
-    height: 80px;
-  }
-</style>
-
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./telegram">
