@@ -8,3 +8,4 @@
 ### [电报 telegram 纸飞机 综合下载注册方法](./docs/register)
 ### [电报群打不开提示这个信息怎么办？英文 spread pornographic content](./docs/telegram-group-spc.md)
 ### [电报/telergam/纸飞机 有哪些高质量群，怎么找到群](./docs/telegram-group.md)
+### [telegram/电报简体中文，怎么切换中文](./docs/telegram-cn.md)
