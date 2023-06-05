@@ -1,4 +1,4 @@
-# 海外软件技术交流
+# 海外软件使用教程
 
 ## 核心软件教程
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
@@ -23,7 +23,7 @@
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./vpn">
         <img src="./assets/img/shadowrocket.jpeg" alt="小火箭教程" height=50px>
-        <p>VPN教程</p>
+        <p>梯子教程</p>
     </a>
   </div>
 </div>
