@@ -23,7 +23,7 @@
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./vpn">
         <img src="./assets/img/shadowrocket.jpeg" alt="小火箭教程" height=50px>
-        <p>梯子教程</p>
+        <p>小火箭</p>
     </a>
   </div>
 </div>
