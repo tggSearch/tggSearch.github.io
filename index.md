@@ -33,7 +33,7 @@
 ### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android)
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios)
 ### [推特注册方法](./docs/twitter)
-### [推特中文博主榜单](./docs/twitter-ranking.md)
+### [推特中文博主榜单](./docs/twitter-ranking)
 ### [VPN方法，内含苹果和安卓](./docs/vpn)
 ### [okx 欧易注册流程](./docs/okx)
 ### [okx 欧易节点返佣，兑换USDT，成为号商赚钱方法](./docs/okx-buy-coins)
