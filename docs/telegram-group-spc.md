@@ -9,8 +9,8 @@ youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](https://www.youtube.com/sh
 
 ## 文字步骤
 ### 登录网页版的电报操作
-1. 打开科学上网工具，[web.telegram.org](https://web.telegram.org)
-2. 打开网页，选择使用手机号登录，一般在二维码下面，有一个 Login by phone number
+1. 打开科学上网工具，也就是梯子
+2. 用原生的safari浏览器，打开网页[web.telegram.org](https://web.telegram.org)，选择使用手机号登录，一般在二维码下面，有一个 Login by phone number
 3. 然后输入手机号，这时候会发送一个设备码到你的手机app的电报里面；
 4. 打开手机电报，复制号验证码，然后在网页版登录；
 5. 成功登录后，选择左上角的菜单按钮，一般是在最左上角；
