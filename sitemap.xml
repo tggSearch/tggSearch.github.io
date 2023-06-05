@@ -67,8 +67,26 @@
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://tggsearch.github.io/docs/telegram-group-spc.md</loc>
+        <loc>https://tggsearch.github.io/docs/telegram-group-spc</loc>
         <lastmod>2023-06-04T08:53:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://tggsearch.github.io/docs/telegram-group</loc>
+        <lastmod>2023-06-05T03:11:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://tggsearch.github.io/docs/twitter-ranking</loc>
+        <lastmod>2023-06-05T03:12:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+      <url>
+        <loc>https://tggsearch.github.io/docs/telegram-cn</loc>
+        <lastmod>2023-06-05T03:13:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
