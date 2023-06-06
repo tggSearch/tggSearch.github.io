@@ -9,3 +9,4 @@
 ### [电报群打不开提示这个信息怎么办？英文 spread pornographic content](./docs/telegram-group-spc)
 ### [电报/telergam/纸飞机 有哪些高质量群，怎么找到群](./docs/telegram-group)
 ### [telegram/电报简体中文，怎么切换中文](./docs/telegram-cn)
+### [电报 telegram 发送设备码，也就是 device code？没有发送短信怎么办？](./docs/telegram-deive-code)
