@@ -31,7 +31,7 @@
 ## 常见问题汇总
 ### [币安 binance—20%返佣机会别错过](./docs/bnb-buy-coins.md)
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code)
-### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android)
+### [Telegram 电报 新用户指南：如何开始并发现有趣的电报群](./docs/telegram-start.md)
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios)
 ### [推特注册方法](./docs/twitter)
 ### [推特中文博主榜单](./docs/twitter-ranking)
