@@ -108,4 +108,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://tggsearch.github.io/docs/telegram-driver-bus</loc>
+        <lastmod>2023-06-07T01:35:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
