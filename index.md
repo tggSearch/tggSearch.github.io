@@ -37,5 +37,5 @@
 ### [推特中文博主榜单](./docs/twitter-ranking)
 ### [VPN方法，内含苹果和安卓](./docs/vpn)
 ### [okx 欧易注册流程](./docs/okx)
-### [okx 欧易节点返佣，兑换USDT，成为号商赚钱方法](./docs/okx-buy-coins)
+### [okx 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins)
 ### [tiktok 教程](./docs/tiktok)
