@@ -22,5 +22,3 @@
 ### [telegram/电报简体中文，怎么切换中文](./docs/telegram-cn)
 ### [电报 telegram 发送设备码，也就是 device code？没有发送短信怎么办？](./docs/telegram-deive-code)
 ### [电报 telegram 开车群，电报群去哪里搜索，去哪里找？](./docs/telegram-driver-bus)
-
-https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file
