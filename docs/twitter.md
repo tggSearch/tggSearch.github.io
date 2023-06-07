@@ -20,7 +20,7 @@
 6. 选择后回到（小火箭 Clash）首页，选择“点击启动”，就可以启动了，启动后，有一个代理的按钮，你可以进去最好选择香港节点；
 
 看不懂的可以看图片教程
-![注册教程](../assets/img/android-register.png)
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/android-register.png)
 ### iOS（苹果）
 #### 苹果推荐方法
 可以前往这里购买
@@ -47,7 +47,7 @@
 4. 这时候会在任务栏有一个vpn标识就算成功了；
 
 看不懂的可以看图片教程
-![注册教程](../assets/img/ios-register.png)
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/ios-register.png)
 ## 推特twitter应用下载
 打开这个链接：
 请开梯子下载！！！请开梯子打开下载！！！

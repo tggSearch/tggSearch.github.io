@@ -28,7 +28,7 @@
 4. 这时候会在任务栏有一个vpn标识就算成功了；
 
 看不懂的可以看图片教程
-![注册教程](../assets/img/ios-register.png)
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/ios-register.png)
 ## 注册电报
 ### 打开梯子
 请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。<font color="#dd0000">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</font>
