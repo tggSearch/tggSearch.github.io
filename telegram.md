@@ -6,7 +6,7 @@
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file" target="_blank">
-        <img src="https://telegram.org/img/tdirect_2x.jpg?1" alt="电报安卓版本" height=50px>
+        <img src="./assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>电报安卓下载</p>
     </a>
   </div>
