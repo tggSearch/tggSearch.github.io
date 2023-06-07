@@ -2,7 +2,7 @@
 
 常见电报 telegram 问题汇总，有技术问题联系：1702242347
 
-## 常用下载资源
+## 下载资源
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file" target="_blank">
@@ -12,7 +12,7 @@
   </div>
 </div>
 
-## 常见电报问题
+## 常见问题
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code)
 ### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android)
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios)
