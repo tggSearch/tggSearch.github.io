@@ -7,7 +7,7 @@
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
-        <p>电报安卓下载</p>
+        <p>安卓下载</p>
     </a>
   </div>
 </div>
