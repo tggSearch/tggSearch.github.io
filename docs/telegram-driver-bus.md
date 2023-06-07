@@ -4,7 +4,7 @@
 
 ### 加入中文索引群
 
-第一步你就需要加入中文索引群，@chineseSearchService(https://t.me/chineseSearchService)，这个群机器人包含了多种资源
+第一步你就需要加入中文索引群，[@chineseSearchService](https://t.me/chineseSearchService)，这个群机器人包含了多种资源
 
 ### 搜索开车群
 
