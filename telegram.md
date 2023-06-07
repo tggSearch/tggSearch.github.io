@@ -1,6 +1,6 @@
 # 电报/telegram/纸飞机教程 软件教程
 
-常见电报 telegram 问题汇总，有技术问题联系：1702242347
+电报安卓最新版本，其他电报资源下载，电报常见各类复杂问题，包括：无法收到验证码等，这里有常见电报 telegram 问题汇总，有技术问题联系：1702242347
 
 ## 下载资源
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">

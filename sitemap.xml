@@ -114,4 +114,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+     <url>
+        <loc>https://tggsearch.github.io/telegram</loc>
+        <lastmod>2023-06-07T02:12:00+00:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
