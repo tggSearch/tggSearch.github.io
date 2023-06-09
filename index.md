@@ -30,7 +30,7 @@
 
 
 ## 常见问题汇总
-### [币安 binance—20%返佣机会别错过](./docs/bnb-buy-coins)
+### [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./docs/bnb-buy-coins)
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code)
 ### [Telegram 电报 新用户指南：如何开始并发现有趣的电报群](./docs/telegram-start)
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios)
