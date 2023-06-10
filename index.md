@@ -40,3 +40,4 @@
 ### [okx 欧易注册流程](./docs/okx)
 ### [okx 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins)
 ### [tiktok 教程](./docs/tiktok)
+### [探秘空投，什么是空投，撸空投是什么意思，应该如何去撸空投](./docs/airdrop)

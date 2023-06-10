@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://tggsearch.github.io/</loc>
-        <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+        <lastmod>2023-06-10T12:25:00+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -135,6 +135,12 @@
     <url>
         <loc>https://tggsearch.github.io/docs/twitter-spc</loc>
         <lastmod>2023-06-10T07:13:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+     <url>
+        <loc>https://tggsearch.github.io/docs/airdrop</loc>
+        <lastmod>2023-06-10T12:24:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
