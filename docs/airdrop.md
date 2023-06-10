@@ -26,6 +26,7 @@
 欧易的 web3 钱包点击这里注册 
 
     [欧易国内无梯子网络使用](https://www.cnouyi.careers/join/7227018)
+    
     [欧易海外开梯子点击使用](https://www.okx.com/join/7227018)
 
     [币安注册地址，可获得10%返佣交易](https://accounts.binance.com/register?ref=G1Q331LS)
