@@ -1,10 +1,15 @@
 # 币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？
 
 20%高额返佣注册地址，如果提示安全问题（因为是交易所），点击继续打开即可
+
 [https://accounts.binance.com/register?ref=ZGR4DOXV](https://accounts.binance.com/register?ref=ZGR4DOXV)
+
 打开以上链接注册，注册完成后前往下载
+
 [安卓下载地址](https://download-1306379396.file.myqcloud.com/pack/BNApp.apk)
-[苹果需要注册海外苹果账号，注册方式参考视频](https://www.youtube.com/watch?v=oY396wEXzww)注册好后，直接搜索 binance 即可
+
+[苹果需要注册海外苹果账号，注册方式参考视频](https://www.youtube.com/watch?v=oY396wEXzww)
+注册好后，直接搜索 binance 即可
 ## 介绍
 
 币安（Binance）是全球领先的加密货币交易平台之一。作为数百万用户信赖的首选平台，币安提供安全、可靠和高效的数字资产交易服务。如果您渴望参与加密货币市场并获得丰厚回报，币安绝对是您不可错过的选择。
