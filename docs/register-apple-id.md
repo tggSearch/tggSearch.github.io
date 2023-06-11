@@ -4,9 +4,6 @@
 
 今天就教大家注册一个自己拥有的永久苹果账号（如果想购买一个，请网站右下角联系技术人员）
 
-### 视频教程看这里
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oY396wEXzww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ### 1. 注册一个海外邮箱账号
 海外邮箱账号可以选择 [gmail](https://gmail.com) 或者 [outlook](https://outlook.com) 限制都很少，这部分自己前往两个官网注册就行了。
 
@@ -33,3 +30,8 @@
 - [前往这里生产虚拟省份信息](https://ciroapp.com/zh-CN/free-tools/fake-identity-generator) 请注意美国有些州需要税收，因此最好选择无税收的州
 - 按照虚拟身份信息，补充资料
 - 接下来就可以正常下载使用了
+
+### 视频教程看这里
+需要海外梯子打开视频，没有梯子前往这里注册下载[小火箭梯子下载注册](./vpn)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oY396wEXzww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
