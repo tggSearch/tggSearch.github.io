@@ -17,7 +17,8 @@
 欧易（eToro）是一家知名的社交交易平台，旨在让普通投资者能够跟随顶尖交易员的策略并进行交易。欧易跟单员则是那些在交易市场上拥有成功经验和出色业绩的交易员。
 
 申请方式请查看截图
-![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-gd-1ss.png)
+
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-gd-1.png)
 
 作为欧易的跟单员，您的交易活动将公开展示给其他用户。其他用户可以选择跟随您的策略，并复制您的交易操作。这为您提供了一个独特的机会，让您的交易智慧受到广泛关注，并从中获得相应的收益。
 
