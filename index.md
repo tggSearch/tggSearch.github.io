@@ -23,7 +23,7 @@
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./vpn">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/shadowrocket.jpeg" alt="小火箭教程" height=50px>
-        <p>小火箭</p>
+        <p>账号类</p>
     </a>
   </div>
 </div>
