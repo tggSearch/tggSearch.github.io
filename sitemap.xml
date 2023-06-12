@@ -144,9 +144,15 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/register-apple-id</loc>
         <lastmod>2023-06-11T02:44:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tggsearch.github.io/docs/yx-hy</loc>
+        <lastmod>2023-06-12T08:39:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
