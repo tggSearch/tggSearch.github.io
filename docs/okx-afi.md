@@ -32,5 +32,8 @@
 
 以下是我的例子：[https://mirror.xyz/0x2f19f1448c26F21acabE7AE14F7467D18ab65da3](https://mirror.xyz/0x2f19f1448c26F21acabE7AE14F7467D18ab65da3)
 
+## 推特 & youtube
+这两个平台不像国内限制很严格，这里限制很少。所以你去发一下加密货币的推广，一点问题都没有，发一些视频或者发一些推文，然后推广自己的邀请码。比如我的youtube [https://www.youtube.com/@tggsearch](https://www.youtube.com/@tggsearch)
+
 ## 带动交易
 节点最重要的就是大家要交易，你才能赚钱，因此要带动大家进行交易，帮大家赚钱，最好的方式就是拉进这个群进行交流 [https://t.me/okxbnbEx](https://t.me/okxbnbEx)里面会有带单员，带着刚入门的人下单赚钱。
