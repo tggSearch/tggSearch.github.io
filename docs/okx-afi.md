@@ -1,0 +1,30 @@
+# 欧易如何做节点计划推广
+本教程为内部教程，定期更新，想了解更多需要加入本人节点计划下，先注册好欧易 okx 才能入群
+
+[okx 欧易交易所-有梯子](https://www.okx.com/join/39154880)
+
+[okx 欧易交易所-国内无梯子](https://www.cnouyi.expert/join/39154880)
+
+[欧易节点推广教导群](https://t.me/helpOkx12)
+
+## 免费协助搭建导航群
+群例子可以查看这里：[https://t.me/chineseSearchService](https://t.me/chineseSearchService)
+
+搭建好后，可以将群中的广告设置为你自己的自定义广告，其次协助你免费拉部分人
+
+群建好后，可以自定义广告以及置顶广告，通过搜索群进行推广引流
+
+## 推广方式
+这里说的推广方式包括 2 种，一种事先推广群，第二种是推广欧易节点
+### 推广群
+小红书/微博/抖音，三个平台都可以，简单方式，只需要发群信息页面的截图，并携带文字，你们都有吗？记住用小号，可能会被禁言
+微博可以前往“电报超话”，找到相应的群体
+### 发文推广欧易节点
+有以下几个方法
+#### [medium.com](https://medium.com/) 发文章
+可以注册一个 medium 的账户，[https://medium.com/](https://medium.com/)，然后使用 chatgpt 去生成文章，类似我的这些文章 [https://medium.com/@huangdh3](https://medium.com/@huangdh3)
+
+### [mirror.xyz](https://mirror.xyz) 发文章
+需要用钱包，可以直接用欧易的钱包就行，使用钱包注册账户，并且发文章 [https://mirror.xyz/](https://mirror.xyz/)
+
+以下是我的例子：[https://mirror.xyz/0x2f19f1448c26F21acabE7AE14F7467D18ab65da3](https://mirror.xyz/0x2f19f1448c26F21acabE7AE14F7467D18ab65da3)
