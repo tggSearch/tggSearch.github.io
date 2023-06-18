@@ -162,4 +162,16 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://tggsearch.github.io/docs/apple-id</loc>
+        <lastmod>2023-06-18T02:47:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tggsearch.github.io/docs/twitter-intro</loc>
+        <lastmod>2023-06-18T02:50:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
