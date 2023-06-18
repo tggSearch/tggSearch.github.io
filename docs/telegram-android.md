@@ -1,4 +1,4 @@
-# 电报/飞机/telegram 该如何注册 安卓教程
+# 电报/飞机/telegram ，安卓包下载，该如何注册 安卓教程
 
 整理分为 4 个大步骤
 1. 下载 VPN 网络梯子，海外加速器；
@@ -31,7 +31,7 @@
 [https://telegram.org/android](https://telegram.org/android)
 
 没法使用官网下载，可以前往这里，广告有点多，需要耐心点击
-[https://upfiles.com/TCTCT6](https://upfiles.com/TCTCT6)
+[https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file](https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file)
 
 ## 注册电报
 ### 打开梯子
