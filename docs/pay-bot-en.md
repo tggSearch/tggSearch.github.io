@@ -19,7 +19,7 @@ Since the bot needs to manage new user permissions, it must be granted administr
 Once the bot is invited to the group, it will send a welcome message. Below the welcome message, you'll find a configuration button. Click on it to proceed to the configuration.
 
 ### 5. Clicking on the configuration button will take you to the bot's configuration interface. Set the necessary entry fees and payment addresses.
-This part is also straightforward. When you enter the configuration, you'll find several settings. Adjust them according to your needs. The items marked with an asterisk (*) are mandatory, so pay special attention. Currently, the bot only supports ERC20-USDT contracts. If you don't have a payment address yet, you can register an account with OuYi here and set up an ERC20 payment address using the withdrawal method (10% commission cashback): [https://www.cnouyi.expert/join/94967806](https://www.cnouyi.expert/join/94967806)
+This part is also straightforward. When you enter the configuration, you'll find several settings. Adjust them according to your needs. The items marked with an asterisk (*) are mandatory, so pay special attention. Currently, the bot only supports ERC20-USDT contracts. If you don't have a payment address yet, you can register an account with OuYi here and set up an ERC20 payment address using the withdrawal method (10% commission cashback): [https://www.okx.com/join/94967806](https://www.okx.com/join/94967806)
 
 ### 6. Start the Bot
 After completing all the configurations, click on the "Start the Bot" button. The bot will check the necessary information, and if all the configurations are completed, it will start the bot service. You will receive a notification indicating the successful startup.
