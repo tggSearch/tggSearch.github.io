@@ -192,4 +192,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+      <url>
+        <loc>https://tggsearch.github.io/docs/telegram-begain</loc>
+        <lastmod>2023-06-22T01:10:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>

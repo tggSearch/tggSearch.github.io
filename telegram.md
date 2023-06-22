@@ -22,3 +22,4 @@
 ### [telegram/电报简体中文，怎么切换中文](./docs/telegram-cn)
 ### [电报 telegram 发送设备码，也就是 device code？没有发送短信怎么办？](./docs/telegram-deive-code)
 ### [电报 telegram 开车群，电报群去哪里搜索，去哪里找？](./docs/telegram-driver-bus)
+### [电报应该怎么玩，进去以后一片空白，到底有什么好玩的？](./docs/telegram-begain)
