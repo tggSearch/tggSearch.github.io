@@ -198,4 +198,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+      <url>
+        <loc>https://tggsearch.github.io/docs/buyu-selleru</loc>
+        <lastmod>2023-07-03T02:57:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
