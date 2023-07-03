@@ -4,4 +4,4 @@
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins)
 ### [OKX OKEX 欧易官网站点导航](./docs/okx-intro)
 ### [探秘交易期权合约与跟单员以及欧易的跟单员怎么申请：成为基金经理的先行者，注册跟单员开启精彩投资旅程](./docs/ok-gd)
-### [如何买卖 U，然后通过 U 购买数字货币](./docs/buyu-selleru)
+### [如何买 U，然后通过 U 购买数字货币](./docs/buyu-selleru)
