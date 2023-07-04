@@ -32,7 +32,7 @@
 打不开上面的用下面的
 [https://appidshop.com/](https://appidshop.com/)
 #### 接下来的步骤和安卓基本是一样的
-[首选注册地址](https://bit.ly/3LhP25y)
+[首选注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 如果首选地址无法打开
 [备用地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！
