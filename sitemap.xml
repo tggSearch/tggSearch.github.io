@@ -204,4 +204,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+       <url>
+        <loc>https://tggsearch.github.io/docs/coins-index</loc>
+        <lastmod>2023-07-05T03:41:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
