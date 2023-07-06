@@ -25,7 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-mnet.png" height="500"/>
 </div>
 ### 推特榜单
+如果你觉得找资源麻烦，想来点高质量的，那你可以直接输入 **推特榜单**，里面有很多博主每日分享高质量的给你。
 <div align=center>
     <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter.png" height="500"/>
 </div>
-如果你觉得找资源麻烦，想来点高质量的，那你可以直接输入 **推特榜单**，里面有很多博主每日分享高质量的给你。
