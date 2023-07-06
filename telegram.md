@@ -1,13 +1,25 @@
 # 电报/telegram/纸飞机教程 软件教程
 
-电报安卓最新版本，其他电报资源下载，电报常见各类复杂问题
+电报安卓最新版本，其他电报资源下载，电报常见各类复杂问题，其中包含了大家常见的一些问题，比如切换 telegram 中文版，网页版地址，telegram 官网地址
 
-## 下载资源
+## 常用资源
 <div style="display: grid;grid-template-columns: repeat(4, 1fr);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>安卓下载</p>
+    </a>
+  </div>
+   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://telegram.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
+        <p>官网</p>
+    </a>
+  </div>
+    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://web.telegram.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
+        <p>网页版</p>
     </a>
   </div>
 </div>
