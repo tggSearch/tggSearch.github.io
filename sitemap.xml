@@ -78,13 +78,13 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/telegram-cn</loc>
         <lastmod>2023-06-11T01:17:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/bnb-buy-coins</loc>
         <lastmod>2023-06-10T01:39:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -114,7 +114,7 @@
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/okx-intro</loc>
         <lastmod>2023-06-10T01:33:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
@@ -174,50 +174,50 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/pay-bot-cn</loc>
         <lastmod>2023-06-18T03:50:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/pay-bot-en</loc>
         <lastmod>2023-06-18T03:50:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/account</loc>
         <lastmod>2023-06-19T01:50:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/telegram-begain</loc>
         <lastmod>2023-06-22T01:10:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/buyu-selleru</loc>
         <lastmod>2023-07-03T02:57:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-       <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/coins-index</loc>
         <lastmod>2023-07-05T03:41:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-      <url>
+    <url>
         <loc>https://tggsearch.github.io/docs/coins-new</loc>
         <lastmod>2023-07-07T09:41:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-       <url>
-        <loc>https://tggsearch.github.io/docs/okx-install/loc>
+    <url>
+        <loc>https://tggsearch.github.io/docs/okx-install</loc>
         <lastmod>2023-07-10T06:31:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
