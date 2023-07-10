@@ -1,3 +1,8 @@
+---
+layout: default
+title: 电报/飞机/telegram 该如何注册 苹果教程
+description: 电报/飞机/telegram 苹果注册下载教程，常见电报苹果问题
+---
 # 电报/飞机/telegram 该如何注册 苹果教程
 
 整理分为 4 个大步骤
