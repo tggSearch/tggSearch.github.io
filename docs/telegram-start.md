@@ -1,3 +1,8 @@
+---
+layout: default
+title: Telegram 电报 新用户指南：如何开始并发现有趣的电报群
+description: 经常有人会问，有没有比较有趣的电报群，去哪里找一些有趣的电报群，而这里有一个全能电报群叫做 @chineseSearchService，你可以通过这个链接加入
+---
 # Telegram 电报 新用户指南：如何开始并发现有趣的电报群
 
 经常有人会问，有没有比较有趣的电报群，去哪里找一些有趣的电报群，而这里有一个全能电报群叫做 @chineseSearchService，你可以通过这个链接加入 [https://t.me/chineseSearchService](https://t.me/chineseSearchService) 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 小蓝鸟/twitter/推特中文榜单博主/推特优质中文博主
+description: 进入推特后一片空白，到底应该如何玩推特，你看看这里就知道了。
+---
 # 小蓝鸟/twitter/推特中文榜单博主/推特优质中文博主
 
 进入推特后一片空白，到底应该如何玩推特，你看看这里就知道了。
@@ -95,7 +100,7 @@
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://twitter.com/MaecOXO">
-        <img src="https://pbs.twimg.com/profile_images/1663789020403597314/fdD-6_1t_200x200.jpg" alt="14.布尔玛" height=50px>
+        <img src="https://pbs.twimg.com/profile_images/1669019677652303872/_EhVixic_200x200.png" alt="14.布尔玛" height=50px>
         <p>14.布尔玛</p>
     </a>
   </div>

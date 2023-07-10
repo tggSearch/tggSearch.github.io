@@ -1,3 +1,8 @@
+---
+layout: default
+title: tiktok 怎么注册使用教程
+description: tiktok 怎么下载，怎么试用，安卓和苹果下载好以后无法使用，提示网络问题怎么解决？
+---
 # tiktok 怎么注册使用教程
 ### 网页版（无限制，只需要 ip）
 1. 首先打开梯子（没有梯子，请先去注册下载地址，[方法参考这里，小火箭](https://tggsearch.github.io/docs/vpn)），切换到你想要观看的国家或者地区，比如节点选择日本或者美国
