@@ -1,25 +1,25 @@
 ## 海外软件技术与区块链技术交流平台
 <div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="./telegram">
+    <a href="./telegram.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报教程" height=50px>
         <p>电报教程</p>
     </a>
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="./twitter">
+    <a href="./twitter.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter.png" alt="推特教程" height=50px>
         <p>推特教程</p>
     </a>
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="./okx">
+    <a href="./okx.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="欧易教程" height=50px>
         <p>交易所教程</p>
     </a>
   </div>
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="./vpn">
+    <a href="./account.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/shadowrocket.jpeg" alt="小火箭教程" height=50px>
         <p>账号类</p>
     </a>
