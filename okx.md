@@ -12,3 +12,6 @@ canonical_url: '/okx.html'
 ### [如何买 U，然后通过 U 购买数字货币](./docs/buyu-selleru.html)
 ### [币圈各大交易所网址导航](./docs/coins-index.html)
 ### [OKX 欧易如何下载安装以及注册](./docs/okx-install.html)
+### [新人应该如何进入币圈，币圈到底应该如何开始玩](./docs/new-blockchain.html)
+### [永续合约交易：探索币圈中的永续合约及交易所操作指南](./docs/yx-hy.html)
+### [新人入币圈，必须要懂的几大知识点](./docs/coins-new.html)

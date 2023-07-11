@@ -37,3 +37,5 @@ canonical_url: '/telegram.html'
 ### [电报 telegram 发送设备码，也就是 device code？没有发送短信怎么办？](./docs/telegram-deive-code.html)
 ### [电报 telegram 开车群，电报群去哪里搜索，去哪里找？](./docs/telegram-driver-bus.html)
 ### [电报应该怎么玩，进去以后一片空白，到底有什么好玩的？](./docs/telegram-begain.html)
+### [电报 telegram 付费机器人，带你稳步提升收入](./docs/pay-bot-cn.html)
+### [Telegram Paid Bot, Boost Your Income with feeMaster](./docs/pay-bot-en.html)
