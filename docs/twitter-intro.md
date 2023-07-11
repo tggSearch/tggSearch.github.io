@@ -2,7 +2,7 @@
 layout: default
 title: twitter推特小蓝鸟网页版安卓版苹果版本，以及注册方法
 description: twitter 有很多版本的地址，很多人无法找到相应的网址，这里提供了一个比较全的导航，有需要的自行可以进行下载
-canonical_url: './twitter-intro.html'
+canonical_url: '/twitter-intro.html'
 ---
 # twitter推特小蓝鸟网页版安卓版苹果版本，以及注册方法
 

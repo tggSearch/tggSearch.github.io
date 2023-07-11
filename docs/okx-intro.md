@@ -2,7 +2,7 @@
 layout: default
 title: OKX OKEX 欧易官网站点导航
 description: 欧易 OKX 官网入口在哪里？	欧易 OKX 官方网站是什么？欧易是什么？	OKEX 官网又是什么？	欧易 OKEX 官网登录登录入口在哪里？OKX 官网登录怎么登录？
-canonical_url: './okx-intro.html'
+canonical_url: '/okx-intro.html'
 ---
 # OKX OKEX 欧易官网站点导航
 欧易 OKX 官网入口在哪里？	欧易 OKX 官方网站是什么？欧易是什么？	OKEX 官网又是什么？	欧易 OKEX 官网登录登录入口在哪里？OKX 官网登录怎么登录？

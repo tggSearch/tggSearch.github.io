@@ -2,7 +2,7 @@
 layout: default
 title: 推特 twitter 提示敏感限制，有些推文无法查看，你需要这样处理
 description: 推特如何解除敏感限制，提示无法查看推文该如何解决？
-canonical_url: './twitter-spc.html'
+canonical_url: '/twitter-spc.html'
 ---
 
 # 推特 twitter 提示敏感限制，有些推文无法查看，你需要这样处理
