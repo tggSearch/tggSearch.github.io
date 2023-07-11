@@ -2,7 +2,7 @@
 layout: default
 title: 新人入币圈，必须要懂的几大知识点
 description: 当你是一个新人，想入局币圈，那么以下几大知识点是你必须要上的基础课堂，不上这些课题，你可能会因此损失很多钱。
-canonical_url: '/coins-new.html'
+canonical_url: './coins-new.html'
 ---
 # 新人入币圈，必须要懂的几大知识点
 当你是一个新人，想入局币圈，那么以下几大知识点是你必须要上的基础课堂，不上这些课题，你可能会因此损失很多钱。

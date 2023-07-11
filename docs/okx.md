@@ -2,7 +2,7 @@
 layout: default
 title: 欧易注册流程 欧易是什么 欧易怎么买币
 description: 欧易注册教程-新手用户欧易注册流程。OKEX 是全球著名的数字资产国际站之一，也是目前为止国内 TOP 前 5 的数字货币交易所
-canonical_url: '/okx.html'
+canonical_url: './okx.html'
 ---
 # 欧易注册流程 欧易是什么 欧易怎么买币
 欧易注册教程-新手用户欧易注册流程。OKEX 是全球著名的数字资产国际站之一，也是目前为止国内 TOP 前 5 的数字货币交易所。主要面向全球用户提供比特币、莱特币、以太币等数字资产的现货和衍生品交易服务，隶属于 OKEX Technology Company Limited。OKEX 创立时，获得了世界顶级投资人 Tim Draper 参与设立的创业工场百万美金的天使投资，Tim Draper 先生同时也是 Hotmail、百度、特斯拉等世界顶级企业的投资人。2014 年初，OKEX 获得了中国著名的风险投资基金策源创投、香港上市公司美图 (01357.HK) 创始人旗下的隆领投资千万美元的 A 轮投资。

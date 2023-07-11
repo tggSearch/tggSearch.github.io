@@ -2,7 +2,7 @@
 layout: default
 title: 推特/小蓝鸟/twitter 该如何注册
 description: 推特安卓、苹果安装全教程，包含梯子使用
-canonical_url: '/twitter.html'
+canonical_url: './twitter.html'
 ---
 # 推特/小蓝鸟/twitter 该如何注册
 

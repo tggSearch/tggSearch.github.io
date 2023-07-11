@@ -2,7 +2,7 @@
 layout: default
 title: 如何买 U(USDT)，然后通过 U(USDT) 购买数字货币(BTC/ETH/DOGE)
 description: 平台很多，这里主要是以欧易为例子，其他平台例如 币安、bitGet以及gateIO都类似, 请特别注意：买卖 U 走正规渠道
-canonical_url: '/buyu-selleru.html'
+canonical_url: './buyu-selleru.html'
 ---
 # 如何买 U(USDT)，然后通过 U(USDT) 购买数字货币(BTC/ETH/DOGE)
 平台很多，这里主要是以欧易为例子，其他平台例如 币安、bitGet以及gateIO都类似
