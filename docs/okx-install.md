@@ -22,7 +22,7 @@ canonical_url: './okx-install.html'
 ## 苹果安装方法
 
 苹果你需要有一个海外平台账号，如果你没有，想临时工借用一个，也可以，你可以加入电报群 [综合导航搜索群](https://t.me/chineseSearchService) 然后回复 appid，就可以得到当前可以使用的共享苹果账号了，这里要非常注意，登录的方法需要按照这个流程，不可在 icloud 种登录。
-![](https://idappblog.com/wp-content/uploads/2023/02/%E3%80%90%E4%BD%8E%E8%B4%A8%E9%87%8F%E3%80%91%E6%95%99%E7%A8%8B%E7%BB%88%E6%9E%81%E9%95%BF%E7%89%88-%E6%9C%89%E6%B0%B4%E5%8D%B0.jpg)
+![icloud login](https://idappblog.com/wp-content/uploads/2023/02/%E3%80%90%E4%BD%8E%E8%B4%A8%E9%87%8F%E3%80%91%E6%95%99%E7%A8%8B%E7%BB%88%E6%9E%81%E9%95%BF%E7%89%88-%E6%9C%89%E6%B0%B4%E5%8D%B0.jpg)
 
 
 如果你想永久获得一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](https://www.youtube.com/watch?v=oY396wEXzww)

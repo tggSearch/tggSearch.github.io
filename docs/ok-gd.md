@@ -22,7 +22,7 @@ canonical_url: './ok-gd.html'
 
 申请方式请查看截图
 
-<img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-gd-1.png" height="300" align="middle" />
+<img alt="okx-gd" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-gd-1.png" height="300" align="middle" />
 
 作为欧易的跟单员，您的交易活动将公开展示给其他用户。其他用户可以选择跟随您的策略，并复制您的交易操作。这为您提供了一个独特的机会，让您的交易智慧受到广泛关注，并从中获得相应的收益。
 
