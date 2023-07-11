@@ -4,10 +4,6 @@ title: 电报 telegram 开车群，电报群去哪里搜索，去哪里找？
 description: 电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
 canonical_url: './telegram-driver-bus.html'
 ---
-# 电报 telegram 开车群，电报群去哪里搜索，去哪里找？
-
-电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
-
 ### 加入中文索引群
 
 第一步你就需要加入中文索引群，[@chineseSearchService](https://t.me/chineseSearchService)，这个群机器人包含了多种资源

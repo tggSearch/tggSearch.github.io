@@ -4,8 +4,6 @@ title: 推特/小蓝鸟/twitter 该如何注册
 description: 推特安卓、苹果安装全教程，包含梯子使用
 canonical_url: './twitter.html'
 ---
-# 推特/小蓝鸟/twitter 该如何注册
-
 整理分为 3 个大步骤
 1. 下载 VPN 网络梯子，海外加速器（如果你已经有，请跳到第二步）；
 2. 下载 推特 twitter 小蓝鸟；

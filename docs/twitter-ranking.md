@@ -4,10 +4,6 @@ title: 小蓝鸟/twitter/推特中文榜单博主/推特优质中文博主
 description: 进入推特后一片空白，到底应该如何玩推特，你看看这里就知道了。
 canonical_url: './twitter-ranking.html'
 ---
-# 小蓝鸟/twitter/推特中文榜单博主/推特优质中文博主
-
-进入推特后一片空白，到底应该如何玩推特，你看看这里就知道了。
-
 <div style="display: grid;grid-template-columns: repeat(3, 1fr);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://twitter.com/Anaimiya">

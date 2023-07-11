@@ -4,8 +4,6 @@ title: 电报/telergam/纸飞机 有哪些高质量群，怎么找到群
 description: 如何 在 Telegram 中寻找优质群组，你需要一个电报机器人
 canonical_url: './telegram-group.html'
 ---
-# 电报/telergam/纸飞机 有哪些高质量群，怎么找到群
-
 如何 在 Telegram 中寻找优质群组，你需要一个电报机器人，那就是 [@chineseSearchService](https://t.me/chineseSearchService)
 
 Telegram（电报）是一款流行的即时通讯应用程序，它提供了各种群组供用户交流和分享。寻找优质群组是许多用户的需求，本文将介绍如何通过 [@chineseSearchService](https://t.me/chineseSearchService) 在 Telegram 中搜索并找到你感兴趣的群组。@chineseSearchService 是一个强大的搜索工具，只需在群组中输入你想要搜索的关键词，即可快速找到相关群组。

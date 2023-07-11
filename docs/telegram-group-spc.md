@@ -4,10 +4,6 @@ title: 电报群打不开提示这个信息怎么办？解除敏感限制，英�
 description: 打开群提示敏感群，无法打开 This channel can`t be displayed because it was used to spread pornographic content，如何解开这个敏感限制呢？
 canonical_url: './telegram-group-spc.html'
 ---
-# 电报群打不开提示这个信息怎么办？解除敏感限制，英文 spread pornographic content
-
-打开群提示敏感群，无法打开 This channel can`t be displayed because it was used to spread pornographic content，如何解开这个敏感限制呢？
-
 ## 视频介绍流程
 下面有视频介绍流程，可以点击查看视频教程
 抖音：[https://v.douyin.com/U46AjUk/](https://v.douyin.com/U46AjUk/)
