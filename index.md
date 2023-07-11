@@ -1,5 +1,3 @@
-# 海外软件使用教程
-
 ## 核心软件教程
 <div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
