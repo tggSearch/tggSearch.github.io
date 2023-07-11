@@ -2,6 +2,7 @@
 layout: default
 title: 电报/telegram 怎么切换简体中文，怎么设置成中文
 description: 电报telegram怎么设置为中文，怎么下载电报中文版本，苹果、安卓怎么切换中文简体？
+canonical_url: './telegram-cn.html'
 ---
 # 电报/telegram 怎么切换简体中文，怎么设置成中文
 

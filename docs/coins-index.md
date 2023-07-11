@@ -2,6 +2,7 @@
 layout: default
 title: 币圈各大交易所网址导航（包含返佣注册地址），欧易okx，币安bnb，gateIo，bitGet
 description: 这里包含了币圈各大功能性导航网址，后续会持续更新，请关注此链接.
+canonical_url: './coins-index.html'
 ---
 # 币圈各大交易所网址导航（包含返佣注册地址），欧易okx，币安bnb，gateIo，bitGet
 
