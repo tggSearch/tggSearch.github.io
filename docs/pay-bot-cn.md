@@ -4,8 +4,6 @@ title: 电报 telegram 付费机器人，带你稳步提升收入 feeMaster
 description: 假设你有很好的资源，比如你有社工库、比如你有很多破解软件又或者你有免费的 chatgpt 账号共享、甚至是海外的各类会员账号共享，或者你有技术
 canonical_url: './pay-bot-cn.html'
 ---
-# 电报 telegram 付费机器人，带你稳步提升收入 feeMaster
-
 假设你有很好的资源，比如你有社工库、比如你有很多破解软件又或者你有免费的 chatgpt 账号共享、甚至是海外的各类会员账号共享，或者你有技术，可以带领大家玩币圈永续合约，保证大家的一定口碑收入，所以你希望分享给那些加入群聊的人，对进群的收费，那么这时候你就需要一个付费机器人了。
 
 [feeMaster 机器人 telegram 链接](https://t.me/feeMasterBot)

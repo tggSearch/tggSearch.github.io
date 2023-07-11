@@ -4,9 +4,6 @@ title: OKX OKEX 欧易官网站点导航
 description: 欧易 OKX 官网入口在哪里？	欧易 OKX 官方网站是什么？欧易是什么？	OKEX 官网又是什么？	欧易 OKEX 官网登录登录入口在哪里？OKX 官网登录怎么登录？
 canonical_url: './okx-intro.html'
 ---
-# OKX OKEX 欧易官网站点导航
-欧易 OKX 官网入口在哪里？	欧易 OKX 官方网站是什么？欧易是什么？	OKEX 官网又是什么？	欧易 OKEX 官网登录登录入口在哪里？OKX 官网登录怎么登录？
-
 ### OKX 就是 OKEX
 okex 是欧易的前身，目前已经改名为 okx，因此 OKEX 和 okx 是同一个交易所欧易
 

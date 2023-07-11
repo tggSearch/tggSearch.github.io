@@ -4,10 +4,6 @@ title: 电报/telegram/纸飞机教程 软件教程
 description: 电报安卓最新版本，其他电报资源下载，电报常见各类复杂问题，其中包含了大家常见的一些问题，比如切换 telegram 中文版，网页版地址，telegram 官网地址
 canonical_url: './telegram.html'
 ---
-# 电报/telegram/纸飞机教程 软件教程
-
-电报安卓最新版本，其他电报资源下载，电报常见各类复杂问题，其中包含了大家常见的一些问题，比如切换 telegram 中文版，网页版地址，telegram 官网地址
-
 ## 常用资源
 <div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">

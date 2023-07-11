@@ -4,7 +4,6 @@ title: 欧易/okx 注册使用购买币，购买合约，节点返佣教程
 description: 欧易/OKX 下载注册，节点返佣，兑换 U，U 商申请教程全部流程
 canonical_url: './okx.html'
 ---
-# 欧易/okx 注册使用购买币，购买合约，节点返佣教程
 
 ### [OKX 欧易注册流程](./docs/okx.html)
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
