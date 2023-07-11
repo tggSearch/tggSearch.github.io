@@ -14,6 +14,8 @@ canonical_url: './bnb-buy-coins.html'
 
 [安卓下载地址](https://download-1306379396.file.myqcloud.com/pack/BNApp.apk)
 
+如果想免费的苹果海外账号，[点击查看这篇文章的分享](./apple-id.html)，如果无法使用，请前往[综合搜索群](https://t.me/chineseSearchService) 直接回复 appid 即可.
+
 [苹果需要注册海外苹果账号，注册方式参考视频](https://www.youtube.com/watch?v=oY396wEXzww)
 注册好后，直接搜索 binance 即可
 ## 介绍

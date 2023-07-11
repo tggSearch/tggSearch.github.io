@@ -13,13 +13,11 @@ canonical_url: './new-blockchain.html'
 ## 初开始，建议从交易所投资开始
 交易所一般都会帮用户筛选出一批较好的币种，相对来讲割韭菜的概率会小一些，并且资金也会相对安全一些，那么有哪些可以入的交易所呢？
 
-[币安交易所](https://accounts.binance.com/register?ref=ED13UFJ5)
+[币安注册教程](./bnb-buy-coins.html)
 
 目前来说币安在口碑方面还是非常好的，特别是割韭菜这活上，相对来讲控制的比较好，因此刚入门的建议从币安开始。
 
-[okx 欧易交易所-有梯子](https://www.okx.com/join/39154880)
-
-[okx 欧易交易所-国内无梯子](https://www.cnouyi.expert/join/39154880)
+[okx 欧易交易所注册下载教程](./okx-install.md)
 
 欧易也是相对较为老牌的交易所了，并且对国内用户非常友好，所以欧易也是一个比较好的选择。
 
