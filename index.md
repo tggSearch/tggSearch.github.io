@@ -1,7 +1,7 @@
 # 海外软件使用教程
 
 ## 核心软件教程
-<div style="display: grid;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
+<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./telegram">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报教程" height=50px>
