@@ -13,7 +13,7 @@ description: 电报 telegram 有个好处就是资源非常的丰富，你可以
 
 ### 搜索开车群
 
-你可以尝试搜索 **麻豆**，你就发现很多意外惊喜。当然 iOS 会有敏感提示，具体怎么解除查看这篇文章 [iOS解除电报敏感限制](./telegram-group-spc)
+你可以尝试搜索 **麻豆**，你就发现很多意外惊喜。当然 iOS 会有敏感提示，具体怎么解除查看这篇文章 [iOS解除电报敏感限制](./telegram-group-spc.html)
 <div align=center>
     <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-madou.png" height="500"/>
 </div>
