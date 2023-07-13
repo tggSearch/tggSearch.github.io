@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 推特 twitter 提示敏感限制，有些推文无法查看，你需要这样处理
-description: 推特如何解除敏感限制，提示无法查看推文该如何解决？
+title: 推特 twitter 无法获取推文, 提示敏感限制，有些推文无法查看，你需要这样处理
+description: 推特如何解除敏感限制，提示无法查看推文该如何解决？如果你无法打开推文，提示敏感限制，应该如何操作解决呢？
 canonical_url: './twitter-spc.html'
 ---
 按照下面的截图操作就行了
