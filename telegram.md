@@ -38,4 +38,6 @@ canonical_url: '/telegram.html'
 ### [电报 telegram 开车群，电报群去哪里搜索，去哪里找？](./docs/telegram-driver-bus.html)
 ### [电报应该怎么玩，进去以后一片空白，到底有什么好玩的？](./docs/telegram-begain.html)
 ### [电报 telegram 付费机器人，带你稳步提升收入](./docs/pay-bot-cn.html)
+### [电报/飞机/telegram 被封号了，怎么办？怎么才可以解封](./docs/telegram-account.html)
+
 ### [Telegram Paid Bot, Boost Your Income with feeMaster](./docs/pay-bot-en.html)

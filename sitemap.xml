@@ -222,4 +222,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://tggsearch.github.io/docs/telegram-account.html</loc>
+        <lastmod>2023-07-13T10:04:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
