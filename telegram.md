@@ -7,7 +7,7 @@ canonical_url: '/telegram.html'
 ## 常用资源
 <div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file" target="_blank">
+    <a href="https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>安卓下载</p>
     </a>
@@ -39,5 +39,6 @@ canonical_url: '/telegram.html'
 ### [电报应该怎么玩，进去以后一片空白，到底有什么好玩的？](./docs/telegram-begain.html)
 ### [电报 telegram 付费机器人，带你稳步提升收入](./docs/pay-bot-cn.html)
 ### [电报/飞机/telegram 被封号了，怎么办？怎么才可以解封](./docs/telegram-account.html)
+### [电报/飞机/telegram apk 中文包](./docs/telegram-apk.html)
 
 ### [Telegram Paid Bot, Boost Your Income with feeMaster](./docs/pay-bot-en.html)
