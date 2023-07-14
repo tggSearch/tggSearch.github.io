@@ -13,3 +13,6 @@ canonical_url: './twitter-spc.html'
 
 3. 最后勾选上“显示可能含有敏感内容的媒体内容”就可以解决了，最后再刷新
 ![设置](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-3.png)
+
+
+
