@@ -234,4 +234,10 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+     <url>
+        <loc>https://tggsearch.github.io/docs/telegram-group-index.html</loc>
+        <lastmod>2023-07-19T08:19:00+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>

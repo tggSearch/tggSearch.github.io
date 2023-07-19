@@ -40,5 +40,6 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
 ### [电报 telegram 付费机器人，带你稳步提升收入](./docs/pay-bot-cn.html)
 ### [电报/飞机/telegram 被封号了，怎么办？怎么才可以解封](./docs/telegram-account.html)
 ### [电报/飞机/telegram apk 中文包](./docs/telegram-apk.html)
-
+### [telegram 纸飞机 电报群组大全](./docs/telegram-group-index.html)
 ### [Telegram Paid Bot, Boost Your Income with feeMaster](./docs/pay-bot-en.html)
+
