@@ -19,7 +19,7 @@ canonical_url: 'https://tggsearch.github.io'
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./okx.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="欧易教程" height=50px>
-        <p>交易所教程</p>
+        <p>币交易所</p>
     </a>
   </div>
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
