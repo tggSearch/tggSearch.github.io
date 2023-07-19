@@ -2,7 +2,7 @@
 layout: default
 title: 探秘空投，什么是空投，撸空投是什么意思，应该如何去撸空投
 description: 在加密货币领域中，空投（Airdrop）是一种常见的营销策略和社区激励手段.
-canonical_url: './airdrop.html'
+canonical_url: 'https://tggsearch.github.io/docs/airdrop.html'
 ---
 ## 引言：
 在加密货币领域中，空投（Airdrop）是一种常见的营销策略和社区激励手段。它类似于传统金融中的股票打新，但也有一些独特之处。本文将介绍什么是空投以及它与股票打新的异同之处，并提供详细的步骤指南，帮助你更好地了解和参与空投活动。

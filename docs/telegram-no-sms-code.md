@@ -2,7 +2,7 @@
 layout: default
 title: 电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）
 description: 电报 telegram 收不到验证码情况非常多种，sms activate 收不到验证码，但是每一种都是可以解决的，你可以先对照下面的进行分析，判断自己到底是哪里有问题。
-canonical_url: './telegram-no-sms-code.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-no-sms-code.html'
 ---
 电报 telegram 收不到验证码情况非常多种，但是每一种都是可以解决的，你可以先对照下面的进行分析，判断自己到底是哪里有问题。
 请注意接码并不能解决问题，如果需要人工协助，付费 20 元找 qq 1702242347，包解决。

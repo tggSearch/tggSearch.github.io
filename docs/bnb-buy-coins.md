@@ -2,7 +2,7 @@
 layout: default
 title: 币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？
 description: 20%高额返佣注册地址，如果提示安全问题（因为是交易所），点击继续打开即可
-canonical_url: './bnb-buy-coins.html'
+canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 ---
 [https://accounts.binance.com/register?ref=ZGR4DOXV](https://accounts.binance.com/register?ref=ZGR4DOXV)
 

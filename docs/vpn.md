@@ -2,7 +2,7 @@
 layout: default
 title: VPN 小火箭怎么下载注册使用
 description: 主要介绍如何下载和使用小火箭，其中有部分比较麻烦的问题，比如苹果如何下载，如何应用等。
-canonical_url: './vpn.html'
+canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 ---
 主要介绍如何下载和使用小火箭，其中有部分比较麻烦的问题，比如苹果如何下载，如何应用等。
 ## 网络梯子加速器VPN小火箭

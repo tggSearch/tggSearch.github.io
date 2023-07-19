@@ -2,7 +2,7 @@
 layout: default
 title: telegram apk telegram 中文包下载持续更新
 description: 要想下载正版的 telegram apk 来这里，现在很多马甲包 telegram 的 apk 但是马甲包都会限制其验证码，因此必须要正版的 apk
-canonical_url: './telegram-apk.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-apk.html'
 ---
 
 现在你们经常会下载到一些非正版的 telegram 马甲包。从去年开始 telegram 在严格处理马甲包，马甲包都会无法收到验证码，因此很多人经常会问为什么我收不到验证码，大部分原因都是因为你下载的是马甲包

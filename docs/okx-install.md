@@ -2,7 +2,7 @@
 layout: default
 title: OKX 欧易如何下载安装以及注册
 description: OKX 是海外应用，那么 OKX/欧易如何下载安装使用呢？这里需要区分是苹果还是安卓，安卓稍微简单一些。欧易通过返佣地址邀请注册，还可以拿到1-20美金的随机奖励，相当于白送现金。
-canonical_url: './okx-install.html'
+canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 ---
 ## 首先去注册
 在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到盲盒奖励，以及返佣奖励。

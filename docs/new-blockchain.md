@@ -2,7 +2,7 @@
 layout: default
 title: 新人应该如何进入币圈，币圈到底应该如何开始玩，又需要注意哪些风险，真的日内能涨 100 倍吗？
 description: 说到底很多听过区块链，从最初的印象开始就是区块链能够造就富翁，从无到有的故事很多，一天上千倍的故事也很多，那么是否真实的呢？
-canonical_url: './new-blockchain.html'
+canonical_url: 'https://tggsearch.github.io/docs/new-blockchain.html'
 ---
 说到底很多听过区块链，从最初的印象开始就是区块链能够造就富翁，从无到有的故事很多，一天上千倍的故事也很多，那么是否真实的呢？
 

@@ -2,7 +2,7 @@
 layout: default
 title: 币圈各大交易所网址导航（包含返佣注册地址），欧易okx，币安bnb，gateIo，bitGet
 description: 这里包含了币圈各大功能性导航网址，后续会持续更新，请关注此链接.
-canonical_url: './coins-index.html'
+canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ---
 这里包含了币圈各大功能性导航网址，后续会持续更新，请关注此链接，目前包含了常见的交易所以及其返佣注册地址，为什么要从返佣地址注册？相信刚来的还不懂，但是你要明白你在交易过程中他会返现给你就行了，你交易越多，交易所会给你钱。
 

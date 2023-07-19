@@ -1,5 +1,6 @@
 ---
 layout: home
+canonical_url: 'https://tggsearch.github.io'
 ---
 ## 海外软件技术与区块链技术交流平台
 <div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
