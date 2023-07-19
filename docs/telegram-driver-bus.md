@@ -12,7 +12,7 @@ canonical_url: './telegram-driver-bus.html'
 
 你可以尝试搜索 **麻豆**，你就发现很多意外惊喜。当然 iOS 会有敏感提示，具体怎么解除查看这篇文章 [iOS解除电报敏感限制](./telegram-group-spc.html)
 <div align=center>
-    <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-madou.webp" height="500" style="object-fit: cover;"/>
+    <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-madou.webp" style="object-fit: cover;"/>
 </div>
 
 ### 搜索惊喜站点
