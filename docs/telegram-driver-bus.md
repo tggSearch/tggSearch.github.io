@@ -19,18 +19,18 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 
 如果你想要一些比较好的网站资源，你可以直接在群里面搜索 **/yelo** 你就会得到 10 个免费站点，这些免费站点包你满意
 <div align=center>
-    <img alt="driver-bus-yelo" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-yelo.webp" src="" style="object-fit: cover;"/>
+    <img alt="driver-bus-yelo" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-yelo.webp" src="" style="object-fit: cover;" loading="lazy"/>
 </div>
 
 ### 磁力搜索资源
 
 如果你想要一些海量的资源，你可以使用 **mnet 苍老师**, 你就会发现更多的惊喜资源
 <div align=center>
-    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-mnet.webp" src="" style="object-fit: cover;"/>
+    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-mnet.webp" src="" style="object-fit: cover;" loading="lazy"/>
 </div>
 
 ### 推特榜单
 如果你觉得找资源麻烦，想来点高质量的，那你可以直接输入 **推特榜单**，里面有很多博主每日分享高质量的给你。
 <div align=center>
-    <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter.webp" src="" style="object-fit: cover;"/>
+    <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter.webp" src="" style="object-fit: cover;" loading="lazy"/>
 </div>
