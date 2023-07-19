@@ -31,7 +31,7 @@ OKX注册地址：[https://www.okx.com/join/7227018](https://www.okx.com/join/72
 接下来就会找到与你交易的人，新手交易快捷买币，到时候会在右上角有消息提醒，再进行交易进行了，大家可以放心购买，欧易会做担保。
 充值成功后，又可以领取盲盒奖励，并且奖励翻倍。
 ### 怎么转账交易
-<img alt="c2c-transfer" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-transfer.png" width="80%">
+<img alt="c2c-transfer" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-transfer.webp" width="80%">
 
 点击最下面的资产按钮，然后选择提币，接下来选择你盲盒领取到的币种，一般是 BTC和ETH，然后选择内部转账（免费）
 ### 欧易钱包切换
@@ -43,6 +43,6 @@ OKX注册地址：[https://www.okx.com/join/7227018](https://www.okx.com/join/72
 如果我也想邀请别人来注册，领取盲盒怎么弄？
 在okx的 app 中点击选择左上角菜单，然后选择邀请好友
 邀请成功后，你和好友都有盲盒，好友入金你们都会获得双倍收益，好友交易你更是可以获得返佣。
-<img alt="invite" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-inivite.png" width="80%">
+<img alt="invite" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-inivite.webp" width="80%">
 
 具体流程查看以上截图
