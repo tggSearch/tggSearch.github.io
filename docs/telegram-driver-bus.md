@@ -26,11 +26,11 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 
 如果你想要一些海量的资源，你可以使用 **mnet 苍老师**, 你就会发现更多的惊喜资源
 <div align=center>
-    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-mnet-new.webp" style="object-fit: cover;" loading="lazy" width="70%"/>
+    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-mnet-new.webp" style="object-fit: cover;" width="70%"/>
 </div>
 
 ### 推特榜单
 如果你觉得找资源麻烦，想来点高质量的，那你可以直接输入 **推特榜单**，里面有很多博主每日分享高质量的给你。
 <div align=center>
-    <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter-new.webp" style="object-fit: cover;" loading="lazy" width="70%"/>
+    <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter-new.webp" style="object-fit: cover;" width="70%"/>
 </div>
