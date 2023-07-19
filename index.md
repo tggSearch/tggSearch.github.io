@@ -33,7 +33,7 @@ canonical_url: 'https://tggsearch.github.io'
 </div>
 
 
-## 常见问题汇总
+## 置顶教程问题
 ### [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./docs/bnb-buy-coins.html)
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code.html)
 ### [Telegram 电报 新用户指南：如何开始并发现有趣的电报群](./docs/telegram-start.html)
@@ -45,3 +45,5 @@ canonical_url: 'https://tggsearch.github.io'
 ### [okx 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [tiktok 教程](./docs/tiktok.html)
 ### [探秘空投，什么是空投，撸空投是什么意思，应该如何去撸空投](./docs/airdrop.html)
+
+其他问题可以右下角沟通，及时会处理，如果不及时请联系页面中的 QQ
