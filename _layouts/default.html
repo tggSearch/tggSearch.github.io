@@ -41,20 +41,4 @@
       </footer>
     </main>
   </body>
-  <script>
-    function lazyLoad() {
-      var lazyImages = document.querySelectorAll('img[loading="lazy"]');
-      lazyImages.forEach(function(img) {
-        if (img.getBoundingClientRect().top <= window.innerHeight && img.getBoundingClientRect().bottom >= 0 && getComputedStyle(img).display !== 'none') {
-          img.src = img.dataset.src;
-          img.removeAttribute('data-src');
-          img.removeAttribute('loading');
-        }
-      });
-    }
-  
-    window.addEventListener('scroll', lazyLoad);
-    window.addEventListener('resize', lazyLoad);
-    window.addEventListener('orientationchange', lazyLoad);
-  </script>
 </html>
