@@ -4,7 +4,7 @@ title:  海外软件技术与区块链技术交流平台
 description: 交流关于电报、纸飞机、推特、油管、YouTube和Facebook等海外软件技术，还可以了解欧易使用教程节点返佣以及币安使用教程节点返佣等内容。如有技术问题，请通过QQ联系：2136868442。
 canonical_url: 'https://tggsearch.github.io'
 ---
-## 软件导航
+## 软件教程导航
 <div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./telegram.html">
