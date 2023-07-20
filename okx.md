@@ -4,7 +4,7 @@ title: 欧易 OKX 币安 BNB BitGet GateIO 各大交易所教程
 description: 欧易/OKX 币安/BNB BitGet GateIO 下载注册，节点返佣，兑换 U，U 商申请教程全部流程
 canonical_url: 'https://tggsearch.github.io/okx.html'
 ---
-### [[精选]币圈各大交易所网址导航](./docs/coins-index.html)
+### [🔥精选🔥 币圈各大交易所网址导航](./docs/coins-index.html)
 ### [OKX 欧易注册流程](./docs/okx.html)
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [OKX OKEX 欧易官网站点导航](./docs/okx-intro.html)
