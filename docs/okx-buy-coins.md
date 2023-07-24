@@ -25,12 +25,12 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 获取欧易专属推广节点地址，享受10-40%的节点返佣，请确保你的账号已经实名认证。
 只要你能邀请任何人，下载注册欧易，只要他交易，你可以永久获得佣金返现。
 
-## 如何成为号商赚钱
+## 如何成为U商赚钱
 
 成为欧易OKX平台的U商（也被称为OTC商家）可以带来一些额外的收益和特权。下面是一些成为欧易OKX平台号商的基本要求和步骤：
 入口在请参考这个
 
-<img alt="okx-coins-vendor" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-coins-vendor.png"style="object-fit: cover;">
+<img alt="okx-coins-vendor" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-coins-vendor.png" style="object-fit: cover;">
 
 1. **达到要求**：欧易OKX平台通常会设定一些要求，例如账户年龄、KYC等级和交易活跃度等。确保您的账户符合这些要求。以下是要求，很容易可以达到，不过需要10000美金的有大部分人会是一个门槛。
 <img alt="limit" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/limit.png" style="object-fit: cover;">
