@@ -23,7 +23,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-group-index.html'
 |  群组 ID   | 	群组名称  | 群组描述  |
 |  ----  | ----  | ----  |
 | [@awuawua](https://t.me/awuawua)  | 电报中文导航 | 帮你搜索你想要的各种群 |
-| [@chinaDianBaoFans]((https://t.me/chinaDianBaoFans))  | 电报中文官方群 | 集中了电报的中文粉丝群体 |
+| [@chinaDianBaoFans](https://t.me/chinaDianBaoFans)  | 电报中文官方群 | 集中了电报的中文粉丝群体 |
 | [@adsMoney12](https://t.me/adsMoney12)  | 发广告找项目 | 找项目，发任意广告，不设限制，注意防骗 |
 | [@okxbnbEx](https://t.me/okxbnbEx) | 区块链技术交流 | 交易所合约策略交易交流 |
 | [@mtprotocc](https://t.me/mtprotocc)  | TG代理免费分享 | 免费代理可以减少你的 VPN 使用，但是谨防假冒 |
