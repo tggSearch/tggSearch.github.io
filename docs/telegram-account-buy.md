@@ -11,8 +11,8 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 这个是非常靠谱的一个平台，[sms-activate](https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务
 
 <div align=center  style="display: flex">
-    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/sms-1.webp" height=300px/>
-    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/sms-2.webp" height=300px/>
+    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/sms-1.webp" height=400px/>
+    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/sms-2.webp" height=400px/>
 </div>
 
 这个价格大家自己计算一下，比如上面的 telegram 价格是 15卢布，那么换算成 rmb 就是 1.19元，是不是超级便宜？更别说下面的其他账号的了，比如 twitter 才 1卢布。
