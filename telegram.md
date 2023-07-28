@@ -32,7 +32,7 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios.html)
 ### [电报 telegram 纸飞机 综合下载注册方法](./docs/register.html)
 ### [电报群打不开提示这个信息怎么办？英文 spread pornographic content](./docs/telegram-group-spc.html)
-### [电报/telergam/纸飞机 有哪些高质量群，怎么找到群](./docs/telegram-group.html)
+### [电报/telegram/纸飞机 有哪些高质量群，怎么找到群](./docs/telegram-group.html)
 ### [telegram/电报简体中文，怎么切换中文](./docs/telegram-cn.html)
 ### [电报 telegram 发送设备码，也就是 device code？没有发送短信怎么办？](./docs/telegram-deive-code.html)
 ### [电报 telegram 开车群，电报群去哪里搜索，去哪里找？](./docs/telegram-driver-bus.html)
