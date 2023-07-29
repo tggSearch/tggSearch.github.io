@@ -11,6 +11,8 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ## 交易所网址导航
 > <font color="#dd0000">盲微信及其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</font>
 
+欧易无法打开的，请切换关闭 VPN ,然后点击国内地址，海外地址部分 VPN 屏蔽了
+
 |  交易所   | 官网地址  | 返佣地址  |
 |  ----  | ----  | ----  |
 | 欧易-okx  | [欧易国内](https://www.cnouyi.expert/join/85562820)  [欧易海外](https://www.okx.com/join/85562820) | [返佣国内](https://www.cnouyi.expert/join/39154880) [返佣海外](https://www.okx.com/join/39154880)  |
