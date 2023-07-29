@@ -9,6 +9,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 废话不多说，以下地址自行取。
 
 ## 交易所网址导航
+> <font color="#dd0000">盲微信及其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</font>
 
 |  交易所   | 官网地址  | 返佣地址  |
 |  ----  | ----  | ----  |
@@ -18,6 +19,8 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 | bitGet | [bitGet官方](https://partner.bitget.com/bg/CVS7PZ) | [bitGet 返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)  |
 
 ## 交易所电报官方群导航
+> <font color="#dd0000">盲微信及其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</font>
+
 [币圈综合交流(欧易币安)](https://t.me/okxbnbEx)
 
 [欧易okx官方中文群](https://t.me/OKXGroup_CN)
