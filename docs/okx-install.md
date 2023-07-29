@@ -5,11 +5,13 @@ description: OKX 是海外应用，那么 OKX/欧易如何下载安装使用呢�
 canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 ---
 ## 首先去注册
-在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到盲盒奖励，以及返佣奖励。
+在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到<font color="#dd0000">盲盒奖励 1-20美金看运气</font>，以及返佣奖励。
 
-[国内无 VPN 梯子注册地址](https://www.cnouyi.expert/join/39154880)
+[国内无 VPN 梯子注册地址 https://www.cnouyi.expert/join/39154880](https://www.cnouyi.expert/join/39154880)
 
-[有 VPN 梯子注册地址](https://www.okx.com/join/39154880)
+[有 VPN 梯子注册地址 https://www.okx.com/join/39154880](https://www.okx.com/join/39154880)
+<font color="#dd0000">目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 再访问下面的地址注册</font>
+[https://www.cnouyi.reisen/join/39154880](https://www.cnouyi.reisen/join/39154880)
 
 注册随意使用邮箱和手机号都行。注册好后，我们就来安装应用了，这里需要区分安卓还是苹果。
 
