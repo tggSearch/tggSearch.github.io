@@ -1,29 +1,4 @@
 ---
-.floating-button {
-    position: fixed;
-    bottom: 20px;
-    left: 20px;
-    background-color: #ffcc00;
-    border-radius: 50%;
-    width: 60px;
-    height: 60px;
-    text-align: center;
-    line-height: 60px;
-    cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    /* 在此处添加其他样式，例如动画效果等 */
-  }
-
-    /* 按钮图标样式 */
-    .button-icon {
-        font-size: 24px;
-      }
-  
-      /* 按钮文字样式 */
-      .button-text {
-        display: block;
-        font-size: 12px;
-      }
 ---
 
 @import 'jekyll-theme-cayman';
