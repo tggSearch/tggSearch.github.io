@@ -12,12 +12,12 @@ twitter相对来说是比较开放的一个平台，很多内容都言论自由�
 
 2. 点击选择隐私与安全，然后右侧选择你所看到的内容
 <div align=center>
-    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-2.png" style="object-fit: cover;" width="50%"/>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-2.png" style="object-fit: cover;" width="70%"/>
 </div>
 
 3. 最后勾选上“显示可能含有敏感内容的媒体内容”就可以解决了，最后再刷新
 <div align=center>
-    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-3.png" style="object-fit: cover;" width="50%"/>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-3.png" style="object-fit: cover;" width="70%"/>
 </div>
 
 
