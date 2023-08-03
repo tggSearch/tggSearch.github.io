@@ -4,15 +4,21 @@ title: 推特 twitter 无法获取推文, 提示敏感限制，有些推文无�
 description: 推特如何解除敏感限制，提示无法查看推文该如何解决？如果你无法打开推文，提示敏感限制，应该如何操作解决呢？
 canonical_url: 'https://tggsearch.github.io/docs/twitter-spc.html'
 ---
-按照下面的截图操作就行了
+twitter相对来说是比较开放的一个平台，很多内容都言论自由，包括黄，但是为了用户体验，默认情况下是不展示的，如果想展示就需要主动开启，如果你想开启就按照下面的截图操作就行了
 1. 打开设置与隐私，具体在设置与支持下面有一个设置与隐私
-![设置](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting.png)
+<div align=center>
+    <img alt="twitter-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting.png" style="object-fit: cover;" width="50%"/>
+</div>
 
 2. 点击选择隐私与安全，然后右侧选择你所看到的内容
-![设置](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-2.png)
+<div align=center>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-2.png" style="object-fit: cover;" width="50%"/>
+</div>
 
 3. 最后勾选上“显示可能含有敏感内容的媒体内容”就可以解决了，最后再刷新
-![设置](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-3.png)
+<div align=center>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-3.png" style="object-fit: cover;" width="50%"/>
+</div>
 
 
 
