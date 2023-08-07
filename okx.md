@@ -14,3 +14,5 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [新人应该如何进入币圈，币圈到底应该如何开始玩](./docs/new-blockchain.html)
 ### [永续合约交易：探索币圈中的永续合约及交易所操作指南](./docs/yx-hy.html)
 ### [新人入币圈，必须要懂的几大知识点](./docs/coins-new.html)
+### [新人入币圈，必须要懂的几大知识点](./docs/coins-new.html)
+### [YGG 近日暴涨近 400% ，到底是什么原因你知道吗？](./docs/news-ygg.html)
