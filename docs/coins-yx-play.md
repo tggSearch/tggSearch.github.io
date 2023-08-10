@@ -35,7 +35,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-yx-play.html'
 
 如果你不关注这个，很可能导致你损失很多资金，在做空较多的时候，有时候这个费率会去到 -3%，而这个 -3% 如果算上你的杠杆倍数 100倍，那就是你损失 300% 保证金，相当恐怖的数字，例如下图这个值。
 <div align=center>
-    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/feilv.webp" style="object-fit: cover;" width="100%"/>
+    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/feilv.webp" style="object-fit: cover;" width="50%"/>
 </div>
 那么怎么计算的呢？
 
@@ -61,7 +61,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-yx-play.html'
 
 例如如下方式下单：
 <div align=center>
-    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/make-order.webp" style="object-fit: cover;" width="100%"/>
+    <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/make-order.webp" style="object-fit: cover;" width="50%"/>
 </div>
 
 - **止损：** 止损是设定一个价格水平，在该价格水平上触发平仓，以限制损失。例如，如果你开了做多头寸，你可以设置止损价在某个价格以下，以防止亏损过大。这有助于保护你的本金，避免爆仓。
