@@ -16,3 +16,5 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [新人入币圈，必须要懂的几大知识点](./docs/coins-new.html)
 ### [新人入币圈，必须要懂的几大知识点](./docs/coins-new.html)
 ### [YGG 近日暴涨近 400% ，到底是什么原因你知道吗？](./docs/news-ygg.html)
+### [币圈永续合约是什么，怎么玩永续合约，永续合约的费率是什么意思，应该如何止盈止损避免爆仓](./docs/coins-yx-play.html)
+
