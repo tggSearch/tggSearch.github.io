@@ -8,9 +8,9 @@ canonical_url: 'https://tggsearch.github.io/docs/ok-gd.html'
 
 ## 一、如果你还没有欧易，先注册欧易，获得 10% 的交易返佣机会
 
-[国内无梯子注册连接](https://www.cnouyi.expert/join/39154880)
+[国内无梯子注册连接](https://www.cnouyi.gratis/join/50996986)
 
-[海外开梯子注册连接](https://www.okx.com/join/39154880)
+[海外开梯子注册连接](https://www.okx.com/join/50996986)
 
 ## 二、交易期权合约的力量与威力：
 交易期权合约是一种金融衍生品，它赋予投资者在未来某个时间点购买或卖出特定资产的权利。这种灵活的合约使得投资者能够参与多样化的投资策略。期权合约常见的类型包括认购期权和认沽期权，它们允许投资者在特定价格和期限内买入或卖出资产。
