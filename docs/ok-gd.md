@@ -8,7 +8,7 @@ canonical_url: 'https://tggsearch.github.io/docs/ok-gd.html'
 
 ## 一、如果你还没有欧易，先注册欧易，获得 20% 的交易返佣机会
 
-[国内无梯子注册连接](https://www.cnouyi.gratis/join/50996986)
+[国内无梯子注册连接](https://www.zj-inv.com/join/50996986)
 
 [海外开梯子注册连接](https://www.okx.com/join/50996986)
 
