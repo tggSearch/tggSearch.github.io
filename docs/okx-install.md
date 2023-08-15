@@ -7,6 +7,8 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 ## 首先去注册
 在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到<font color="#dd0000">盲盒奖励 1-20美金看运气</font>，以及返佣奖励。
 
+<font color="#dd0000">如果以下连接都无法打开，请联系 QQ：3502434065</font>
+
 [国内无 VPN 梯子注册地址 https://www.zj-inv.com/join/50996986](https://www.zj-inv.com/join/50996986)
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/50996986](https://www.okx.com/join/50996986)
