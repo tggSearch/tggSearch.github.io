@@ -1,23 +1,26 @@
 ---
 layout: default
-title: 2023 年免费香港最新苹果账号分享
+title: 2023 年免费8月最新海外苹果账号分享，共享苹果账号
 description: 免费分享苹果账号，有需要的按照使用须知登录使用，无法使用时，请联系右下角技术人员，需要购买或者协助注册免费自己的，请联系右下角客服（收费30）.
 canonical_url: 'https://tggsearch.github.io/docs/apple-id.html'
 ---
 ## 账号
-账号状态：正常
+账号状态：正常，如果无法使用，或者没有更新请右下角联系，或者加入电报群，自动获取最新的苹果账号，电报群请加综合导航群，可以直接电报搜索，或者点击下面链接加入
+[https://t.me/awuawua](https://t.me/awuawua)
+如果需要永久海外苹果账号，请关注频道联系频道主购买：
+[https://t.me/fjzhgxp](https://t.me/fjzhgxp)
 
-第一组账号：r31p0m3cb@icloud.com
+账号：nfogp58dnaio@appleshare.club
+密码：HtTPS://Appleshop001.club
 
-密码：Aa112211
+账号：dnoag57andow@appleshare.club
+密码：HtTPS://Appleshop001.club
 
-第二组账号：nwdawx3@icloud.com
+账号：hopsegn60nodw@appleshare.club
+密码：OUi69f59
 
-密码：Ad112211
-
-第三组账号：fntlzn1@icloud.com
-
-密码：Ap112211
+账号：fapg61nodaw@appleshare.club
+密码：AIu81z93
 
 由于共享的港区id苹果账号使用的人比较多，加上苹果对境外号管控很严，使用人数一多就非常容易出现「锁定」或「未激活」的情况，如须经常使用，请购买独享香港id（独享账号包含账号密码密保等所有资料）
 
