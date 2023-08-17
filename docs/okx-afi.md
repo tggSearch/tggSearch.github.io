@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 欧易如何做节点计划推广
-description: 本教程为内部教程，定期更新，想了解更多需要加入本人节点计划下，先注册好欧易 okx 才能入群。
+description: 欧易节点怎么推广，怎么能拿到欧易 40% 推广返佣，本教程为内部教程，定期更新，想了解更多需要加入本人节点计划下，先注册好欧易 okx 才能入群。
 canonical_url: 'https://tggsearch.github.io/docs/okx-afi.html'
 ---
 本教程为内部教程，定期更新，想了解更多需要加入本人节点计划下，先注册好欧易 okx 才能入群。

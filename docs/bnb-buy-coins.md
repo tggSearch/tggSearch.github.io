@@ -1,12 +1,17 @@
 ---
 layout: default
-title: 币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？
-description: 20%高额返佣注册地址，如果提示安全问题（因为是交易所），点击继续打开即可
+title: 币安安卓苹果下载方法，币安 20% 返佣到底是什么，为什么一定要从返佣地址去注册下载
+description: 币安安卓苹果下载安装教程，币安如何拿到高额返佣，最高 20%返佣应该如何获取，20%高额返佣注册地址
 canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 ---
 [https://accounts.binance.com/register?ref=ZGR4DOXV](https://accounts.binance.com/register?ref=ZGR4DOXV)
 
-打开以上链接注册，注册完成后前往下载
+币安，你必须要通过上面链接进行注册，打开以上链接注册，注册完成后前往下载，在上面链接打开后，安卓可以直接进入，苹果会提示如下属于正常现象，你按照图片指引点击打开，因为币安交易所地址已经被苹果拉黑。
+<div align=center>
+    <img alt="binance" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/binance.webp" style="object-fit: cover;" width="50%"/>
+</div>
+
+## 下载安装教程
 
 [安卓下载地址](https://download-1306379396.file.myqcloud.com/pack/BNApp.apk)
 
@@ -26,7 +31,7 @@ canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 那么为什么要从返佣这里注册呢？高额佣机会，限时的活动，过了这个村就没这个店了，可以先注册以后再用。因为现在不是牛市，等牛市肯定不会有这么高的返佣机会。
 
 [https://accounts.binance.com/register?ref=ZGR4DOXV](https://accounts.binance.com/register?ref=ZGR4DOXV)
-请注意打开链接会提示非安全地址（因为是交易所，国内是不允许）点击，要打开此链接即可
+请注意打开链接会提示非安全地址（因为是交易所，苹果会提示欺诈链接，属于正常现象）点击，要打开此链接即可，方法如下：
 
 ## 什么是高额返佣？
 举个例子，假设你每个月交易额，10 万美金(别以为这个数字很多，这个是很容易达到的)，产生 0.1%的手续费，那么你将有 100 美金的佣金，而这个注册链接，可以返还你 20%，也就是给你 20 美金的返还奖励。如果你操作越多，产生佣金越高，那么你的返佣会越多，比如你一个月的交易量在 100 万，那么你将得到一个月 200 美金的返佣，这是一笔一个月的工资。
