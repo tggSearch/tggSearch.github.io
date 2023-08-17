@@ -2,6 +2,7 @@
 layout: default
 title: 欧易 OKX 币安 BNB BitGet GateIO 各大交易所教程
 description: 欧易/OKX 币安/BNB BitGet GateIO 下载注册，节点返佣，兑换 U，U 商申请教程全部流程
+keywords: 比特币、比特币交易平台、以太坊、EOS、量子链、QTUM、HSR、NEO、ripple、比特币价格、莱特币、ETH、BCH、以太经典、区块链、ETC
 canonical_url: 'https://tggsearch.github.io/okx.html'
 ---
 ### [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)

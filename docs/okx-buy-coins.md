@@ -4,6 +4,7 @@ title: 在欧易OKX平台使用法币兑换USDT、OKX节点返佣赚钱、OKX U�
 description: 如何购买 USDT ，如何通过 OKX 获得节点返佣赚钱，什么是 U商，怎么通过 U 商赚钱
 canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 ---
+想买币必须先买 USDT，USDT 怎么购买，怎么注册交易所账号，都需要谨慎，按照文档教程进行，避免出现坑以及被骗，下面就是比较专业的文档流出。
 1. **注册并登录**：
 
 [OKX国内注册地址：https://www.cnouyi.careers/join/7227018](https://www.cnouyi.careers/join/7227018)
