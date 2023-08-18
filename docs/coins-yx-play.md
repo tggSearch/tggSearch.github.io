@@ -8,7 +8,9 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-yx-play.html'
 ## 账号注册 APP下载入金
 首先得需要去注册下载账号，并且入金一定的金额，这里建议刚开始玩，入金 50 美金左右即可。
 <font color="#dd0000">注册下载方法请查看：
+
 [OKX 欧易如何下载安装以及注册](./okx-install.html)
+
  注册下载好后，需要手把手免费教你携带好自己注册的UID备注加 QQ：3502434065 </font> 
 
 ## 下单流程
