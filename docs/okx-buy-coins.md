@@ -5,11 +5,15 @@ description: 如何购买 USDT ，如何通过 OKX 获得节点返佣赚钱，�
 canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 ---
 想买币必须先买 USDT，USDT 怎么购买，怎么注册交易所账号，都需要谨慎，按照文档教程进行，避免出现坑以及被骗，下面就是比较专业的文档流出。
+## 注册下载流程如下
 1. **注册并登录**：
+链接自带返佣，先注册再下载
 
-[OKX国内注册地址：https://www.cnouyi.careers/join/7227018](https://www.cnouyi.careers/join/7227018)
+[OKX海外注册地址：https://www.okx.com/join/30029571](https://www.okx.com/join/30029571)
 
-[OKX海外注册地址：https://www.okx.com/join/7227018](https://www.okx.com/join/7227018)
+[OKX国内注册地址：https://www.cnouyi.careers/join/30029571](https://www.cnouyi.careers/join/30029571)
+2. **APP下载领取1-20美金盲盒**
+下载方法，请查看此文章 [OKX 欧易如何下载安装以及注册](./docs/okx-install.html)
 
 2. **KYC验证**：进行必要的KYC（了解您的客户）验证。通常需要提供身份证明、地址证明和其他相关信息。这是为了确保平台的合规性和用户的安全。
 
