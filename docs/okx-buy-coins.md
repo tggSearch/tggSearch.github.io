@@ -31,6 +31,9 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 
 [电报联系 https://t.me/uwantme12](https://t.me/uwantme12)
 
+月入100 U 不是梦，假设你邀请了 5 个人，每个人每个月的交易额在 10万 USDT，那么你将会有如下收益
+<font color="#dd0000">5 * 100000 * 0.1% * 20% = 100 U</font>
+
 获取欧易专属推广节点地址，享受10-40%的节点返佣，请确保你的账号已经实名认证。
 只要你能邀请任何人，下载注册欧易，只要他交易，你可以永久获得佣金返现。
 
@@ -39,10 +42,15 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 成为欧易OKX平台的U商（也被称为OTC商家）可以带来一些额外的收益和特权。下面是一些成为欧易OKX平台号商的基本要求和步骤：
 入口在请参考这个
 
-<img alt="okx-coins-vendor" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-coins-vendor.png" style="object-fit: cover;">
+<div align=center>
+    <img alt="okx-coins-vendor" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-coins-vendor.png" style="object-fit: cover;"  width="70%">
+</div>
 
 1. **达到要求**：欧易OKX平台通常会设定一些要求，例如账户年龄、KYC等级和交易活跃度等。确保您的账户符合这些要求。以下是要求，很容易可以达到，不过需要10000美金的有大部分人会是一个门槛。
-<img alt="limit" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/limit.png" style="object-fit: cover;">
+<div align=center>
+    <img alt="limit" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/limit.png" style="object-fit: cover;"  width="70%">
+</div>
+
 
 2. **申请成为U商**：登录您的欧易OKX账户，找到相应的号商申请页面。填写申请表格并提交申请。通常，您需要提供一些个人信息、交易历史和其他相关资料。
 
@@ -57,7 +65,10 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 成为号商可以带来更多的机会和潜在收益，但也需要承担相应的责任和风险。在进行任何交易活动之前，请确保充分了解相关规则、风险和合规要求，并根据自身情况做出明智的决策。
 ## 法币兑换购买USDT
 在APP首页，有一个我要买币，选择C2C，或者快捷买币，大家不用买多，只买10元人民币就行。
-<img alt="c2c-buy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/c2c-buy.png" width="50%" style="object-fit: cover;">
+
+<div align=center>
+    <img alt="c2c-buy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/c2c-buy.png" width="50%" style="object-fit: cover;"  width="70%">
+</div>
 
 接下来就会找到与你交易的人，新手交易快捷买币，到时候会在右上角有消息提醒，再进行交易进行了，大家可以放心购买，欧易会做担保。
 注意交易的时候会做一些流水验证，属于正常的交易流程防止黑钱和洗钱行为
