@@ -7,11 +7,11 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 ## 首先去注册
 在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到<font color="#dd0000">盲盒奖励 1-20美金看运气</font>，以及返佣奖励。
 
-[国内无 VPN 梯子注册地址 https://www.zj-inv.com/join/50996986](https://www.zj-inv.com/join/50996986)
+[国内无 VPN 梯子注册地址 https://www.zj-inv.com/join/90884854](https://www.zj-inv.com/join/90884854)
 
-[有 VPN 梯子注册地址 https://www.okx.com/join/50996986](https://www.okx.com/join/50996986)
+[有 VPN 梯子注册地址 https://www.okx.com/join/90884854](https://www.okx.com/join/90884854)
 <font color="#dd0000">目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，不会下载不会玩，请联系 QQ手把手免费教，包括如何下载、注册、买卖U以及玩永续合约：3502434065</font>
-[https://www.cnouyi.reisen/join/50996986](https://www.cnouyi.reisen/join/50996986)
+[https://www.cnouyi.reisen/join/90884854](https://www.cnouyi.reisen/join/90884854)
 
 注册随意使用邮箱和手机号都行。注册好后，我们就来安装应用了，这里需要区分安卓还是苹果。
 
