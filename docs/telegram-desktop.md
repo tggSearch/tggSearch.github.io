@@ -13,6 +13,26 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-desktop.html'
     <img alt="telegram-desktop-mac" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-desktop-mac.webp" style="object-fit: cover;" width="100%"/>
 </div>
 
+### 下载体验方法
+介绍了这么多，你可能还不知道到底是什么，不要紧，我们可以免费体验，点击下载下面的客户端，Windows 选择 Windows 的版本，Mac 的请选择 Mac 的版本。
+
+<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
+  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-win-1.0.1-x64-setup_for_dh.exe" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/windows-icon.webp" alt="windows 下载" height=50px>
+        <p>windows 下载</p>
+    </a>
+  </div>
+   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-mac-1.0.1-x64_for_dh.dmg" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/mac-icon.webp" alt="mac 版本下载" height=50px>
+        <p>mac 版本下载</p>
+    </a>
+  </div>
+</div>
+
+如果在国内也需要使用梯子，具体梯子方法参考这个，与手机类似 [VPN方法，Mac 与 Windows 与手机端类似，参考，软件下载直接在文档中下载即可。](./vpn.html)
+
 ### 聚合主流平台，多账号一手掌握
 KamiChat作为一款聚合聊天客户端，集合了Telegram、Facebook Messenger、WhatsApp和WeChat等主流平台，让你能够在一个应用中统一管理各个社交账号。无论是与国际朋友用WhatsApp交流，还是与同事使用Telegram保持联系，一切都在你的掌握之中。
 <div align=center>
@@ -36,25 +56,6 @@ KamiChat不仅仅是一个聚合工具，更是一个强大的多账号管理平
 
 那么KamiChat都是你的最佳选择
 
-### 下载体验方法
-介绍了这么多，你可能还不知道到底是什么，不要紧，我们可以免费体验，点击下载下面的客户端，Windows 选择 Windows 的版本，Mac 的请选择 Mac 的版本。
-
-<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
-  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-win-1.0.1-x64-setup_for_dh.exe" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/windows-icon.webp" alt="windows 下载" height=50px>
-        <p>windows 下载</p>
-    </a>
-  </div>
-   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-mac-1.0.1-x64_for_dh.dmg" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/mac-icon.webp" alt="mac 版本下载" height=50px>
-        <p>mac 版本下载</p>
-    </a>
-  </div>
-</div>
-
-如果在国内也需要使用梯子，具体梯子方法参考这个，与手机类似 [VPN方法，Mac 与 Windows 与手机端类似，参考，软件下载直接在文档中下载即可。](./vpn.html)
 
 KamiChat的问世，为Telegram用户带来了一个全新的交流时代。聚合主流社交平台、突破账号限制、便捷统一管理，所有这些优势都将帮助你实现更高效、更便利的社交体验。立即下载KamiChat，开启多平台聊天的全新篇章！
 
