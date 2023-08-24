@@ -14,7 +14,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 [OKX国内注册地址：https://www.cnouyi.careers/join/30029571](https://www.cnouyi.careers/join/30029571)
 
 ### APP下载领取1-20美金盲盒
-下载方法，请查看此文章 [OKX 欧易如何下载安装以及注册](./docs/okx-install.html)
+下载方法，请查看此文章 [OKX 欧易如何下载安装以及注册](./okx-install.html)
 
 ###  KYC验证 
 进行必要的KYC（了解您的客户）验证。通常需要提供身份证明、地址证明和其他相关信息。这是为了确保平台的合规性和用户的安全。
