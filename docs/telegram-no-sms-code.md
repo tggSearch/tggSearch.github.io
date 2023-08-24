@@ -14,7 +14,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-no-sms-code.html'
 今天教大家几种方法，为了让大家更清晰的认识，我绘制了一个排查流程图
 ### 排查流程图
 <div align=center>
-    <img alt="driver-bus-yelo" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-no-sms-code.webp" style="object-fit: cover;" width="70%"/>
+    <img alt="telegram no sms code" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-no-sms-code.webp" style="object-fit: cover;" width="70%"/>
 </div>
 自己可以先按照上面流程来逐步分析，如果看不懂，请看下面文字流程。
 
