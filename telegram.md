@@ -28,7 +28,8 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
 
 ## 常见问题
 ### [电报 telegram 纸飞机 骗人项目合集，电报防坑，防骗指南，骗子项目合集](./docs/telegram-scam.html)
-### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code.html)
+### [电报 telegram 聚合聊天桌面版本](./docs/telegram-desktop.html)
+### [电报 telegram 纸飞机 骗人项目合集，电报防坑，防骗指南，骗子项目合集](./docs/telegram-scam.html)
 ### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android.html)
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios.html)
 ### [电报 telegram 纸飞机 综合下载注册方法](./docs/register.html)
