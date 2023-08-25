@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约，永续合约的费率是什么意思，应该如何止盈止损避免爆仓
+title: 欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约
 description: 欧易币安的永续合约怎么玩，币圈的永续合约是目前币圈交易量最大的衍生品，里面包含了很多知识点，比如费率、逐仓、止盈、止损等等，要清楚了解这些你才能避免爆仓。
 canonical_url: 'https://tggsearch.github.io/docs/coins-yx-play.html'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 解锁全新聊天境界——KamiChat，让Telegram用户体验前所未有的多平台聚合，支持 telegram/facebook message/whatsapp/weChat Windows & Mac 桌面版本
+title: KamiChat，让Telegram用户体验前所未有的多平台聚合，TG/FB 桌面版本
 description: telegram 桌面版/facebook message 桌面版/whatsapp 桌面版，适配 windows 和 mac 系统
 canonical_url: 'https://tggsearch.github.io/docs/telegram-desktop.html'
 ---
