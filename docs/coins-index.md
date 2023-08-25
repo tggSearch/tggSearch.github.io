@@ -4,6 +4,33 @@ title: 币圈各大交易所网址导航，欧易okx，币安bnb，gateIo，bitG
 description: 浏览安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。享受高流动性、多样的交易对和用户友好的界面。探索全球主要币圈交易所，轻松比较比特币、以太坊等主流加密货币的交易。了解交易量、费用、安全性等重要信息，选择最适合您的平台。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。寻找全球最佳的数字资产交易场所。
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ---
+## 常用资源
+<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
+  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://www.ouxyi.club/join/90884854" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
+        <p>欧易</p>
+    </a>
+  </div>
+   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px>
+        <p>币安</p>
+    </a>
+  </div>
+    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO" height=50px>
+        <p>GateIO</p>
+    </a>
+  </div>
+    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="https://partner.bitget.com/bg/ml6l51911687837747447" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bitget.png" alt="电BitGet" height=50px>
+        <p>BitGet</p>
+    </a>
+  </div>
+</div>
 这里包含了币圈各大功能性导航网址，后续会持续更新，请关注此链接，目前包含了常见的交易所以及其返佣注册地址，为什么要从返佣地址注册？相信刚来的还不懂，但是你要明白你在交易过程中他会返现给你就行了，你交易越多，交易所会给你钱。
 
 废话不多说，以下地址自行取。
