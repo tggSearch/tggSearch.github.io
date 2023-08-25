@@ -65,6 +65,6 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ## 币圈基础教学
 币圈有很多基础教程，买卖 USDT 是最基础的，因此在入币圈是需要必修的课程，永续合约是目前币圈玩的最多的衍生金融产品。
 
-[如何买 U](https://www.youtube.com/watch?v=Y2A1SBRD5RM)
+[如何购买 USDT](./okx-buy-coins.html) 或者查看 [如果买卖 U 视频教程](https://www.youtube.com/watch?v=Y2A1SBRD5RM)
 
-[永续合约怎么玩](https://www.youtube.com/watch?v=SJ2vnMhZTbk)
+[欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html) 或者查看视频教程 [永续合约怎么玩视频教程](https://www.youtube.com/watch?v=SJ2vnMhZTbk)
