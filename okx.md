@@ -4,6 +4,33 @@ title: 欧易 OKX 币安 BNB BitGet GateIO 各大交易所注册下载教程
 description: 欧易/OKX 币安/BNB BitGet GateIO 安卓苹果下载注册，节点返佣注册，兑换 USDT，USDT 商申请教程全部流程，BTC 交易所购买教程，永续合约教程，各大交易所官网导航，币圈交易所返佣介绍，新人玩币教程指引
 canonical_url: 'https://tggsearch.github.io/okx.html'
 ---
+## 币圈各大网址
+<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
+  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="./telegram.html">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报教程" height=50px>
+        <p>电报教程</p>
+    </a>
+  </div>
+   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="./twitter.html">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter.png" alt="推特教程" height=50px>
+        <p>推特教程</p>
+    </a>
+  </div>
+   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="./okx.html">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="欧易教程" height=50px>
+        <p>币交易所</p>
+    </a>
+  </div>
+  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <a href="./account.html">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/shadowrocket.jpeg" alt="小火箭教程" height=50px>
+        <p>账号类</p>
+    </a>
+  </div>
+</div>
 欧易注册安卓和苹果下载教程，欧易返佣注册链接，欧易节点计划，欧易购买 USDT 流程，以及欧易各类新手教程，永续合约玩法教程，新人玩币圈应该如何开始，可以一对一进行指导。一对一指导请联系QQ：3502434065
 ### [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
 ### [OKX 欧易注册流程](./docs/okx.html)
