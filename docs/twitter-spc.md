@@ -8,17 +8,17 @@ Twitter也称小蓝鸟，目前已经更名为 X，Twitter 相对来说是比较
 ### 开通流程
 1. 打开设置与隐私，具体在设置与支持下面有一个设置与隐私
 <div align=center>
-    <img alt="twitter-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting.png" style="object-fit: cover;" width="50%"/>
+    <img alt="twitter-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting.png" class="page-img" width="50%"/>
 </div>
 
 2. 点击选择隐私与安全，然后右侧选择你所看到的内容
 <div align=center>
-    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-2.png" style="object-fit: cover;" width="70%"/>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-2.png" class="page-img" width="70%"/>
 </div>
 
 3. 最后勾选上“显示可能含有敏感内容的媒体内容”就可以解决了，最后再刷新
 <div align=center>
-    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-3.png" style="object-fit: cover;" width="70%"/>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-setting-3.png" class="page-img" width="70%"/>
 </div>
 
 ### 实验

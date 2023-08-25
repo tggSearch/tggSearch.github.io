@@ -15,7 +15,7 @@ Thank you.
 
 打开网址[https://telegram.org/support](https://telegram.org/support)
 <div align=center>
-    <img alt="ygg" src="https://tp.dvyt.com/dvyt/qita/8/1/3.jpg" style="object-fit: cover;" width="100%"/>
+    <img alt="ygg" src="https://tp.dvyt.com/dvyt/qita/8/1/3.jpg" class="page-img" width="100%"/>
 </div>
 
 内容就填写上面的邮件格式，当然上面的 xxx 你要替换为你的手机号。

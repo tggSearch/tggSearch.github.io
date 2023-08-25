@@ -15,7 +15,7 @@ canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 
 币安，你必须要通过上面链接进行注册，打开以上链接注册，注册完成后前往下载，在上面链接打开后，安卓可以直接进入，苹果会提示如下属于正常现象，你按照图片指引点击打开，因为币安交易所地址已经被苹果拉黑。
 <div align=center>
-    <img alt="binance" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/binance.webp" style="object-fit: cover;" width="70%"/>
+    <img alt="binance" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/binance.webp" class="page-img" width="70%"/>
 </div>
 
 ### 下载安装教程
