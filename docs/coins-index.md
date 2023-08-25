@@ -53,7 +53,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 | gateIO | [GateIO官网](https://www.gate.io/signup/UllHXA0J/off?ref_type=103) | [GateIO返佣地址](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
 | bitGet | [bitGet官方](https://partner.bitget.com/bg/CVS7PZ) | [bitGet 返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)  |
 
-请注意欧易必须要区分国内链接和国外链接，而币安的链接在苹果手机打开会提示安全问题，具体可以参考此文章 [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./docs/bnb-buy-coins.html) 里面有详细介绍了如何在苹果手机上打开币安网页并注册。
+请注意欧易必须要区分国内链接和国外链接，而币安的链接在苹果手机打开会提示安全问题，具体可以参考此文章 [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./bnb-buy-coins.html) 里面有详细介绍了如何在苹果手机上打开币安网页并注册。
 
 ## 交易所电报官方群导航
 >  
