@@ -5,26 +5,26 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
 canonical_url: 'https://tggsearch.github.io'
 ---
 ## 常用资源导航
-<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
-  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+<div  class='icon-block-body'>
+  <div class='icon-block-item'>
     <a href="./telegram.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报教程" height=50px>
         <p>电报教程</p>
     </a>
   </div>
-   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+   <div class='icon-block-item'>
     <a href="./twitter.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter.png" alt="推特教程" height=50px>
         <p>推特教程</p>
     </a>
   </div>
-   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+   <div class='icon-block-item'>
     <a href="./okx.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="欧易教程" height=50px>
         <p>币交易所</p>
     </a>
   </div>
-  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+  <div class='icon-block-item'>
     <a href="./account.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/shadowrocket.jpeg" alt="小火箭教程" height=50px>
         <p>账号类</p>

@@ -5,20 +5,20 @@ description: 电报中文版本，telegram中文版本，电报无法收到验�
 canonical_url: 'https://tggsearch.github.io/telegram.html'
 ---
 ## 常用资源
-<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
-  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+<div class='icon-block-body'>
+  <div class='icon-block-item'>
     <a href="https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>安卓下载</p>
     </a>
   </div>
-   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+   <div class='icon-block-item'>
     <a href="https://telegram.org" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>官网</p>
     </a>
   </div>
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+    <div class='icon-block-item'>
     <a href="https://web.telegram.org" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>网页版</p>
