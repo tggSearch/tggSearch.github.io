@@ -1,7 +1,7 @@
 ---
 layout: default
 title: OKX OKEX 欧易官网站点导航
-description: 欧易 OKX 官网入口在哪里？	欧易 OKX 官方网站是什么？欧易是什么？	OKEX 官网又是什么？	欧易 OKEX 官网登录登录入口在哪里？OKX 官网登录怎么登录？
+description: 欧易 OKX 官网入口在哪里？	欧易 OKX 官方网站是什么？欧易是什么？	OKEX 官网又是什么？	欧易 OKEX 官网登录登录入口在哪里？OKX 官网登录怎么登录？欧易有没有返佣，返佣地址怎么注册，OKX 和 OKEX 是什么关系？
 canonical_url: 'https://tggsearch.github.io/docs/okx-intro.html'
 ---
 ### OKX 就是 OKEX
