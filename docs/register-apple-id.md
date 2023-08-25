@@ -17,7 +17,7 @@ canonical_url: 'https://tggsearch.github.io/docs/register-apple-id.html'
 这里不需要海外的手机号，用自己的国内的手机号是没有问题的，而且一个手机号可以使用多次。
 
 - 打开苹果官方网站注册界面 [https://appleid.apple.com/account](https://appleid.apple.com/account)
-- 按要求填写注册信息，其中的 [COUNTRY / REGION]() 选择你想要注册的国家或者地区
+- 按要求填写注册信息，其中的 COUNTRY / REGION 选择你想要注册的国家或者地区
 - 手机号选择国内的也就是 +86 的是没问题的
 - 接下来就正常注册就行了，注册完成后，前往手机 apple 应用商店
 
@@ -31,7 +31,7 @@ canonical_url: 'https://tggsearch.github.io/docs/register-apple-id.html'
 
 ### 4. 搜索相应的应用下载
 
-- 比如这里搜索 [okx]() [欧易]()
+- 比如这里搜索 okx 欧易
 - 然后点击下载会让你补充信息，怎么补充信息呢？
 - [前往这里生产虚拟省份信息](https://ciroapp.com/zh-CN/free-tools/fake-identity-generator) 请注意美国有些州需要税收，因此最好选择无税收的州
 - 按照虚拟身份信息，补充资料

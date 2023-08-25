@@ -16,7 +16,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 1. 直接打开连接（该连接需要打开梯子），加入群里 [https://t.me/chineseSearchService](https://t.me/chineseSearchService)
 2. 或者你可以在消息页面，直接搜索 @chineseSearchService
 
-接下来进入群聊后，直接回复 [中文]() 或者 [中文版]() 就回复你切换的链接，点击其中的任何一个，然后选择 Change 的英文就可以切换了。 
+接下来进入群聊后，直接回复 中文 或者 中文版 就回复你切换的链接，点击其中的任何一个，然后选择 Change 的英文就可以切换了。 
 
 ### 桌面端切换
 
