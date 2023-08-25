@@ -19,7 +19,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-android.html'
 如果首选地址无法打开
 [备用地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！！！
-1. **注册账号**，使用上面的首选注册地址链接去注册，里面有一个订阅服务，<p class="red-text-word">建议选择9块一个月的就行</p>（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）；
+1. **注册账号**，使用上面的首选注册地址链接去注册，里面有一个订阅服务， <p class="red-text-word">建议选择9块一个月的就行</p>（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）；
 2. **订阅套餐**，订阅完成后，在左侧菜单栏有个使用文档，点击打开，里面有软件下载（小火箭）；
 3. **下载软件**，选择你要选择的平台，安卓选择最好一个安卓下载地址就可以了；
 4. **导入节点**，（小火箭 Clash）下载完成后，回到网页左侧菜单选择仪表盘，里面有一个一键订阅，弹出的菜单选择导入到Clash For Android，点击就会拉起你刚下载的APP，然后等待它配置完成，完成后点击右上角按钮保存；
@@ -30,7 +30,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-android.html'
 ![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/android-register.webp)
 
 ## 电报飞机应用下载
-首先打开我们上面的梯子，<p class="red-text-word">请注意我们用的是官方网站下载，一定要打开梯子</p>，选择香港节点就行了，然后打开下面链接
+首先打开我们上面的梯子， <p class="red-text-word">请注意我们用的是官方网站下载，一定要打开梯子</p>，选择香港节点就行了，然后打开下面链接
 有最新APK，下载地址如下
 [https://telegram.org/android](https://telegram.org/android)
 
@@ -39,7 +39,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-android.html'
 
 ## 注册电报
 ### 打开梯子
-请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。<p class="red-text-word">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</p>
+请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。 <p class="red-text-word">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</p>
 ### 打开电报注册
 进入APP就可以使用手机号注册，直接输入手机号，然后等待验证码，如下所示。请注意这里很多用户反馈收不到验证码，我也一样，偶尔收不到，大家一定要多试几次，如果确实收不到了换个手机尝试一下，如果几天尝试都失败，看我最下面的使用接码平台注册的方法。
 ### 登陆

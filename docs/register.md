@@ -19,7 +19,7 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 ### Android（安卓）
 [梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！！！
-1. 使用上面的体制注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一年的就行<p class="red-text-word">200G流量比较充足（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>；
+1. 使用上面的体制注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一年的就行 <p class="red-text-word">200G流量比较充足（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>；
 2. 订阅完成后，在左侧菜单栏有个使用文档，点击打开，里面有软件下载（小火箭）；
 3. 选择你要选择的平台，安卓选择最好一个安卓下载地址就可以了；
 4. （小火箭 Clash）下载完成后，回到网页左侧菜单选择仪表盘，里面有一个一键订阅，弹出的菜单选择导入到Clash For Android，点击就会拉起你刚下载的APP，然后等待它配置完成，完成后点击右上角按钮保存；
@@ -34,7 +34,7 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 [https://idappstore.cc/](https://idappstore.cc/)
 打不开上面的用下面的
 [https://appidshop.com/](https://appidshop.com/)
-<p class="red-text-word">（特别申明：自己负责，不是我的服务，有问题找平台客服）</p>，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
+ <p class="red-text-word">（特别申明：自己负责，不是我的服务，有问题找平台客服）</p>，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
 
 登录成功请下载2个软件，一个叫做 shadowrocket 一个叫做 telegram
 
@@ -42,7 +42,7 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 #### 接下来的步骤和安卓基本是一样的
 [梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！
-1. 使用上面的梯子注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一个月的就行<p class="red-text-word">（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>；
+1. 使用上面的梯子注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一个月的就行 <p class="red-text-word">（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>；
 2. 确保上面的（小火箭 shadowrocket）苹果app下载完成后，回到网页左侧菜单选择仪表盘，里面有一个一键订阅，弹出菜单，选择导入 shadowrocket，点击就会拉起你刚下载的APP，然后等待它配置完成，这时候在主页就会看到很多节点选择的；
 3. 打开（小火箭 shadowrocket），里面可以选择节点，可以选择一个香港节点，注意由于使用人多，晚上会卡，可以选择其他的节点，比如日本，然后打开第一个按钮，按钮原来显示“未连接”，打开那个开关就行了；
 4. 这时候会在任务栏有一个vpn标识就算成功了；
@@ -51,7 +51,7 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 ![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/ios-register.webp)
 ## 电报飞机应用下载
 ### Android
-首先打开我们上面的梯子，<p class="red-text-word">请注意我们用的是官方网站下载，一定要打开梯子</p>，选择香港节点就行了，然后打开下面链接
+首先打开我们上面的梯子， <p class="red-text-word">请注意我们用的是官方网站下载，一定要打开梯子</p>，选择香港节点就行了，然后打开下面链接
 有最新APK，下载地址如下
 [https://telegram.org/android](https://telegram.org/android)
 
@@ -64,7 +64,7 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 在前面已经下载好了电报这里就不用下载了
 ## 注册电报
 ### 打开梯子
-请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。<p class="red-text-word">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</p>
+请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。 <p class="red-text-word">一定要确保这一步是正确的，一般在你的手机的最上面的信息栏可以看到 VPN 标识，就可以了。</p>
 ### 打开电报注册
 进入APP就可以使用手机号注册，直接输入手机号，然后等待验证码，如下所示。请注意这里很多用户反馈收不到验证码，我也一样，偶尔收不到，大家一定要多试几次，如果确实收不到了换个手机尝试一下，如果几天尝试都失败，看我最下面的使用接码平台注册的方法。
 ### 登陆
@@ -90,4 +90,4 @@ https://t.me/chineseSearchService
 这里需要注意，大家切换苹果商店账号，可以前往 设置->个人信息->媒体与购买->退出登陆->返回前一个页面->再次进入个人信息->点击媒体与购买->选择不是xxx->输入你的苹果id即可，不要全部退出
 海外苹果免费账号分享，这个平台也有提示 [https://freevpn007.cf/share.html](https://freevpn007.cf/share.html)
 
-<p class="red-text-word">其他问题请提issue</p>
+ <p class="red-text-word">其他问题请提issue</p>
