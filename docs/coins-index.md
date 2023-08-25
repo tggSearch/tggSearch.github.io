@@ -38,7 +38,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ## 交易所网址导航
 > <font color="#dd0000">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</font>
 
-欧易无法打开的，请切换关闭 VPN ,然后点击国内地址，海外地址部分 VPN 屏蔽了
+欧易无法打开的，请切换关闭 VPN ,然后点击国内地址，海外地址部分 VPN 屏蔽了，如果你需要交易，请使用返佣地址注册，将会为你节省不少的手续费。
 
 |  交易所   | 官网地址  | 返佣地址  | 
 |  ----  | ----  | ----  |
@@ -49,6 +49,8 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 
 ## 交易所电报官方群导航
 > <font color="#dd0000">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</font>
+
+各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了。
 
 [币圈综合交流(欧易币安)](https://t.me/okxbnbEx)
 
@@ -61,6 +63,8 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 [gateIO官方中文群](https://t.me/gate_zh)
 
 ## 币圈基础教学
+币圈有很多基础教程，买卖 USDT 是最基础的，因此在入币圈是需要必修的课程，永续合约是目前币圈玩的最多的衍生金融产品。
+
 [如何买 U](https://www.youtube.com/watch?v=Y2A1SBRD5RM)
 
 [永续合约怎么玩](https://www.youtube.com/watch?v=SJ2vnMhZTbk)
