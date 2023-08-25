@@ -14,13 +14,13 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
   </div>
    <div class='icon-block-item'>
     <a href="https://telegram.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报官网" height=50px>
         <p>官网</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="https://web.telegram.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
         <p>网页版</p>
     </a>
   </div>
