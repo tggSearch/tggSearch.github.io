@@ -40,12 +40,12 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 
 欧易无法打开的，请切换关闭 VPN ,然后点击国内地址，海外地址部分 VPN 屏蔽了
 
-|  交易所   | 官网地址  | 返佣地址  |  下载方法  | 
-|  ----  | ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](https://www.zj-inv.com/join/85562820)  [欧易海外](https://www.okx.com/join/85562820) | [返佣国内](https://www.zj-inv.com/join/39154880) [返佣海外](https://www.okx.com/join/39154880)  | [OKX 欧易如何下载安装以及注册](./docs/okx-install.html)  |
-| 币安-bnb | [bnb币安官网](https://accounts.binance.com/register?ref=BC6OMTRS) | [币安返佣地址](https://accounts.binance.com/register?ref=ED13UFJ5)  |    | 
-| gateIO | [GateIO官网](https://www.gate.io/signup/UllHXA0J/off?ref_type=103) | [GateIO返佣地址](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |    | 
-| bitGet | [bitGet官方](https://partner.bitget.com/bg/CVS7PZ) | [bitGet 返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)  |    | 
+|  交易所   | 官网地址  | 返佣地址  | 
+|  ----  | ----  | ----  |
+| 欧易-okx  | [欧易国内](https://www.zj-inv.com/join/85562820)  [欧易海外](https://www.okx.com/join/85562820) | [返佣国内](https://www.zj-inv.com/join/39154880) [返佣海外](https://www.okx.com/join/39154880)  |
+| 币安-bnb | [bnb币安官网](https://accounts.binance.com/register?ref=BC6OMTRS) | [币安返佣地址](https://accounts.binance.com/register?ref=ED13UFJ5)  |
+| gateIO | [GateIO官网](https://www.gate.io/signup/UllHXA0J/off?ref_type=103) | [GateIO返佣地址](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
+| bitGet | [bitGet官方](https://partner.bitget.com/bg/CVS7PZ) | [bitGet 返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)  |
 
 ## 交易所电报官方群导航
 > <font color="#dd0000">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</font>
