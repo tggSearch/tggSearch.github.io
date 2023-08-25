@@ -10,28 +10,24 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
     <a href="https://www.okx.com/join/90884854" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
         <p>欧易</p>
- 
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px>
         <p>币安</p>
- 
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO 官网" height=50px>
         <p>GateIO</p>
- 
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="https://partner.bitget.com/bg/ml6l51911687837747447" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bitget.png" alt="BitGet 官网" height=50px>
         <p>BitGet</p>
- 
     </a>
   </div>
 </div>
@@ -57,12 +53,13 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 >  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
 
 各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了。
-
-1. 币圈综合交流(欧易币安） @okxbnbEx
-2. 欧易okx官方中文群 OKXGroup_CN
-3. 币安bnb官方中文群 @binancechinese
-4. bitGet官方中文群 @Bitget_CNOfficial
-5. gateIO官方中文群 @gate_zh
+|  群名称   | 群号 |
+|  ----  | ----  |
+| 币圈综合交流(欧易币安）| @okxbnbEx |
+| 欧易okx官方中文群 | @OKXGroup_CN |
+| 币安bnb官方中文群 | @binancechinese |
+| bitGet官方中文群 | @Bitget_CNOfficial |
+| gateIO官方中文群 | @gate_zh |
 
 ## 币圈基础教学
 币圈有很多基础教程，买卖 USDT 是最基础的，因此在入币圈是需要必修的课程，永续合约是目前币圈玩的最多的衍生金融产品。
