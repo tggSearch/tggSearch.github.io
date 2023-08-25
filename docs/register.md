@@ -19,7 +19,8 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 ### Android（安卓）
 [梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！！！
-1. 使用上面的体制注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一年的就行 <p class="red-text-word">200G流量比较充足（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p> ；
+1. 使用上面的体制注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一年的就行 
+<p class="red-text-word">200G流量比较充足（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>
 2. 订阅完成后，在左侧菜单栏有个使用文档，点击打开，里面有软件下载（小火箭）；
 3. 选择你要选择的平台，安卓选择最好一个安卓下载地址就可以了；
 4. （小火箭 Clash）下载完成后，回到网页左侧菜单选择仪表盘，里面有一个一键订阅，弹出的菜单选择导入到Clash For Android，点击就会拉起你刚下载的APP，然后等待它配置完成，完成后点击右上角按钮保存；
@@ -51,7 +52,9 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 ![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/ios-register.webp)
 ## 电报飞机应用下载
 ### Android
-首先打开我们上面的梯子， <p class="red-text-word">请注意我们用的是官方网站下载，一定要打开梯子</p> ，选择香港节点就行了，然后打开下面链接
+首先打开我们上面的梯子
+<p class="red-text-word">请注意我们用的是官方网站下载，一定要打开梯子</p> 
+选择香港节点就行了，然后打开下面链接
 有最新APK，下载地址如下
 [https://telegram.org/android](https://telegram.org/android)
 
