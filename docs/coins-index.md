@@ -52,7 +52,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ## 交易所电报官方群导航
 >  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
 
-各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了。
+各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了，直接在电报中搜索群号即可。
 
 |  群名称   | 群号 |
 |  ----  | ----  |
