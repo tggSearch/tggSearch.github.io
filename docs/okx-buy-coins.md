@@ -32,7 +32,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 [电报联系 https://t.me/uwantme12](https://t.me/uwantme12)
 
 月入100 U 不是梦，假设你邀请了 5 个人，每个人每个月的交易额在 10万 USDT，那么你将会有如下收益
-<font color="#dd0000">5 * 100000 * 0.1% * 20% = 100 U</font>
+<p class="red-text-word">5 * 100000 * 0.1% * 20% = 100 U</p>
 
 获取欧易专属推广节点地址，享受10-40%的节点返佣，请确保你的账号已经实名认证。
 只要你能邀请任何人，下载注册欧易，只要他交易，你可以永久获得佣金返现。
