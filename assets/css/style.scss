@@ -3,7 +3,14 @@
 
 @import 'jekyll-theme-cayman';
 
-.icon-block-body {
+.icon-block-body-three {
+    display: grid;  // 使用 grid 布局
+    grid-template-columns: repeat(3, 1fr);  // 修正这行
+    align-items: start;
+    gap: 10px;
+}
+
+.icon-block-body-four {
     display: grid;  // 使用 grid 布局
     grid-template-columns: repeat(4, 1fr);  // 修正这行
     align-items: start;

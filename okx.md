@@ -5,26 +5,26 @@ description: 欧易/OKX 币安/BNB BitGet GateIO 安卓苹果下载注册，节�
 canonical_url: 'https://tggsearch.github.io/okx.html'
 ---
 ## 币圈各大网址导航
-<div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
-  <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+<div  class='icon-block-body-four'>
+  <div class='icon-block-item'>
     <a href="https://www.okx.com/join/90884854" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
         <p>欧易</p>
     </a>
   </div>
-   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+  <div class='icon-block-item'>
     <a href="https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px>
         <p>币安</p>
     </a>
   </div>
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+  <div class='icon-block-item'>
     <a href="https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO" height=50px>
         <p>GateIO</p>
     </a>
   </div>
-    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
+  <div class='icon-block-item'>
     <a href="https://partner.bitget.com/bg/ml6l51911687837747447" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bitget.png" alt="电BitGet" height=50px>
         <p>BitGet</p>

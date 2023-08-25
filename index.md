@@ -5,7 +5,7 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
 canonical_url: 'https://tggsearch.github.io'
 ---
 ## 常用资源导航
-<div  class='icon-block-body'>
+<div  class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="./telegram.html">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报教程" height=50px>

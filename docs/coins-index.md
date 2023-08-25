@@ -5,7 +5,7 @@ description: 欧易okx，币安bnb，gateIo，bitGet，安全可信赖的币圈�
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ---
 ## 币圈各大网址导航
-<div class='icon-block-body'>
+<div class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="https://www.okx.com/join/90884854" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
