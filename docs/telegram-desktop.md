@@ -20,13 +20,15 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-desktop.html'
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-win-1.0.1-x64-setup_for_dh.exe" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/windows-icon.webp" alt="windows 下载" height=50px>
-        <p>windows 下载</p> 
+        <p>windows 下载</p>
+ 
     </a>
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-mac-1.0.1-x64_for_dh.dmg" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/mac-icon.webp" alt="mac 版本下载" height=50px>
-        <p>mac 版本下载</p> 
+        <p>mac 版本下载</p>
+ 
     </a>
   </div>
 </div>

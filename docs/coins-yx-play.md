@@ -9,7 +9,9 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-yx-play.html'
 首先得需要去注册下载账号，并且入金一定的金额，这里建议刚开始玩，入金 50 美金左右即可。
 
 注册下载方法请查看：[OKX 欧易如何下载安装以及注册](./okx-install.html) 注册下载好后，需要手把手免费教你携带好自己注册的UID备注加 QQ： 
-<p class="red-text-word"> 3502434065 </p> 
+
+<p class="red-text-word"> 3502434065 </p>
+ 
 
 ## 下单流程
 在介绍知识之前，先教大家如何开始做永续合约，请大家看下图：
