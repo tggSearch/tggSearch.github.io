@@ -22,14 +22,14 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
   </div>
     <div class='icon-block-item'>
     <a href="https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO 官网" height=50px>
         <p>GateIO</p>
  
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="https://partner.bitget.com/bg/ml6l51911687837747447" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bitget.png" alt="电BitGet" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bitget.png" alt="BitGet 官网" height=50px>
         <p>BitGet</p>
  
     </a>
