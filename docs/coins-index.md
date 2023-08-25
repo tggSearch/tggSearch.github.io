@@ -9,25 +9,25 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
   <div class='icon-block-item'>
     <a href="https://www.okx.com/join/90884854" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
-        <p>欧易</p>
+        <p>欧易</p> 
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px>
-        <p>币安</p>
+        <p>币安</p> 
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO" height=50px>
-        <p>GateIO</p>
+        <p>GateIO</p> 
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="https://partner.bitget.com/bg/ml6l51911687837747447" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bitget.png" alt="电BitGet" height=50px>
-        <p>BitGet</p>
+        <p>BitGet</p> 
     </a>
   </div>
 </div>
@@ -36,7 +36,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 废话不多说，以下链接地址自行取。
 
 ## 交易所网址导航
->  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
+>  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p> 
 
 欧易无法打开的，请切换关闭 VPN ,然后点击国内地址，海外地址部分 VPN 屏蔽了，如果你需要交易，请使用返佣地址注册，将会为你节省不少的手续费。
 
@@ -50,7 +50,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 请注意欧易必须要区分国内链接和国外链接，而币安的链接在苹果手机打开会提示安全问题，具体可以参考此文章 [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./docs/bnb-buy-coins.html) 里面有详细介绍了如何在苹果手机上打开币安网页并注册。
 
 ## 交易所电报官方群导航
->  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
+>  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p> 
 
 各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了。
 
