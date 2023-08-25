@@ -6,7 +6,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 ---
 OKX 欧易注册下载教程，安卓可以直接点击连接下载，苹果需要海外id，会比较麻烦一些，需要寻找免费的海外苹果账号，具体注册流程如下。
 ### 首先去注册
-在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到 <p class="red-text-word">盲盒奖励 1-20美金看运气</p>，以及返佣奖励。
+在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到 <p class="red-text-word">盲盒奖励 1-20美金看运气</p> ，以及返佣奖励。
 
 [国内无 VPN 梯子注册地址 https://www.zj-inv.com/join/90884854](https://www.zj-inv.com/join/90884854)
 
