@@ -40,37 +40,29 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 废话不多说，以下链接地址自行取。
 
 ## 交易所网址导航
->  
-<p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
+>  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
  
-
 欧易无法打开的，请切换关闭 VPN ,然后点击国内地址，海外地址部分 VPN 屏蔽了，如果你需要交易，请使用返佣地址注册，将会为你节省不少的手续费。
 
 |  交易所   | 官网地址  | 返佣地址  | 
 |  ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](https://www.zj-inv.com/join/85562820)  [欧易海外](https://www.okx.com/join/85562820) | [返佣国内](https://www.zj-inv.com/join/39154880) [返佣海外](https://www.okx.com/join/39154880)  |
-| 币安-bnb | [bnb币安官网](https://accounts.binance.com/register?ref=BC6OMTRS) | [币安返佣地址](https://accounts.binance.com/register?ref=ED13UFJ5)  |
-| gateIO | [GateIO官网](https://www.gate.io/signup/UllHXA0J/off?ref_type=103) | [GateIO返佣地址](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
-| bitGet | [bitGet官方](https://partner.bitget.com/bg/CVS7PZ) | [bitGet 返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)  |
+| 欧易-okx  | [欧易国内](https://www.zj-inv.com/join/39154880)  [欧易海外](https://www.okx.com/join/39154880) | [返佣国内](https://www.zj-inv.com/join/39154880) [返佣海外](https://www.okx.com/join/39154880)  |
+| 币安-bnb | [bnb币安官网](https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](https://accounts.binance.com/register?ref=ED13UFJ5)  |
+| gateIO | [GateIO官网](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
+| bitGet | [bitGet官方](https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)  |
 
 请注意欧易必须要区分国内链接和国外链接，而币安的链接在苹果手机打开会提示安全问题，具体可以参考此文章 [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./bnb-buy-coins.html) 里面有详细介绍了如何在苹果手机上打开币安网页并注册。
 
 ## 交易所电报官方群导航
->  
-<p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
- 
+>  <p class="red-text-word">如果你在微信或者其他app内请右上角，外部浏览器打开，然后再点击打开，否则将提示安全无法被打开</p>
 
 各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了。
 
-[币圈综合交流(欧易币安)](https://t.me/okxbnbEx)
-
-[欧易okx官方中文群](https://t.me/OKXGroup_CN)
-
-[币安bnb官方中文群](https://t.me/binancechinese)
-
-[bitGet官方中文群](https://t.me/Bitget_CNOfficial)
-
-[gateIO官方中文群](https://t.me/gate_zh)
+1. 币圈综合交流(欧易币安） @okxbnbEx
+2. 欧易okx官方中文群 OKXGroup_CN
+3. 币安bnb官方中文群 @binancechinese
+4. bitGet官方中文群 @Bitget_CNOfficial
+5. gateIO官方中文群 @gate_zh
 
 ## 币圈基础教学
 币圈有很多基础教程，买卖 USDT 是最基础的，因此在入币圈是需要必修的课程，永续合约是目前币圈玩的最多的衍生金融产品。
