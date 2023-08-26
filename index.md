@@ -33,16 +33,16 @@ canonical_url: 'https://tggsearch.github.io'
 </div>
 
 ## 置顶教程问题
+### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code.html)
+### [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
+### [🔥OKX 欧易如何下载安装以及注册🔥](./docs/okx-install.html)
+### [电报 telegram 纸飞机 综合下载注册方法](./docs/register.html)
+### [电报 telegram 开车群，电报群去哪里搜索，去哪里找？](./docs/telegram-driver-bus.html)
 ### [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./docs/bnb-buy-coins.html)
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code.html)
-### [Telegram 电报 新用户指南：如何开始并发现有趣的电报群](./docs/telegram-start.html)
-### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios.html)
 ### [推特注册方法](./docs/twitter.html)
 ### [推特中文博主榜单](./docs/twitter-ranking.html)
 ### [VPN方法，内含苹果和安卓](./docs/vpn.html)
-### [okx 欧易注册流程](./docs/okx.html)
-### [okx 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [tiktok 教程](./docs/tiktok.html)
-### [探秘空投，什么是空投，撸空投是什么意思，应该如何去撸空投](./docs/airdrop.html)
 
 其他问题可以右下角沟通，及时会处理，如果不及时请联系页面中的 QQ
