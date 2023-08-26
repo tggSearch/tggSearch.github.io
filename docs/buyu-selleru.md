@@ -6,15 +6,15 @@ canonical_url: 'https://tggsearch.github.io/docs/buyu-selleru.html'
 ---
 平台很多，这里主要是以欧易为例子，其他平台例如 币安、bitGet以及gateIO都类似
 请特别注意：买卖 U 走正规渠道，非法渠道会涉及帮信罪以及涉嫌洗钱嫌疑，请勿走任何其他非法渠道，避免这个问题。
-欧易、币安都是相对来说比较可信的平台，大家可以都注册下载一下，根据自己的喜好来选择，关于各大交易所的优缺点，我也做了视频讲解，大家可以看这里，[如何选择适合您的加密货币交易所？](https://www.youtube.com/watch?v=e5eqMJAFkPs&t=10s) 具体的注册方法如下（<b>请注意一定要通过下面链接注册，否则无法享受返佣</b>）：
+欧易、币安都是相对来说比较可信的平台，大家可以都注册下载一下，根据自己的喜好来选择，关于各大交易所的优缺点，我也做了视频讲解，大家可以看这里，[如何选择适合您的加密货币交易所？](./302.html?target=https://www.youtube.com/watch?v=e5eqMJAFkPs&t=10s) 具体的注册方法如下（<b>请注意一定要通过下面链接注册，否则无法享受返佣</b>）：
 
-[欧易国内返佣地址](https://www.okx.com/join/79153417)
+[欧易国内返佣地址](./302.html?target=https://www.okx.com/join/79153417)
 
-[币安返佣地址](https://accounts.binance.com/register?ref=G1Q331LS)
+[币安返佣地址](./302.html?target=https://accounts.binance.com/register?ref=G1Q331LS)
 
-[bitGet返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)
+[bitGet返佣地址](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)
 
-[gateIO返佣地址](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)
+[gateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)
 
 ## 实名认证（各大交易所都有,以欧易为例子）
 为了避免洗钱嫌疑，避免非法资金，平台都需要进行实名认证，因此这也是为了大家安全考虑，减少不必要的麻烦，实名认证的方法很简单，欧易在首页就会有一个实名认证的按钮。也可以在左上角的功能里面，点击个人资料设置，在个人资料设置里面有身份认证，去认证就行了。如下图所示：
@@ -39,4 +39,4 @@ canonical_url: 'https://tggsearch.github.io/docs/buyu-selleru.html'
     <img  alt="okx-ab" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-ab.png" height="500"/>
 </div>
 
-接下来就可以正常进行购买了，至于如何买卖永续合约，大家可以参考这个视频 [永续合约怎么玩](https://www.youtube.com/watch?v=SJ2vnMhZTbk&t=6s)
+接下来就可以正常进行购买了，至于如何买卖永续合约，大家可以参考这个视频 [永续合约怎么玩](./302.html?target=https://www.youtube.com/watch?v=SJ2vnMhZTbk&t=6s)

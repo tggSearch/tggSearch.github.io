@@ -15,9 +15,9 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-android.html'
 ## 网络梯子VPN
 这是海外用户的加速器，主要是给海外用户加速使用。
 
-[首选注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
+[首选注册地址](./302.html?target=https://www.三毛机场.shop/#/register?code=6xuhG85m)
 如果首选地址无法打开
-[备用地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
+[备用地址](./302.html?target=https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！！！
 1. **注册账号**，使用上面的首选注册地址链接去注册，里面有一个订阅服务， 
 <p class="red-text-word">建议选择9块一个月的就行</p>
@@ -36,10 +36,10 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-android.html'
 <p class="red-text-word">请注意我们用的是官方网站下载，一定要打开梯子</p>
  ，选择香港节点就行了，然后打开下面链接
 有最新APK，下载地址如下
-[https://telegram.org/android](https://telegram.org/android)
+[https://telegram.org/android](./302.html?target=https://telegram.org/android)
 
 没法使用官网下载，可以前往这里，广告有点多，需要耐心点击
-[https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file](https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file)
+[https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file](./302.html?target=https://www.mediafire.com/file/hslg2fwbgqhggao/Telegram.apk/file)
 
 ## 注册电报
 ### 打开梯子
@@ -57,7 +57,7 @@ https://t.me/chineseSearchService
 
 如下，进群后，输入你想要搜索的群，这就是正常的搜索引擎。
 ### 如何切换中文
-加入 [https://t.me/chineseSearchService](https://t.me/chineseSearchService) 该群，进群后，回复中文会返回2个切换的链接，随便选择一个就行。
+加入 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService) 该群，进群后，回复中文会返回2个切换的链接，随便选择一个就行。
 ## 电报骗子与禁忌
 电报太多骗子，一般主动私聊你的都是骗子，大家不要存在侥幸心理，不要在电报进行任何交易，电报主要是获取资源的渠道。
 骗子手法太多，防不胜防，建议大家不要理会主动私聊你的人

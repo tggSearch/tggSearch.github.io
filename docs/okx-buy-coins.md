@@ -9,9 +9,9 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 ### 注册并登录
 链接自带返佣，先注册再下载
 
-[OKX海外注册地址：https://www.okx.com/join/30029571](https://www.okx.com/join/30029571)
+[OKX海外注册地址：https://www.okx.com/join/30029571](./302.html?target=https://www.okx.com/join/30029571)
 
-[OKX国内注册地址：https://www.cnouyi.careers/join/30029571](https://www.cnouyi.careers/join/30029571)
+[OKX国内注册地址：https://www.cnouyi.careers/join/30029571](./302.html?target=https://www.cnouyi.careers/join/30029571)
 
 ### APP下载领取1-20美金盲盒
 下载方法，请查看此文章 [OKX 欧易如何下载安装以及注册](./okx-install.html)
@@ -29,7 +29,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 
 欧易想成为节点是有要求的，因此不是所有人都能成为节点，计划，但是如果我也想赚钱怎么办，可以联系
 
-[电报联系 https://t.me/uwantme12](https://t.me/uwantme12)
+[电报联系 https://t.me/uwantme12](./302.html?target=https://t.me/uwantme12)
 
 月入100 U 不是梦，假设你邀请了 5 个人，每个人每个月的交易额在 10万 USDT，那么你将会有如下收益
  

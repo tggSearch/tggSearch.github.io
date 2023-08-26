@@ -4,7 +4,7 @@ title: Telegram 电报 新用户指南：如何开始并发现有趣的电报群
 description: 经常有人会问，有没有比较有趣的电报群，去哪里找一些有趣的电报群，而这里有一个全能电报群叫做 @chineseSearchService，你可以通过这个链接加入
 canonical_url: 'https://tggsearch.github.io/docs/telegram-start.html'
 ---
-经常有人会问，有没有比较有趣的电报群，去哪里找一些有趣的电报群，而这里有一个全能电报群叫做 @chineseSearchService，你可以通过这个链接加入 [https://t.me/chineseSearchService](https://t.me/chineseSearchService) 
+经常有人会问，有没有比较有趣的电报群，去哪里找一些有趣的电报群，而这里有一个全能电报群叫做 @chineseSearchService，你可以通过这个链接加入 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService) 
 
 ## 介绍
 
@@ -12,7 +12,7 @@ Telegram是一款备受欢迎的即时通讯应用程序，让用户能够与朋
 
 ## 步骤1：加入群聊
 
-一旦您成功注册并设置完个人资料，您可以开始加入电报群聊。我们推荐您加入群聊 @chineseSearchService（[点击这里加入](https://t.me/chineseSearchService)）。该群是一个搜索服务群，您可以通过它找到其他有趣的电报群。点击链接后，您将被带到该群的页面，点击“加入群聊”即可。
+一旦您成功注册并设置完个人资料，您可以开始加入电报群聊。我们推荐您加入群聊 @chineseSearchService（[点击这里加入](./302.html?target=https://t.me/chineseSearchService)）。该群是一个搜索服务群，您可以通过它找到其他有趣的电报群。点击链接后，您将被带到该群的页面，点击“加入群聊”即可。
 
 ## 步骤2：搜索有趣的电报群
 

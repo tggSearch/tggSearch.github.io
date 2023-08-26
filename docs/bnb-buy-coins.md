@@ -9,7 +9,7 @@ canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 币安（Binance）是全球领先的加密货币交易平台之一。作为数百万用户信赖的首选平台，币安提供安全、可靠和高效的数字资产交易服务。如果您渴望参与加密货币市场并获得丰厚回报，币安绝对是您不可错过的选择。
 ### 币安注册地址
 
-[https://accounts.binance.com/register?ref=ZGR4DOXV](https://accounts.binance.com/register?ref=ZGR4DOXV)
+[https://accounts.binance.com/register?ref=ZGR4DOXV](./302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
 
 ### 币安网址苹果无法打开
 
@@ -20,21 +20,21 @@ canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 
 ### 下载安装教程
 
-[安卓下载地址](https://download-1306379396.file.myqcloud.com/pack/BNApp.apk)
+[安卓下载地址](./302.html?target=https://download-1306379396.file.myqcloud.com/pack/BNApp.apk)
 
-如果想免费的苹果海外账号，[点击查看这篇文章的分享](./apple-id.html)，如果无法使用，请前往[综合搜索群](https://t.me/chineseSearchService) 直接回复 appid 即可.
+如果想免费的苹果海外账号，[点击查看这篇文章的分享](./apple-id.html)，如果无法使用，请前往[综合搜索群](./302.html?target=https://t.me/chineseSearchService) 直接回复 appid 即可.
 
-[苹果需要注册海外苹果账号，注册方式参考视频](https://www.youtube.com/watch?v=oY396wEXzww)
+[苹果需要注册海外苹果账号，注册方式参考视频](./302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
 注册好后，直接搜索 binance 即可
 
 ### 为什么要用币安
 币安是币圈最大交易所之一，币安的所有币种都经过严格审核，因此很少会遇到割韭菜的币种。因此作为普通散户，币安是最好的投资交易所之一。
 
 ### 为什么要从这里注册
-[https://accounts.binance.com/register?ref=ZGR4DOXV](https://accounts.binance.com/register?ref=ZGR4DOXV)
+[https://accounts.binance.com/register?ref=ZGR4DOXV](./302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
 那么为什么要从返佣这里注册呢？高额佣机会，限时的活动，过了这个村就没这个店了，可以先注册以后再用。因为现在不是牛市，等牛市肯定不会有这么高的返佣机会。
 
-[https://accounts.binance.com/register?ref=ZGR4DOXV](https://accounts.binance.com/register?ref=ZGR4DOXV)
+[https://accounts.binance.com/register?ref=ZGR4DOXV](./302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
 请注意打开链接会提示非安全地址（因为是交易所，苹果会提示欺诈链接，属于正常现象）点击，要打开此链接即可，方法如下：
 
 ### 什么是高额返佣？

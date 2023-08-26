@@ -8,7 +8,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 
 ### SMS-接码平台
 
-这个是非常靠谱的一个平台，[sms-activate](https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务
+这个是非常靠谱的一个平台，[sms-activate](./302.html?target=https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务
 
 <div align=center  style="display: flex">
     <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/sms-1.webp" height=400px/>
@@ -20,7 +20,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 
 ### 账号购买
 
-如果你嫌注册麻烦，或者新号，容易被封禁的问题，你可以购买一个，目前的价格是 25元一个，可以前往电报频道下单，[https://t.me/fjzhgxp](https://t.me/fjzhgxp) 无法电报联系，请右下角聊天窗口联系，或者首页加一下技术客服的 QQ
+如果你嫌注册麻烦，或者新号，容易被封禁的问题，你可以购买一个，目前的价格是 25元一个，可以前往电报频道下单，[https://t.me/fjzhgxp](./302.html?target=https://t.me/fjzhgxp) 无法电报联系，请右下角聊天窗口联系，或者首页加一下技术客服的 QQ
 <div align=center>
     <img alt="频道信息" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/account-buy.webp" height=200px/>
 </div>
@@ -29,9 +29,9 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 
 新注册的电话号要注意以下细节，并且需要逐一的进行处理，大家按照下面的教程处理就行了。
 
-1. 切换中文语言包，加群 [https://t.me/awuawua](https://t.me/awuawua) ，然后群里回复 中文 即可，点击消息切换；
+1. 切换中文语言包，加群 [https://t.me/awuawua](./302.html?target=https://t.me/awuawua) ，然后群里回复 中文 即可，点击消息切换；
 
-2. 解除双向限制，这部分你可以加群，然后直接回复 <b>双向</b>，就可以看到解决方案了。[https://t.me/awuawua](https://t.me/awuawua)
+2. 解除双向限制，这部分你可以加群，然后直接回复 <b>双向</b>，就可以看到解决方案了。[https://t.me/awuawua](./302.html?target=https://t.me/awuawua)
 
 3. 去除敏感限制，这部分请查看这篇文章 [电报群打不开提示这个敏感信息怎么办？如何解除敏感限制](./telegram-group-spc.html)
 

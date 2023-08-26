@@ -13,7 +13,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 ### 手机端切换
 
 加入群聊进行切换简体中文，两种方法加入电报群进行切换
-1. 直接打开连接（该连接需要打开梯子），加入群里 [https://t.me/chineseSearchService](https://t.me/chineseSearchService)
+1. 直接打开连接（该连接需要打开梯子），加入群里 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService)
 2. 或者你可以在消息页面，直接搜索 @chineseSearchService
 
 接下来进入群聊后，直接回复 中文 或者 中文版 就回复你切换的链接，点击其中的任何一个，然后选择 Change 的英文就可以切换了。 
@@ -35,5 +35,5 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 
 ### 自动翻译聊天
 如果你嫌弃内容的手动翻译，你可以选择自动翻译，但是自动翻译需要开通高级订阅功能，开通了就可以实时翻译了，开通方法，前往这里开通即可。
-[https://appleshop001.com/?from=10664](https://appleshop001.com/?from=10664)
+[https://appleshop001.com/?from=10664](./302.html?target=https://appleshop001.com/?from=10664)
 里面找到“Telegram 正规会员充值”

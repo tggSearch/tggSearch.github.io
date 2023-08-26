@@ -9,34 +9,34 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到。
 <p class="red-text-word">盲盒奖励 1-20美金看运气，以及返佣奖励</p>
 
-[国内无 VPN 梯子注册地址 https://www.zj-inv.com/join/90884854](https://www.zj-inv.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.zj-inv.com/join/90884854](./302.html?target=https://www.zj-inv.com/join/90884854)
 
-[有 VPN 梯子注册地址 https://www.okx.com/join/90884854](https://www.okx.com/join/90884854)
+[有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
  
 <p class="red-text-word">目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，不会下载不会玩，请联系 QQ手把手免费教，包括如何下载、注册、买卖U以及玩永续合约：3502434065</p>
  
-[https://www.cnouyi.reisen/join/90884854](https://www.cnouyi.reisen/join/90884854)
+[https://www.cnouyi.reisen/join/90884854](./302.html?target=https://www.cnouyi.reisen/join/90884854)
 
 注册随意使用邮箱和手机号都行。注册好后，我们就来安装应用了，这里需要区分安卓还是苹果。
 
 ### 安卓安装方法
 
-[点击下载本地安卓apk文件](https://static.nfuwieiw.cn/upgradeapp/okx-android.apk)
+[点击下载本地安卓apk文件](./302.html?target=https://static.nfuwieiw.cn/upgradeapp/okx-android.apk)
 
 下载完成后，点击安装就行，部分手机会识别为风险应用，会让你再三确认，或者需要让你打开纯净模式，都是正常提示，请大家允许就行了。
 
 ### 苹果安装方法
 
-苹果你需要有一个海外平台账号，如果你没有，想临时工借用一个，也可以，你可以加入电报群 [综合导航搜索群](https://t.me/chineseSearchService) 然后回复 appid，就可以得到当前可以使用的共享苹果账号了，或者前往这篇文章获取
+苹果你需要有一个海外平台账号，如果你没有，想临时工借用一个，也可以，你可以加入电报群 [综合导航搜索群](./302.html?target=https://t.me/chineseSearchService) 然后回复 appid，就可以得到当前可以使用的共享苹果账号了，或者前往这篇文章获取
 
 [2023 年免费香港最新苹果账号分享](./apple-id.html)
 
 这里要非常注意，登录的方法需要按照这个流程，不可在 icloud 种登录（请特别注意这点，不然可能导致手机被锁）。
 
 想要永久的海外苹果账号，也可以前往这里购买
- [https://appleshop001.com/?from=10664#shop](https://appleshop001.com/?from=10664#shop)
+ [https://appleshop001.com/?from=10664#shop](./302.html?target=https://appleshop001.com/?from=10664#shop)
 
-如果你想永久获得一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](https://www.youtube.com/watch?v=oY396wEXzww)
+如果你想永久获得一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](./302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
 
 下载完成后，直接在应用商店搜索 OKX 或者 欧易就行了，然后点击安装。
 

@@ -6,7 +6,7 @@ canonical_url: 'https://tggsearch.github.io/docs/pay-bot-cn.html'
 ---
 假设你有很好的资源，比如你有社工库、比如你有很多破解软件又或者你有免费的 chatgpt 账号共享、甚至是海外的各类会员账号共享，或者你有技术，可以带领大家玩币圈永续合约，保证大家的一定口碑收入，所以你希望分享给那些加入群聊的人，对进群的收费，那么这时候你就需要一个付费机器人了。
 
-[feeMaster 机器人 telegram 链接](https://t.me/feeMasterBot)
+[feeMaster 机器人 telegram 链接](./302.html?target=https://t.me/feeMasterBot)
 
 ## 操作指南
 
@@ -24,7 +24,7 @@ canonical_url: 'https://tggsearch.github.io/docs/pay-bot-cn.html'
 
 ### 5. 点击配置后，会进入机器人配置界面，配置必要的入群费用和收款地址即可
 这部分也比较简单，进入后会有很多个配置，自己看需要进行设置，其中带*号的是必须填写的项目，请特别注意目前机器人只支持ERC30-USDT合约
-如果你还没有收款地址，前往这里注册欧易账号，可以通过欧易提币方式设置 ERC20 的收款地址（10%佣金返现）：[https://www.okx.com/join/94967806](https://www.okx.com/join/94967806)
+如果你还没有收款地址，前往这里注册欧易账号，可以通过欧易提币方式设置 ERC20 的收款地址（10%佣金返现）：[https://www.okx.com/join/94967806](./302.html?target=https://www.okx.com/join/94967806)
 
 ### 6. 启动机器人
 所有配置配置完成后，点击启动机器人，会检查必要的配置信息，如果都已经完成配置，就会启动机器人服务，这时候你就会收到启动成功提示了

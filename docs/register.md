@@ -17,9 +17,9 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 ## 网络梯子VPN
 这是海外用户的加速器，主要是给海外用户加速使用。
 ### Android（安卓）
-[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
+[梯子注册地址](./302.html?target=https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！！！
-1. 使用上面的体制注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一年的就行 
+1. 使用上面的体制注册地址链接去注册（[梯子注册地址](./302.html?target=https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一年的就行 
 
 <p class="red-text-word">200G流量比较充足（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>
 
@@ -34,9 +34,9 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 ### iOS（苹果）
 #### 苹果推荐方法
 可以前往这里购买
-[https://idappstore.cc/](https://idappstore.cc/)
+[https://idappstore.cc/](./302.html?target=https://idappstore.cc/)
 打不开上面的用下面的
-[https://appidshop.com/](https://appidshop.com/)
+[https://appidshop.com/](./302.html?target=https://appidshop.com/)
  
 <p class="red-text-word">（特别申明：自己负责，不是我的服务，有问题找平台客服）</p>
  ，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
@@ -45,9 +45,9 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
 
 没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！
 #### 接下来的步骤和安卓基本是一样的
-[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
+[梯子注册地址](./302.html?target=https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！
-1. 使用上面的梯子注册地址链接去注册（[梯子注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一个月的就行 
+1. 使用上面的梯子注册地址链接去注册（[梯子注册地址](./302.html?target=https://www.三毛机场.shop/#/register?code=6xuhG85m)），里面有一个订阅服务，建议选择9块一个月的就行 
 <p class="red-text-word">（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>
  ；
 2. 确保上面的（小火箭 shadowrocket）苹果app下载完成后，回到网页左侧菜单选择仪表盘，里面有一个一键订阅，弹出菜单，选择导入 shadowrocket，点击就会拉起你刚下载的APP，然后等待它配置完成，这时候在主页就会看到很多节点选择的；
@@ -64,13 +64,13 @@ canonical_url: 'https://tggsearch.github.io/docs/register.html'
  
 选择香港节点就行了，然后打开下面链接
 有最新APK，下载地址如下
-[https://telegram.org/android](https://telegram.org/android)
+[https://telegram.org/android](./302.html?target=https://telegram.org/android)
 
 没法使用官网下载，可以前往这里，广告有点多，需要耐心点击
-[https://upfiles.com/TCTCT6](https://upfiles.com/TCTCT6)
+[https://upfiles.com/TCTCT6](./302.html?target=https://upfiles.com/TCTCT6)
 
 
-这是官网地址，只有英文版本，进入app后可以切换，关于如何切换中文版本查看其他人的抖音视频：[https://v.douyin.com/AEypu4V/](https://v.douyin.com/AEypu4V/)
+这是官网地址，只有英文版本，进入app后可以切换，关于如何切换中文版本查看其他人的抖音视频：[https://v.douyin.com/AEypu4V/](./302.html?target=https://v.douyin.com/AEypu4V/)
 ### iOS
 在前面已经下载好了电报这里就不用下载了
 ## 注册电报
@@ -89,7 +89,7 @@ https://t.me/chineseSearchService
 
 如下，进群后，输入你想要搜索的群，这就是正常的搜索引擎。
 ### 如何切换中文
-加入 [https://t.me/chineseSearchService](https://t.me/chineseSearchService) 该群，进群后，回复中文会返回2个切换的链接，随便选择一个就行。
+加入 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService) 该群，进群后，回复中文会返回2个切换的链接，随便选择一个就行。
 ## 电报骗子与禁忌
 电报太多骗子，一般主动私聊你的都是骗子，大家不要存在侥幸心理，不要在电报进行任何交易，电报主要是获取资源的渠道。
 骗子手法太多，防不胜防，建议大家不要理会主动私聊你的人
@@ -98,10 +98,10 @@ https://t.me/chineseSearchService
 1. 首先确认你的VPN是否处于链接状态，如果不正常会提示如下问题；
 2. 请大家一定要多试几次，因为电报确实偶尔会收不到验证码，或者每天试试；
 3. 请查看截图，如果提示是验证码发送到你的其他设备，而不是发送了短信，那这时候就是有问题了，可以尝试换个手机试试，如果其他手机能登陆，先登陆，再使用你的最初那个手机去登陆，它会将验证码发送到你刚才登陆的手机上，这样你就可以登陆了；
-4. 如果很多天确实不行，建议走接码虚拟号平台 [https://sms-activate.org/?ref=2821105](https://sms-activate.org/?ref=2821105)；
+4. 如果很多天确实不行，建议走接码虚拟号平台 [https://sms-activate.org/?ref=2821105](./302.html?target=https://sms-activate.org/?ref=2821105)；
 ### iOS怎么下载
 这里需要注意，大家切换苹果商店账号，可以前往 设置->个人信息->媒体与购买->退出登陆->返回前一个页面->再次进入个人信息->点击媒体与购买->选择不是xxx->输入你的苹果id即可，不要全部退出
-海外苹果免费账号分享，这个平台也有提示 [https://freevpn007.cf/share.html](https://freevpn007.cf/share.html)
+海外苹果免费账号分享，这个平台也有提示 [https://freevpn007.cf/share.html](./302.html?target=https://freevpn007.cf/share.html)
 
  
 <p class="red-text-word">其他问题请提issue</p>

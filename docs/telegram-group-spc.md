@@ -8,14 +8,14 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-group-spc.html'
 今天这里就教大家怎么打开敏感限制。
 ## 视频介绍流程
 下面有视频介绍流程，可以点击查看视频教程
-抖音：[https://v.douyin.com/U46AjUk/](https://v.douyin.com/U46AjUk/)
+抖音：[https://v.douyin.com/U46AjUk/](./302.html?target=https://v.douyin.com/U46AjUk/)
 
-youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](https://www.youtube.com/shorts/6Wvdn0akiN4)
+youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](./302.html?target=https://www.youtube.com/shorts/6Wvdn0akiN4)
 
 ## 文字步骤
 ### 登录网页版的电报操作
 1. 打开科学上网工具，也就是梯子，或者叫做 VPN；
-2. 用原生的safari浏览器，打开网页[web.telegram.org](https://web.telegram.org)，选择使用手机号登录，一般在二维码下面，有一个 Login by phone number；
+2. 用原生的safari浏览器，打开网页[web.telegram.org](./302.html?target=https://web.telegram.org)，选择使用手机号登录，一般在二维码下面，有一个 Login by phone number；
 3. 然后输入手机号，这时候会发送一个设备码到你的手机app的电报里面；
 4. 打开手机电报，复制号验证码，然后在网页版登录；
 5. 成功登录后，选择左上角的菜单按钮，一般是在最左上角；

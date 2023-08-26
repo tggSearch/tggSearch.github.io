@@ -9,7 +9,7 @@ canonical_url: 'https://tggsearch.github.io/docs/airdrop.html'
 
 为什么空投可以赚钱，是因为免费的任务就可以获得一些高额的奖励，比如之前的 op 网络的测试，很多人都获得了几万美金的奖励，又比如近期的 arb 等。
 
-[空投交流电报群：https://airdrops.io/](https://airdrops.io/) 
+[空投交流电报群：https://airdrops.io/](./302.html?target=https://airdrops.io/) 
 ## 一、什么是空投？
 空投是指在加密货币领域中，项目方向现有或潜在的用户免费分发一定数量的代币或加密资产的行为。这种分发通常是为了推广项目、增加用户群体、建立社区或奖励现有的持币者。空投代币可以直接放入用户的钱包中，或者要求用户完成特定的任务，例如关注社交媒体账号、参与讨论、分享推广链接等。
 
@@ -19,10 +19,10 @@ canonical_url: 'https://tggsearch.github.io/docs/airdrop.html'
 ## 二、如何参与空投，也叫做撸空投？
 撸空投下面是参与空投活动的详细步骤指南：
 
-1. **寻找可靠的空投信息来源**：了解哪些项目正在进行空投活动，可以通过加密货币新闻网站、社交媒体、加密货币论坛等途径获取最新的空投信息。这部分本群主要是参考：[https://airdrops.io/](https://airdrops.io/) 里面是英文的，用中文翻译插件翻译一下就行了。
+1. **寻找可靠的空投信息来源**：了解哪些项目正在进行空投活动，可以通过加密货币新闻网站、社交媒体、加密货币论坛等途径获取最新的空投信息。这部分本群主要是参考：[https://airdrops.io/](./302.html?target=https://airdrops.io/) 里面是英文的，用中文翻译插件翻译一下就行了。
 
 2. **验证项目的可信度**：在参与任何空投之前，务必进行充分的调查和研究。评估项目的团队背景、白皮书、路线图和社区反馈等方面的信息，确保项目具备可靠性和潜力。
-这种最好有比较优质的空投群，比如 [https://t.me/luaridrop](https://t.me/luaridrop)群里面有比较好的人群帮大家进行了筛选，避免做一些无意义的空投项目
+这种最好有比较优质的空投群，比如 [https://t.me/luaridrop](./302.html?target=https://t.me/luaridrop)群里面有比较好的人群帮大家进行了筛选，避免做一些无意义的空投项目
 
 3. **准备钱包地址**：选择一个安全可靠的加密钱包，并确保你拥有对应的私钥或助记词。常用的钱包类型包括硬件钱包、桌面钱包、移动钱包等。
 这里建议大家，可以选择欧易 web3 钱包或者币安的钱包。
@@ -30,13 +30,13 @@ canonical_url: 'https://tggsearch.github.io/docs/airdrop.html'
 
     [欧易注册下载教程](./okx-install.html)
 
-    [欧易国内无梯子网络使用](https://www.cnouyi.careers/join/7227018)
+    [欧易国内无梯子网络使用](./302.html?target=https://www.cnouyi.careers/join/7227018)
     
-    [欧易海外开梯子点击使用](https://www.okx.com/join/7227018)
+    [欧易海外开梯子点击使用](./302.html?target=https://www.okx.com/join/7227018)
 
     [币安下载教程](./bnb-buy-coins.html)
 
-    [币安注册地址，可获得10%返佣交易](https://accounts.binance.com/register?ref=G1Q331LS)
+    [币安注册地址，可获得10%返佣交易](./302.html?target=https://accounts.binance.com/register?ref=G1Q331LS)
 
 4. **完成空投要求**：每个空投项目都可能有不同的要求，例如关注社交媒体账号、填写表格、转发推文等。确保你满足所有要求，并按照指示完成任务。一般都不会特别复杂，有复杂的也可以在群里面交流，都会有大佬知道。
 

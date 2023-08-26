@@ -5,9 +5,9 @@ description: 免费分享苹果账号，有需要的按照使用须知登录使�
 canonical_url: 'https://tggsearch.github.io/docs/apple-id.html'
 ---
 本地址包含：免费的各类账号，包括海外苹果账号/飞机号/免费SSR节点/谷歌邮箱等，下面的海外苹果账号如果无法使用，或者没有更新请右下角联系，或者加入电报群，自动获取最新的苹果账号，电报群请加综合导航群，可以直接电报搜索，或者点击下面链接加入
-[https://t.me/awuawua](https://t.me/awuawua)
+[https://t.me/awuawua](./302.html?target=https://t.me/awuawua)
 如果需要永久海外苹果账号，请关注频道联系频道主购买：
-[https://t.me/fjzhgxp](https://t.me/fjzhgxp)
+[https://t.me/fjzhgxp](./302.html?target=https://t.me/fjzhgxp)
 ## 账号
 账号状态：正常
 

@@ -12,14 +12,14 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-apk.html'
 ### 下载方式
 下载地址请前往这里，长期更新
 
-[国内网络，无 VPN 下载地址](https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file)
+[国内网络，无 VPN 下载地址](./302.html?target=https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file)
 
-[海外网络，有 VPN 下载地址](https://telegram.org/dl/android/apk)
+[海外网络，有 VPN 下载地址](./302.html?target=https://telegram.org/dl/android/apk)
 
 ### 中文切换
 上面下载的都是英文版本，如果你想切换中文版本，需要先注册，注册好以后，加入下面的电报群
 
-[https://t.me/awuawua](https://t.me/awuawua)
+[https://t.me/awuawua](./302.html?target=https://t.me/awuawua)
 
 然后回复“中文”，就可以看到回复的消息，点击任何一个就可以切换简体中文了
 

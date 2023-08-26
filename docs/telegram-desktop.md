@@ -10,7 +10,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-desktop.html'
 
 随着社交网络的多样化，我们日常生活中需要同时管理多个社交平台的聊天，这对于任何人来说都可能是一项挑战。针对Telegram用户，我们推出了一款全新的聊天客户端——KamiChat，不仅支持Telegram，还集合了Facebook Messenger、WhatsApp和WeChat等平台，助你高效管理多账号，体验无与伦比的聊天便利。
 <div align=center>
-    <img alt="telegram-desktop-mac" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-desktop-mac.webp" class="page-img" width="100%"/>
+    <img alt="telegram-desktop-mac" src="./302.html?target=https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-desktop-mac.webp" class="page-img" width="100%"/>
 </div>
 
 ### 下载体验方法
@@ -18,14 +18,14 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-desktop.html'
 
 <div style="display: flex;grid-template-columns: repeat(4, 1fr.html);align-items: start;gap: 10px;">
   <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-win-1.0.1-x64-setup_for_dh.exe" target="_blank" rel="noopener noreferrer">
+    <a href="./302.html?target=https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-win-1.0.1-x64-setup_for_dh.exe" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/windows-icon.webp" alt="windows 下载" height=50px>
         <p>windows 下载</p>
  
     </a>
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
-    <a href="https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-mac-1.0.1-x64_for_dh.dmg" target="_blank" rel="noopener noreferrer">
+    <a href="./302.html?target=https://ec-live-chat-prod.oss-ap-southeast-5.aliyuncs.com/saas/common/public/client/kami-chat-mac-1.0.1-x64_for_dh.dmg" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/mac-icon.webp" alt="mac 版本下载" height=50px>
         <p>mac 版本下载</p>
  
@@ -51,7 +51,7 @@ KamiChat不仅仅是一个聚合工具，更是一个强大的多账号管理平
 在KamiChat，我们始终将隐私保护放在首位。所有聊天数据都将经过加密处理，确保你的隐私得到最佳的保障。你可以放心地进行个人、商务或任何类型的交流，而无需担心数据泄露问题，因为最终数据都是直接与平台交互，不经过 KamiChat。
 
 ### 自建站客服体系功能-即将推出
-如果你是一个商家或者有平台服务，那么 KamiChat 也是你最佳的选择，我们目前已经支持 [shopify 的客服接入](https://apps.shopify.com/kamichat?locale=zh-CN)，接下来我们即将开放自建站的接入，让你能更快更高效率的触达用户，解决客户问题。并且支持 ChatGPT 提升客服效率。
+如果你是一个商家或者有平台服务，那么 KamiChat 也是你最佳的选择，我们目前已经支持 [shopify 的客服接入](./302.html?target=https://apps.shopify.com/kamichat?locale=zh-CN)，接下来我们即将开放自建站的接入，让你能更快更高效率的触达用户，解决客户问题。并且支持 ChatGPT 提升客服效率。
 
 1. 假设你有网站，需要接入客服系统；
 2. 假设你有客户，但是需要一些快速的客户沟通服务；
