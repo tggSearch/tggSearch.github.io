@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 电报 telegram 开车群，电报群去哪里搜索，去哪里找？
+title: 电报 telegram开车群，电报群去哪里搜索，去哪里找？
 description: 电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 电报/飞机/telegram 被封号了，怎么办？怎么才可以解封
+title: 电报/飞机/telegram 被封号了，怎么办？怎么才可以解封，telegram封号原因
 description: 如果你在使用电报或者 telegram 由于触犯到相应的平台规则，被封号了，怎么解决呢？这里有非常好的处理办法
 canonical_url: 'https://tggsearch.github.io/docs/telegram-account.html'
 ---
