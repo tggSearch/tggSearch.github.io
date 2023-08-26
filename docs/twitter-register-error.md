@@ -8,7 +8,7 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register-error.html'
 
 <img alt="register-error-tips" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-error.jpg" width="20%">
 
-遇到这种情况最可能的问题就是你注册的邮箱有问题，这时候你可以选择换一个邮箱，使用的邮箱最好使用海外的，比如 [gmail](https://gmail.com/) 或者 [outlook]./302.html?target=https://outlook.com/) 邮箱。
+遇到这种情况最可能的问题就是你注册的邮箱有问题，这时候你可以选择换一个邮箱，使用的邮箱最好使用海外的，比如 [gmail](https://gmail.com/) 或者 [outlook](./302.html?target=https://outlook.com/) 邮箱。
 
 
 ### 进入页面，显示“查看世界当前正在发生的事情”，点击创建账号无响应

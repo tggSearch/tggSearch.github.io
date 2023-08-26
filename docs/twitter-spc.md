@@ -23,4 +23,4 @@ Twitter也称小蓝鸟，目前已经更名为 X，Twitter 相对来说是比较
 
 ### 实验
 接下来你可以找一个推文，例如下面这个推文，如果没有被删除的话（女生勿轻易点开，建议在独处空间打开，免费尴尬）：
-[https://twitter.com/Anaimiya/status/1694727986766057956]./302.html?target=https://twitter.com/Anaimiya/status/1694727986766057956)
+[https://twitter.com/Anaimiya/status/1694727986766057956](./302.html?target=https://twitter.com/Anaimiya/status/1694727986766057956)

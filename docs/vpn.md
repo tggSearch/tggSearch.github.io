@@ -25,9 +25,9 @@ canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 ### iOS（苹果）
 #### 苹果推荐方法
 可以前往这里购买
-[https://idappstore.cc/]./302.html?target=https://idappstore.cc/)
+[https://idappstore.cc/](./302.html?target=https://idappstore.cc/)
 打不开上面的用下面的
-[https://appidshop.com/]./302.html?target=https://appidshop.com/)
+[https://appidshop.com/](./302.html?target=https://appidshop.com/)
  
 <p class="red-text-word">（特别申明：自己负责，不是我的服务，有问题找平台客服）</p>
  ，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
@@ -36,13 +36,13 @@ canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 
 没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！
 
-[https://idappstore.cc/]./302.html?target=https://idappstore.cc/)
+[https://idappstore.cc/](./302.html?target=https://idappstore.cc/)
 打不开上面的用下面的
-[https://appidshop.com/]./302.html?target=https://appidshop.com/)
+[https://appidshop.com/](./302.html?target=https://appidshop.com/)
 #### 接下来的步骤和安卓基本是一样的
-[首选注册地址]./302.html?target=https://www.三毛机场.shop/#/register?code=GvzAuYCT)
+[首选注册地址](./302.html?target=https://www.三毛机场.shop/#/register?code=GvzAuYCT)
 如果首选地址无法打开
-[备用地址]./302.html?target=https://www.三毛机场.shop/#/register?code=GvzAuYCT)
+[备用地址](./302.html?target=https://www.三毛机场.shop/#/register?code=GvzAuYCT)
 看不懂的看下面的图片教程！！！！
 1. **订阅服务**，使用上面的首选地址链接去注册，里面有一个订阅服务， 
 <p class="red-text-word">建议选择9块一个月的就行</p>
@@ -52,7 +52,7 @@ canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 4. 这时候会在任务栏有一个vpn标识就算成功了；
 
 看不懂的可以看图片教程
-![注册教程]./302.html?target=https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/ios-register.webp)
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/ios-register.webp)
 ## 打开梯子测试
 大家可以把梯子连接打开，如果显示数据0，可以切换节点，大家一定要记得切换节点
 然后打开任意浏览器，看看是否能打开 https://www.google.com 如果打不开说明梯子配置还有问题。
