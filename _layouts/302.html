@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>跳转中</title>
+    <script>
+        // 获取 URL 参数的函数
+        function getParameterByName(name, url) {
+            if (!url) url = window.location.href;
+            name = name.replace(/[\[\]]/g, '\\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        // 获取目标网址参数
+        var targetURL = getParameterByName('target');
+
+        // 对目标网址进行合法性验证，防止 XSS 攻击
+        function isValidURL(url) {
+            var pattern = /^(https?:\/\/)?[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}(\/\S*)?$/;
+            return pattern.test(url);
+        }
+
+        // 进行 302 跳转
+        function redirectToTarget() {
+            if (targetURL && isValidURL(targetURL)) {
+                window.location.replace(targetURL);
+            } else {
+                alert('无效的目标网址！');
+            }
+        }
+        
+        // 在页面加载时执行跳转操作
+        window.onload = redirectToTarget;
+    </script>
+</head>
+<body>
+    <p>正在跳转，请稍候...</p>
+</body>
+</html>
