@@ -7,25 +7,25 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 ## 币圈各大网址导航
 <div class='icon-block-body-four'>
   <div class='icon-block-item'>
-    <a href="https://www.okx.com/join/90884854" target="_blank">
+    <a href="./302.html?target=https://www.okx.com/join/90884854" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
         <p>欧易</p>
     </a>
   </div>
    <div class='icon-block-item'>
-    <a href="https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
+    <a href="./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px>
         <p>币安</p>
     </a>
   </div>
     <div class='icon-block-item'>
-    <a href="https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
+    <a href="./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO 官网" height=50px>
         <p>GateIO</p>
     </a>
   </div>
     <div class='icon-block-item'>
-    <a href="https://partner.bitget.com/bg/ml6l51911687837747447" target="_blank">
+    <a href="./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bitget.png" alt="BitGet 官网" height=50px>
         <p>BitGet</p>
     </a>
@@ -42,10 +42,10 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 
 |  交易所   | 官网地址  | 返佣地址  | 
 |  ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](https://www.zj-inv.com/join/39154880)  [欧易海外](https://www.okx.com/join/39154880) | [返佣国内](https://www.zj-inv.com/join/39154880) [返佣海外](https://www.okx.com/join/39154880)  |
-| 币安-bnb | [bnb币安官网](https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](https://accounts.binance.com/register?ref=ED13UFJ5)  |
-| gateIO | [GateIO官网](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
-| bitGet | [bitGet官方](https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](https://partner.bitget.com/bg/ml6l51911687837747447)  |
+| 欧易-okx  | [欧易国内](./302.html?target=https://www.zj-inv.com/join/39154880)  [欧易海外](./302.html?target=https://www.okx.com/join/39154880) | [返佣国内](./302.html?target=https://www.zj-inv.com/join/39154880) [返佣海外](./302.html?target=https://www.okx.com/join/39154880)  |
+| 币安-bnb | [bnb币安官网](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)  |
+| gateIO | [GateIO官网](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
+| bitGet | [bitGet官方](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)  |
 
 请注意欧易必须要区分国内链接和国外链接，而币安的链接在苹果手机打开会提示安全问题，具体可以参考此文章 [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./bnb-buy-coins.html) 里面有详细介绍了如何在苹果手机上打开币安网页并注册。
 
@@ -56,15 +56,15 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 
 |  群名称   | 群号 |
 |  ----  | ----  |
-| 币圈综合交流(欧易币安）| @okxbnbEx |
-| 欧易okx官方中文群 | @OKXGroup_CN |
-| 币安bnb官方中文群 | @binancechinese |
-| bitGet官方中文群 | @Bitget_CNOfficial |
-| gateIO官方中文群 | @gate_zh |
+| 币圈综合交流 | [@okxbnbEx](./302.html?target=https://t.me/okxbnbEx) |
+| 欧易okx官方中文群 | [@OKXGroup_CN](./302.html?target=https://t.me/OKXGroup_CN) |
+| 币安bnb官方中文群 | [@binancechinese](./302.html?target=https://t.me/binancechinese) |
+| bitGet官方中文群 | [@Bitget_CNOfficial](./302.html?target=https://t.me/Bitget_CNOfficial) |
+| gateIO官方中文群 | [@gate_zh](./302.html?target=https://t.me/gate_zh) |
 
 ## 币圈基础教学
 币圈有很多基础教程，买卖 USDT 是最基础的，因此在入币圈是需要必修的课程，永续合约是目前币圈玩的最多的衍生金融产品。
 
-[如何购买 USDT](./okx-buy-coins.html) 或者查看 [如果买卖 U 视频教程](https://www.youtube.com/watch?v=Y2A1SBRD5RM)
+[如何购买 USDT](./okx-buy-coins.html) 或者查看 [如果买卖 U 视频教程](./302.html?target=https://www.youtube.com/watch?v=Y2A1SBRD5RM)
 
-[欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html) 或者查看视频教程 [永续合约怎么玩视频教程](https://www.youtube.com/watch?v=SJ2vnMhZTbk)
+[欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html) 或者查看视频教程 [永续合约怎么玩视频教程](./302.html?target=https://www.youtube.com/watch?v=SJ2vnMhZTbk)
