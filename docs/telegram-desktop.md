@@ -10,7 +10,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-desktop.html'
 
 随着社交网络的多样化，我们日常生活中需要同时管理多个社交平台的聊天，这对于任何人来说都可能是一项挑战。针对Telegram用户，我们推出了一款全新的聊天客户端——KamiChat，不仅支持Telegram，还集合了Facebook Messenger、WhatsApp和WeChat等平台，助你高效管理多账号，体验无与伦比的聊天便利。
 <div align=center>
-    <img alt="telegram-desktop-mac" src="./302.html?target=https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-desktop-mac.webp" class="page-img" width="100%"/>
+    <img alt="telegram-desktop-mac" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-desktop-mac.webp" class="page-img" width="100%"/>
 </div>
 
 ### 下载体验方法
