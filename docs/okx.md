@@ -38,7 +38,7 @@ OKX注册地址：[https://www.okx.com/join/7227018](./302.html?target=https://w
 <img alt="packet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-packet.png" width="80%">
 
 切换成功后就行了
-需要撸空投的话，点击里面的发现，在发现里面输入相应的空投网址，按照空投步骤进行操作就可以了。
+需要撸空投的话，点击里面的发现，在发现里面输入相应的空投网址，按照空投步骤进行操作就可以了，这里也有教程 [探秘空投，什么是空投，撸空投是什么意思，应该如何去撸空投](./airdrop.html)
 ### 邀请赚钱
 如果我也想邀请别人来注册，领取盲盒怎么弄？
 在okx的 app 中点击选择左上角菜单，然后选择邀请好友
