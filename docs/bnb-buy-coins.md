@@ -6,7 +6,7 @@ canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 ---
 ### 介绍
 
-币安（Binance）是全球领先的加密货币交易平台之一。作为数百万用户信赖的首选平台，币安提供安全、可靠和高效的数字资产交易服务。如果您渴望参与加密货币市场并获得丰厚回报，币安绝对是您不可错过的选择。如果你想其他交易所，请查看这里 [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
+币安（Binance）是全球领先的加密货币交易平台之一。作为数百万用户信赖的首选平台，币安提供安全、可靠和高效的数字资产交易服务。如果您渴望参与加密货币市场并获得丰厚回报，币安绝对是您不可错过的选择。如果你想其他交易所，请查看这里 [🔥币圈各大交易所网址导航🔥](./coins-index.html)
 ### 币安注册地址
 
 [https://accounts.binance.com/register?ref=ZGR4DOXV](./302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)

@@ -17,7 +17,7 @@ canonical_url: 'https://tggsearch.github.io/docs/new-blockchain.html'
 
 [okx 欧易交易所注册下载教程](./okx-install.md)
 
-欧易也是相对较为老牌的交易所了，并且对国内用户非常友好，所以欧易也是一个比较好的选择。或者其他交易所 [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
+欧易也是相对较为老牌的交易所了，并且对国内用户非常友好，所以欧易也是一个比较好的选择。或者其他交易所 [🔥币圈各大交易所网址导航🔥](./coins-index.html)
 
 ## 入金兑换 USDT
 交易所注册好以后，就需要 KYC 验证，主要是为了资金安全，有了 KYC 以后，你就可以进行 C2C 兑换 USDT 泰达币，相当于美元。
