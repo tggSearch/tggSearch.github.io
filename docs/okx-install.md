@@ -47,4 +47,5 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 接下来你就可以在欧易的奖励中心获得盲盒奖励了，一般有 1-20美金。
 
 ### 欧易教程
+[欧易买 USDT 和卖 USDT 方法](./buyu-selleru.html)
 [欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html)
