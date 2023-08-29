@@ -49,12 +49,12 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 入口在请参考这个
 
 <div align=center>
-    <img alt="okx-coins-vendor" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-coins-vendor.png" class="page-img"  width="70%">
+    <img alt="okx-coins-vendor" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-coins-vendor.png" class="page-img"  width="50%">
 </div>
 
 1. **达到要求**：欧易OKX平台通常会设定一些要求，例如账户年龄、KYC等级和交易活跃度等。确保您的账户符合这些要求。以下是要求，很容易可以达到，不过需要10000美金的有大部分人会是一个门槛。
 <div align=center>
-    <img alt="limit" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/limit.png" class="page-img"  width="50%">
+    <img alt="limit" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/limit.png" class="page-img"  width="40%">
 </div>
 
 
@@ -73,7 +73,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 在APP首页，有一个我要买币，选择C2C，或者快捷买币，大家不用买多，只买10元人民币就行。
 
 <div align=center>
-    <img alt="c2c-buy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/c2c-buy.png" width="50%" class="page-img"  width="50%">
+    <img alt="c2c-buy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/c2c-buy.png" width="40%" class="page-img"  width="50%">
 </div>
 
 接下来就会找到与你交易的人，新手交易快捷买币，到时候会在右上角有消息提醒，再进行交易进行了，大家可以放心购买，欧易会做担保。
