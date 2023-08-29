@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tiktok 下载使用方法，tiktok 网页版如何使用
+title: tiktok 下载使用方法，tiktok国内使用教程，tiktok 网页版如何使用
 description: tiktok 在国内下载方法教学，安卓和苹果下载方法以及使用教程
 canonical_url: 'https://tggsearch.github.io/docs/tiktok.html'
 ---
@@ -17,10 +17,10 @@ tiktok 目前在大陆和香港是屏蔽的，因此没办法看到海外的tikt
 3. 不注册的话，会频繁提示，因此需要注册，可以使用一个 gmail.com 的邮箱来注册一个账号，注意请使用邮箱注册
 4. 登录后就正常使用了。
 
-### Android 安卓福报
+### Android 安卓tiktok下载使用
 [https://www.mediafire.com/file/cfyi6jmbluxgjhm/tiktok.apk/file](./302.html?target=https://www.mediafire.com/file/cfyi6jmbluxgjhm/tiktok.apk/file)
 里面广告有点点，大家一步步耐心点击就可以了
-### 苹果限制方式
+### 苹果tiktok使用方法
 tiktok 限制地区得方式有2个
 一个是IP
 一个是sim卡
