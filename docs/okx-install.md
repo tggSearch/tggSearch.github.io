@@ -13,7 +13,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
  
-目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，可以尝试先去下载，<p class="red-text-word">下载在注册界面一定套填写邀请码 90884854 </p>
+目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，可以尝试先去下载，<p class="red-text-word">下载在注册界面一定要填写邀请码 90884854 </p>
 不然无法领取注册奖励和返佣。其次如果还不会下载，也不会玩<p class="red-text-word"> 请联系 QQ手把手免费教，包括如何下载、注册、买卖U以及玩永续合约：3502434065 </p>
  
 [https://www.cnouyi.reisen/join/90884854](./302.html?target=https://www.cnouyi.reisen/join/90884854)
