@@ -7,7 +7,7 @@ canonical_url: 'https://tggsearch.github.io/docs/usdt.html'
 ---
 在币圈最常使用的基础币就是 USDT，大部分交易对都是基于 USDT，无论是币交易还是合约交易，那么什么是 USDT，如何购买 USDT，以及USDT与美元和人民币又存在什么关系呢？
 <div align=center>
-    <img alt="usdt" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/usdt.webp" class="page-img" width="100%"/>
+    <img alt="usdt" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/usdt.webp" class="page-img" width="60%"/>
 </div>
 ### 什么是USDT？
 
