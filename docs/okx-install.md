@@ -13,8 +13,10 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
  
-目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，可以尝试先去下载，<p class="red-text-word">下载在注册界面一定要填写邀请码 90884854 </p>
-不然无法领取注册奖励和返佣。其次如果还不会下载，也不会玩<p class="red-text-word"> 请联系 QQ手把手免费教，包括如何下载、注册、买卖U以及玩永续合约：3502434065 </p>
+目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，可以尝试先去下载
+<p class="red-text-word">下载在注册界面一定要填写邀请码 90884854 </p>
+不然无法领取注册奖励和返佣。其次如果还不会下载，也不会玩
+<p class="red-text-word"> 请联系 QQ手把手免费教，包括如何下载、注册、买卖U以及玩永续合约：3502434065 </p>
  
 [https://www.cnouyi.reisen/join/90884854](./302.html?target=https://www.cnouyi.reisen/join/90884854)
 
@@ -43,3 +45,6 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 
 ### 领取盲盒奖励
 接下来你就可以在欧易的奖励中心获得盲盒奖励了，一般有 1-20美金。
+
+### 欧易教程
+[欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html)
