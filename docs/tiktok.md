@@ -1,9 +1,16 @@
 ---
 layout: default
-title: tiktok 怎么注册使用教程
-description: tiktok 怎么下载，怎么试用，安卓和苹果下载好以后无法使用，提示网络问题怎么解决？
+title: tiktok 下载使用方法，tiktok 网页版如何使用
+description: tiktok 在国内下载方法教学，安卓和苹果下载方法以及使用教程
 canonical_url: 'https://tggsearch.github.io/docs/tiktok.html'
 ---
+tiktok 目前在大陆和香港是屏蔽的，因此没办法看到海外的tiktok内容，如果你想看看海外的tiktok的精彩内容，应该如何处理呢？下面有几个方法，分别是：
+
+1. 使用网页版，限制较少，处理简单；
+2. 安卓版本可以使用特殊版下载使用；
+3. 苹果较为特殊，会比较麻烦，需要 sim 卡；
+
+接下来看看每一种处理方法。
 ### 网页版（无限制，只需要 ip）
 1. 首先打开梯子（没有梯子，请先去注册下载地址，[方法参考这里，小火箭](./vpn.html)），切换到你想要观看的国家或者地区，比如节点选择日本或者美国
 2. 打开 https://tiktok.com 就可以观看了

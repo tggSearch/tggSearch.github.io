@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OKX 欧易安卓和苹果如何下载安装以及注册
+title: OKX 欧易注册教程，欧易安卓苹果下载安装方法
 description: 欧易安装下载方法，安卓苹果安装欧易 欧易注册教程，欧易教程，欧易返佣，节点返佣如何领取？这里需要区分是苹果还是安卓，安卓稍微简单一些。
 canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 ---
