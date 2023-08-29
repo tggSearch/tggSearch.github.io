@@ -30,6 +30,8 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 
 下载完成后，点击安装就行，部分手机会识别为风险应用，会让你再三确认，或者需要让你打开纯净模式，都是正常提示，请大家允许就行了。
 
+<p class="red-text-word">下载前没有注册的，在注册界面一定要填写邀请码 90884854 </p>
+
 ### 苹果安装方法
 
 苹果你需要有一个海外平台账号，如果你没有，想临时工借用一个，也可以，你可以加入电报群 [综合导航搜索群](./302.html?target=https://t.me/chineseSearchService) 然后回复 appid，就可以得到当前可以使用的共享苹果账号了，或者前往这篇文章获取
@@ -44,6 +46,8 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 如果你想永久获得一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](./302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
 
 下载完成后，直接在应用商店搜索 OKX 或者 欧易就行了，然后点击安装。
+
+<p class="red-text-word">下载前没有注册的，在注册界面一定要填写邀请码 90884854 </p>
 
 ### 领取盲盒奖励
 接下来你就可以在欧易的奖励中心获得盲盒奖励了，一般有 1-20美金。
