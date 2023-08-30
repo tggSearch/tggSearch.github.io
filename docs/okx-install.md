@@ -11,7 +11,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.zj-inv.com/join/90884854](./302.html?target=https://www.zj-inv.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouxyi.club/join/90884854](./302.html?target=https://www.ouxyi.club/join/90884854)
 
 [备用国内无 VPN 地址 https://www.cnouyi.reisen/join/90884854](./302.html?target=https://www.cnouyi.reisen/join/90884854)
 

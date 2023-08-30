@@ -42,7 +42,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 
 |  交易所   | 官网地址  | 返佣地址  | 
 |  ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](./302.html?target=https://www.zj-inv.com/join/39154880)  [欧易海外](./302.html?target=https://www.okx.com/join/39154880) | [返佣国内](./302.html?target=https://www.zj-inv.com/join/39154880) [返佣海外](./302.html?target=https://www.okx.com/join/39154880)  |
+| 欧易-okx  | [欧易国内](./302.html?target=https://www.ouxyi.club/join/39154880)  [欧易海外](./302.html?target=https://www.okx.com/join/39154880) | [返佣国内](./302.html?target=https://www.ouxyi.club/join/39154880) [返佣海外](./302.html?target=https://www.okx.com/join/39154880)  |
 | 币安-bnb | [bnb币安官网](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)  |
 | gateIO | [GateIO官网](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
 | bitGet | [bitGet官方](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)  |

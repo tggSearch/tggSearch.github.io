@@ -8,7 +8,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-afi.html'
 
 [okx 欧易交易所-有梯子](./302.html?target=https://www.okx.com/join/39154880)
 
-[okx 欧易交易所-国内无梯子](./302.html?target=https://www.zj-inv.com/join/39154880)
+[okx 欧易交易所-国内无梯子](./302.html?target=https://www.ouxyi.club/join/39154880)
 
 [欧易节点推广教导群](./302.html?target=https://t.me/helpOkx12)
 
