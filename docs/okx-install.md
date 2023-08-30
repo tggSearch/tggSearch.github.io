@@ -6,7 +6,8 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 ---
 想领取欧易 OKX 注册礼包，节点返佣节省手续费，那么你必须要选择这篇文章。OKX 欧易注册下载教程，安卓可以直接点击连接下载，苹果需要海外id，会比较麻烦一些，需要寻找免费的海外苹果账号，具体注册流程如下。
 ### 首先去注册
-在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到。
+在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到。如果链接无法打开注册，请下载此 VPN 来打开网页注册 [优途加速器](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819)，或者可以先前往下载 APP，在注册界面填写邀请码 90884854 记得一定要填写，不填写没有盲盒和返佣奖励。
+
 <p class="red-text-word">盲盒奖励 1-20美金看运气，以及返佣奖励</p>
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
