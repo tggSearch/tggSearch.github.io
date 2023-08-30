@@ -4,6 +4,7 @@ title: 币圈导航|币圈各大交易所网址导航
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png
 description: 欧易okx，币安bnb，gateIo，bitGet，安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。享受高流动性、多样的交易对和用户友好的界面。了解交易量、费用、安全性等重要信息，选择最适合您的平台。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
+locale: zh_CN
 ---
 ## 币圈各大网址导航
 <div class='icon-block-body-four'>
