@@ -15,14 +15,14 @@ youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](./302.html?target=https://
 ## 文字步骤
 ### 登录网页版的电报操作
 1. 打开科学上网工具，也就是梯子，或者叫做 VPN；
-2. 用原生的safari浏览器，打开网页[web.telegram.org](./302.html?target=https://web.telegram.org)，选择使用手机号登录，一般在二维码下面，有一个 Login by phone number；
+2. 用原生的safari浏览器，或者chrome（其他浏览器会屏蔽），打开网页[web.telegram.org](./302.html?target=https://web.telegram.org)，选择使用手机号登录，一般在二维码下面，有一个 Login by phone number；
 3. 然后输入手机号，这时候会发送一个设备码到你的手机app的电报里面；
-4. 打开手机电报，复制号验证码，然后在网页版登录；
+4. 打开手机电报，复制号验证码，然后在网页版登录中确认；
 5. 成功登录后，选择左上角的菜单按钮，一般是在最左上角；
 6. 然后在菜单中选择 setting；
-7. 在 setting 中找到 Privacy and Security，点击；
-8. 打开后，往下滑，找到 Sensitive content ，然后把这个选项打勾；
-9. 重新打开 telegram/电报/飞机 的app，就可以了。
+7. 在 setting 中找到 Privacy and Security，点击选择；
+8. 打开后，往下滑，找到 Sensitive content ，然后把这个选项打勾，就完成了；
+9. 重新打开 telegram/电报/飞机 的app，就可以了进入任意群了。
 
 ### 如果你勾选了还进不去
 确认下以下几点
