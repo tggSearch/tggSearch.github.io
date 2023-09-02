@@ -1,6 +1,35 @@
 ---
 layout: default
-title: 电报进不去，电报telegram网页版无法打开解决方法
-description: 电报群无法打开进不去的主要原因是因为苹果敏感信息，无法打开会提示 This channel can`t be displayed because it was used to spread pornographic content，如何解开这个敏感限制呢？
-canonical_url: 'https://tggsearch.github.io/docs/telegram-group-spc.html'
+title: 电报 telegram APP进不去，电报telegram网页版无法打开解决方法
+description: telegram app无法进去，网页版打不开，无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
+canonical_url: 'https://tggsearch.github.io/docs/telegram-not-join.html'
 ---
+电报在使用过程中会有很多问题，今天我这里整理几个比较常见的问题，其他问题也可以右下脚联系客服进行处理。
+
+1. 电报 telegram app 无法进去；
+2. 电报 telegram 网页版本无法打开；
+3. 电报 telegram app 无法接收短信；
+4. 电报 telegram 群无法进去
+5. 电报 telegram 无法发送私信；
+
+###  电报 telegram app 无法进去
+如果你进入 telegram app 就提示网络问题时，那么大概率是没有梯子或者 VPN，这里的提示会是有一段英文，建议截屏，然后用微信翻译软件翻译一下。具体解决方案也比较简单，大家跟着教程去下载梯子和 VPN 就行了，教程参考这个 [电报/飞机/telegram 该如何注册](./register.html) 
+
+### 电报 telegram 网页版本无法打开
+这部分会有 2 种情况，要分情况来看
+
+**第一种情况，提示网络异常**，如果你没有梯子就去打开 telegram 的网页版，[web.telegram.org](./302.html?target=https://web.telegram.org) 那么你肯定是无法打开的，因为 telegram 的各种网站都需要开梯子和 VPN ，如果你想用 VPN 那么你看下这篇文章 [VPN 小火箭怎么下载注册使用](./vpn.html)
+
+**第二种情况，提示安全问题**，如果提示你网站有风险有安全问题，那么你只需要切换一个浏览器就行了，不要用原生的浏览器，可以切换其他的比如说 chrome 浏览器，这种一般不会被拦截，其他都是会被拦截的可能性的。
+
+### 电报 telegram app 无法接收短信
+这里问题非常多，具体大家直接看这篇文章，一定可以解决你的问题，如果解决不了，请联系右下角客服，有偿包解决。[纸飞机 telegram 电报收不到验证码 （华为/鸿蒙系统也可解决）](./telegram-no-sms-code.html)
+
+### 电报 telegram 群无法进去
+这种大部分情况下是苹果用户，如果你是非苹果用户遇到这个问题，需要看下今天是不是进入了太多的群，telegram 每天能访问的群上限是 24 个，如果超出就无法打开群了。
+如果是苹果用户，那么很大可能是敏感性问题，具体解决方案参考这个问题 [电报群有限制进不去解决方法，提示敏感信息，解除敏感限制方法](./telegram-group-spc.html)
+
+### 电报 telegram 无法发送私信
+这个原因主要是你私信太多人，被系统识别有一定广告风险，这时候会直接把你的私信给封禁一段时间，具体查看解决方案，请参考这个视频 [私信无法发送，被双向限制了，怎么解决](./302.html?target=https://v.douyin.com/UAw4MUh/)
+
+如果你还有其他问题，请右下角联系客服。

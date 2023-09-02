@@ -294,4 +294,9 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
-</urlset>
+     <url>
+        <loc>https://tggsearch.github.io/docs/telegram-not-join.html</loc>
+        <lastmod>2023-08-29T11:24:15+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>

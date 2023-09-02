@@ -47,5 +47,6 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
 ### [telegram 纸飞机 电报账号怎么申请，怎么购买账号，新注册的电报号注意哪些细节](./docs/telegram-account-buy.html)
 ### [电报 telegram 怎么下载文件，下载的文件存在在哪里](./docs/telegram-file.html)
 ### [Telegram Paid Bot, Boost Your Income with feeMaster](./docs/pay-bot-en.html)
+### [电报 telegram APP进不去，电报telegram网页版无法打开解决方法](./docs/telegram-not-join.html)
 
 
