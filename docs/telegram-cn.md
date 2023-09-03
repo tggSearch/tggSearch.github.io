@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 电报中文版/telegram 中文 怎么设置中文，聊天内容怎么翻译，怎么实时翻译聊天消息
-description: 电报telegram怎么设置为中文，怎么下载电报中文版本，苹果、安卓怎么切换中文简体？电报有没有中文版本呢？
+title: 电报中文版/telegram 中文 电报设置中文、切换中文方法，聊天内容翻译中文，实时翻译聊天消息解决方案
+description: 电报telegram怎么设置为中文，怎么下载电报中文版本，苹果、安卓怎么切换中文简体？电报有没有中文版本？telegram一起中文问题，都需要额外的处理，这里有所有中文的解决方案
 canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 ---
 电报telegram怎么设置为中文，telegram 电报中文版哪里下载，苹果、安卓怎么切换中文简体？其次与国外用户聊天，发的是英文或者其他语言，怎么进行交流，怎么能看懂他们发的内容消息。怎么把聊天消息也翻译成中文，有这些疑问，就对了，这篇文章可以帮你解决。
@@ -10,7 +10,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 
 目前 telegram 都只有英文版本，英文版本前往官网下载 [telegram.org](https://telegram.org) ，请注意下载的非官网版本都可能导致无法收到验证码。这也就是之前大家常会问的，为什么我收不到验证码，如果你还有这个困惑，你去看下这篇文章 [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./telegram-no-sms-code.html)，其实大部分原因都是你下载了非官方版本。
 
-### 手机端切换
+### 切换中文方法手机APP
 
 加入群聊进行切换简体中文，两种方法加入电报群进行切换
 1. 直接打开连接（该连接需要打开梯子），加入群里 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService)
@@ -18,11 +18,11 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 
 接下来进入群聊后，直接回复 中文 或者 中文版 就回复你切换的链接，点击其中的任何一个，然后选择 Change 的英文就可以切换了。 
 
-### 桌面端切换
+### 切换中文方法桌面端
 
 其实流程是一样的，在桌面端，只要你加入了群聊，然后回复 中文 就可以获得切换链接，点击任意链接就可以完成切换了。
 
-### 内容翻译
+### 聊天内容翻译中文
 应用层面的翻译很多时候都解决了翻译问题，但是消息很多时候是不能翻译的，特别是电报官方的消息，比如 @SpamBot 的消息，全是英文的，很多人不懂，那么怎么办？
 
 你只需要做如下流程：
@@ -33,7 +33,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 4. 进入任意聊天，找到任意英文消息；
 5. 长按英文消息，然后选择翻译就可以看到了；
 
-### 自动翻译聊天
+### 聊天内容自动翻译中文
 如果你嫌弃内容的手动翻译，你可以选择自动翻译，但是自动翻译需要开通高级订阅功能，开通了就可以实时翻译了，开通方法，前往这里开通即可。
 [https://appleshop001.com/?from=10664](./302.html?target=https://appleshop001.com/?from=10664)
 里面找到“Telegram 正规会员充值”
