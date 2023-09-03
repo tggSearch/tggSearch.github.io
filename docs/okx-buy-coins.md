@@ -14,8 +14,13 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 [OKX国内注册地址：https://www.cnouyi.careers/join/30029571](./302.html?target=https://www.cnouyi.careers/join/30029571)
 
 <p class="red-text-word">
-如果链接无法打开注册，请下载此 VPN 来注册 [优途加速器](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819)，或者可以直接下载 APP，下载完成后，记得一定要填写邀请码 30029571 否则无法领取盲盒和返佣
+如果链接无法打开注册，请下载此 VPN 来注册
 </p>
+[优途加速器](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819)
+<p class="red-text-word">
+或者可以直接下载 APP，下载完成后，记得一定要填写邀请码 30029571 否则无法领取盲盒和返佣
+</p>
+
 
 ### APP下载领取1-20美金盲盒
 下载方法，请查看此文章 [OKX 欧易如何下载安装以及注册](./okx-install.html)
