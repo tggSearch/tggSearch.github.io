@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 币安安卓苹果下载方法，币安 20% 返佣到底是什么，为什么一定要从返佣地址去注册下载
+title: 币安安卓苹果下载方法，币安返佣注册下载教程
 description: 币安安卓苹果下载安装教程，币安从哪里注册，币安网址苹果无法打开怎么解决，为什么要选择使用币安，币安如何拿到高额返佣，最高 20%返佣应该如何获取，20%高额返佣注册地址
 canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 ---
