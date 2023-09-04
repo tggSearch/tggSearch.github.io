@@ -1,11 +1,10 @@
 ---
 layout: default
 title: 电报 telegram开车群，电报群去哪里搜索，去哪里找？
-image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus.webp
-description: 电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
+description: 想找片源？想找修车品茶群？想找开车网站？想找本地上门？电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 ---
-想找到电报 telegram 开车群，方法就是找到一个好的搜索机器人，下面就是 telegram 开车群的加入方法，以及搜索方法。
+想找到电报 telegram 开车群，方法就是找到一个好的搜索机器人，下面就是 telegram 开车群的加入方法，以及搜索方法。你可以找到开车看片群，片源网址，本地喝茶品茶修车群等等，还可以找到一些免费资源。
 ### 加入中文索引群
 
 第一步你就需要加入中文索引群，[@chineseSearchService](./302.html?target=https://t.me/chineseSearchService)，这个群机器人包含了多种资源
@@ -15,6 +14,13 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 你可以尝试搜索 **麻豆**，你就发现很多意外惊喜。当然 iOS 会有敏感提示，具体怎么解除查看这篇文章 [iOS解除电报敏感限制](./telegram-group-spc.html)
 <div align=center>
     <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-madou-new.webp" class="page-img" width="70%"/>
+</div>
+
+### 搜索本地修车上门品茶群
+
+你可以尝试搜索 **北京** **深圳**，你就发现很多意外惊喜。
+<div align=center>
+    <img alt="driver-bus-local-xiuche" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/local-xiuche.webp" class="page-img" width="70%"/>
 </div>
 
 ### 搜索惊喜站点
