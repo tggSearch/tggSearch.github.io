@@ -46,3 +46,5 @@ OKX注册地址：[https://www.okx.com/join/7227018](./302.html?target=https://w
 <img alt="invite" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx-inivite.webp" width="80%">
 
 具体流程查看以上截图
+
+[OKX 以及其他教程](/okx.html)

@@ -46,3 +46,5 @@ canonical_url: 'https://tggsearch.github.io/docs/okx-afi.html'
 
 ## 带动交易（核心）
 节点最重要的就是大家要交易，你才能赚钱，因此要带动大家进行交易，帮大家赚钱，最好的方式就是拉进这个群进行交流 [https://t.me/okxbnbEx](./302.html?target=https://t.me/okxbnbEx)里面会有带单员，带着刚入门的人下单赚钱。
+
+[OKX 以及其他教程](/okx.html)
