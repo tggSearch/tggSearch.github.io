@@ -4,7 +4,7 @@ title: 欧易OKX买币教程，法币购买USDT方法，欧易点返佣、OKX U�
 description: 如何购买 USDT ，如何通过 OKX 获得节点返佣赚钱，什么是 U商，怎么通过 U 商赚钱
 canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 ---
-想买币必须先买 USDT，USDT 怎么购买，怎么注册交易所账号，都需要谨慎，按照文档教程进行，避免出现坑以及被骗，下面就是比较专业的文档流出。如果你还不知道什么是 USDT ，可以看下这篇文章 [USDT 是什么，怎么购买 USDT，与人民币和美元有什么关系](./docs/usdt.html)
+想买币必须先买 USDT，USDT 怎么购买，怎么注册交易所账号，都需要谨慎，按照文档教程进行，避免出现坑以及被骗，下面就是比较专业的文档流出。如果你还不知道什么是 USDT ，可以看下这篇文章 [USDT 是什么，怎么购买 USDT，与人民币和美元有什么关系](./usdt.html)
 ## 注册下载流程如下
 ### 注册并登录
 链接自带返佣，先注册再下载
