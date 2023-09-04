@@ -23,6 +23,8 @@ canonical_url: 'https://tggsearch.github.io/docs/apple-id.html'
 账号：fapg61nodaw@appleshare.club
 密码：AIu81z93
 
+如果都失效，请前往此网站查询：[苹果 ID 免费共享](./302.html?target=https://idshare001.me/)
+
 由于共享的海外id苹果账号使用的人比较多，加上苹果对境外号管控很严，使用人数一多就非常容易出现「锁定」或「未激活」的情况，如须经常使用，请购买独享香港id（独享账号包含账号密码密保等所有资料）
 
 ## 使用须知
