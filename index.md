@@ -39,7 +39,7 @@ canonical_url: 'https://tggsearch.github.io'
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [电报 telegram 纸飞机 综合下载注册方法](./docs/register.html)
 ### [电报 telegram 开车群，电报群去哪里搜索，去哪里找？](./docs/telegram-driver-bus.html)
-### [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./docs/bnb-buy-coins.html)
+### [币安下载方法｜币安返佣20%注册下载教程](./docs/bnb-buy-coins.html)
 ### [推特注册方法](./docs/twitter.html)
 ### [推特中文博主榜单](./docs/twitter-ranking.html)
 ### [VPN方法，内含苹果和安卓](./docs/vpn.html)
