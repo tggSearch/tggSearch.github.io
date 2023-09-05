@@ -10,7 +10,7 @@ canonical_url: 'https://tggsearch.github.io/docs/usdt.html'
     <img alt="usdt" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/usdt-1.webp" class="page-img" width="60%"/>
 </div>
 
-购买方法，如果觉得文字不够清晰，可以查看视频教程，如果你觉得文字不清晰，你可以查看 Youtube 视频教程 [如何买 U(USDT)，然后通过 U(USDT) 购买数字货币(BTC/ETH/DOGE)](./302.html?target=https://www.youtube.com/watch?v=Y2A1SBRD5RM)
+购买方法，如果觉得文字不够清晰，可以查看视频教程，Youtube 视频教程 [如何买 U(USDT)，然后通过 U(USDT) 购买数字货币(BTC/ETH/DOGE)](./302.html?target=https://www.youtube.com/watch?v=Y2A1SBRD5RM)
 
 ### 什么是USDT？
 
@@ -38,6 +38,8 @@ USDT的稳定性来自于其与美元的1:1锚定关系。这并不是一种随�
 2. 进行实名认证，KYC，主要是为了反洗钱，这里很安全不会有法律风险，在国内不合法，但是不代表违法
 3. 实名认证完成以后，就可以进行 C2C 买币，这里就回通过与其他用户进行交易，你微信、支付宝转账给他，他收到钱后再通过交易所转 USDT 给你，这里的比例就按照当时的人民币兑换美元的汇率，有人会问是否安全，只要通过交易所都是安全的，因为交易所会担保，如果是私自找人购买会存在被骗的风险，而且不会立案
 4. 有了 USDT 以后你就可以购买其他的币种了，具体的玩法，可以看这里 [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./okx-buy-coins.html)
+
+**特别注意：** 切莫和陌生人发生 USDT 私下交易，说有担保的也不一定靠谱，需要买卖 USDT 请走交易所渠道。
 
 ### 结论
 
