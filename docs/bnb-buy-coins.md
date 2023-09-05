@@ -20,8 +20,11 @@ canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 
 ### 下载安装教程
 
+这里要区分是苹果还是安卓，安卓可以直接下载下面的apk文件，苹果比较麻烦一些，需要海外苹果账号。
+#### 安卓方法
 [点击下载本地安卓apk文件](https://download-1306379396.file.myqcloud.com/pack/BNApp.apk "download")
 
+#### 苹果方法
 如果想免费的苹果海外账号，[点击查看这篇文章的分享](./apple-id.html)，如果无法使用，请前往[综合搜索群](./302.html?target=https://t.me/chineseSearchService) 直接回复 appid 即可.
 
 [苹果需要注册海外苹果账号，注册方式参考视频](./302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
