@@ -30,3 +30,13 @@ youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](./302.html?target=https://
 2. 是否是62的手机号，不是86，有些地区或者国家就是不允许
 3. 是否有杀掉电报重新打开，不是重新登录哈；
 4. 如果你还不懂，请联系网站客服进行解决；
+
+### 其他电报异常问题
+如果你还有其他电报问题，例如：
+
+- 电报 telegram app 无法进去；
+- 电报 telegram 网页版本无法打开；
+- 电报 telegram app 无法接收短信；
+- 电报 telegram 无法发送私信；
+
+请点击查看此文章 [电报 telegram APP进不去，电报telegram网页版无法打开解决方法](./telegram-not-join.html)
