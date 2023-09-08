@@ -32,9 +32,9 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 打不开上面的用下面的
 [https://appidshop.com/](./302.html?target=https://appidshop.com/)
 #### 接下来的步骤和安卓基本是一样的
-[首选注册地址](./302.html?target=https://bit.ly/3LhP25y)
+[首选注册地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 如果首选地址无法打开
-[备用地址](./302.html?target=https://www.三毛机场.shop/#/register?code=6xuhG85m)
+[备用地址](https://www.三毛机场.shop/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！
 1. **订阅服务**，使用上面的首选地址链接去注册，里面有一个订阅服务， 
 <p class="red-text-word">建议选择9块一个月的就行</p>
