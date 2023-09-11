@@ -1,10 +1,10 @@
 ---
 layout: default
 title: 电报/飞机/telegram 如何注册教程
-description: 电报/飞机/telegram 苹果注册下载教程，常见电报苹果问题
+description: 电报注册教程，飞机注册教程 telegram注册教程，苹果注册下载教程，常见电报苹果问题，网络异常，无法收到验证码等等问题。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-ios.html'
 ---
-[此教程是苹果，安卓请点击这里前往注册](./telegram-android.html)
+本文是苹果的教程，[安卓请点击这里前往注册，注册教程](./telegram-android.html)
 
 telegram 如何注册，整理了下流程分为 4 个大步骤
 1. 下载 VPN 网络梯子，海外加速器；
@@ -15,7 +15,7 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 ## 网络梯子VPN
 这是海外用户的加速器，主要是给海外用户加速使用。
 
-#### 苹果推荐方法
+#### 苹果推荐方法（[安卓点击前往安卓](./telegram-android.html)）
 可以前往这里购买
 [https://idappstore.cc/](./302.html?target=https://idappstore.cc/)
 打不开上面的用下面的
@@ -69,7 +69,7 @@ https://t.me/chineseSearchService
 常见骗局项目请查看 [电报 telegram 纸飞机 骗人项目合集，电报防坑，防骗指南，骗子项目合集，e相册，私密花园](./telegram-scam.html)
 ## 常见问题
 ### 无法收到验证码
-请前往抖音查看，或者联系人工服务
+请查看短信验证码异常问题，[纸飞机 telegram 电报收不到验证码解决方案](./telegram-no-sms-code.html)
 ### iOS怎么下载
 这里需要注意，大家切换苹果商店账号，可以前往 设置->个人信息->媒体与购买->退出登陆->返回前一个页面->再次进入个人信息->点击媒体与购买->选择不是xxx->输入你的苹果id即可，不要全部退出
 海外苹果免费账号分享，这个平台也有提示 [https://freevpn007.cf/share.html](./302.html?target=https://freevpn007.cf/share.html)
