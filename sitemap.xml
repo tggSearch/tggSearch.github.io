@@ -314,7 +314,13 @@
     </url>
       <url>
         <loc>https://tggsearch.github.io/docs/trx.html</loc>
-        <lastmod>2023-09-11T03:24:15+00:00</lastmod>
+        <lastmod>2023-09-11T03:25:15+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+      <url>
+        <loc>https://tggsearch.github.io/docs/high-end-info.html</loc>
+        <lastmod>2023-09-11T03:57:15+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
