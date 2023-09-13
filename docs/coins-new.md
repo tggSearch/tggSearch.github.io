@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 币圈小白必备技能知识
+title: 币圈小白 买币卖币买U卖U 必备技能知识
 description: 想买币，怎么买，想玩永续合约，想进入币圈交易所买卖 usdt，如果你是一个新人，想入局币圈，几大知识点，包括：选择交易所、钱包、如何兑换usdt以及买卖币，是你必须要上的基础课堂，不上这些课题，你可能会因此损失很多钱。
 canonical_url: 'https://tggsearch.github.io/docs/coins-new.html'
 ---
