@@ -53,3 +53,5 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-group-index.html'
 ### 谨防上当受骗
 电报最多的就是骗子，每个搜索出来的群也不一定真实，很多群主靠拉机器人，来骗取用户信任，以为很多人关注或者在群里面那么就不是骗子，但是实际情况大部分都是骗子，想了解各种电报骗局的，可以查看此文章
 [电报 telegram 纸飞机 骗人项目合集，电报防坑，防骗指南，骗子项目合集](./telegram-scam.html)
+
+
