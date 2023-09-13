@@ -14,7 +14,7 @@ canonical_url: 'https://tggsearch.github.io/docs/high-end-info.html'
 - [3/9元一年VPN](./vpn.html)
 - [免费一天 VPN 每天签到 1小时免费](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819)
 - [海外各类会员共享充值平台](./302.html?target=https://ihezu.zone/dTstFK)
-- [OKX BNB 等币圈交易所平台](./coins-index.HTML)
+- [OKX BNB 等币圈交易所平台](./coins-index.html)
 
 ### 怎么赚钱？
 有了这些平台以后，我们怎么才能赚到钱呢？这个问题就需要你们自己各自注册进去看看了，每个平台都有其赚钱的方法，我们一个个来分析，一个个来教大家操作。
