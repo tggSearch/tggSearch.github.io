@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 电报 telegram开车群，电报群去哪里搜索，去哪里找？
-description: 想找片源？想找修车品茶群？想找开车网站？想找本地上门？电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
+title: 电报 Telegram 开车群，30万电报中文福利群
+description: 老司机开车交友修车，找片源，喝茶群，本地上门服务应有尽有。电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 ---
 想找到电报 telegram 开车群，方法就是找到一个好的搜索机器人，下面就是 telegram 开车群的加入方法，以及搜索方法。你可以找到开车看片群，片源网址，本地喝茶品茶修车群等等，还可以找到一些免费资源。
