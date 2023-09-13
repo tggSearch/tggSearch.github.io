@@ -16,6 +16,8 @@ canonical_url: 'https://tggsearch.github.io/docs/buyu-selleru.html'
 
 [gateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)
 
+目前各大交易所在国内都需要 VPN 访问，如果你无法打开，可以查看此文 [交易所导航](./coins-index.html)
+
 ### 实名认证（各大交易所都有,以欧易为例子）
 为了避免洗钱嫌疑，避免非法资金，平台都需要进行实名认证，因此这也是为了大家安全考虑，减少不必要的麻烦，实名认证的方法很简单，欧易在首页就会有一个实名认证的按钮。也可以在左上角的功能里面，点击个人资料设置，在个人资料设置里面有身份认证，去认证就行了。如下图所示：
 
