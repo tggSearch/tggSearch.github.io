@@ -46,3 +46,6 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-apk.html'
 
 ### 验证码无法收到
 验证码问题，首先需要排除是华为手机和鸿蒙系统，如果是右下角联系客服，如果不是则前往这篇文章自行排查，可以解决问题。[电报无法收到验证码解决方案](./telegram-no-sms-code.html)
+
+### 电报防骗指引
+电报最多的就是骗子，请在使用电报前，参考此文，里面很多骗子常见骗局 [电报常见骗局](./telegram-scam.html)
