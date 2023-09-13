@@ -47,4 +47,5 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [新人入币圈，必须要懂的几大知识点](./docs/coins-new.html)
 ### [探秘空投，什么是空投，撸空投是什么意思，应该如何去撸空投](./docs/airdrop.html)
 ### [币圈永续合约是什么，怎么玩永续合约，永续合约的费率是什么意思，应该如何止盈止损避免爆仓](./docs/coins-yx-play.html)
+### [USDT 转账无 TRX 钱包无法转账，钱包将 USDT兑换人民币解决方法](./docs/trx.html)
 ### [YGG 近日暴涨近 400% ，到底是什么原因你知道吗？](./docs/news-ygg.html)
