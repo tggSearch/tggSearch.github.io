@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Telegram 电报设置、切换中文方法，聊天内容翻译中文，实时翻译聊天消息
+title: Telegram 电报设置｜切换中文教程，聊天内容翻译中文，实时翻译聊天消息
 description: 电报telegram怎么设置为中文，怎么下载电报中文版本，苹果、安卓怎么切换中文简体？电报有没有中文版本？telegram一起中文问题，都需要额外的处理，这里有所有中文的解决方案
 canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 ---
