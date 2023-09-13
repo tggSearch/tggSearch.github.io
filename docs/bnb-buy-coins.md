@@ -19,6 +19,11 @@ canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 </div>
 
 ### 下载安装教程
+下载完成，注册的时候一定要填写邀请码，否则没有 20%返佣，邀请码是
+
+<p class="red-text-word">
+ZGR4DOXV
+</p>
 
 这里要区分是苹果还是安卓，安卓可以直接下载下面的apk文件，苹果比较麻烦一些，需要海外苹果账号。
 #### 安卓方法
