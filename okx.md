@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 欧易注册返佣|币安注册返佣|安卓下载指南
-description: 欧易/OKX注册下载返佣 币安/BNB注册下载返佣 BitGet GateIO 安卓苹果下载注册，兑换 USDT，USDT 商申请教程全部流程，BTC 交易所购买教程，永续合约教程，各大交易所官网导航，币圈交易所返佣介绍，新人玩币教程指引
+title: 欧易返佣|币安返佣|安卓苹果注册下载教程
+description: 欧易/OKX注册下载返佣教程 币安/BNB注册下载返佣教程 BitGet GateIO 安卓苹果下载注册，兑换 USDT，USDT 商申请教程全部流程，BTC 交易所购买教程，永续合约教程，各大交易所官网导航，币圈交易所返佣介绍，新人玩币教程指引
 canonical_url: 'https://tggsearch.github.io/okx.html'
 ---
 ## 币圈各大网址导航
