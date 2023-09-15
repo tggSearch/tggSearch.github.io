@@ -1,7 +1,7 @@
 ---
 layout: default
 title: telegram apk telegram 中文包下载持续更新(官网正版)
-description: 官方正式正规 telegram apk版本，中文包方法，现在很多马甲包 telegram 的 apk 但是马甲包都会限制其验证码，因此必须要正版的 apk
+description: 官方正式正规 telegram apk版本，中文包切换方法，现在很多马甲包 telegram 的 apk 但是马甲包都会限制其验证码，因此必须要正版的 apk
 canonical_url: 'https://tggsearch.github.io/docs/telegram-apk.html'
 ---
 
@@ -42,7 +42,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-apk.html'
 
 [https://t.me/awuawua](./302.html?target=https://t.me/awuawua)
 
-然后回复“中文”，就可以看到回复的消息，点击任何一个就可以切换简体中文了
+然后回复“中文”，就可以看到回复的消息，点击任何一个就可以切换简体中文了，[电报中文全教程](./telegram-cn.html) 
 
 ### 验证码无法收到
 验证码问题，首先需要排除是华为手机和鸿蒙系统，如果是右下角联系客服，如果不是则前往这篇文章自行排查，可以解决问题。[电报无法收到验证码解决方案](./telegram-no-sms-code.html)
