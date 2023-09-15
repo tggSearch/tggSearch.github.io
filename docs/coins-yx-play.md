@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约
+title: 欧易币安的永续合约玩法教程，永续合约返佣
 description: 欧易币安的永续合约怎么玩，永续合约是什么，币圈的永续合约是目前币圈交易量最大的衍生品，里面包含了很多知识点，比如费率、逐仓、止盈、止损等等，要清楚了解这些你才能避免爆仓。
 canonical_url: 'https://tggsearch.github.io/docs/coins-yx-play.html'
 ---
@@ -8,7 +8,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-yx-play.html'
 ## 账号注册 APP下载入金
 首先得需要去注册下载账号，并且入金一定的金额，这里建议刚开始玩，入金 50 美金左右即可。
 
-注册下载方法请查看：[OKX 欧易如何下载安装以及注册](./okx-install.html) 注册下载好后，需要手把手免费教你携带好自己注册的UID备注加 QQ： 
+注册下载方法请查看：[OKX 欧易如何下载安装以及注册，自带返佣](./okx-install.html) 注册下载好后，需要手把手免费教你携带好自己注册的UID备注加 QQ： 
 
 <p class="red-text-word"> 3502434065 </p>
  
