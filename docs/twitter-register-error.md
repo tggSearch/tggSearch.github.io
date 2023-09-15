@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 注册推特显示错误、twitter错误请重试终极解决方案
+title: 推特twitter注册显示错误｜推特twitter错误请重试终极解决方案
 description: 推特twitter错误请重试，推特创建账号出错，推特无法查看，推特注册是否需要手机号，推特停留在查看世界正在发生的事情等的解决方案
 canonical_url: 'https://tggsearch.github.io/docs/twitter-register-error.html'
 ---
