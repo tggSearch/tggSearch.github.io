@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 币安下载方法｜币安返佣20%注册下载教程
+title: 币安注册下载教程｜币安返佣20%注册下载教程
 description: 币安安卓苹果高返佣注册下载安装教程，苹果应用商店无法搜索到币安解决方案，币安最高返佣20%下载教程，币安网址苹果无法打开怎么解决，等等币安各类问题解决方案
 canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 ---
