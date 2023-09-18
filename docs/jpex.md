@@ -23,6 +23,7 @@ canonical_url: 'https://tggsearch.github.io/docs/jpex.html'
 当然币安也是很多此类赔付事件的，就不一一赘述了，而这些都是体现了项目方的态度。那么具体怎么注册 OKX 和币安呢？
 
 [OKX 欧易注册教程](./okx-install.html)
+
 [币安 BNB 注册教程](./bnb-buy-coins.html)
 
 当然还有其他交易所，如果你有需要，可以前往查看 [交易所导航](./coins-index.html)
