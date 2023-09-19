@@ -32,7 +32,7 @@ canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 <p class="red-text-word">（特别申明：自己负责，不是我的服务，有问题找平台客服）</p>
  ，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
 
-登录成功请下载2个软件，一个叫做 shadowrocket 一个叫做 twitter
+登录成功请下载 1 个软件，叫做 shadowrocket
 
 没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！
 
