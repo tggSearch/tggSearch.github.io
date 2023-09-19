@@ -49,7 +49,6 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
 ### [Telegram Paid Bot, Boost Your Income with feeMaster](./docs/pay-bot-en.html)
 ### [电报 telegram APP进不去，电报telegram网页版无法打开解决方法](./docs/telegram-not-join.html)
 ### [telegram 怎么加好友，怎么扫码加好友，怎么扫码加群](./docs/telegram-add-friends.html)
-
 ### [电报 telegram 双向解除教程，无法发送消息教程](./docs/telegram-not-send-msg.html)
 
 
