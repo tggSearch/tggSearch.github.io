@@ -39,7 +39,7 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [USDT 是什么，怎么购买 USDT，与人民币和美元有什么关系](./docs/usdt.html)
 ### [OKX OKEX 欧易官网站点导航](./docs/okx-intro.html)
-### [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./docs/bnb-buy-coins.html)
+### [币安注册下载教程｜币安返佣20%注册下载教程](./docs/bnb-buy-coins.html)
 ### [探秘交易期权合约与跟单员以及欧易的跟单员怎么申请：成为基金经理的先行者，注册跟单员开启精彩投资旅程](./docs/ok-gd.html)
 ### [如何买 U，然后通过 U 购买数字货币](./docs/buyu-selleru.html)
 ### [新人应该如何进入币圈，币圈到底应该如何开始玩](./docs/new-blockchain.html)
