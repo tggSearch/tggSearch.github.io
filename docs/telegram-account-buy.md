@@ -1,11 +1,16 @@
 ---
 layout: default
 title: 购买电报账号，购买telegram账号，账号接码注册教程
-description: 购买一个telegram电报账号的方法，25元一个非常便宜，如果不想购买，想自己接码注册，这里也有非常详细的教程，接码注册就10元以下，但是过程会比较繁琐一些。
+description: 购买一个telegram电报账号的方法，25元一个永久私人账号，如果不想购买，想自己接码注册，这里也有非常详细的教程，接码注册就10元以下，但是过程会比较繁琐一些。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 ---
 目前有很多平台提供接码服务，顾名思义，这个的意思就是给你提供注册的验证码，你可以通过平台的注册验证码就行登录，比如我们之前常用的 chatgpt 就必须走这条路去申请，因为 86 手机号无法进行注册。那么去哪里呢？
+### 账号购买
 
+如果你嫌注册麻烦，或者新号，容易被封禁的问题，你可以购买一个，目前的价格是 25元一个，可以前往电报频道下单，[https://t.me/fjzhgxp](./302.html?target=https://t.me/fjzhgxp) 无法电报联系，请右下角聊天窗口联系，或者首页加一下技术客服的 QQ 2136868442
+<div align=center>
+    <img alt="频道信息" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/account-buy.webp" height=200px/>
+</div>
 ### SMS-接码平台
 
 这个是非常靠谱的一个平台，[sms-activate](./302.html?target=https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务
@@ -17,13 +22,6 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 
 这个价格大家自己计算一下，比如上面的 telegram 价格是 15卢布，那么换算成 rmb 就是 1.19元，是不是超级便宜？更别说下面的其他账号的了，比如 twitter 才 1卢布。
 这个平台也支持支付宝充值，所以整体来说非常方便快捷。
-
-### 账号购买
-
-如果你嫌注册麻烦，或者新号，容易被封禁的问题，你可以购买一个，目前的价格是 25元一个，可以前往电报频道下单，[https://t.me/fjzhgxp](./302.html?target=https://t.me/fjzhgxp) 无法电报联系，请右下角聊天窗口联系，或者首页加一下技术客服的 QQ 2136868442
-<div align=center>
-    <img alt="频道信息" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/account-buy.webp" height=200px/>
-</div>
 
 ### 注意事项
 
