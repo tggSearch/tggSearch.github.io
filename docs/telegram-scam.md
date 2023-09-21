@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 电报 telegram 纸飞机 骗人项目合集，电报防坑，防骗指南，骗子项目合集，e相册，私密花园
+title: 电报 telegram骗局骗人项目合集，电报防坑，防骗指南，骗子项目合集，e相册，私密花园
 description: 电报 telegram 骗子项目，微信1.5倍跑游戏，收短信验证码，电报账号异常需要处理，电报账号双向，各类棋牌游戏，欺诈第三方钱包，闲鱼兑换卡、租用苹果 ID
 canonical_url: 'https://tggsearch.github.io/docs/telegram-scam.html'
 ---
