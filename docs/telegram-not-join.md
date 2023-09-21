@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 电报 telegram APP进不去，电报telegram网页版无法打开解决方法
+title: 电报 telegram APP进不去，电报telegram网页版无法打开教程
 description: telegram app无法进去，网页版打不开，无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-not-join.html'
 ---

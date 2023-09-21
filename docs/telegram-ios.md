@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 电报/飞机/telegram 如何注册教程
+title: Telegram电报注册教程
 description: 电报注册教程，飞机注册教程 telegram注册教程，苹果注册下载教程，常见电报苹果问题，网络异常，无法收到验证码等等问题。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-ios.html'
 ---
