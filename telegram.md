@@ -31,6 +31,7 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
 ### [电报 telegram 聚合聊天桌面版本](./docs/telegram-desktop.html)
 ### [电报 telegram 纸飞机 骗人项目合集，电报防坑，防骗指南，骗子项目合集](./docs/telegram-scam.html)
 ### [电报 telegram 纸飞机 安卓注册下载方法](./docs/telegram-android.html)
+### [Telegram premium 代开通，电报订阅代开通](./docs/telegram-premium.html)
 ### [电报 telegram 纸飞机 苹果注册下载方法](./docs/telegram-ios.html)
 ### [电报 telegram 纸飞机 综合下载注册方法](./docs/register.html)
 ### [Telegram 电报 新用户指南：如何开始并发现有趣的电报群](./docs/telegram-start.html)
