@@ -41,7 +41,7 @@ Telegram Premium 提供了更多定制化选项，包括定制主题和表情包
 
 3. 接下来点击购买，这时候需要你提供 **TG用户名** ，请特别注意如果你没有用户名，请先前往电报设置一个，这个就类似于微信名一样，设置方法在个人资料页面，然后点击编辑，里面有一个用户名选项，设置就行了。
 <div align=center  style="display: flex">
-    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-premium-buy.webp"/>
+    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-premium-buy.webp" />
 </div>
 4. 选择购买的套餐，最低是 3 个月；
 5. 接下来使用微信或者支付宝支付就可以了。
