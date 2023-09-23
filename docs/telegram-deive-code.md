@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 电报 telegram 短信未发送，发送设备码 device code？没有发送短信怎么办？
-description: 相信很多人会遇到这类问题，但是这里面的情况非常的多，但是在这个问题之前，你要先了解是发送的短信验证码还是设备码，这两个有英文单词区别，一个是 sms code 一个是 device code，解决方案也不一样，下面你对照着自己的问题来看解决方案。
+title: 电报收不到验证码 Telegram 发送设备码 device code 解决全教程
+description: Telegram 收不到验证码，发送设备码也就是 device code，发送到其他设备，卸载后发送设备码，再也不发送短信，Telegram 短信无法接收，等等都可以解决，解决详细的教程。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-deive-code.html'
 ---
 相信很多人会遇到这类问题，telegram 短信无法收到，但是这里面的情况非常的多，但是在这个问题之前，你要先了解是发送的短信验证码还是设备码，这两个有英文单词区别，一个是 sms code 一个是 device code，解决方案也不一样，下面你对照着自己的问题来看解决方案。

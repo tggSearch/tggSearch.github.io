@@ -8,7 +8,7 @@ canonical_url: 'https://tggsearch.github.io/docs/trx.html'
 接下来就把地址给别人了，别人就顺利的给他转账了，确实也成功了，钱也进入了他的钱包。
 好了这时候他自己发现一个比较严重的问题
 
-**无法把 USDT 变现为 RMB**
+**无法把 USDT 变现为 RMB**  
 
 或者无法
 
