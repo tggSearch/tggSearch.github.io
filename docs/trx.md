@@ -1,6 +1,6 @@
 ---
 layout: default
-title: USDT 转账无 TRX 钱包无法转账，钱包将 USDT兑换人民币解决方法
+title: 获取 TRX教程，USDT 转账无 TRX 钱包无法转账，钱包将 USDT兑换人民币教程
 description: 钱包有 USDT，提示 TRX可用余额不足，或者提示无 TRX 无法进行转账，其次还有很多人钱包有 USDT，但是想变现成人民币，不知道如何处理，遇到这类情况应该如何来解决？
 canonical_url: 'https://tggsearch.github.io/docs/trx.html'
 ---
