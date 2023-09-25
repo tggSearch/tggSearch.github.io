@@ -4,7 +4,7 @@ title: Telegram电报注册教程
 description: 电报注册教程，飞机注册教程 telegram注册教程，苹果注册下载教程，安卓注册教程，常见电报苹果问题，网络异常，无法收到验证码等等问题。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-ios.html'
 ---
-本文是苹果的教程，[安卓请点击这里前往注册，注册教程](./telegram-android.html)
+本文是苹果的教程，[安卓请点击这里前往注册，注册教程](./telegram-android.html)，整体流程相似，安卓还会更简单一些。
 
 telegram 如何注册，整理了下流程分为 4 个大步骤
 1. 下载 VPN 网络梯子，海外加速器；
@@ -32,9 +32,9 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 打不开上面的用下面的
 [https://appidshop.com/](./302.html?target=https://appidshop.com/)
 #### 接下来的步骤和安卓基本是一样的
-[首选注册地址](https://www.三毛机场.live /#/register?code=6xuhG85m)
+[首选注册地址](https://www.三毛机场.live/#/register?code=6xuhG85m)
 如果首选地址无法打开
-[备用地址](https://www.三毛机场.live /#/register?code=6xuhG85m)
+[备用地址](https://www.三毛机场.live/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！
 1. **订阅服务**，使用上面的首选地址链接去注册，里面有一个订阅服务， 
 <p class="red-text-word">建议选择9块一个月的就行</p>

@@ -12,9 +12,9 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter.html'
 ## 网络梯子加速器VPN
 这是海外用户的加速器，主要是给海外用户加速使用。
 ### Android（安卓）
-[首选注册地址](./302.html?target=https://www.三毛机场.live /#/register?code=6xuhG85m)
+[首选注册地址](./302.html?target=https://www.三毛机场.live/#/register?code=6xuhG85m)
 如果首选地址无法打开
-[备用地址](./302.html?target=https://www.三毛机场.live /#/register?code=6xuhG85m)
+[备用地址](./302.html?target=https://www.三毛机场.live/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！！！
 1. 使用上面的首选注册地址链接去注册，里面有一个订阅服务，建议选择9块一个月的就行 
 <p class="red-text-word">（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>
@@ -47,7 +47,7 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter.html'
 #### 接下来的步骤和安卓基本是一样的
 [首选注册地址](./302.html?target=https://bit.ly/3LhP25y)
 如果首选地址无法打开
-[备用地址](./302.html?target=https://www.三毛机场.live /#/register?code=6xuhG85m)
+[备用地址](./302.html?target=https://www.三毛机场.live/#/register?code=6xuhG85m)
 看不懂的看下面的图片教程！！！！
 1. 使用上面的首选地址链接去注册，里面有一个订阅服务，建议选择9块一个月的就行 
 <p class="red-text-word">（如果觉得1个月10G够用，你可以选择1一年3块的服务，如果你觉得5块的也不够，可以选择8块的）</p>
