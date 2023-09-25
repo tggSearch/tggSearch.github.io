@@ -7,9 +7,9 @@ canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 目前比较常用的，也比较便宜的 VPN 主要是小火箭，而小火箭有很多机场，这里主要是基于三毛机场来介绍。主要介绍如何下载和使用小火箭，其中有部分比较麻烦的问题，比如苹果如何下载，如何应用等。
 ## 网络梯子加速器VPN小火箭
 ### Android（安卓）方法，苹果下在下面，请勿看错！！！！
-[首选注册地址](https://www.三毛机场.shop/#/register?code=GvzAuYCT)
+[首选注册地址](https://www.三毛机场.live /#/register?code=GvzAuYCT)
 如果首选地址无法打开
-[备用地址](https://www.三毛机场.shop/#/register?code=GvzAuYCT)
+[备用地址](https://www.三毛机场.live /#/register?code=GvzAuYCT)
 看不懂的看下面的图片教程！！！！！！
 1. **注册账号**，使用上面的首选注册地址链接去注册，里面有一个订阅服务， 
 <p class="red-text-word">建议选择9块一个月的就行</p>
@@ -40,9 +40,9 @@ canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 打不开上面的用下面的
 [https://appidshop.com/](./302.html?target=https://appidshop.com/)
 #### 接下来的步骤和安卓基本是一样的
-[首选注册地址](https://www.三毛机场.shop/#/register?code=GvzAuYCT)
+[首选注册地址](https://www.三毛机场.live /#/register?code=GvzAuYCT)
 如果首选地址无法打开
-[备用地址](https://www.三毛机场.shop/#/register?code=GvzAuYCT)
+[备用地址](https://www.三毛机场.live /#/register?code=GvzAuYCT)
 看不懂的看下面的图片教程！！！！
 1. **订阅服务**，使用上面的首选地址链接去注册，里面有一个订阅服务， 
 <p class="red-text-word">建议选择9块一个月的就行</p>
