@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OKX 欧易官网站点导航
+title: OKX 欧易官网地址
 description: 欧易 OKX 官网入口，欧易 APP 下载教程，欧易购买 USDT 教程，欧易返佣注册地址，欧易注册教程，欧易买币卖币教程
 canonical_url: 'https://tggsearch.github.io/docs/okx-intro.html'
 ---
