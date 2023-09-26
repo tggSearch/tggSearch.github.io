@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 获取 TRX教程，USDT 转账无 TRX 钱包无法转账，钱包将 USDT兑换人民币教程
-description: 钱包有 USDT，提示 TRX可用余额不足，或者提示无 TRX 无法进行转账，其次还有很多人钱包有 USDT，但是想变现成人民币，不知道如何处理，遇到这类情况应该如何来解决？
+title: TRX 钱包转账失败，提示没有GAS费用怎么办？
+description: 钱包有 USDT，提示 TRX 可用余额不足，或者提示无 TRX 无法进行转账，其次还有很多人钱包有 USDT，但是想变现成人民币，不知道如何处理，遇到这类情况应该如何来解决？
 canonical_url: 'https://tggsearch.github.io/docs/trx.html'
 ---
 很大一部分新人，比较懵懂，有人会问他要一个 TRC20 的收 USDT 的地址，然后不懂，就去网上搜索了一下钱包，用了欧易的 WEB3 钱包或者其他，有了钱包以后，然后就生成了一个钱包的 TRC20 的地址。
