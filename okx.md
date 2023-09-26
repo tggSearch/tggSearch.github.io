@@ -36,6 +36,7 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
 ### [🔥OKX 欧易如何下载安装以及注册🔥](./docs/okx-install.html)
 ### [OKX 欧易注册流程](./docs/okx.html)
+### [欧易打不开，欧易返佣注册，欧易如何下载教程](./docs/okx-error.html)
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [USDT 是什么，怎么购买 USDT，与人民币和美元有什么关系](./docs/usdt.html)
 ### [OKX OKEX 欧易官网站点导航](./docs/okx-intro.html)
