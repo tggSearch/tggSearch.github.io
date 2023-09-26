@@ -1,7 +1,7 @@
 ---
 layout: default
-title: OKX OKEX 欧易官网站点导航
-description: 欧易 OKX 官网入口，欧易 OKX 官方网站，欧易返佣注册地址，欧易i注册教程，欧易买币卖币教程
+title: OKX 欧易官网站点导航
+description: 欧易 OKX 官网入口，欧易 APP 下载教程，欧易购买 USDT 教程，欧易返佣注册地址，欧易注册教程，欧易买币卖币教程
 canonical_url: 'https://tggsearch.github.io/docs/okx-intro.html'
 ---
 欧易叫做 OKX 旧名称又叫做 OKEX，目前 OKX 的各大域名在国内都无法访问，只有通过其他域名才可以访问到，这里会持续更新最新的国内的欧易网址。其次这里还有欧易注册教程。
