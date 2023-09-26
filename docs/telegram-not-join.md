@@ -1,17 +1,21 @@
 ---
 layout: default
 title: Telegram网页版打不开解决教程，Telegram进不去教程
-description: telegram app无法进去，网页版打不开，无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
+description: telegram app无法进去，网页版打不开，网页版不发送短信，APP 无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-not-join.html'
 ---
 电报在使用过程中会有很多问题，今天我这里整理几个比较常见的问题，其他问题也可以右下脚联系客服进行处理。
 
-1. 电报 telegram app 无法进去；
-2. 电报 telegram 网页版本无法打开；
-3. 电报 telegram app 无法接收短信；
-4. 电报 telegram 群无法进去
-5. 电报 telegram 无法发送私信；
+1. 电报 Telegram 网页版收不到短信
+2. 电报 Telegram app 无法进去；
+3. 电报 Telegram 网页版本无法打开；
+4. 电报 Telegram app 无法接收短信；
+5. 电报 Telegram 群无法进去
+6. 电报 Telegram 无法发送私信；
 
+
+### 电报 Telegram 网页版收不到短信
+首先告诉你 Telegram 网页版是不会发送短信的，只会发送设备码给 Telegram 手机 APP，因此如果你没有在手机 Telegram 登录，那么网页版你是永续无法登录的，最简单的办法就是先去登录 APP，然后再通过 APP 去登录网页版。
 ###  电报 telegram app 无法进去
 如果你进入 telegram app 就提示网络问题时，那么大概率是没有梯子或者 VPN，这里的提示会是有一段英文，建议截屏，然后用微信翻译软件翻译一下。具体解决方案也比较简单，大家跟着教程去下载梯子和 VPN 就行了，教程参考这个 [电报/飞机/telegram 该如何注册](./register.html) 
 
