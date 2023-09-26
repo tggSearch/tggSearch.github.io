@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Telegram 电报群组大全 中文群组搜索 优质电报群推荐
+title: Telegram 群组大全 电报中文群组搜索 优质电报群推荐
 description: 中文群组搜索导航，精选优质电报群，优质中文电报群，想找到电报精选优质群组哪里去找？你可以来这里，帮你找到你想要的群。收纳了各种优质导航群，通过导航群可以帮助你快速的搜索到想要的资源。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-group-index.html'
 ---
