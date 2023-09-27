@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram电报注册教程
-description: 电报注册教程，飞机注册教程 telegram注册教程，苹果注册下载教程，安卓注册教程，常见电报苹果问题，网络异常，无法收到验证码等等问题。
+description: Telegram 电报注册教程，包含苹果注册下载教程，安卓注册教程，其次注册后一些场景的问题解决方法，新账号应该注意哪些细节，本文都会说吗。常见电报苹果问题，网络异常，无法收到验证码等等问题。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-ios.html'
 ---
 本文是苹果的教程，[安卓请点击这里前往注册，注册教程](./telegram-android.html)，整体流程相似，安卓还会更简单一些。
@@ -74,6 +74,21 @@ https://t.me/chineseSearchService
 这里需要注意，大家切换苹果商店账号，可以前往 设置->个人信息->媒体与购买->退出登陆->返回前一个页面->再次进入个人信息->点击媒体与购买->选择不是xxx->输入你的苹果id即可，不要全部退出
 海外苹果免费账号分享，这个平台也有提示 [https://freevpn007.cf/share.html](./302.html?target=https://freevpn007.cf/share.html)
 
- 
+ ### 注意事项
+
+新注册的电话号要注意以下细节，并且需要逐一的进行处理，大家按照下面的教程处理就行了。
+
+1. 切换中文语言包，加群 [https://t.me/awuawua](./302.html?target=https://t.me/awuawua) ，然后群里回复 中文 即可，点击消息切换；
+
+2. 解除双向限制，这部分你可以加群，然后直接回复 <b>双向</b>，就可以看到解决方案了。[https://t.me/awuawua](./302.html?target=https://t.me/awuawua)
+
+3. 去除敏感限制，这部分请查看这篇文章 [电报群打不开提示这个敏感信息怎么办？如何解除敏感限制](./telegram-group-spc.html)
+
+4. 谨慎私聊，新账号如果私聊较多会导致封号风险；
+
+5. 隐藏手机号，这部分需要自己前往隐私，不懂的可以搜索一下方法，如果不处理会被人使用工具爬取出个人手机号信息；
+
+6. 添加陌生人请一律不分享手机号，不然会导致信息被泄漏，你只要添加对方，对方就可以拿到你手机号，有较大安全风险；
+
 <p class="red-text-word">其他问题请提issue</p>
  
