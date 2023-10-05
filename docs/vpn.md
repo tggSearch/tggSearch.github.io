@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 小火箭VPN下载注册保姆教程
+title: 小火箭VPN下载注册|三毛机场教程
 description: 安卓、苹果如何下载使用 vpn 梯子，三毛机场注册使用教程，免费的 VPN，9块一年的三毛机场下载安装教程，安卓平台下载和使用小火箭教程，小火箭第三方平台三毛机场的注册下载，以及安装教程，内涵安卓和苹果的流程，其他的比如一毛机场、无毛机场什么的流程都是相似的。
 canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 ---
@@ -56,4 +56,3 @@ canonical_url: 'https://tggsearch.github.io/docs/vpn.html'
 ## 打开梯子测试
 大家可以把梯子连接打开，如果显示数据0，可以切换节点，大家一定要记得切换节点
 然后打开任意浏览器，看看是否能打开 https://www.google.com 如果打不开说明梯子配置还有问题。
-
