@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 电报 telegram骗局骗人项目合集，电报防坑，防骗指南，骗子项目合集，e相册，私密花园
-description: 电报 telegram 骗子项目，微信1.5倍跑游戏，收短信验证码，电报账号异常需要处理，电报账号双向，各类棋牌游戏，欺诈第三方钱包，闲鱼兑换卡、租用苹果 ID
+title: 电报 telegram诈骗项目合集，电报防坑，防骗指南，隐私相册骗局，私密花园
+description: 电报 telegram 诈骗项目，微信1.5倍跑游戏，收短信验证码，电报账号异常需要处理，电报账号双向，各类棋牌游戏，欺诈第三方钱包，闲鱼兑换卡、租用苹果 ID
 canonical_url: 'https://tggsearch.github.io/docs/telegram-scam.html'
 ---
 本文整理电报常见骗局项目，长期更新维护，请各位新来电报的识别常见骗局，避免被骗。更多骗局，请前往 [中文电报官方群](https://t.me/chinaDianBaoFans) ，这里例举了多种诈骗项目：
