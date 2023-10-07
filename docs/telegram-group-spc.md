@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报群打不开进不去，提示敏感信息，解除敏感限制教程
-description: 电报群无法打开进不去的主要原因是因为苹果敏感信息，无法打开会提示 This channel can`t be displayed because it was used to spread pornographic content，如何解开这个敏感限制呢？
+description: 电报群无法打开进不去的主要原因是因为苹果敏感信息，无法打开会提示 This channel can`t be displayed because it was used to spread pornographic content，如何解开这个敏感限制呢？没有勾选按钮怎么办？
 canonical_url: 'https://tggsearch.github.io/docs/telegram-group-spc.html'
 ---
 电报在苹果手机上会有一定的限制，无法查看敏感信息，当你进入敏感群时，就会提示这种问题：This channel can`t be displayed because it was used to spread pornographic content。很多中国的用户因为查看的都是英文提示，所以看不懂。
@@ -22,10 +22,10 @@ youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](./302.html?target=https://
 8. 打开后，往下滑，找到 Sensitive content ，然后把这个选项打勾，就完成了；
 9. 重新打开 telegram/电报/飞机 的app，就可以了进入任意群了。
 
-### 如果你勾选了还进不去
+### 勾选了还进不去，没有勾选按钮
 确认下以下几点
 1. 你重新进入网页，查看是否已经成功勾选上，没有的话，重新勾选一次
-2. 是否是62的手机号，不是86，有些地区或者国家就是不允许
+2. 是否是62的手机号，不是86，有些地区或者国家就是不允许，62 的是直接不支持的，也没有这个选项，建议更换账号
 3. 是否有杀掉电报重新打开，不是重新登录哈；
 4. 如果你还不懂，请联系网站客服进行解决；
 
