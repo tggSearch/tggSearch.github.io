@@ -50,3 +50,4 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [币圈永续合约是什么，怎么玩永续合约，永续合约的费率是什么意思，应该如何止盈止损避免爆仓](./docs/coins-yx-play.html)
 ### [USDT 转账无 TRX 钱包无法转账，钱包将 USDT兑换人民币解决方法](./docs/trx.html)
 ### [USDT 理财教程，钱包 USDT 理财，USDT 币圈埋伏教程](./docs/usdt-make-money.html)
+### [欧易靠谱吗? 钱放在欧易安全吗？](./docs/okx-safety.html)
