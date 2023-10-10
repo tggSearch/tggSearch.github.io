@@ -2,7 +2,7 @@
 layout: default
 title: USDT 是什么，人民币购买 USDT 教程
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/usdt-1.webp
-description: 人民币购买 USDT 教程，USDT 目前在币圈是核心。如果没有 USDT 的出现，币圈的发展不会如此顺利，币圈大部分交易对都是基于 USDT，这里就给大家介绍什么是 USDT，以及如何购买，它与人民币和美元有什么关系
+description: 人民币如何购买 USDT 教程，USDT 目前在币圈是核心。如果没有 USDT 的出现，币圈的发展不会如此顺利，币圈大部分交易对都是基于 USDT，这里就给大家介绍什么是 USDT，以及如何购买，它与人民币和美元有什么关系
 canonical_url: 'https://tggsearch.github.io/docs/usdt.html'
 ---
 在币圈最常使用的基础币就是 USDT，大部分交易对都是基于 USDT，无论是币交易还是合约交易，那么什么是 USDT，如何购买 USDT，以及USDT与美元和人民币又存在什么关系呢？
