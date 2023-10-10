@@ -6,7 +6,7 @@ description: 欧易官网，币安官网，gateIo官网，bitGet官网，安全�
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 ---
-## 币圈各大网址导航
+### 币圈各大返佣网址导航
 <div class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="./302.html?target=https://www.okx.com/join/90884854" target="_blank">
@@ -37,7 +37,7 @@ locale: zh_CN
 
 废话不多说，以下链接地址自行取。
 
-## 交易所网址导航
+### 交易所网址导航
  
 如果大家打不开，请下载此 VPN 来注册 [优途加速器](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819) ，如果你需要交易，请使用返佣地址注册，将会为你节省不少的手续费。目前很多交易所都需要 VPN，
 
@@ -50,7 +50,7 @@ locale: zh_CN
 
 请注意欧易必须要区分国内链接和国外链接，而币安的链接在苹果手机打开会提示安全问题，具体可以参考此文章 [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./bnb-buy-coins.html) 里面有详细介绍了如何在苹果手机上打开币安网页并注册。
 
-## 交易所电报官方群导航
+### 交易所电报官方群导航
 
 各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了，直接在电报中搜索群号即可。
 
