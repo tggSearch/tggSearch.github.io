@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 教你注册苹果海外账号，下载海外应用
-description: 有很多苹果用户，想使用海外的一些应用，比如电报、推特、tiktok、ins、facebook等等。但是对于苹果用户有一个限制，就是地区限制，你的账号只能下载对应地区的应用。因此有一个海外账号就迫在眉睫了。
+title: 注册苹果海外账号教程，下载安装海外应用教程
+description: 苹果下载海外应用的教程，海外的一些应用，比如电报、推特、tiktok、ins、facebook等等。但是对于苹果用户有一个限制，就是地区限制，你的账号只能下载对应地区的应用。因此有一个海外账号就迫在眉睫了。
 canonical_url: 'https://tggsearch.github.io/docs/register-apple-id.html'
 ---
 有很多苹果用户，想使用海外的一些应用，比如电报、推特、tiktok、ins、facebook等等。但是对于苹果用户有一个限制，就是地区限制，你的账号只能下载对应地区的应用。因此有一个海外账号就迫在眉睫了。
