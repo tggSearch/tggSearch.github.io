@@ -33,9 +33,10 @@ canonical_url: 'https://tggsearch.github.io'
 </div>
 
 ## 置顶教程问题
-### [🔥🔥OKX 欧易新注册送盲盒，玩合约就送 20U 体验现金券🔥🔥 ](./docs/okx-act.html)
+### [🔥OKX 欧易新注册送盲盒，玩合约就送 20U 体验现金券🔥](./docs/okx-act.html)
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code.html)
 ### [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
+### [Telegram 群组搜索](./docs/telegram-search.html)
 ### [🔥OKX 欧易如何下载安装以及注册🔥](./docs/okx-install.html)
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [电报 telegram 纸飞机 综合下载注册方法](./docs/register.html)
