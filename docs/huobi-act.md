@@ -4,7 +4,7 @@ title: 火币空投 火币注册教程 火币注册邀请码 火币返佣 火币
 description: 火币联合 betrays 社区进行空投 bigtime 活动，注册就送价值 $50 的 bigtime 豪礼，并附上火币注册下载教程
 canonical_url: 'https://tggsearch.github.io/docs/huobi-act.html'
 ---
-火币联合 Betrays 注册空投活动，通过以下链接注册就可以获得以下丰厚福利
+火币联合 Betrays 注册空投活动，通过以下链接注册就可以获得以下丰厚福利。[什么是 Betrays 社区，点击查看](./betrays.html)
 
 [火币官方福利注册链接](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)
 
