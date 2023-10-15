@@ -34,6 +34,7 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 欧易/币安注册安卓和苹果下载教程，欧易返佣注册链接，欧易节点计划，欧易购买 USDT 流程，以及欧易各类新手教程，永续合约玩法教程，新人玩币圈应该如何开始，可以一对一进行指导。一对一指导请联系QQ：3502434065。下面是相应的文章导航，根据自己需要进行查看，上面的币圈各大网址导航已经包含了返佣注册地址。
 
 ### [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
+### [🔥火币联合运营活动注册福利🔥](./docs/huobi-act.html)
 ### [🔥OKX 欧易如何下载安装以及注册🔥](./docs/okx-install.html)
 ### [OKX 欧易注册流程](./docs/okx.html)
 ### [欧易打不开，欧易返佣注册，欧易如何下载教程](./docs/okx-error.html)
