@@ -25,7 +25,9 @@ canonical_url: 'https://tggsearch.github.io/docs/huobi-act.html'
 
 #### 新人注册福利
 注册奖励 1 USDT 
-KYC 认证可最高抽取 800 USDT 奖励，具体请前往火币福利中心
+KYC 认证可最高抽取 800 USDT 奖励，等等，最高可领取 241 USDT，具体请前往火币福利中心
+
+[火币福利中心](./302.html?target=https://www.huobi.com/zh-cn/welfare/web/rewards)
 
 #### 注册红包奖励
 注册成功火币并 KYC3 成功后，提供火币的 UID 给到客服 QQ 3502434065 进行审核，审核通过后将会提供你进入社区微信群的方法。
