@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 火币空投 火币注册教程 火币注册邀请码 火币返佣 火币 bigtime空投
+title: 火币 & Betrays 社区专项 Bigtime 空投活动
 description: 火币联合 betrays 社区进行空投 bigtime 活动，注册就送价值 $50 的 bigtime 豪礼，并附上火币注册下载教程
 canonical_url: 'https://tggsearch.github.io/docs/huobi-act.html'
 ---
