@@ -12,6 +12,8 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-group-index.html'
 
 <b>群组搜索：</b>帮你找到你想要的各种群，但是骗子群也多，注意分辨
 
+<b>番号视频：</b>帮你找到你想要的番号视频链接，直接回复番号即可，例如 abw-087
+
 <b>推特榜单：</b>给你列举了当前最为火热的前100大博主
 
 <b>开车群：</b>各种开车群应有尽有，比如深圳、北京这类关键词
