@@ -23,6 +23,14 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
     <img alt="driver-bus-local-xiuche" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/local-xiuche.webp" class="page-img" width="70%"/>
 </div>
 
+### 番号视频搜索
+
+如果你想找到番号资源，那么这里可以满足你，至于怎么找到番号，你可以通过 Youtube 搜索番号推荐
+在群里面直接回复番号名称例如 **abw-087** , 你就可以找到番号的视频源链接，例如下图，赶紧去试试吧。
+<div align=center>
+    <img alt="fanhao" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/fanhao.webp" class="page-img" width="70%"/>
+</div>
+
 ### 搜索惊喜站点
 
 如果你想要一些比较好的网站资源，你可以直接在群里面搜索 **/yelo** 你就会得到 10 个免费站点，这些免费站点包你满意
