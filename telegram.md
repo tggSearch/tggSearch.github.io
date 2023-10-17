@@ -5,7 +5,7 @@ description: 电报中文版本，telegram中文版本，电报无法收到验�
 canonical_url: 'https://tggsearch.github.io/telegram.html'
 ---
 ## 常用资
-<div class='icon-block-body-three'>
+<div class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
@@ -13,15 +13,21 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
     </a>
   </div>
    <div class='icon-block-item'>
-    <a href="https://telegram.org" target="_blank">
+    <a href="/docs/302.html?target=https://telegram.org" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报官网" height=50px>
         <p>官网</p>
     </a>
   </div>
     <div class='icon-block-item'>
-    <a href="https://web.telegram.org" target="_blank">
+    <a href="/docs/302.html?target=https://web.telegram.org" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
         <p>网页版</p>
+    </a>
+  </div>
+    <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://t.me/chinaDianBaoFans" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
+        <p>官方群</p>
     </a>
   </div>
 </div>
