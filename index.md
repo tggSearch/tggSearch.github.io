@@ -33,7 +33,7 @@ canonical_url: 'https://tggsearch.github.io'
 </div>
 
 ## 置顶教程问题
-### [Betrays 社区](./docs/betrays.html)
+### [Betrys 社区](./docs/betrays.html)
 ### [🔥OKX 欧易新注册送盲盒，玩合约就送 20U 体验现金券🔥](./docs/okx-act.html)
 ### [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./docs/telegram-no-sms-code.html)
 ### [🔥币圈各大交易所网址导航🔥](./docs/coins-index.html)
