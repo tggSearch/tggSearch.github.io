@@ -7,7 +7,7 @@ canonical_url: 'https://tggsearch.github.io/telegram.html'
 ## 常用资
 <div class='icon-block-body-four'>
   <div class='icon-block-item'>
-    <a href="https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file" target="_blank">
+    <a href="/docs/302.html?target=https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>安卓下载</p>
     </a>
