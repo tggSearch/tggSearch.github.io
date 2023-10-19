@@ -46,6 +46,7 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [如何买 USDT，然后通过 USDT 购买数字货币](./docs/buyu-selleru.html)
 ### [新人应该如何进入币圈，币圈到底应该如何开始玩](./docs/new-blockchain.html)
 ### [永续合约交易：探索币圈中的永续合约及交易所操作指南](./docs/yx-hy.html)
+### [币安和欧易哪个好，为你提供最全面的解析](./docs/bnb-okx.html)
 ### [新人入币圈，必须要懂的几大知识点](./docs/coins-new.html)
 ### [探秘空投，什么是空投，撸空投是什么意思，应该如何去撸空投](./docs/airdrop.html)
 ### [币圈永续合约是什么，怎么玩永续合约，永续合约的费率是什么意思，应该如何止盈止损避免爆仓](./docs/coins-yx-play.html)
