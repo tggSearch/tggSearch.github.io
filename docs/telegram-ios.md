@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报注册教程(Telegram)-附带最便宜的翻墙方法
-description: Telegram 电报注册教程，包含苹果注册下载教程，安卓注册教程，其次注册后一些场景的问题解决方法，新账号应该注意哪些细节，本文都会说吗。常见电报苹果问题，网络异常，无法收到验证码等等问题。
+description: Telegram 电报注册教程，电报怎么注册教程，包含苹果注册下载教程，安卓注册教程，其次注册后一些场景的问题解决方法，新账号应该注意哪些细节，本文都会说吗。常见电报苹果问题，网络异常，无法收到验证码等等问题。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-ios.html'
 ---
 本文是苹果的教程，[安卓请点击这里前往注册，注册教程](./telegram-android.html)，整体流程相似，安卓还会更简单一些。
