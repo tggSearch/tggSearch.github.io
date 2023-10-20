@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 电报 telegram 怎么下载文件，下载的文件存在在哪里
-description: 电报 telegram 纸飞机，安卓 苹果怎么下载文件图片，下载的图片和文件保存在什么地方，应该如何寻找到
+title: Telegram怎么下载文件教程 Telegra图片下载
+description: Telegram怎么下载图片教程，下载文件教程，图片下载文件位置指引，如何查看和保存已经下载的文件。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-file.html'
 ---
 在本篇文章中，我们将详细介绍如何在 Telegram 安卓和苹果上下载文件和图片，并解释这些下载的文件和图片存储在哪里。
