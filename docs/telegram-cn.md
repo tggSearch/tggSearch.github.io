@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram 电报设置中文｜切换中文教程，消息翻译中文教程
-description: 电报没有中文吗，能设置中文吗？那肯定有的并且可以设置的，电报telegram怎么设置为中文，怎么下载电报中文版本，苹果、安卓怎么切换中文简体？电报有没有中文版本？telegram一起中文问题，都需要额外的处理，这里有所有中文的解决方案
+description: telegram切換中文教程，电报中文，电报怎么翻译成中文教程，Telegram 翻译桌面版，电报切换中文教程，切换简体中文教程。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 ---
 电报telegram怎么设置为中文，telegram 电报中文版哪里下载，苹果、安卓怎么切换中文简体？其次与国外用户聊天，发的是英文或者其他语言，怎么进行交流，怎么能看懂他们发的内容消息。怎么把聊天消息也翻译成中文，有这些疑问，就对了，这篇文章可以帮你解决。
