@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 购买电报账号，购买Telegram账号，Telegram 账号接码注册教程
+title: 购买Telegram账号，Telegram 账号接码注册教程
 description: 购买一个telegram电报账号的方法，25元一个永久私人账号，如果不想购买，想自己接码注册，这里也有非常详细的教程，接码注册就10元以下，但是过程会比较繁琐一些。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 ---
