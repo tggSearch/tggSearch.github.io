@@ -11,6 +11,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 <div align=center>
     <img alt="频道信息" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/account-buy.webp" height=200px/>
 </div>
+
 ### SMS-接码平台
 
 这个是非常靠谱的一个平台，[sms-activate](./302.html?target=https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务
