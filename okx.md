@@ -37,6 +37,7 @@ canonical_url: 'https://tggsearch.github.io/okx.html'
 ### [🔥火币联合运营活动注册福利🔥](./docs/huobi-act.html)
 ### [🔥OKX 欧易如何下载安装以及注册🔥](./docs/okx-install.html)
 ### [OKX 欧易注册流程](./docs/okx.html)
+### [火币注册下载教程](./docs/huobi-download.html)
 ### [欧易打不开，欧易返佣注册，欧易如何下载教程](./docs/okx-error.html)
 ### [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./docs/okx-buy-coins.html)
 ### [USDT 是什么，怎么购买 USDT，与人民币和美元有什么关系](./docs/usdt.html)
