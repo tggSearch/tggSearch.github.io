@@ -7,7 +7,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 ---
 ### 币圈各大返佣网址导航
-<div class='icon-block-body-five'>
+<div class='icon-block-body-three'>
   <div class='icon-block-item'>
     <a href="./302.html?target=https://www.okx.com/join/90884854" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
@@ -20,6 +20,8 @@ locale: zh_CN
         <p>币安</p>
     </a>
   </div>
+</div>
+<div class='icon-block-body-three'>
    <div class='icon-block-item'>
     <a href="./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/huobi.webp" alt="币安  bnb" height=50px>
