@@ -49,6 +49,7 @@ canonical_url: 'https://tggsearch.github.io/docs/airdrop.html'
 ### 当前值得去撸的空投
 目前比较好的一个一层网络空投 [venom 第一个受政府监控的一层网络](./302.html?target=https://venom.network/tasks)
 里面有 18个 NFT 任务，完成后到时候一定会有丰富的奖金。
+其他空投任务，可以前往这里 [https://airdrops.io/latest/](302.html?target=https://airdrops.io/latest/)
 
 ### 总结分析结论
 空投是加密领域中常见的激励机制，与传统金融中的股票打新有一些相似之处。参与空投需要谨慎选择可靠的项目，并按照详细的步骤指南完成相应的任务。保持警惕，确保你的资产安全，并享受空投活动所带来的潜在收益。
