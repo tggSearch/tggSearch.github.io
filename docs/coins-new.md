@@ -13,6 +13,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-new.html'
 3. 钱包是什么，怎么选择钱包，选择什么样的钱包安全；
 4. 如何通过法币兑换 USDT；
 5. 如何买卖币；
+6. 哪里查看币圈最新资讯消息；
 
 ### 什么是 BTC/ETH
 这部分我就不多啰嗦了，大家可以直接搜索，介绍这个的还是非常多的，我简单说几句大家能懂的，你们把 BTC/ETH 当作股票投资就可以了，BTC/ETH 相当于股市里面的股票代码，其他的你可以不懂关系不大。
@@ -40,6 +41,8 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-new.html'
 - [theblockbeats](./302.html?target=https://www.theblockbeats.info/)
 - 金色财经 APP
 - [币圈解锁代币日历](./302.html?target=https://token.unlocks.app/)
+
+其次币圈最大的交流都在 Telegram，你必须要安装下载一个 [Telegram 安装教程](./register.html)，交流的电报群你可以在 [币圈各大交易所网址导航](./coins-index.html) 这里找到
 
 ### 核心提醒
 炒币有风险，需要谨慎，再任何时候都切勿听信他人，或者倾其所有去投入，量力而行，亲身经历过投资失败的情况，并且身边还是存在很多因为投资炒币而身背巨债的人。
