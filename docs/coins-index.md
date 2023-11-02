@@ -20,14 +20,14 @@ locale: zh_CN
         <p>币安</p>
     </a>
   </div>
-</div>
-<div class='icon-block-body-three'>
-   <div class='icon-block-item'>
+     <div class='icon-block-item'>
     <a href="./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/huobi.webp" alt="币安  bnb" height=50px>
         <p>火币</p>
     </a>
-  </div>
+  </div>s
+</div>
+<div class='icon-block-body-two'>
     <div class='icon-block-item'>
     <a href="./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/gateio.png" alt="GateIO 官网" height=50px>
