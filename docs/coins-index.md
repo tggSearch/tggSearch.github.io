@@ -25,7 +25,7 @@ locale: zh_CN
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/huobi.webp" alt="币安  bnb" height=50px>
         <p>火币</p>
     </a>
-  </div>s
+  </div>
 </div>
 <div class='icon-block-body-two'>
     <div class='icon-block-item'>
