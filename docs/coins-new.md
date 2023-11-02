@@ -33,6 +33,14 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-new.html'
 在刚入局时，千万不要听信他人，买一些割韭菜币，很多人都是被人忽悠的，你刚入局，最好的方式就是先了解下 BTC 或者 ETH，并且先买现货，别买合约。如果你想玩合约，请看这个视频，有详细的教程，但是要玩也希望有人带 [永续合约怎么玩](./302.html?target=https://www.youtube.com/watch?v=SJ2vnMhZTbk)
 
 当然我们也有文字教程 [永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html)
+
+### 币圈优质资讯
+币圈的优质资讯有以下一些平台，让你第一时间关注到币圈的最新消息
+
+- [theblockbeats](./302.html?target=https://www.theblockbeats.info/)
+- 金色财经 APP
+- [币圈解锁代币日历](./302.html?target=https://token.unlocks.app/)
+
 ### 核心提醒
 炒币有风险，需要谨慎，再任何时候都切勿听信他人，或者倾其所有去投入，量力而行，亲身经历过投资失败的情况，并且身边还是存在很多因为投资炒币而身背巨债的人。
 
