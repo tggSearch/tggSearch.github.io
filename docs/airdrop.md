@@ -36,7 +36,7 @@ canonical_url: 'https://tggsearch.github.io/docs/airdrop.html'
 
     [币安下载教程](./bnb-buy-coins.html)
 
-    [币安注册地址，可获得10%返佣交易](./302.html?target=https://accounts.binance.com/register?ref=G1Q331LS)
+    [币安注册地址，返佣交易](./302.html?target=https://accounts.binance.com/register?ref=G1Q331LS)
 
 4. **完成空投要求**：每个空投项目都可能有不同的要求，例如关注社交媒体账号、填写表格、转发推文等。确保你满足所有要求，并按照指示完成任务。一般都不会特别复杂，有复杂的也可以在群里面交流，都会有大佬知道。
 
