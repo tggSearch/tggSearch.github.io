@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 币安和欧易哪个好，为你提供最全面的解析
+title: 币安和欧易哪个好，全面分析对比
 description: 币安和欧易都属于较大的交易所，那么应该选择哪个交易所呢？各自的优缺点有哪些，作为用户应该如何选择两个交易所
 canonical_url: 'https://tggsearch.github.io/docs/bnb-okx.html'
 ---
