@@ -7,7 +7,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-no-sms-code.html'
 电报 telegram 收不到验证码情况非常多种，但是每一种都是可以解决的，你可以先对照下面的进行分析，判断自己到底是哪里有问题。
 请注意接码并不能解决问题，如果需要人工协助，付费 20 元找 qq 2136868442，包解决。
 
-如果嫌文字看起来麻烦，请查看抖音视频教学：[电报无法收到验证码，发送电报设备码，device code又是什么](./302.html?target=https://v.douyin.com/UtxdcVy/ )
+如果嫌文字看起来麻烦，请查看 Youtube 视频教学：[电报无法收到验证码，发送电报设备码，device code又是什么](./302.html?target=https://youtu.be/3BiUss4RPls )
 
 > 经常有人来询问，为什么收不到验证码，首先电报确实有时候抽风，但是也不确定到底是哪里将信息拦截了。
 
