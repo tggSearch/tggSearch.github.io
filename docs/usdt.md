@@ -2,7 +2,7 @@
 layout: default
 title: 人民币购买 USDT 小白教程
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/usdt-1.webp
-description: USDT哪里可以买？USDT是什么？USDT稳定吗？为什么稳定？人民币如何购买 USDT 教程，USDT 目前在币圈是核心。如果没有 USDT 的出现，币圈的发展不会如此顺利，币圈大部分交易对都是基于 USDT，这里就给大家介绍什么是 USDT，以及如何购买，它与人民币和美元有什么关系
+description: USDT哪里可以买？USDT如何转账？USDT是什么？USDT稳定吗？为什么稳定？人民币如何购买 USDT 教程，USDT 目前在币圈是核心。如果没有 USDT 的出现，币圈的发展不会如此顺利，币圈大部分交易对都是基于 USDT，这里就给大家介绍什么是 USDT，以及如何购买，它与人民币和美元有什么关系
 canonical_url: 'https://tggsearch.github.io/docs/usdt.html'
 ---
 在币圈最常使用的基础币就是 USDT，大部分交易对都是基于 USDT，无论是币交易还是合约交易，那么什么是 USDT，如何购买 USDT，以及USDT与美元和人民币又存在什么关系呢？
@@ -27,6 +27,9 @@ USDT（Tether）是一种稳定币，但它不同于其他加密货币。它被�
 4. 有了 USDT 以后你就可以购买其他的币种了，具体的玩法，可以看这里 [OKX 欧易节点返佣，兑换USDT，成为U商赚钱方法](./okx-buy-coins.html)
 
 **特别注意：** 切莫和陌生人发生 USDT 私下交易，说有担保的也不一定靠谱，需要买卖 USDT 请走交易所渠道。
+
+### USDT 如何转账
+如果你是按照我本文的教程，在欧易购买了 USDT，那么你可以很方便的进行转账，在欧易的资产中心，你找到提币，然后选择提 USDT，接下来你需要选择网络，确认对方的是 TRC20 还是 ERC20，目前一般都是 TRC20，选择选择提币，然后填写对方的钱包地址就可以了。如果你还不清楚，可以右下角咨询我们的技术客服。
 
 ### USDT与美元的关系
 
