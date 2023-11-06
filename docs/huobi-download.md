@@ -24,5 +24,7 @@ canonical_url: 'https://tggsearch.github.io/docs/huobi-download.html'
 ### 登录 APP 领取福利
 接下来就登录火币 APP，并且有各种福利，详细可以参考这里 [火币福利](./huobi-act.html)
 
+本站福利升级，通过本站注册，并且做任何交易即可获得6美金现金奖励。
+
 ### 火币返佣
 如果你是通过本文的链接进行注册的，那么恭喜你将获得 30%现货+30%合约返佣
