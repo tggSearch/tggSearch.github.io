@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 买 U(USDT)教程，U(USDT) 购买数字货币(BTC/ETH/DOGE)教程
-description: 买U卖U教程，U买卖币 BTC 教程，包括注册，返佣，实名以及出入金方法
+description: 怎么买U, 怎么卖U，买U卖U教程，U币交易平台推荐，U买卖币 BTC 教程，包括注册，返佣，实名以及出入金方法
 canonical_url: 'https://tggsearch.github.io/docs/buyu-selleru.html'
 ---
 平台很多，这里主要是以欧易为例子，其他平台例如 币安、bitGet以及gateIO都类似
