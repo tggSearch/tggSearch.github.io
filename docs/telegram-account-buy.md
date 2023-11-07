@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 购买Telegram账号，Telegram 账号接码注册教程
-description: 购买一个telegram电报账号的方法，25元一个永久私人账号，如果不想购买，想自己接码注册，这里也有非常详细的教程，接码注册就10元以下，但是过程会比较繁琐一些。
+description: Telegram 账号购买，购买一个telegram电报账号的方法，25元一个永久私人账号，如果不想购买，想自己接码注册，这里也有非常详细的教程，接码注册就10元以下，但是过程会比较繁琐一些。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 ---
 目前有很多平台提供接码服务，顾名思义，这个的意思就是给你提供注册的验证码，你可以通过平台的注册验证码就行登录，比如我们之前常用的 chatgpt 就必须走这条路去申请，因为 86 手机号无法进行注册。那么去哪里呢？
