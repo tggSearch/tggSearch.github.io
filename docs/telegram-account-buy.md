@@ -41,3 +41,12 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 6. 添加陌生人请一律不分享手机号，不然会导致信息被泄漏，你只要添加对方，对方就可以拿到你手机号，有较大安全风险；
 
 以上 6 个流程不会的可以右下角咨询，协助解决。
+
+
+/usr/local/bin/elasticdump --input=/root/data-bak/my-index-2023-11-07.json --output=http://localhost:9200/my-index
+
+/usr/local/bin/elasticdump --input=/root/data-bak/fee-master-order-2023-11-07.json --output=http://localhost:9200/fee-master-order
+
+/usr/local/bin/elasticdump --input=/root/data-bak/fee-master-user-2023-11-07.json --output=http://localhost:9200/fee-master-user
+
+/usr/local/bin/elasticdump --input=/root/data-bak/fee-master-vendor-2023-11-07.json --output=http://localhost:9200/fee-master-vendor

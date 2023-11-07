@@ -396,4 +396,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+      <url>
+        <loc>https://tggsearch.github.io/docs/bnb-coins.html</loc>
+        <lastmod>2023-11-07T07:23:15+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
+
+
