@@ -11,7 +11,7 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register.html'
 其实推特有一些非常好的资源，无论是外部消息还是你想要的资源都有，比如常见的黄推大佬们。
 
 ### 如何注册推特账号
-
+这里有 6 个步骤，大家依次按照流程进行注册就行了。
 #### 步骤 1：访问推特网站
 
 首先，打开您的网页浏览器并在地址栏中输入 [https://twitter.com](./302.html?target=https://twitter.com)。这将带您前往推特的官方网站。
@@ -23,18 +23,19 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register.html'
 #### 步骤 3：填写信息
 
 在注册页面上，您需要提供以下信息：
-- **全名**：您的真实全名。
+- **全名**：这个可以随便填写，不需要真实信息。
 - **手机号码或电子邮件地址**：您将需要使用这些信息来验证您的账号和重置密码。
 - **密码**：选择一个强密码，确保它包含字母、数字和特殊字符。
-- **出生日期**：输入您的出生日期。
+- **出生日期**：输入您的出生日期，请注意这里最好选择大于18岁的，不然很多内容会受限制，不要随意选择。
 
+请注意手机号是可选的，因此你只需要有邮箱，就可以注册推特。
 #### 步骤 4：点击“下一步”
 
 填写完信息后，点击“下一步”按钮。
 
 #### 步骤 5：选择用户名
 
-您需要选择一个唯一的用户名（也称为“推特句柄”），以便其他用户能够找到您。用户名必须是唯一的，如果您选择的用户名已被占用，您将需要尝试其他用户名。
+您需要选择一个唯一的用户名（也称为“推特句柄”），以便其他用户能够找到您，这个类似微信号一样。用户名必须是唯一的，如果您选择的用户名已被占用，您将需要尝试其他用户名。
 
 #### 步骤 6：完成注册
 
@@ -50,13 +51,15 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register.html'
 2. 在搜索栏中输入“Twitter”。
 3. 点击“安装”按钮以下载和安装应用。
 
+如果你没有 Google Play 商店，你可以通过 APK 下载，具体的下载 [推特 Android APK 下载](./302.html?target=https://twitter.cn.uptodown.com/android/download)
+
 #### 苹果设备
 
 **注意：** 中国大陆用户无法直接从中国大陆地区的App Store下载Twitter应用。若要下载Twitter应用，您需要切换到一个海外Apple ID账号（至于方法，大家可以参考这篇文章 [如何创建和获取一个海外苹果账号](./register-apple-id.html)），以下是步骤：
 
 1. 在 app store 登出当前的Apple ID账号。
 2. 直接在 app store 登录新的账号，切莫前往设置中登录。
-3. 成功登录后，在 **App Store**，并搜索“Twitter”。
+3. 成功登录后，在 **App Store**，并搜索“Twitter”或者 X。
 5. 点击“获取”以下载应用。
 
 ### 注册过程中可能出现的问题
@@ -73,8 +76,12 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register.html'
 
 5. **地理区域问题（仅限苹果设备）**：如果您在中国大陆地区，您可能需要切换到海外Apple ID账号以下载Twitter应用，如前面所述。
 
+6. **注册后，账号里面被封禁**：主要是你的 VPN 的问题导致的，VPN 已经被污染，无法使用推特，最好的办法就是更换 VPN。
+
 如果你还需要 [推特的疑难杂症](./twitter-register-error.html)
 
 ### 推特资源介绍
 
 很多人进入推特发现什么都没有，觉得和微博差别不大，那么你肯定不知道以下资源，打开推特榜单你就知道特别的资源了 [推特中文榜单](./twitter-ranking.html)
+
+这里还有推特的资源介绍，请大家看看 Youtube 视频 [推特 Twitter X 有什么好玩的？老司机教你在推特开车](./302.html?target=https://youtu.be/XjSannmQDd4)

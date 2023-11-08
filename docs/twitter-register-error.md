@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 推特twitter注册显示错误｜推特twitter错误请重试终极解决方案
-description: 推特twitter错误请重试，推特创建账号出错，推特无法查看，推特注册是否需要手机号，推特停留在查看世界正在发生的事情等的解决方案
+description: 推特twitter错误请重试，推特创建账号出错，推特无法查看，注册后立马被封禁原因分析，推特注册是否需要手机号，推特停留在查看世界正在发生的事情等的解决方案
 canonical_url: 'https://tggsearch.github.io/docs/twitter-register-error.html'
 ---
 在注册推特的过程中很多人会遇到一些问题，其次也有人经常会问，推特注册是否需要手机号，答案是不需要的，这里主要是注册的问题，如果你遇到[推文无法查看，点击这里](./twitter-spc.html)
@@ -18,3 +18,6 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register-error.html'
 <div align=center>
     <img alt="no-vpn-tips" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-no-vpn.jpg" width="40%">
 </div>
+
+### 注册后立马被封号
+如果你注册账户，几分钟后就被系统提示账户被封禁，那么这说明你使用的 VPN 梯子存在问题，请立马更换 VPN，否则多少个号都会被封禁，核心原因就是你用的 VPN 已经被污染，很多人在此 VPN 上做了官方禁止的操作，导致整个 VPN IP都被封禁了。
