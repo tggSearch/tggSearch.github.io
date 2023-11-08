@@ -41,6 +41,9 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register.html'
 
 接下来，确认您是否同意推特的服务条款和隐私政策，然后点击“注册”。
 
+### 关注我们的官方号
+进入后，点击下面打开关注 [关注点击 软件分析师](https://twitter.com/idanhua) 
+
 ### 如何下载推特应用
 
 推特提供了移动应用，可以在您的智能手机上使用。以下是如何下载推特应用的指南：
