@@ -5,6 +5,8 @@ description: 欧易 OKX 官网入口，欧易 APP 下载教程，欧易购买 US
 canonical_url: 'https://tggsearch.github.io/docs/okx-intro.html'
 ---
 欧易叫做 OKX 旧名称又叫做 OKEX，目前 OKX 的各大域名在国内都无法访问，只有通过其他域名才可以访问到，这里会持续更新最新的国内的欧易网址。其次这里还有欧易注册教程。
+
+如果你找不到欧易官网，或者无法打开欧易官网，请右下角联系技术客服，为你服务。
 ### OKX 就是 OKEX
 okex 是欧易的前身，目前已经改名为 okx，因此 OKEX 和 okx 是同一个交易所欧易，这两个名字都是欧易官方的，所以不用担心假的。
 
