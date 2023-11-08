@@ -402,6 +402,12 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+     <url>
+        <loc>https://tggsearch.github.io/docs/telegram-luo.html</loc>
+        <lastmod>2023-11-08T03:35:05+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
 
 
