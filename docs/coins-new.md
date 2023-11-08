@@ -38,7 +38,7 @@ canonical_url: 'https://tggsearch.github.io/docs/coins-new.html'
 ### 币圈优质资讯
 币圈的优质资讯有以下一些平台，让你第一时间关注到币圈的最新消息
 
-- [theblockbeats](./302.html?target=https://www.theblockbeats.info/)
+- [theblockbeats 最新币圈资讯](./302.html?target=https://www.theblockbeats.info/)
 - 金色财经 APP
 - [币圈解锁代币日历](./302.html?target=https://token.unlocks.app/)
 
