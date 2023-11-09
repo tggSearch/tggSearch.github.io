@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram网页版打不开解决教程，Telegram进不去教程
-description: telegram app无法进去，网页版打不开，网页版不发送短信，APP 无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
+description: telegram app无法进去，Telegram网页版在哪里，网页版打不开，网页版不发送短信，APP 无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-not-join.html'
 ---
 电报在使用过程中会有很多问题，今天我这里整理几个比较常见的问题，其他问题也可以右下脚联系客服进行处理。
