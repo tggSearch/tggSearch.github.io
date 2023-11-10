@@ -11,4 +11,4 @@ canonical_url: 'https://tggsearch.github.io/twitter.html'
 ### [推特 twitter 提示敏感限制，有些推文无法查看，你需要这样处理](./docs/twitter-spc.html)
 ### [推特 twitter 无法注册，提示系统错误，请稍后重试，怎么处理](./docs/twitter-register-error.html)
 ### [twitter推特小蓝鸟网页版安卓版苹果版本，以及注册方法](./docs/twitter-intro.html)
-
+### [推特 X (Twitter)视频下载教程](./docs/twitter-video-download.html)
