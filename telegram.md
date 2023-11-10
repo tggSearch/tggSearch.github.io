@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报/telegram/纸飞机教程 软件教程
-description: 电报中文版本，telegram中文版本，telegram 扫码加好友，电报无法收到验证码，纸飞机中文版，电报安卓最新版本，其他电报资源下载，电报常见各类复杂问题，其中包含了大家常见的一些问题，比如切换 telegram 中文版，网页版地址，telegram 官网地址
+description: 电报中文版本，Telegram web，telegram中文版本，telegram 扫码加好友，电报无法收到验证码，纸飞机中文版，电报安卓最新版本，其他电报资源下载，电报常见各类复杂问题，其中包含了大家常见的一些问题，比如切换 telegram 中文版，网页版地址，telegram 官网地址
 canonical_url: 'https://tggsearch.github.io/telegram.html'
 ---
 ## 常用资
