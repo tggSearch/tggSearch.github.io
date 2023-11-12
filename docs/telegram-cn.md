@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram 电报设置中文｜切换中文教程，消息翻译中文教程
-description: telegram切換中文教程，电报没有中文的解决教程，电报怎么翻译成中文教程，Telegram 翻译桌面版，电报切换中文教程，切换简体中文教程。
+description: telegram切換中文教程，telegram翻译桌面版，电报没有中文的解决教程，电报怎么翻译成中文教程，Telegram 翻译桌面版，电报切换中文教程，切换简体中文教程。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 ---
 电报telegram怎么设置为中文，telegram 电报中文版哪里下载，苹果、安卓怎么切换中文简体？其次与国外用户聊天，发的是英文或者其他语言，怎么进行交流，怎么能看懂他们发的内容消息。怎么把聊天消息也翻译成中文，有这些疑问，就对了，这篇文章可以帮你解决。
@@ -13,14 +13,18 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 ### 切换中文方法手机APP
 
 加入群聊进行切换简体中文，两种方法加入电报群进行切换
+
 1. 直接打开连接（该连接需要打开梯子），加入群里 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService)
 2. 或者你可以在消息页面，直接搜索 @chineseSearchService
-
-接下来进入群聊后，直接回复 中文 或者 中文版 就回复你切换的链接，点击其中的任何一个，然后选择 Change 的英文就可以切换了。 
+3. 接下来进入群聊后，直接回复 中文 或者 中文版 就回复你切换的链接，点击其中的任何一个，然后选择 Change 的英文就可以切换了。 
 
 ### 切换中文方法桌面端
 
-其实流程是一样的，在桌面端，只要你加入了群聊，然后回复 中文 就可以获得切换链接，点击任意链接就可以完成切换了。
+其实流程是一样的，在桌面端，只要你加入了群聊，然后回复 中文 就可以获得切换链接，点击任意链接就可以完成切换了。流程也是和上面一样的。
+
+1. 直接打开连接（该连接需要打开梯子），加入群里 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService)
+2. 或者你可以在消息页面，直接搜索 @chineseSearchService
+3. 接下来进入群聊后，直接回复 中文 或者 中文版 就回复你切换的链接，点击其中的任何一个，然后选择 Change 的英文就可以切换了。 
 
 ### 聊天内容翻译中文
 应用层面的翻译很多时候都解决了翻译问题，但是消息很多时候是不能翻译的，特别是电报官方的消息，比如 @SpamBot 的消息，全是英文的，很多人不懂，那么怎么办？
