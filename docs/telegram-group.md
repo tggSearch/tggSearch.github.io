@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 电报/telergam/纸飞机 有哪些高质量群，怎么找到群
-description: 如何 在 Telegram 中寻找优质群组，你需要一个电报机器人
+title: 电报 Telergam 高质量电报群，纸飞机群，纸飞机搜索群
+description: 如何 在 Telegram 纸飞机中寻找优质群组，你需要一个电报中文搜索机器人，给你推荐高质量电报群
 canonical_url: 'https://tggsearch.github.io/docs/telegram-group.html'
 ---
 如何 在 Telegram 中寻找优质群组，你需要一个电报机器人，那就是 [@chineseSearchService](./302.html?target=https://t.me/chineseSearchService)
