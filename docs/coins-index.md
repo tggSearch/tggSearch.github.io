@@ -6,10 +6,11 @@ description: 欧易返佣，币安返佣，火币返佣，bitget 返佣，gateIo
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 ---
+以下链接都自带返佣注册，请直接点击链接注册就可以获得最高返佣20%，火币最高30%，目前都已经是最高返佣，如果还需要更多返佣福利，可以再联系本站站主，右下角。
 ### 币圈各大返佣网址导航
 <div class='icon-block-body-three'>
   <div class='icon-block-item'>
-    <a href="./302.html?target=https://www.okx.com/join/90884854" target="_blank">
+    <a href="./302.html?target=https://www.okx.com/join/62030781" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
         <p>欧易</p>
     </a>
@@ -51,7 +52,7 @@ locale: zh_CN
 
 |  交易所   | 官网地址  | 返佣地址  | 
 |  ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](./302.html?target=https://www.7202020.com/join/39154880)  [欧易海外](./302.html?target=https://www.okx.com/join/39154880) | [返佣国内](./302.html?target=https://www.7202020.com/join/39154880) [返佣海外](./302.html?target=https://www.okx.com/join/39154880)  |
+| 欧易-okx  | [欧易国内](./302.html?target=https://www.7202020.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.7202020.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
 | 币安-bnb | [bnb币安官网](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)  |
 | 火币-HTX | [火币官网](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)  |
 | gateIO | [GateIO官网](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
