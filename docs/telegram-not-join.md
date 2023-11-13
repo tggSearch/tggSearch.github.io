@@ -26,6 +26,7 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-not-join.html'
 因此你必须先有 Telegram 的手机 APP，没有的话网页版是进不去的，手机下载安装方法参考 [Telegram 下载注册教程](./register.html)
 ###  电报 telegram app 无法进去
 如果你进入 telegram app 就提示网络问题时，那么大概率是没有梯子或者 VPN，这里的提示会是有一段英文，建议截屏，然后用微信翻译软件翻译一下。具体解决方案也比较简单，大家跟着教程去下载梯子和 VPN 就行了，教程参考这个 [电报/飞机/telegram 该如何注册](./register.html) 
+
 ### 电报 telegram app 无法接收短信
 这里问题非常多，具体大家直接看这篇文章，一定可以解决你的问题，如果解决不了，请联系右下角客服，有偿包解决。[纸飞机 telegram 电报收不到验证码 （华为/鸿蒙系统也可解决）](./telegram-no-sms-code.html)
 
