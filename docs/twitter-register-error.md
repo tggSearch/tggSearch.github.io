@@ -13,6 +13,7 @@ canonical_url: 'https://tggsearch.github.io/docs/twitter-register-error.html'
 遇到这种情况最可能的问题就是你注册的邮箱有问题，这时候你可以选择换一个邮箱，使用的邮箱最好使用海外的，比如 [gmail](https://gmail.com/) 或者 [outlook](./302.html?target=https://outlook.com/) 邮箱。
 
 其次要确保你的 VPN 是没有被污染的，如果一直提示，可以尝试更换 VPN ，比如这个，可以免费领取一天，这个 VPN [优途加速器](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819) 一定是安全可靠的。
+
 ### 进入页面，显示“查看世界当前正在发生的事情”，点击创建账号无响应
 当你停留在“查看世界当前正在发生的事情”，并且点击创建账号无响应，这个问题主要原因是你没有科学上网工具，也就是🪜，那么怎么解决呢？首先你要去这里下载一个🪜来解决[点击此处查看梯子下载方法](./vpn.html)。
 <div align=center>
