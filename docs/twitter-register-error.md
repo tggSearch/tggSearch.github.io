@@ -5,7 +5,7 @@ description: 推特twitter错误请重试，推特创建账号出错，推特无
 canonical_url: 'https://tggsearch.github.io/docs/twitter-register-error.html'
 ---
 在注册推特的过程中很多人会遇到一些问题，其次也有人经常会问，推特注册是否需要手机号，答案是不需要的，这里主要是注册的问题，如果你遇到[推文无法查看，点击这里](./twitter-spc.html)
-### 提示系统错误，请稍后重试，比如下面这样
+### 提示系统错误，请稍后重试
 <div align=center>
     <img alt="register-error-tips" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-error.jpg" width="40%">
 </div>
