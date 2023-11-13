@@ -2,7 +2,7 @@
 layout: default
 title: USDT哪里买？
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/usdt-1.webp
-description: USDT最全的小白教程，教你如何购买 USDT，以及如何防止 USDT 安全问题，避免小白被坑、被骗的钱财损失。
+description: 哪里可以买 USDT，USDT使用教程，USDT最全的小白教程，教你如何购买 USDT，以及如何防止 USDT 安全问题，避免小白被坑、被骗的钱财损失。
 canonical_url: 'https://tggsearch.github.io/docs/usdt-buy.html'
 ---
 特别注意
