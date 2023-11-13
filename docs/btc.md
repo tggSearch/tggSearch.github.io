@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 比特币哪里买？
-description: 比特币去哪里买，比特币在哪里买，比特币靠谱吗，比特币 BTC 怎么投资理财。
+description: 比特币去哪里买，比特币在哪里买，比特币靠谱吗，比特币是否值得投资，比特币 BTC 怎么投资理财。
 canonical_url: 'https://tggsearch.github.io/docs/btc.html'
 ---
 很多新人都听过比特币，比特币今年也是非常热点，一度从 18000 点上升到了现在的 37000 点，已经超过 100% 的涨幅，而再看看 A 股，两者涨幅形成鲜明的差距，因此很多人会问如何去投资比特币？
