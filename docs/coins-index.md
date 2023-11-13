@@ -6,7 +6,7 @@ description: 欧易返佣，币安返佣，火币返佣，bitget 返佣，gateIo
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 ---
-以下链接都自带返佣注册，请直接点击链接注册就可以获得最高返佣20%，火币最高30%，目前都已经是最高返佣，如果还需要更多返佣福利，可以再联系本站站主，右下角。
+以下链接都自带返佣注册，请直接点击链接注册就可以获得最高返佣20%，火币最高30%，目前都已经是最高返佣，如果还需要更多返佣福利，可以再联系本站站主，每月达成交易额度，可以获得最高 30%的返佣比例，右下角可联系。
 ### 币圈各大返佣网址导航
 <div class='icon-block-body-three'>
   <div class='icon-block-item'>
