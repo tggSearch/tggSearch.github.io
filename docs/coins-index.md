@@ -69,6 +69,7 @@ locale: zh_CN
 | 币圈综合交流 | [@okxbnbEx](./302.html?target=https://t.me/okxbnbEx) |
 | 欧易okx官方中文群 | [@OKXGroup_CN](./302.html?target=https://t.me/OKXGroup_CN) |
 | 币安bnb官方中文群 | [@binancechinese](./302.html?target=https://t.me/binancechinese) |
+| 火币官方中文群 | [@huobiofficial](./302.html?target=https://t.me/huobiofficial) |
 | bitGet官方中文群 | [@Bitget_CNOfficial](./302.html?target=https://t.me/Bitget_CNOfficial) |
 | gateIO官方中文群 | [@gate_zh](./302.html?target=https://t.me/gate_zh) |
 
@@ -78,3 +79,4 @@ locale: zh_CN
 [如何购买 USDT](./okx-buy-coins.html) 或者查看 [如果买卖 U 视频教程](./302.html?target=https://www.youtube.com/watch?v=Y2A1SBRD5RM)
 
 [欧易币安的永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html) 或者查看视频教程 [永续合约怎么玩视频教程](./302.html?target=https://www.youtube.com/watch?v=SJ2vnMhZTbk)
+
