@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Telegram 扫码加好友教程，添加好友教程
-description: Telegram 扫描二维码加好友教程，有好友的二维码怎么扫码加好友，有群的二维码怎么扫码加群的各种解决方案，其次加好友如何避免安全隐私泄漏风险
+title: Telegram 扫码二维码加好友教程，添加好友教程
+description: Telegram 扫码加好友教程，Telegram 怎么扫码添加好友，有好友的二维码怎么扫码加好友，有群的二维码怎么扫码加群的各种解决方案，其次加好友如何避免安全隐私泄漏风险
 canonical_url: 'https://tggsearch.github.io/docs/telegram-add-friends.html'
 ---
 添加电报好友有多种方法，但是每一种方法都和你好友的来源不同，比如你有好友的唯一ID，也就是电报号，那你可以直接搜索添加好友。如果你和你想加的好友在同一个群，那么你可以选择添加群好友方法。如果你只有一个好友二维码，那么你可以选择扫码添加。
