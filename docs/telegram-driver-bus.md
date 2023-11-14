@@ -51,8 +51,5 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
     <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter-new.webp" class="page-img" width="70%"/>
 </div>
 
-### 免费 VPN SSR节点
-如果你有 clash 或者 shadowrocket 想找一些免费的节点，那么你可以来群里，直接输入关键词 **免费ssr**, 你就可以拿到免费的 SSR 节点，再也不需要钱了
-
 ### 免费海外苹果账号
 如果你想要海外苹果账号，下载例如欧易币安之类的软件，或者推特，但是没有海外账号想临时借用一下，那么你可以来群里，直接输入关键词 **appid**, 你就可以拿到免费的海外苹果账号
