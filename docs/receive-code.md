@@ -27,13 +27,13 @@ SMS 接码平台很多，但是要找到靠谱比较稳定的平台，有很多�
 在网页的右上角有一个注册登录按钮，选择注册，接下来在登录界面，你需要点击注册按钮，比如下方
 
 <div align=center>
-    <img alt="sms activate登录界面" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-register.webp" height=200px/>
+    <img alt="sms activate登录界面" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-register.webp" height=300px/>
 </div>
 
 接下来填写相应的注册邮箱和密码，注意这里的邮箱一定有真实的，可以直接用你的 qq 邮箱
 
 <div align=center>
-    <img alt="sms activate注册界面" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-form.webp" height=200px/>
+    <img alt="sms activate注册界面" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-form.webp" height=300px/>
 </div>
 
 就按照流程进行注册就行了，注册成功后登录，和刚才第一步流程一样。
@@ -44,7 +44,7 @@ SMS 接码平台很多，但是要找到靠谱比较稳定的平台，有很多�
 这里有非常多的支付方式，我们只需拉到最下方，有一个支付宝充值的方式。
 
 <div align=center>
-    <img alt="sms activate alipay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-alipay.webp" height=200px/>
+    <img alt="sms activate alipay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-alipay.webp" height=300px/>
 </div>
 
 接下来就填写你要充值的金额，注意这里是美金，美金的话比例是 7.34，也就是你支付的金额要乘以这个比例就是你支付的人民币。
@@ -55,7 +55,7 @@ SMS 接码平台很多，但是要找到靠谱比较稳定的平台，有很多�
 在页面的左侧有一个功能菜单，可以看到当前平台支持注册的 app 页面列表，基本上海外的平台都可以，比如下方这个列表。
 
 <div align=center>
-    <img alt="sms activate alipay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-app.webp" height=200px/>
+    <img alt="sms activate alipay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-app.webp" height=300px/>
 </div>
 
 这里需要注意的是 ChatGPT 在这里叫做 openAI 因此如果你是注册这个记得选择 openAI。
@@ -66,7 +66,7 @@ SMS 接码平台很多，但是要找到靠谱比较稳定的平台，有很多�
 选择了购买以后，在我的激活里面，你就可以看到下面这个虚拟手机号了
 
 <div align=center>
-    <img alt="sms activate alipay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-sms.webp" height=200px/>
+    <img alt="sms activate alipay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/receiver-code-sms.webp" height=300px/>
 </div>
 
 接下来就用这个虚拟手机号去注册了
