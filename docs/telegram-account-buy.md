@@ -16,6 +16,8 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-account-buy.html'
 
 这个是非常靠谱的一个平台，[sms-activate](./302.html?target=https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务
 
+注册教程可以参考这里 [sms activate 注册教程](./receive-code.html)
+
 <div align=center  style="display: flex">
     <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/sms-1.webp" height=400px/>
     <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/sms-2.webp" height=400px/>
