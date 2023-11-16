@@ -2,7 +2,7 @@
 layout: default
 title: Twitter 下载教程｜最新版本，最佳注册下载方法
 description: Twitter 怎么下载教程，推特安卓包、苹果下载方式，Twitter下载iOS，Twitter 下载安卓，Twitter 注册，底部有推特福利账号
-canonical_url: 'https://tggsearch.github.io./twitter-download.html'
+canonical_url: 'https://tggsearch.github.io./docs/twitter-download.html'
 ---
 Twitter 下载方法很多，但是很多人也会遇到问题，比如下载的是不安全不正版的 Twitter ，或者无法下载最新的版本，等等问题，今天就给大家一个指引，能够找到最新最官方的版本。
 
