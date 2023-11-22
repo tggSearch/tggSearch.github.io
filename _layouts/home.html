@@ -56,7 +56,7 @@ layout: default
                   {% if page == paginator.page %}
                       <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                   {% else %}
-                      <li class="page-item"><a class="page-link" href="/{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+                      <li class="page-item"><a class="page-link" href="/{{ site.paginate_path | replace: '//', '/' | replace: ':num', page }}/">{{ page }}</a></li>
                   {% endif %}
               {% endif %}
             {% endfor %}
@@ -65,11 +65,11 @@ layout: default
                 {% if end_page < paginator.total_pages - 1 %}
                     <li class="page-item disabled"><span class="webjeda page-link">...</span></li>
                 {% endif %}
-                <li class="page-item"><a class="page-link" href="/{{ site.paginate_path | replace: '//', '/' | replace: ':num', paginator.total_pages }}">{{ paginator.total_pages }}</a></li>
+                <li class="page-item"><a class="page-link" href="/{{ site.paginate_path | replace: '//', '/' | replace: ':num', paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
             {% endif %}
 
             {% if paginator.next_page %}
-                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | replace: '//', '/' }}">下一页 &raquo;</a></li>
+                <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | replace: '//', '/' }}/">下一页 &raquo;</a></li>
             {% else %}
                 <li class="page-item disabled"><span class="next page-link">&raquo;</span></li>
             {% endif %}
