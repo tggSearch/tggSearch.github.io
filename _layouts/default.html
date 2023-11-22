@@ -27,11 +27,6 @@
     {% assign page-title = site.title | escape %}
     {% endif %}
     
-    <title>{{ page-title }}</title>
-    
-    {% if site.plugins contains "jekyll-seo-tag" %}
-    <!-- jekyll-seo-tag -->
-    {% else %}
     {% include social-metatags.html %}
     {% endif %}
     
