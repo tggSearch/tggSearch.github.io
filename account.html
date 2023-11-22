@@ -1,0 +1,53 @@
+---
+layout: default
+title: 苹果账号申请，免费苹果账号，梯子账号使用，等其他账号相关教程
+description: 此处保护，梯子注册使用方法，苹果海外账号申请方法，免费苹果账号等等资源，建议收藏，定期更新。
+canonical_url: 'https://tggsearch.github.io/account.html'
+---
+<div>
+    <h2>账号服务类最新文章</h2>
+  
+    <div>&nbsp;</div>
+  
+    
+    <ul class="post-list">
+        {% assign pin_posts = '' | split: ',' %}
+        {% assign regular_posts = '' | split: ',' %}
+  
+        {% for category in site.categories %} 
+        {% if 'account' == category[0] %}
+          {% assign pages_list = category[1] %}
+          {% for tmp_post in pages_list %}
+              {% if tmp_post.pin == true %}
+                  {% assign pin_posts = pin_posts | push: tmp_post %}
+              {% else %}
+                  {% assign regular_posts = regular_posts | push: tmp_post %}
+              {% endif %}
+          {% endfor %}
+        {% endif %}
+        {% endfor %}
+  
+        {% assign combined_posts = pin_posts | concat: regular_posts %}
+  
+        {% assign count = 0 %}
+        {% for post in combined_posts %}
+          {% if post.title != null and count < 30 %}
+              {% assign count = count | plus: 1 %}
+          <li>
+            {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+    
+            {% assign url_link = post.url %}
+            <h2>
+              <a class="post-link" href="{{ url_link }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+            </h2>
+    
+            {{ post.excerpt | replace: '<script.*?</script>', '' | strip_html | markdownify | truncate: 60 }}
+    
+            <p>
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+            </p>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+</div>

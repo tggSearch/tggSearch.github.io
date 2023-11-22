@@ -1,0 +1,116 @@
+---
+---
+
+@import 'jekyll-theme-cayman-blog';
+
+.icon-block-body-three {
+    display: grid;  // 使用 grid 布局
+    grid-template-columns: repeat(3, 1fr);  // 修正这行
+    align-items: start;
+    gap: 10px;
+}
+
+.icon-block-body-four {
+    display: grid;  // 使用 grid 布局
+    grid-template-columns: repeat(4, 1fr);  // 修正这行
+    align-items: start;
+    gap: 10px;
+}
+
+.icon-block-body-two {
+    display: grid;  // 使用 grid 布局
+    grid-template-columns: repeat(2, 1fr);  // 修正这行
+    align-items: start;
+    gap: 10px;
+}
+
+.icon-block-item {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.red-text-word {
+    font-weight: bold;
+    color: red;
+}
+
+.pagination {
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: 0.25rem; 
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.pagination li {
+    margin-left: 1rem;
+}
+
+.page-img {
+    object-fit: cover;
+}
+
+.page-item:first-child .page-link {
+    margin-left: 0;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem; 
+}
+  
+.page-item:last-child .page-link {
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem; 
+}
+  
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #03a87c;
+    border-color: #03a87c; 
+}
+  
+.page-item.disabled .page-link {
+    color: #6c757d;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #fff;
+    border-color: #dee2e6; 
+}
+  
+.pagination-lg .page-link {
+    padding: 0.75rem 1.5rem;
+    font-size: 1.15rem;
+    line-height: 1.5; 
+}
+  
+.pagination-lg .page-item:first-child .page-link {
+    border-top-left-radius: 0.3rem;
+    border-bottom-left-radius: 0.3rem; 
+}
+  
+.pagination-lg .page-item:last-child .page-link {
+    border-top-right-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem; 
+}
+  
+.pagination-sm .page-link {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5; 
+}
+  
+.pagination-sm .page-item:first-child .page-link {
+    border-top-left-radius: 0.2rem;
+    border-bottom-left-radius: 0.2rem; 
+}
+  
+.pagination-sm .page-item:last-child .page-link {
+    border-top-right-radius: 0.2rem;
+    border-bottom-right-radius: 0.2rem; 
+}
+
+.post-list {
+    padding-inline-start: 0px; 
+}
