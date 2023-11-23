@@ -6,7 +6,7 @@ baseurl: "/docs" # change this to the subpath of your site, e.g. /blog. Leave it
 url: "https://tggsearch.github.io" # change this to the base hostname & protocol for your site
 permalink: /docs/:title.html
 
-google_analytics:
+google_analytics: true
 
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
