@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报 Telegram 开车群，30万电报中文福利群
-description: 老司机开车交友修车，电报开车群，电报福利群，找片源，喝茶群，本地上门服务应有尽有。电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源，今天就给大家推荐一个方法。
+description: 老司机开车交友修车，电报开车群，电报福利群，找片源，喝茶群，本地上门服务应有尽有。电报 telegram 有个好处就是资源非常的丰富，你可以在telegram中找到非常多的开车资源。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 categories: [ telegram ]
 pin: true
@@ -9,7 +9,7 @@ pin: true
 想找到电报 telegram 开车群，方法就是找到一个好的搜索机器人，下面就是 telegram 开车群的加入方法，以及搜索方法。你可以找到开车看片群，片源网址，本地喝茶品茶修车群等等，还可以找到一些免费资源。
 ### 加入中文索引群
 
-第一步你就需要加入中文索引群，[@chineseSearchService](./302.html?target=https://t.me/chineseSearchService)，这个群机器人包含了多种资源
+第一步你就需要加入中文索引群，[@chineseSearchService](./302.html?target=https://t.me/chineseSearchService)，这个群机器人包含了多种资源，或者你可以直接与机器人聊天 [@@ChineseMainSearchBot](./302.html?target=https://t.me/chineseMainSearchBot) 接下来我们看看如何进行开车。
 
 ### 搜索开车群
 
@@ -53,5 +53,5 @@ pin: true
     <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter-new.webp" class="page-img" width="70%"/>
 </div>
 
-### 免费海外苹果账号
+### 免费海外苹果账号（持续可用）
 如果你想要海外苹果账号，下载例如欧易币安之类的软件，或者推特，但是没有海外账号想临时借用一下，那么你可以来群里，直接输入关键词 **appid**, 你就可以拿到免费的海外苹果账号
