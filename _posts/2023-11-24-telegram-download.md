@@ -25,7 +25,7 @@ categories: [ telegram ]
 进去后，里面有一个按钮如下图，点击就可以下载了。
 
 <div align=center>
-    <img alt="telegram-download-button" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-download-button.webp" class="page-img" width="70%"/>
+    <img alt="telegram-download-button" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-android-button.webp" class="page-img" width="70%"/>
 </div>
 
 ### 下载的英文版怎么办？
