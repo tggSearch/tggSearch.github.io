@@ -23,7 +23,9 @@
 
         <div class="trigger">
           {% for ref in page_refs %}
+          {% if page.layout != 'home' && ref.id != 'index' %}
             <a class="page-link" href="{{ site.url }}/{{ ref.id }}.html">{{ ref.name }}</a>
+          {% endif %}
           {% endfor %}
         </div>
       </nav>
