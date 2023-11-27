@@ -8,7 +8,7 @@ categories: [ telegram ]
 目前有很多平台提供接码服务，顾名思义，这个的意思就是给你提供注册的验证码，你可以通过平台的注册验证码就行登录，比如我们之前常用的 chatgpt 就必须走这条路去申请，因为 86 手机号无法进行注册。那么去哪里呢？
 ### 账号购买
 
-如果你嫌注册麻烦，或者新号，容易被封禁的问题，你可以购买一个，目前的价格是 25元一个，可以前往电报频道下单，[https://t.me/fjzhgxp](./302.html?target=https://t.me/fjzhgxp) 无法电报联系，请右下角聊天窗口联系，或者首页加一下技术客服的 QQ 2136868442
+如果你嫌注册麻烦，或者新号，容易被封禁的问题，你可以购买一个，目前的价格是 25元一个，可以前往电报频道下单，[https://t.me/fjzhgxp](./302.html?target=https://t.me/fjzhgxp) 无法电报联系，请右下角聊天窗口联系，或者首页加一下技术客服的 QQ 1702242347
 <div align=center>
     <img alt="频道信息" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/account-buy.webp" height=200px/>
 </div>
