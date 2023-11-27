@@ -5,6 +5,7 @@ description: Telegram 电报上想找一些聊天群，是比较困难的，但�
 canonical_url: 'https://tggsearch.github.io/docs/telegram-chat.html'
 categories: [ telegram ]
 ---
+
 Telegram 由于其需要使用 VPN 才能使用，因此来 Telegram 上的人目的性都很强，因为目的性强所以那种聊天交友的就很少了，因此要找到这些群也不是很容易，今天就带大家一起来寻找这类群。一般电报的币圈用户比较多，想找币圈的聊天群还是非常多的，比如各大交易所的币圈群，大家可以看下这篇文章 [币圈导航|币圈各大交易所返佣导航](./coins-index.html)，里面有币圈的各大交易所官网，里面人多，聊天的也多。
 
 ### 1. 找中文搜索机器人
