@@ -63,7 +63,7 @@ pin: true
   </div>
    <div style=" flex: 1;text-align: center;padding: 10px;box-sizing: border-box;">
     <a href="./302.html?target=https://twitter.com/USA_China_Talk">
-        <img src="https://pbs.twimg.com/profile_images/1292737134156288000/v2iA6cUY_200x200.jpg" alt="9.美国驻华使领馆 US MissionC" height=50px>
+        <img src="https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_200x200.jpg" alt="9.美国驻华使领馆 US MissionC" height=50px>
         <p>9.美国驻华使领馆 US MissionC</p>
     </a>
   </div>
