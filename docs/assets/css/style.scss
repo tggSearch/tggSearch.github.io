@@ -53,6 +53,14 @@
     object-fit: cover;
 }
 
+.page-link {
+    position: relative;
+    display: block;
+    padding: 0.55rem .8rem;
+    line-height: 1.25;
+    border: 1px solid #dee2e6;
+}
+
 .page-item:first-child .page-link {
     margin-left: 0;
     border-top-left-radius: 0.25rem;
