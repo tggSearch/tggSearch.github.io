@@ -143,6 +143,29 @@
                 return false;
             }  
         </script>
+        <script type="text/javascript">
+            document.addEventListener('copy', function (event) {
+                 // clipboardData 对象是为通过编辑菜单、快捷菜单和快捷键执行的编辑操作所保留的，也就是你复制或者剪切内容
+                 let clipboardData = event.clipboardData || window.clipboardData;
+                 // 如果未复制或者未剪切，则return出去
+                 if (!clipboardData) { return; }
+                 // Selection 对象，表示用户选择的文本范围或光标的当前位置。
+                 //     声明一个变量接收 -- 用户输入的剪切或者复制的文本转化为字符串
+                 let text = window.getSelection().toString();
+                 if (text) {
+                     // 如果文本存在，首先取消文本的默认事件
+                     event.preventDefault();
+                     // 通过调用常clipboardData对象的 setData(format, data) 方法；来设置相关文本
+         
+                     // setData(format, data);参数
+                     // format
+                     // 一个DOMString 表示要添加到 drag object的拖动数据的类型。
+                     // data
+                     // 一个 DOMString表示要添加到 drag object的数据。
+                     clipboardData.setData('text/plain', text + '\n\n-----------\n 本文来自 https://tggsearch.github.io');
+                 }
+             });
+        </script>
          <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="d2269887-8595-4140-928a-88eac2c0a381";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     </body>
     </html>
