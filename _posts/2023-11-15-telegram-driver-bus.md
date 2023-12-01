@@ -6,10 +6,11 @@ canonical_url: 'https://tggsearch.github.io/docs/telegram-driver-bus.html'
 categories: [ telegram ]
 pin: true
 ---
-想找到电报 telegram 开车群，方法就是找到一个好的搜索机器人，下面就是 telegram 开车群的加入方法，以及搜索方法。你可以找到开车看片群，片源网址，本地喝茶品茶修车群等等，还可以找到一些免费资源。
-### 加入中文索引群
+开车就找导航机器人 @ChineseMainSearchBot 想找到电报 telegram 开车群，方法就是找到一个好的搜索机器人，下面就是 telegram 开车群的加入方法，以及搜索方法。你可以找到开车看片群，片源网址，本地喝茶品茶修车群等等，还可以找到一些免费资源。
+### 加入中文索引群或者直接与机器人对话
 
-第一步你就需要加入中文索引群，[@chineseSearchService](./302.html?target=https://t.me/chineseSearchService)，这个群机器人包含了多种资源，或者你可以直接与机器人聊天 [@@ChineseMainSearchBot](./302.html?target=https://t.me/chineseMainSearchBot) 接下来我们看看如何进行开车。
+第一步你就需要加入中文索引群，[@chineseSearchService](./302.html?target=https://t.me/chineseSearchService)，这个群机器人包含了多种资源
+如果你觉得加群人很多，你也可以直接与机器人聊天 [@@ChineseMainSearchBot](./302.html?target=https://t.me/chineseMainSearchBot) 接下来我们看看如何进行开车。
 
 ### 搜索开车群
 
