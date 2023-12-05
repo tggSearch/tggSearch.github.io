@@ -39,7 +39,7 @@ X blue 目前的费用是一年大概是 660 HK$，这算人民币大概就是 6
 如果你有 VISA 卡，那就非常简单了，直接在 twitter 菜单中找到 `premium` 然后选择个人进行支付，进入支付页面，如下：
 
 <div align=center>
-    <img alt="twitter-premium" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-blue-visa.webp" class="page-img" width="70%"/>
+    <img alt="twitter-blue-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-blue-visa.webp" class="page-img" width="70%"/>
 </div>
 
 选择代开服务，代开的话一般都比网页上开通会贵一些，这种你直接去谷歌搜索一下代开服务就行了。
