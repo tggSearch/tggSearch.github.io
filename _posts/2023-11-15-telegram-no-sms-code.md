@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 纸飞机 telegram 注册收不到验证码解决方案 （华为/鸿蒙系统也可解决）
+title: 纸飞机 telegram 收不到验证码解决方案 （华为/鸿蒙系统也可解决）
 description: 2023年12月最新更新，当前大部分都可以收到验证码解决，电报登录收不到验证码，电报收不到验证码，电报 telegram 发送的是设备码是什么原因，sms 收不到验证码，为什么没有发送任何短信 device code 是怎么回事，华为鸿蒙系统又是什么问题，每一种都是可以解决的。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-no-sms-code.html'
 categories: [ telegram ]
