@@ -17,7 +17,7 @@ pin: true
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.7202020.com/join/90884854](./302.html?target=https://www.7202020.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouxyi.clinic/join/90884854](./302.html?target=https://www.ouxyi.clinic/join/90884854)
 
 [备用国内无 VPN 地址 https://www.cnouyi.reisen/join/90884854](./302.html?target=https://www.cnouyi.reisen/join/90884854)
 
