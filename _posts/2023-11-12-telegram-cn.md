@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Telegram 电报中文切换教程｜电报汉化教程，消息翻译中文教程
+title: Telegram 中文版下载方法，电报中文切换、汉化教程｜消息翻译中文教程
 description: telegram 电报中文版下载教程，telegram iOS和安卓有中文版吗？没有的话怎么切換中文，电报中文版，telegram翻译桌面版，电报没有中文的解决教程，电报怎么翻译成中文教程，Telegram 翻译桌面版，电报切换中文教程，切换简体中文教程。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 categories: [ telegram ]
