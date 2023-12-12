@@ -7,27 +7,24 @@ categories: [ telegram ]
 pin: true
 ---
 开车就找导航机器人 @ChineseMainSearchBot 想找到电报 telegram 开车群，方法就是找到一个好的搜索机器人，下面就是 telegram 开车群的加入方法，以及搜索方法。你可以找到开车看片群，片源网址，本地喝茶品茶修车群等等，还可以找到一些免费资源。
-### 加入中文索引群或者直接与机器人对话
 
+### 加入中文索引群或者直接与机器人对话
 第一步你就需要加入中文索引群，[@chineseSearchService](./302.html?target=https://t.me/chineseSearchService)，这个群机器人包含了多种资源
 如果你觉得加群人很多，你也可以直接与机器人聊天 [@@ChineseMainSearchBot](./302.html?target=https://t.me/chineseMainSearchBot) 接下来我们看看如何进行开车。
 
 ### 搜索开车群
-
 你可以尝试搜索 **麻豆**，你就发现很多意外惊喜。当然 iOS 会有敏感提示，具体怎么解除查看这篇文章 [iOS解除电报敏感限制](./telegram-group-spc.html)
 <div align=center>
     <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-madou-new.webp" class="page-img" width="70%"/>
 </div>
 
 ### 搜索本地修车上门品茶群
-
 你可以尝试搜索 **北京** **深圳**，你就发现很多意外惊喜。
 <div align=center>
     <img alt="driver-bus-local-xiuche" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/local-xiuche.webp" class="page-img" width="70%"/>
 </div>
 
 ### 番号视频搜索
-
 如果你想找到番号资源，那么这里可以满足你，至于怎么找到番号，你可以通过 Youtube 搜索番号推荐
 在群里面直接回复番号名称例如 **abw-087** , 你就可以找到番号的视频源链接，例如下图，赶紧去试试吧。
 <div align=center>
@@ -35,14 +32,12 @@ pin: true
 </div>
 
 ### 搜索惊喜站点
-
 如果你想要一些比较好的网站资源，你可以直接在群里面搜索 **/yelo** 你就会得到 10 个免费站点，这些免费站点包你满意
 <div align=center>
     <img alt="driver-bus-yelo" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-yelo-new.webp" class="page-img" width="70%"/>
 </div>
 
 ### 磁力搜索资源
-
 如果你想要一些海量的资源，你可以使用 **mnet 苍老师**, 你就会发现更多的惊喜资源
 <div align=center>
     <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-mnet-new.webp" class="page-img" width="70%"/>
