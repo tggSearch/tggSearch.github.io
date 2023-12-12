@@ -54,5 +54,11 @@ pin: true
     <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-twitter-new.webp" class="page-img" width="70%"/>
 </div>
 
+### 免费音乐搜索
+如果你想找一首歌，那你可以直接输入 **小酒窝音乐**，就可以搜索到各种小酒窝音乐版本了，也可以在线听歌，也可以直接下载拿来使用，赶紧来试试吧。
+<div align=center>
+    <img alt="driver-bus-twitter" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-music.webp" class="page-img" width="70%"/>
+</div>
+
 ### 免费海外苹果账号（持续可用）
 如果你想要海外苹果账号，下载例如欧易币安之类的软件，或者推特，但是没有海外账号想临时借用一下，那么你可以来群里，直接输入关键词 **appid**, 你就可以拿到免费的海外苹果账号
