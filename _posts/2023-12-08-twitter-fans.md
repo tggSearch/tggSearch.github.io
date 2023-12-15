@@ -2,7 +2,7 @@
 layout: default
 title: Twitter 推特涨粉技巧，实操传承，有效触达
 description: 如果你的发的推特方向和价值都不错，那么缺少一些涨粉的方法和技巧，那么今天就教大家一些可以用的小技巧，帮你快速的涨粉，或许一天就可以涨粉 
-canonical_url: 'https://tggsearch.github.io/docs/twitter-blue.html'
+canonical_url: 'https://tggsearch.github.io/docs/twitter-fans.html'
 categories: [ twitter ]
 ---
 在很多平台都会教大家一些怎么吸粉的方法，但是很多都不一定可实践，即使实践了也不一定有效果。
