@@ -58,7 +58,7 @@ pin: true
 ### 正版APK软件搜索
 如果你想找一个安卓软件，那你可以直接输入 **youtube软件** 或者 **youtube apk**，就可以搜索到各种 Youtube 安卓版本了，点击链接进去直接下载拿来使用，赶紧来试试吧。
 <div align=center>
-    <img alt="driver-bus-apk" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-apk.webp" class="page-img" width="70%"/>
+    <img alt="driver-bus-apk" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-apk.webp" class="page-img" width="50%"/>
 </div>
 
 ### 免费海外苹果账号（持续可用）
