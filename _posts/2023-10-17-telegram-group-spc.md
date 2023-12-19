@@ -14,6 +14,7 @@ youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](./302.html?target=https://
 
 ## 文字步骤
 ### 登录网页版的电报操作
+
     1. 打开科学上网工具，也就是梯子，或者叫做 VPN；
     2. 用原生的safari浏览器，或者chrome（其他浏览器会屏蔽），打开网页[web.telegram.org](./302.html?target=https://web.telegram.org)，选择使用手机号登录，一般在二维码下面，有一个 Login by phone number；
     3. 然后输入手机号，这时候会发送一个设备码到你的手机app的电报里面；
@@ -26,6 +27,7 @@ youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](./302.html?target=https://
 
 ### 勾选了还进不去，没有勾选按钮
 确认下以下几点
+
     1. 你重新进入网页，查看是否已经成功勾选上，没有的话，重新勾选一次
     2. 是否是62的手机号，不是86，有些地区或者国家就是不允许，62 的是直接不支持的，也没有这个选项，建议更换账号
     3. 是否有杀掉电报重新打开，不是重新登录哈；
