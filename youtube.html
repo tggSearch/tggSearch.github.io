@@ -1,0 +1,75 @@
+---
+layout: default
+title: 油管/youtube 软件教程
+description: 油管安卓最新版本，youtube常见各类复杂问题教学，油管优质博主推荐
+canonical_url: 'https://tggsearch.github.io/youtube.html'
+---
+<h2>常用资源</h2>
+<div class='icon-block-body-three'>
+    <div class='icon-block-item'>
+      <a href="/docs/302.html?target=https://apkpure.com/youtube/com.google.android.youtube" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube.webp" alt="Twitter安卓版本" height=50px>
+          <p>安卓下载</p>
+      </a>
+    </div>
+     <div class='icon-block-item'>
+      <a href="/docs/302.html?target=https://youtube.com" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube.webp" alt="Twitter官网" height=50px>
+          <p>官网</p>
+      </a>
+    </div>
+      <div class='icon-block-item'>
+      <a href="/docs/302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube.webp" alt="电报网页版" height=50px>
+          <p>关注我们</p>
+      </a>
+    </div>
+</div>
+
+<div>
+    <h2>油管最新文章</h2>
+  
+    <div>&nbsp;</div>
+  
+   
+    <ul class="post-list">
+        {% assign pin_posts = '' | split: ',' %}
+        {% assign regular_posts = '' | split: ',' %}
+  
+        {% for category in site.categories %} 
+        {% if 'youtube' == category[0] %}
+          {% assign pages_list = category[1] %}
+          {% for tmp_post in pages_list %}
+              {% if tmp_post.pin == true %}
+                  {% assign pin_posts = pin_posts | push: tmp_post %}
+              {% else %}
+                  {% assign regular_posts = regular_posts | push: tmp_post %}
+              {% endif %}
+          {% endfor %}
+        {% endif %}
+        {% endfor %}
+  
+        {% assign combined_posts = pin_posts | concat: regular_posts %}
+  
+        {% assign count = 0 %}
+        {% for post in combined_posts %}
+          {% if post.title != null and count < 30 %}
+              {% assign count = count | plus: 1 %}
+          <li>
+            {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+    
+            {% assign url_link = post.url %}
+            <h2>
+              <a class="post-link" href="{{ url_link }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+            </h2>
+    
+            {{ post.excerpt | replace: '<script.*?</script>', '' | strip_html | markdownify | truncate: 60 }}
+    
+            <p>
+              <span class="post-meta">{{ post.date | date: date_format }}</span>
+            </p>
+          </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+</div>
