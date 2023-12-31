@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Youtube 油管怎么用？油管有哪些好资源
+title: Youtube 油管怎么用？油管福利账号资源
 description: Youtube 注册后，发现什么资源都没有，感觉没有什么好玩的，为什么这么多人还不断的想注册油管呢？真正的原因是你没有发现 Youtube 的神秘之处，今天就带大家领略领略。 
 canonical_url: 'https://tggsearch.github.io/docs/youtube-start.html'
 categories: [ youtube ]
@@ -25,8 +25,10 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
     <img alt="youtube-dy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-dy.webp" class="page-img" width="70%"/>
 </div>
 
-### 美女小福利
+### 福利账号列表推荐
 这种也是比较多的，特别是里面有各国资源，比如日本小姐姐就很多，我这里也收藏了很多日本和韩国小姐姐的资源，因为 Youtube 这些是允许的，所以你可以看到这类资源，你可以看看下面几个博主的首页都有惊喜。一般这群人是来这里引流的，真正精彩的可能在推特或者其他小平台，就看你自己去寻找了。
+
+[@fingermaster56](./302.html?target=https://www.youtube.com/@fingermaster56)
 
 [@sutenekokawaii](./302.html?target=https://www.youtube.com/@sutenekokawaii)
 
@@ -39,6 +41,8 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 [@haatssol](./302.html?target=https://www.youtube.com/@haatssol)
 
 [@misukyan_minami](./302.html?target=https://www.youtube.com/@misukyan_minami)
+
+[@TWXXXCHANNEL](./302.html?target=https://www.youtube.com/@TWXXXCHANNEL)
 
 ### 情感交友
 当然也有很多介绍情感类的，比如怎么追女孩子，如何与女孩子相处，如果成为海王等等，当然也有介绍一些体验的，比如和男女朋友第一次的感觉，和男女朋友 3P 的感觉，换妻的感觉等等都有，你们自己可以搜索一下看看，这里就不给你们举例子了。
