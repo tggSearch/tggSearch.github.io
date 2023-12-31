@@ -8,7 +8,7 @@ categories: [ youtube ]
 刚注册好油管以后，基本都是空白的，或者首页推荐的一些没有什么特别的视频，你看着也觉得很正常，和正常的国内的视频网站也类似差异不大，那么今天我就告诉大家 Youtube 的好玩之处。如果你想学习更多奇淫巧技，可以关注我的油管 [奇淫巧技教学](./302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w)，分享各种软件教程以及赚钱币圈教学资源。
 
 <p class="red-text-word">
-请特别注意，注册 Youtube 一定要大于16岁，不然你很多视频观看不了。
+请特别注意，注册 Youtube 一定要大于18岁，不然你很多视频观看不了。
 </p>
 
 ### 免费听歌资源
