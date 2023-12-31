@@ -18,17 +18,8 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
     <img alt="youtube-music" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-music-cs.webp" class="page-img" width="70%"/>
 </div>
 
-### 抖音短剧
-在国内目前比较火热的短剧，其实在 Youtube 上都有，只要你在抖音看到这类短剧，然后直接 Youtube 上搜索你就可以发现很多，而且都是免费的，完全不需要付费，比如前段时间我看的 <b>战帝的冰山美女老婆</b>
-
-<div align=center>
-    <img alt="youtube-dy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-dy.webp" class="page-img" width="70%"/>
-</div>
-
 ### 福利账号列表推荐
 这种也是比较多的，特别是里面有各国资源，比如日本小姐姐就很多，我这里也收藏了很多日本和韩国小姐姐的资源，因为 Youtube 这些是允许的，所以你可以看到这类资源，你可以看看下面几个博主的首页都有惊喜。一般这群人是来这里引流的，真正精彩的可能在推特或者其他小平台，就看你自己去寻找了。
-
-[@fingermaster56](./302.html?target=https://www.youtube.com/@fingermaster56)
 
 [@sutenekokawaii](./302.html?target=https://www.youtube.com/@sutenekokawaii)
 
@@ -44,6 +35,13 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 
 [@TWXXXCHANNEL](./302.html?target=https://www.youtube.com/@TWXXXCHANNEL)
 
+### 抖音短剧
+在国内目前比较火热的短剧，其实在 Youtube 上都有，只要你在抖音看到这类短剧，然后直接 Youtube 上搜索你就可以发现很多，而且都是免费的，完全不需要付费，比如前段时间我看的 <b>战帝的冰山美女老婆</b>
+
+<div align=center>
+    <img alt="youtube-dy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-dy.webp" class="page-img" width="70%"/>
+</div>
+
 ### 情感交友
 当然也有很多介绍情感类的，比如怎么追女孩子，如何与女孩子相处，如果成为海王等等，当然也有介绍一些体验的，比如和男女朋友第一次的感觉，和男女朋友 3P 的感觉，换妻的感觉等等都有，你们自己可以搜索一下看看，这里就不给你们举例子了。
 
@@ -56,6 +54,8 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 
 ### 影片介绍
 如果你找不到好看的影片，无论是正常的影片还是黄片，其实油管都有，特别是番号类的视频油管都有，至于番号怎么找到想要的视频，你们一定要关注我，看我的视频列表里面有很多介绍这方面的视频资源。
+
+比如番号介绍 [@fingermaster56](./302.html?target=https://www.youtube.com/@fingermaster56)
 
 ### 理财投资
 这部分也非常多，比如币圈的各种教学教程，或者各种曲线教学等等，相当国内的抖音那些套路比较少，都是真知识。
