@@ -2,7 +2,7 @@
 layout: default
 title: 短剧免费看，抖音短剧如何免费看
 description: 短剧在抖音非常火热，但是太贵了，很多人都觉得不值得，那么是不是有更好的办法可以看到被引流的短剧呢？这篇文章就教你最全教程
-canonical_url: 'https://tggsearch.github.io/docs/douyin-shortvide.html'
+canonical_url: 'https://tggsearch.github.io/docs/douyin-shortvideo.html'
 categories: [ youtube ]
 ---
 短剧是今年比较火热的话题，并且很多人靠短剧赚了一波非常大的钱，但是作为用户则非常讨厌了，每次刷到一个短视频，然后看了几集，发现挺精彩的，然后再想看发现要付费了，就很生气，但是有些人又很想看，因此产生了冲动消费，所以这波人就赚钱了，赚的钵满盆满。
