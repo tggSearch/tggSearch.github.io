@@ -27,5 +27,5 @@ categories: [ youtube ]
 
 为了让大家方便，大家也可以直接在这里打开
 
-<iframe src="./302.html?target=https://youtube.iiilab.com/" style="width: 100%; height: 60vh; border: 0;"></iframe>
+<iframe src="./302.html?target=https://y2b.455556.xyz/" style="width: 100%; height: 60vh; border: 0;"></iframe>
 
