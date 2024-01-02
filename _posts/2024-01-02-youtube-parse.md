@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Youtube 油管视频解析｜免费多站点｜高清视频下载教程
+title: Youtube 油管视频解析｜免费油管解析｜高清视频下载教程
 description: 整理了一份可解析油管视频的网站列表，大部分都可以下载解析油管视频简单方法帮你下载到高清原码视频，保存下载到本地的方法教程
 canonical_url: 'https://tggsearch.github.io/docs/youtube-parse.html'
 categories: [ youtube ]
