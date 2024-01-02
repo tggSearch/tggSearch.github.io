@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Youtube 油管怎么用？油管福利账号资源｜油管订阅排行
-description: Youtube 注册后，发现什么资源都没有，感觉没有什么好玩的，为什么这么多人还不断的想注册油管呢？真正的原因是你没有发现 Youtube 的神秘之处，今天就带大家领略领略。 
+description: Youtube 注册后，发现什么资源都没有，也不知道油管可以看什么，感觉没有什么好玩的，为什么这么多人还不断的想注册油管呢？真正的原因是你没有发现 Youtube 的神秘之处，今天就带大家领略领略。 
 canonical_url: 'https://tggsearch.github.io/docs/youtube-start.html'
 categories: [ youtube ]
 ---
