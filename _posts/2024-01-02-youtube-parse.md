@@ -17,7 +17,7 @@ categories: [ youtube ]
 
 [https://youtube.iiilab.com/](./302.html?target=https://youtube.iiilab.com/)
 
-我们随意找一个网站来测试一下我自己的视频。
+我们随意找一个网站来测试一下我自己的视频，你可以用我的视频地址来测试下，直接复制这个链接到下面网站就可以解析下载了：https://www.youtube.com/watch?v=00bWVdK31og
 
 <div align=center>
     <img alt="youtube-parse" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-parse.webp" class="page-img" width="70%"/>
