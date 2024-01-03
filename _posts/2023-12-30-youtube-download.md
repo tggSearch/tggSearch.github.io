@@ -51,5 +51,11 @@ Youtube 里面的资源还是非常多的，但是很多人不知道怎么下载
 #### 网页版
 如果你是电脑，那么可以直接使用网页版，[Youtube 网页版地址](./302.html?target=https://youtube.com)
 
+### 注册流程
+
+1. 注册一个谷歌邮箱，这个正常前往谷歌邮箱注册，[点击我注册](./302.html?target=https://gmail.com);
+2. 进入 [Youtube 官网](./302.html?target=https://youtube.com)，点击主页的右上角【登录】;
+3. 接下来直接使用谷歌授权登录进行了。
+
 ### 福利推荐
 大家可以查看我们的 [Youtube 推荐](./youtube-start.html)
