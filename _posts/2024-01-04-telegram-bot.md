@@ -45,7 +45,7 @@ categories: [ telegram ]
 
 [utubest_Bot](./302.html?target=https://t.me/utubest_Bot)，Youtube 视频免费下载机器人。
 
-[getmediabot](./302.html?target=https://t.me/getmediabot)，可下载youtube,twitter等网站视频。
+[getmediabot](./302.html?target=https://t.me/getmediabot)，音乐搜索下载。
 
 [FBvidzBot](./302.html?target=https://t.me/FBvidzBot)，FB影片下载，下载你在 facebook 想要的视频素材。
 
