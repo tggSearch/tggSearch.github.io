@@ -40,19 +40,24 @@ categories: [ telegram ]
 
 [jisou](./302.html?target=https://t.me/jisou)，大部分片源都可以搜索到，整体体验还是不错的，**老司机开车必备**
 
-### 功能型机器人
-这里包含了社工库、视频、音乐、抽奖等等一系列的功能型机器人，当然很多可能还是收费的。
-
-[payznbot](./302.html?target=https://t.me/payznbot)，群抽奖机器人，可以帮你活跃群氛围，设置条件抽奖，比如活跃度等等。
+### FB/Twitter/Youtube视频下载
+很多时候我们看到三个平台的视频想下载下来作为视频素材，就需要这些机器人了。
 
 [utubest_Bot](./302.html?target=https://t.me/utubest_Bot)，Youtube 视频免费下载机器人。
-
-[aliyunshare_bot](./302.html?target=https://t.me/aliyunshare_bot)，免费片源搜索，你可以搜索到你想要的各种电影资源，比如有些最新的电影或者电视剧。
 
 [getmediabot](./302.html?target=https://t.me/getmediabot)，可下载youtube,twitter等网站视频。
 
 [FBvidzBot](./302.html?target=https://t.me/FBvidzBot)，FB影片下载，下载你在 facebook 想要的视频素材。
 
+### 功能型机器人
+这里包含了社工库、音乐、抽奖等等一系列的功能型机器人，当然很多可能还是收费的。
+
+[payznbot](./302.html?target=https://t.me/payznbot)，群抽奖机器人，可以帮你活跃群氛围，设置条件抽奖，比如活跃度等等。
+
+[aliyunshare_bot](./302.html?target=https://t.me/aliyunshare_bot)，免费片源搜索，你可以搜索到你想要的各种电影资源，比如有些最新的电影或者电视剧。
+
 [DropmailBot](./302.html?target=https://t.me/DropmailBot) DropMail.me：获得后缀为@dropmail.me的临时邮箱。
+
+[apkdl_bot](./302.html?target=https://t.me/apkdl_bot)，APK 下载
 
 其他机器人会持续补充。
