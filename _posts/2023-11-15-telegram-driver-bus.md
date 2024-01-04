@@ -38,7 +38,7 @@ pin: true
 </div>
 
 ### 磁力搜索资源
-如果你想要一些海量的资源，你可以使用 **mnet 苍老师**, 你就会发现更多的惊喜资源
+如果你想要一些海量的资源，你可以使用 **mgt 苍老师**, 你就会发现更多的惊喜资源
 <div align=center>
     <img alt="driver-bus-mnet" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/driver-bus-mnet-new.webp" class="page-img" width="70%"/>
 </div>
