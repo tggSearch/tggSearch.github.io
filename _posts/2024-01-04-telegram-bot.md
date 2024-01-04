@@ -43,4 +43,8 @@ categories: [ telegram ]
 
 [payznbot](./302.html?target=https://t.me/payznbot)，群抽奖机器人，可以帮你活跃群氛围，设置条件抽奖，比如活跃度等等。
 
+[utubest_Bot](./302.html?target=https://t.me/utubest_Bot)，Youtube 视频免费下载机器人。
+
+[aliyunshare_bot](./302.html?target=https://t.me/aliyunshare_bot)，免费片源搜索，你可以搜索到你想要的各种电影资源，比如有些最新的电影或者电视剧
+
 其他机器人会持续补充。
