@@ -47,8 +47,6 @@ categories: [ telegram ]
 
 [getmediabot](./302.html?target=https://t.me/getmediabot)，音乐搜索下载。
 
-[FBvidzBot](./302.html?target=https://t.me/FBvidzBot)，FB影片下载，下载你在 facebook 想要的视频素材。
-
 ### 功能型机器人
 这里包含了社工库、音乐、抽奖等等一系列的功能型机器人，当然很多可能还是收费的。
 
