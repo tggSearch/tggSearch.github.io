@@ -48,7 +48,7 @@ categories: [ twitter ]
     <img alt="twitter-app-hd-high-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-app-hd-high-1.webp" class="page-img" width="50%"/>
 </div>
 
-第四步：这里就像下面这个图片一样设置
+第四步：这里就像下面这个图片一样设置 
 
 <div align=center>
     <img alt="twitter-app-hd-high-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-app-hd-high-2.webp" class="page-img" width="50%"/>
