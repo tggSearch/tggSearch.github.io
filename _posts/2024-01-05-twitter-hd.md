@@ -12,7 +12,7 @@ categories: [ twitter ]
 第二步：在左侧菜单栏中找到 <b>更多选项</b>，然后选择 <b>设置与隐私</b>，如下图所示：
 
 <div align=center>
-    <img alt="twitter-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-hd-config.webp" class="page-img" width="70%"/>
+    <img alt="twitter-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-hd-config.webp" class="page-img" width="50%"/>
 </div>
 
 第三步：在设置里面找到 <b>辅助功能、显示和语言</b>，然后点击找到 <b>数据使用</b>
@@ -33,7 +33,7 @@ categories: [ twitter ]
 第一步：打开推特 APP，选择 <b>设置与隐私</b>
 
 <div align=center>
-    <img alt="twitter-app-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-hd-config.webp" class="page-img" width="70%"/>
+    <img alt="twitter-app-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-hd-config.webp" class="page-img" width="50%"/>
 </div>
 
 第二步：在设置里面找到 <b>辅助功能、显示和语言</b>
