@@ -40,18 +40,18 @@ categories: [ twitter ]
 
 <div align=center>
     <img alt="twitter-app-hd-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-hd-setting.webp" class="page-img" width="70%"/>
-</div>
+</div>  
 
 第三步：在辅助功能、显示和语言中找到 <b>数据使用</b>
 
 <div align=center>
-    <img alt="twitter-app-hd-high-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-hd-high-1.webp" class="page-img" width="70%"/>
+    <img alt="twitter-app-hd-high-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-app-hd-high-1.webp" class="page-img" width="70%"/>
 </div>
 
 第四步：这里就像下面这个图片一样设置
 
 <div align=center>
-    <img alt="twitter-app-hd-high-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-hd-high-2.webp" class="page-img" width="70%"/>
+    <img alt="twitter-app-hd-high-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-app-hd-high-2.webp" class="page-img" width="70%"/>
 </div>
 
 第五步：重新打开推特的 APP 就可以了看高清视频了。
