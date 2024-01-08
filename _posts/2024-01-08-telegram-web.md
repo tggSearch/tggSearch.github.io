@@ -9,7 +9,6 @@ Telegram 有很多版本，包括：手机 app、网页版、电报客户端版�
 
 ### 常用资源
 <div class='icon-block-body-three'>
-  <div class='icon-block-item'>
    <div class='icon-block-item'>
     <a href="/docs/302.html?target=https://telegram.org" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram.png" alt="电报官网" height=50px>
