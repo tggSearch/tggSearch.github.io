@@ -44,7 +44,7 @@ Telegram 有很多版本，包括：手机 app、网页版、电报客户端版�
 **手机号登录**，在上面的图片中，有一个按钮叫做，**LOG IN BY PHONE NUMBER**，进入后，需要输入手机号，你直接输入 +86 加上你的手机号，不用选择国家或者地区，会自动选择，接下来就非常关键了，这时候是不会发送短信给你的手机的，因为这里发送的是设备码，也叫做 device code，只会把这个验证码发送到你的 telegram 手机app里面，记住只会这样，及时你没有注册也会这样，所以这里永远不会发送短信。在手机app收到一个官方的账号发送的验证码，例如下图：
 
 <div align=center>
-    <img alt="telegram-web-page-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-web-page-2.webp" class="page-img" width="70%"/>
+    <img alt="telegram-web-page-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-web-page-2.webp" class="page-img" width="40%"/>
 </div>
 
 请注意这个账号是有官方认证标识的，如果不是请不要相信，其次这个账号的验证码不要乱截图给其他人。
