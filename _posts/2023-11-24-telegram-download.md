@@ -28,7 +28,7 @@ categories: [ telegram ]
 
 [三毛机场，一年9块](./302.html?target=https://www.三毛机场.live/#/register?code=GvzAuYCT)
 
-[青柠基础，首日免费](./302.html?target=https://ykxqn.biz/#/register?code=UzQHEt2g)
+[青柠基础，首日免费](./302.html?target=https://yikeqn.club/#/register?code=UzQHEt2g)
 
 [优途加速器，首日免费](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819)
 
