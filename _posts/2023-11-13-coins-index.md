@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 币圈导航|币圈各大交易所返佣导航
+title: 币圈导航|币圈各大交易所返佣导航|币圈电报群
 image: https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/okx.png
-description: 欧易返佣，币安返佣，火币返佣，bitGet返佣，gateIo返佣，bitGet返佣，欧易电报群，币安电报群，火币电报群，bitGet电报群，gateIo电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
+description: 欧易返佣，币安返佣，火币返佣，bitget返佣，gateio返佣，币圈电报群，欧易电报群，币安电报群，火币电报群，bitget电报群，gateio电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
 canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
 locale: zh_CN
 categories: [ exchange ]
@@ -53,7 +53,7 @@ categories: [ exchange ]
 
 请注意欧易必须要区分国内链接和国外链接，而币安的链接在苹果手机打开会提示安全问题，具体可以参考此文章 [币安返佣到底是什么，为什么一定要从返佣地址去注册下载，20%的返佣到底是什么？](./bnb-buy-coins.html) 里面有详细介绍了如何在苹果手机上打开币安网页并注册。
 
-### 交易所电报官方群导航
+### 币圈电报群导航
 
 各大交易所都有电报 telegram 的交流群，如果你还没有电报，请参考此流程 [电报 telegram 纸飞机 综合下载注册方法](./register.html) 电报目前是币圈最好的交流工具了，直接在电报中搜索群号即可。
 
