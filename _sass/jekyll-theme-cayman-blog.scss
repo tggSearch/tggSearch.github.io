@@ -312,9 +312,14 @@ a {
     }
   }
 
-  ul,
+  ul {
+    margin-top: 0;
+  }
+
   ol {
     margin-top: 0;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   blockquote {
