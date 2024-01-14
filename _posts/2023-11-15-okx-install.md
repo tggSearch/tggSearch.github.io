@@ -17,9 +17,9 @@ pin: true
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.ouxyi.chat/join/90884854](./302.html?target=https://www.ouxyi.chat/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouxyi.church/join/90884854](./302.html?target=https://www.ouxyi.church/join/90884854)
 
-[备用国内无 VPN 地址 https://www.cnouyi.reisen/join/90884854](./302.html?target=https://www.cnouyi.reisen/join/90884854)
+[备用国内无 VPN 地址 https://www.ouxyi.church/join/90884854](./302.html?target=https://www.cnouyi.church/join/90884854)
 
  
 目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，可以尝试先去下载
