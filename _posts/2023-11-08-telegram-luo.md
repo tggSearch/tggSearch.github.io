@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报 Telegram 裸聊诈骗 Telegram 隐私相册诈骗（终极解决办法）
-description: Telegram 最常见的裸聊诈骗以及隐私相册诈骗是目前最常见的诈骗问题，遇到不要慌张，这篇文章提供你最安全的处理办法。
+description: telegram 裸聊通讯录诈骗，最常见的裸聊诈骗以及隐私相册诈骗是目前最常见的诈骗问题，遇到不要慌张，这篇文章提供你最安全的处理办法。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-luo.html'
 categories: [ telegram ]
 ---
