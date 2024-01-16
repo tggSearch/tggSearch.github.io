@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报 Telegram 诈骗项目，电报骗局，电报群诈骗，电报裸聊诈骗，防骗指南，Telegram 隐私相册骗局，私密花园
-description: 电报 telegram 诈骗项目，微信1.5倍跑游戏，收短信验证码，电报账号异常需要处理，电报账号双向，各类棋牌游戏，欺诈第三方钱包，闲鱼兑换卡、租用苹果 ID，如果被骗以后怎么办。
+description: 电报诈骗，telegram诈骗，telegram被骗怎么办？微信1.5倍跑游戏，收短信验证码，电报账号异常需要处理，电报账号双向，各类棋牌游戏，欺诈第三方钱包，闲鱼兑换卡、租用苹果 ID。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-scam.html'
 categories: [ telegram ]
 ---
