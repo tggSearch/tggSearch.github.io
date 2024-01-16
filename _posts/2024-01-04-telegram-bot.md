@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 电报机器人｜Telegram 机器人大全｜老司机开车机器人
-description: 电报机器人大全，列举了从群管理、搜索、广告拦截机器人、群统计机器人、功能型机器人，比如视频下载机器人、音乐搜索机器人、片源搜索机器人等等。
+title: 电报机器人大全｜Telegram bot大全｜各类有趣机器人合集
+description: 电报机器人大全，列举了从群管理、搜索、广告拦截机器人、群统计机器人、功能型机器人，比如视频下载机器人、音乐搜索机器人、片源搜索机器人、番号搜索机器人等等。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-bot.html'
 categories: [ telegram ]
 ---
