@@ -20,7 +20,7 @@ categories: [ telegram ]
 例如下面的图片选项
 
 <div align=center>
-    <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-img-download.webp" class="page-img" width="50%"/>
+    <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-img-download.webp" class="page-img" width="40%"/>
 </div>
 
 ### 下载的图片和文件存储在哪里
