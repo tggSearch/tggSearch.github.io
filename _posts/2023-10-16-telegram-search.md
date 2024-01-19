@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram 群组搜索
-description: Telegram 电报群搜索引擎，帮你找到合适的群组，搜索提供各种中文群合频道信息，包含：开车群、IT技术、程序员、科学上网与翻墙、薅羊毛、合租、政经交流，应有尽有。
+description: Telegram 电报群搜索引擎，帮你找到合适的群组，搜索提供各种中文群合频道信息，包含：telegram 约会群、开车群、IT技术、程序员、科学上网与翻墙、薅羊毛、合租、政经交流，应有尽有。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-search.html'
 categories: [ telegram ]
 ---
