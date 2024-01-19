@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 欧易注册教程 okx注册教程｜安卓下载安装教程
-description: 欧易注册方法，欧易安卓下载，欧易apk下载，苹果下载教程，OKX盲盒，APK下载，苹果下载教程，注册教程，下载官方最新链接，苹果安装教程，返佣，节点返佣。
+title: 欧易注册教程 okx注册教程｜欧易安卓下载教程
+description: 欧易注册方法，欧易安卓下载，欧易apk下载，ouxyi官网，苹果下载教程，OKX盲盒，APK下载，苹果下载教程，注册教程，下载官方最新链接，苹果安装教程，返佣，节点返佣。
 canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 categories: [ exchange ]
 pin: true
