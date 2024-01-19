@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SMS 接码平台｜sms activate官网｜ChatGPT 接码注册｜注册海外各类社交账号教程
-description: 海外短信接码平台资源合集, 可用于注册常见国外网站和App和接收验证码，比如Telegram，ChatGPT，Google, WhatsApp， Amazon，Facebook， Instagram，Tinder，Twitter等。
+description: 海外短信接码平台资源合集, 可用于注册常见国外网站和App和接收验证码，比如sms-activate注册telegram，sms activate chatgpt，Google, WhatsApp， Amazon，Facebook， Instagram，Tinder，Twitter等。
 canonical_url: 'https://tggsearch.github.io/docs/receive-code.html'
 categories: [ account ]
 ---
