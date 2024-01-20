@@ -27,26 +27,24 @@ categories: [ twitter ]
 
 这时候一般要你提供手机号或者邮箱，你只需要提供邮箱就行了，然后需要填写一段申明的话，你可以按照下面的填写就行了
 
-<p class="red-text-word">
-1.I don’t know why my account was blocked. I’m a Chinese, so I can’t use my mobile phone to verify my account. I’m not a robot. I hope to verify the reason for my blockade and unblock my account, thanks.
+`1.I don’t know why my account was blocked. I’m a Chinese, so I can’t use my mobile phone to verify my account. I’m not a robot. I hope to verify the reason for my blockade and unblock my account, thanks.`
 
-2.I'm a user of Twitter in China.When I turned on my computer today, I found out that I couldn't log in my twitter accounts. The system told me that my account had been frozen.Now, I want to take a complaint for my Twitter account, for I have to log in this account to do my every-day work.
+`2.I'm a user of Twitter in China.When I turned on my computer today, I found out that I couldn't log in my twitter accounts. The system told me that my account had been frozen.Now, I want to take a complaint for my Twitter account, for I have to log in this account to do my every-day work.`
 
-Looking foward to recieve your reply soon!
-</p>
+`Looking foward to recieve your reply soon!`
 
 接下来就会收到一封邮件，邮件里面可能还需要你确认信息，比如这里我收到的邮件
 
-<p class="red-text-word">
-Hello,
-We received your request to have your account reinstated.
 
-Please respond to this email with the reason you believe your account suspension was in error and/or the reason you are requesting an appeal.
+`Hello,`
+`We received your request to have your account reinstated.`
 
-Once we receive your response, we will review and provide a follow up response with the outcome of our review. If this request is for an account reinstatement under our new criteria, please allow 3-5 days for us to review and respond. In some instances, it may take us longer to get back to you.
+`Please respond to this email with the reason you believe your account suspension was in error and/or the reason you are requesting an appeal.`
 
-Thanks, Twitter
-</p>
+`Once we receive your response, we will review and provide a follow up response with the outcome of our review. If this request is for an account reinstatement under our new criteria, please allow 3-5 days for us to review and respond. In some instances, it may take us longer to get back to you.`
+
+`Thanks, Twitter`
+
 
 这段话的核心意思就是让我回复这封邮件，并说明为什么会被禁的原因，因为我当时使用的是一个免费的梯子导致的被封禁，我就解释了原因，最后就解封我的账号了。
 
