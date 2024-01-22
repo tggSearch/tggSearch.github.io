@@ -25,6 +25,8 @@ categories: [ twitter ]
 ### 如何解封呢？
 一般解封的途径只有一条，只有通过官方邮件，当你被封禁冻结的时候，你在推特使用过程中会频繁提醒你，这时候你点击他们的引导前往解封。
 
+[官方申诉解封网站](./302.html?target=https://help.twitter.com/zh-cn/managing-your-account/locked-and-limited-accounts)
+
 这时候一般要你提供手机号或者邮箱，你只需要提供邮箱就行了，然后需要填写一段申明的话，你可以按照下面的填写就行了
 
 `1.I don’t know why my account was blocked. I’m a Chinese, so I can’t use my mobile phone to verify my account. I’m not a robot. I hope to verify the reason for my blockade and unblock my account, thanks.`
