@@ -21,7 +21,7 @@ categories: [ twitter ]
 如果你是在 APP 上，也就是安卓或者苹果设备上，那么你可以具体的推文详情页面的右下角一样找到这个分享按钮，比如下面这样。
 
 <div align=center>
-    <img alt="twitter-video-download-app-share" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-video-download-app-share.webp" class="page-img" width="70%"/>
+    <img alt="twitter-video-download-app-share" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-video-download-app-share.webp" class="page-img" width="50%"/>
 </div>
 
 然后点击分享按钮后，在弹出的页面选择复制链接，比如这里的链接 [https://x.com/NBATV/status/1749619784592015699?s=20](./302.html?target=https://x.com/NBATV/status/1749619784592015699?s=20)
@@ -51,7 +51,7 @@ categories: [ twitter ]
 如果你是在推特的安卓或者苹果 app 上直接长按图片，你就可以看到有一个保存图片，一般保存就保存到相册本地了。
 
 <div align=center>
-    <img alt="twitter-video-download-picture-share" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-video-download-picture-share.webp" class="page-img" width="70%"/>
+    <img alt="twitter-video-download-picture-share" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-video-download-picture-share.webp" class="page-img" width="50%"/>
 </div>
 
 以上就是推特的视频和图片的下载方式了，如果你还有问题可以右下角找我们技术客服，如果你想看视频教学，也可以关注我们网页底部的油管账号，里面有相应的视频教学视频。
