@@ -21,7 +21,7 @@ categories: [ twitter ]
 如果你是在 APP 上，也就是安卓或者苹果设备上，那么你可以具体的推文详情页面的右下角一样找到这个分享按钮，比如下面这样。
 
 <div align=center>
-    <img alt="twitter-video-download-app-share" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-video-download-app-share.webp" class="page-img" width="50%"/>
+    <img alt="twitter-video-download-app-share" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/twitter-video-download-app-share.webp" class="page-img" width="40%"/>
 </div>
 
 然后点击分享按钮后，在弹出的页面选择复制链接，比如这里的链接 [https://x.com/NBATV/status/1749619784592015699?s=20](./302.html?target=https://x.com/NBATV/status/1749619784592015699?s=20)
