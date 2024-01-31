@@ -12,7 +12,7 @@ pin: false
 这个工具是一个 chrome 插件，并且是电脑版本的，因此你想下载文件、图片、视频就需要使用电脑版的 chrome 浏览器，这是前提。
 
 ### 第一步，安装 tampermonkey 插件
-首先第一步需要安装一个 tampermonkey 的 chrome 插件，插件地址是 [tampermonkey插件地址](./302.html?target=https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo) 
+首先第一步需要安装一个 tampermonkey 的 chrome 插件，插件地址是 [tampermonkey 插件地址](./302.html?target=https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4/dhdgffkkebhmkfjojejmpbldmpobfkfo) 
 
 安装完成后按照下图的指示，把 chrome 插件置顶，置顶后就可以在插件栏里面看到这个 tampermonkey 插件图标了。
 
