@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Telegram 下载文件教程 Telegram 图片下载教程
-description: Telegram 下载的文件在哪，应该如何查看，电报怎么下载文件，Telegram 图片怎么保存教程，Telegram怎么下载图片教程，下载文件教程，图片下载文件位置指引，如何查看和保存已经下载的图片文件。
+title: Telegram 下载文件教程 Telegram 图片下载教程，telegram下载的文件在哪
+description: Telegram 下载的文件在哪很多人不知道如何查看，电报怎么下载文件，Telegram 图片怎么保存教程，Telegram怎么下载图片教程，下载文件教程，图片下载文件位置指引，如何查看和保存已经下载的图片文件。
 canonical_url: "https://tggsearch.github.io/docs/telegram-file.html"
 categories: [ telegram ]
 ---
@@ -23,7 +23,7 @@ categories: [ telegram ]
     <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-img-download.webp" class="page-img" width="40%"/>
 </div>
 
-### 下载的图片和文件存储在哪里
+### Telegram 下载的文件在哪
 
 下载的图片和文件在 Telegram 中被存储在手机或电脑的存储空间中，具体位置取决于你使用的设备和操作系统。
 
