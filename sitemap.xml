@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.github.io/</loc>
-    <lastmod>2024-01-31T03:18:06.258Z</lastmod>
+    <lastmod>2024-01-31T06:50:52.107Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/telegram.html</loc>
-    <lastmod>2024-01-31T03:18:06.258Z</lastmod>
+    <lastmod>2024-01-31T06:50:52.107Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/twitter.html</loc>
-    <lastmod>2024-01-31T03:18:06.258Z</lastmod>
+    <lastmod>2024-01-31T06:50:52.107Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/account.html</loc>
-    <lastmod>2024-01-31T03:18:06.258Z</lastmod>
+    <lastmod>2024-01-31T06:50:52.107Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/exchange.html</loc>
-    <lastmod>2024-01-31T03:18:06.258Z</lastmod>
+    <lastmod>2024-01-31T06:50:52.107Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/youtube.html</loc>
-    <lastmod>2024-01-31T03:18:06.258Z</lastmod>
+    <lastmod>2024-01-31T06:50:52.107Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>https://tggsearch.github.io/docs/vpn-kl.html</loc>
-    <lastmod>2024-01-30T02:33:42.792Z</lastmod>
+    <lastmod>2024-01-31T06:48:53.739Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -263,7 +263,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/vpn.html</loc>
-    <lastmod>2024-01-31T02:01:54.333Z</lastmod>
+    <lastmod>2024-01-31T06:50:45.870Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -378,7 +378,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/telegram-file.html</loc>
-    <lastmod>2024-01-16T07:46:03.538Z</lastmod>
+    <lastmod>2024-01-31T06:04:38.844Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -438,7 +438,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/dark-web.html</loc>
-    <lastmod>2024-01-19T01:46:16.093Z</lastmod>
+    <lastmod>2024-01-31T05:58:32.712Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -473,7 +473,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/twitter-hd.html</loc>
-    <lastmod>2024-01-08T01:27:12.772Z</lastmod>
+    <lastmod>2024-01-31T06:02:32.800Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -522,8 +522,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://tggsearch.github.io/docs/telegram-media-downloader.html</loc>
+    <lastmod>2024-01-31T06:12:04.445Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://tggsearch.github.io/docs/youtube-error.html</loc>
-    <lastmod>2024-01-31T03:18:02.397Z</lastmod>
+    <lastmod>2024-01-31T05:58:35.224Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
