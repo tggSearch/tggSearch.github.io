@@ -12,7 +12,7 @@ Telegram 会员目前已经越来越多了，大家都需要享受更多的会�
 ### 开通方法
 如果你自己没有支付方式，请前往此处
 
-[Telegram Premium 开通链接](./302.html?target=http://appleshop001.com?from=10664)
+[Telegram Premium 开通链接](./302.html?target=http://tggsearch.shop/)
 
 1. 进入网站后，由于隐私限制，需要输入密码，密码是 5213
 

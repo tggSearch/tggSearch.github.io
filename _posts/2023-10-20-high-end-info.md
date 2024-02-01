@@ -10,7 +10,7 @@ categories: [ account ]
 ### 资源清单
 
 - [接码短信平台](./302.html?target=https://sms-activate.org/?ref=2821105) 
-- [苹果海外账号售卖，飞机号，飞机会员平台](./302.html?target=http://appleshop001.com?from=10664)
+- [苹果海外账号售卖，飞机号，飞机会员平台](./302.html?target=http://tggsearch.shop/)
 - [免费苹果共享账号](./302.html?target=https://idshare001.me/)
 - [3/9元一年VPN](./vpn.html)
 - [免费一天 VPN 每天签到 1小时免费](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819)
