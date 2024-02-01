@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Telegram会员(电报会员)代开通，电报会员购买教程
-description: Telegram 也有会员服务，这里叫做 Telegram 订阅服务，开通会员开通一般需要海外的支付方式，那么telegram会员购买流程是怎么样的，苹果会简单一些，可以直接应用商店支付，但是安卓就没办法了，就需要找人代开通，那么这里就是教大家如何代开通会员
+title: telegram会员(电报会员)代开通，电报会员最划算购买教程
+description: telegram 会员服务，这里叫做 Telegram 订阅服务，开通会员开通一般需要海外的支付方式，那么telegram会员购买流程是怎么样的，苹果会简单一些，可以直接应用商店支付，但是安卓就没办法了，就需要找人代开通，那么这里就是教大家如何代开通会员
 canonical_url: 'https://tggsearch.github.io/docs/telegram-premium.html'
 categories: [ telegram ]
 ---
