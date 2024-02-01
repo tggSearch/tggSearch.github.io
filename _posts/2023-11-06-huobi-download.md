@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 火币下载教程｜火币返佣
-description: 火币下载教程，包含安卓和苹果的下载方法，其次里面内涵返佣教程
+title: 火币注册教程｜火币返佣
+description: 火币注册下载教程，包含安卓和苹果的下载方法，其次里面内涵返佣教程
 canonical_url: 'https://tggsearch.github.io/docs/huobi-download.html'
 categories: [ exchange ]
 ---
