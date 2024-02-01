@@ -40,5 +40,5 @@ categories: [ telegram ]
 
 ### 聊天内容自动翻译中文
 如果你嫌弃内容的手动翻译，你可以选择自动翻译，但是自动翻译需要开通高级订阅功能，开通了就可以实时翻译了，开通方法，前往这里开通即可。
-[https://appleshop001.com/?from=10664](./302.html?target=https://appleshop001.com/?from=10664)
+[https://tggsearch.shop/](./302.html?target=https://tggsearch.shop/)
 里面找到“Telegram 正规会员充值”

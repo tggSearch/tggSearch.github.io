@@ -47,7 +47,7 @@ pin: true
 这里要非常注意，登录的方法需要按照这个流程，不可在 icloud 种登录（请特别注意这点，不然可能导致手机被锁）。
 
 想要永久的购买一个海外苹果账号，前往这里购买
- [https://appleshop001.com/?from=10664#shop](./302.html?target=https://appleshop001.com/?from=10664#shop)
+ [https://tggsearch.shop/#shop](./302.html?target=https://tggsearch.shop/#shop)
 
 如果你想永久免费申请一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](./302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
 
