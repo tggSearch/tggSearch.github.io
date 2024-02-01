@@ -21,7 +21,7 @@ pin: false
 </div>
 
 ### 第二步，在 tampermonkey 插件中新增 Telegram 图片下载脚本
-接下来打开这个网址 [Telegram 图片下载脚本插件](./302.html?target=https://update.greasyfork.org/scripts/446342/Telegram%20Media%20Downloader.user.js) 打开以后，在页面点击 <b>安装</b>，安装完成后，按照下图的指示点击你就可以看到这个插件了，如果没有启用，自己点击启用即可。
+接下来打开这个网址 [Telegram 图片下载脚本插件](https://update.greasyfork.org/scripts/446342/Telegram%20Media%20Downloader.user.js) 打开以后，在页面点击 <b>安装</b>，安装完成后，按照下图的指示点击你就可以看到这个插件了，如果没有启用，自己点击启用即可。
 
 <div align=center>
     <img alt="twitter-video-download-detail" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-media-download-script.webp" class="page-img" width="70%"/>
