@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 纸飞机注册教程-电报注册教程(Telegram)-小白都会的教程
-description: Telegram 电报注册教程，飞机注册教程，纸飞机怎么注册，包含苹果注册下载教程，安卓注册教程，其次注册后一些场景的问题解决方法，新账号应该注意哪些细节，本文都会说吗。常见电报苹果问题，网络异常，无法收到验证码等等问题。
+title: 纸飞机注册教程-飞机注册教程(Telegram)-小白都会的教程
+description: Telegram 电报注册教程，小飞机注册教程，纸飞机怎么注册方法，包含苹果注册下载教程，安卓注册教程，其次注册后一些场景的问题解决方法，新账号应该注意哪些细节。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-ios.html'
 categories: [ telegram ]
 ---
