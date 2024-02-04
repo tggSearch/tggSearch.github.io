@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Twitter 推特視頻下載｜推特视频下载｜推特图片下载教程
+title: Twitter 推特视频下载｜推特图片下载教程
 description: twitter 视频下载方法，推特的图片下载方法
 canonical_url: 'https://tggsearch.github.io/docs/twitter-video-download.html'
 categories: [ twitter ]
