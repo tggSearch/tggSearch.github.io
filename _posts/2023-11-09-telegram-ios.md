@@ -17,10 +17,9 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 这是海外用户的加速器，主要是给海外用户加速使用。
 
 #### 苹果推荐方法（[安卓点击前往安卓](./telegram-android.html)）
-可以前往这里购买
-[https://idappstore.cc/](./302.html?target=https://idappstore.cc/)
-打不开上面的用下面的
-[https://appidshop.com/](./302.html?target=https://appidshop.com/)
+[http://tggsearch.shop?cid=2&mid=114](./302.html?target=http://tggsearch.shop?cid=2&mid=114)
+
+不知道如何下单支付的请查看本文 [ios账号购买｜小火箭APP苹果账号购买](./ios-account-buy.html)
  
 <p class="red-text-word">（特别申明：自己负责，不是我的服务，有问题找平台客服）</p>
  ，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
@@ -29,9 +28,9 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 
 没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！没有用海外ID下载的软件，都是假的！！
 
-[https://idappstore.cc/](./302.html?target=https://idappstore.cc/)
-打不开上面的用下面的
-[https://appidshop.com/](./302.html?target=https://appidshop.com/)
+[http://tggsearch.shop?cid=2&mid=114](./302.html?target=http://tggsearch.shop?cid=2&mid=114)
+
+不知道如何下单支付的请查看本文 [ios账号购买｜小火箭APP苹果账号购买](./ios-account-buy.html)
 #### 接下来的步骤和安卓基本是一样的
 [首选注册地址](./302.html?target=https://www.三毛机场.live/#/register?code=6xuhG85m)
 如果首选地址无法打开
