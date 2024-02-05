@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Twitter 推特在哪里下载｜推特账号购买｜苹果&安卓如何下载推特教程
-description: Twitter 怎么下载教程，推特安卓包、苹果下载方式，Twitter下载iOS，Twitter 下载安卓，Twitter 注册，底部有推特福利账号，下载完成后账号购买方法。
+description: Twitter 怎么下载教程，以及如何注册，如果注册一直失败怎么购买，推特安卓包、苹果下载方式，Twitter下载iOS，Twitter 下载安卓，Twitter 注册，底部有推特福利账号，下载完成后账号购买方法。
 canonical_url: 'https://tggsearch.github.io/docs/twitter-download.html'
 categories: [ twitter ]
 ---
@@ -58,6 +58,9 @@ Twitter 下载方法很多，但是很多人也会遇到问题，比如下载的
 
 ### 注册问题
 如果你在注册过程中出现异常，请查看我们的教程文档，[推特注册异常问题汇总](./twitter-register-error.html)
+
+### 推特账号购买
+假设你下载完成后，注册一直失败，那么怎么办呢？这里你优先看上面的注册问题，如果还是注册失败，那么你可以尝试购买一个推特的旧号，这里可以直接前往平台 [推特账号购买平台](./302.html?target=http://tggsearch.shop?from=10664&cid=25&mid=56) 这里可以很便宜的 8块钱买到一些推特的旧号，能过有效防止被封禁。
 
 ### 福利账号
 为了各位狼友们，我们也准备了以下一些账号，提供素材，你们赶紧去试试吧，下载的视频可以慢慢的每日欣赏
