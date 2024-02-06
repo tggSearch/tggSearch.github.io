@@ -21,6 +21,8 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 ### 福利账号列表推荐
 这种也是比较多的，特别是里面有各国资源，比如日本小姐姐就很多，我这里也收藏了很多日本和韩国小姐姐的资源，因为 Youtube 这些是允许的，所以你可以看到这类资源，你可以看看下面几个博主的首页都有惊喜。一般这群人是来这里引流的，真正精彩的可能在推特或者其他小平台，就看你自己去寻找了。
 
+软件教学视频教程账号，里面包含了：youtube、twitter、telegram 各种软件教学 [点击这里前往频道关注](./302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w)
+
 [@sutenekokawaii](./302.html?target=https://www.youtube.com/@sutenekokawaii)
 
 [@asmrthejessiejiang](./302.html?target=https://www.youtube.com/@asmrthejessiejiang)

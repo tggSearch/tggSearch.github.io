@@ -22,7 +22,7 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 不知道如何下单支付的请查看本文 [ios账号购买｜小火箭APP苹果账号购买](./ios-account-buy.html)
  
 <p class="red-text-word">（特别申明：自己负责，不是我的服务，有问题找平台客服）</p>
- ，里面有专门的小火箭 shadowrocket 1.99元的账户(请注意2个条件，1.99元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
+ ，里面有专门的小火箭 shadowrocket 10元以内元的账户(请注意2个条件，10元以内元以及叫做shadowrocket)，购买后，请按照他们官方提供的操作方法。
 
 登录成功请下载2个软件，一个叫做 shadowrocket 一个叫做 twitter
 
