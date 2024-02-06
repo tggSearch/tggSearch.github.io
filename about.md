@@ -21,3 +21,9 @@ categories: [ account ]
 1. 付费加入，本社区可支持付费加入 100 RMB ，请右下角联系客服；
 2. 通过本站链接注册各大交易所，注册完成后提供 UID 和交易所名称给右下角客服审核；
 3. 被邀请加入，邀请他人加入可获得 10 USDT 奖励，前提是被邀请入通过本站注册，并在各大交易所产生合约交易，同样通过提供 UID 和交易所名称给客服审核即可
+
+### 如何联系我们
+技术客服QQ：1702242347
+业务合作QQ：3502434065
+我们的Youtube：[https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w](/docs/302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w)
+我们的公众号：软件分析师
