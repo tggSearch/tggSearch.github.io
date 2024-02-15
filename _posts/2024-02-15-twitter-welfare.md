@@ -9,7 +9,7 @@ categories: [ twitter ]
 
 | 福利账号-1     | 福利账号-2 | 
 |---|---|
-| [yua_mikami](./302.html?target=https://twitter.com/yua_mikami) | [fukada0318](./302.html?target=https://twitter.com/fukada0318) | 
+| [yua_mikami](./302.html?target=https://twitter.com/yua_mikami){:target="_blank"} | [fukada0318](./302.html?target=https://twitter.com/fukada0318) | 
 | [asukakiraran](./302.html?target=https://twitter.com/asukakiraran) | [TS_takasho](./302.html?target=https://twitter.com/TS_takasho) | 
 | [yummychiyo](./302.html?target=https://twitter.com/yummychiyo) | [Takomayuyi](./302.html?target=https://twitter.com/Takomayuyi) | 
 | [MyHongKongDoll](./302.html?target=https://twitter.com/MyHongKongDoll) | [SpicygumL](./302.html?target=https://twitter.com/SpicygumL) | 
