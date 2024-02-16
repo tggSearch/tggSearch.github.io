@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 推特twitter注册显示错误｜推特twitter错误请重试终极解决方案
-description: 推特twitter错误请重试，推特创建账号出错，推特有些不对劲，推特无法查看，推特出错了但别担心这不是你的错怎么办，注册后立马被封禁原因分析，推特注册是否需要手机号，推特停留在查看世界正在发生的事情等的解决方案
+description: 推特twitter错误请重试，推特创建账号出错，提示手机号无法注册，推特有些不对劲，推特无法查看，推特出错了但别担心这不是你的错怎么办，注册后立马被封禁原因分析，推特停留在查看世界正在发生的事情等的解决方案
 canonical_url: 'https://tggsearch.github.io/docs/twitter-register-error.html'
 categories: [ twitter ]
 pin: true
@@ -15,6 +15,9 @@ pin: true
 遇到这种情况最可能的问题就是你注册的邮箱有问题，这时候你可以选择换一个邮箱，使用的邮箱最好使用海外的，比如 [gmail](https://gmail.com/) 或者 [outlook](./302.html?target=https://outlook.com/) 邮箱。
 
 其次要确保你的 VPN 是没有被污染的，如果一直提示，可以尝试更换 VPN ，比如这个，可以免费领取一天，这个 VPN [优途加速器](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819) 一定是安全可靠的。
+
+### 提示手机号无法注册
+这个就是梯子问题，请切换梯子，使用一些免费的梯子先去注册，免费梯子列表 [免费的梯子教程](./vpn-kl.html) 
 
 ### 进入页面，显示“查看世界当前正在发生的事情”，点击创建账号无响应
 当你停留在“查看世界当前正在发生的事情”，并且点击创建账号无响应，这个问题主要原因是你没有科学上网工具，也就是🪜，那么怎么解决呢？首先你要去这里下载一个🪜来解决[点击此处查看梯子下载方法](./vpn.html)。
