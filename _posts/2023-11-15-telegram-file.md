@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram 下载文件教程 Telegram 图片下载教程，telegram下载的文件在哪
-description: Telegram 下载的文件在哪很多人不知道如何查看，电报怎么下载文件，Telegram 图片怎么保存教程，Telegram怎么下载图片教程，下载文件教程，图片下载文件位置指引，如何查看和保存已经下载的图片文件。
+description: telegram下载的文件在哪查看教程，电报怎么下载文件，Telegram 图片怎么保存教程，Telegram怎么下载图片教程，下载文件教程，图片下载文件位置指引，如何查看和保存已经下载的图片文件。
 canonical_url: "https://tggsearch.github.io/docs/telegram-file.html"
 categories: [ telegram ]
 ---
