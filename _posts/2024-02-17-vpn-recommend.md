@@ -35,7 +35,7 @@ categories: [ account ]
 优惠使用方法：在套餐购买时，请在优惠券验证区输入“2024”并点击验证，即可获得优惠。
 
 ### 米奇加速器（10月一月）
-[注册地址](./302.html?target=https://g9s8.tompoint.online/#/register?code=14hwqMhK)
+[注册地址](./302.html?target=https://x12.miqijiasu.shop)
 这个相对比较便宜，一个月10块的也有，相对来说比便宜，也是比较稳定的
 
 ### 一毛机场官网（相对便宜，稳定）
