@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ios账号购买｜小火箭APP苹果账号购买
+title: apple 账号购买｜小火箭APP苹果账号购买
 description: 如果你没有海外苹果账号，你想购买一个海外苹果账号，怎么去买，哪里有比较可靠的购买平台，购买的教程又是什么，本文就给你提供靠谱的方法以及教你购买教程。
 canonical_url: 'https://tggsearch.github.io/docs/ios-account-buy.html'
 categories: [ account ]
