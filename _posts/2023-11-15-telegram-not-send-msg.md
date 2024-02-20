@@ -28,7 +28,7 @@ categories: [ telegram ]
 
 1. 首先找到电报机器人，直接电报搜索 @SpamBot ，然后与机器人对话
 2. 进入机器人后，直接点击开始或者 start
-3.  这时候机器人会告诉你是否有限制，这时候你在电报的菜单栏中选择 But I can’t message non-contacts
+3. 这时候机器人会告诉你是否有限制，这时候你在电报的菜单栏中选择 But I can’t message non-contacts
 4. 然后继续选择英文提示是 No, I’ll never do any of this!
 5. 再回复一段文字，例如 I don’t know, but I am unable to send any message to anyone
 6. 最后会告诉你限制的时间长度，请注意这里的时间是世界标准时间，你的解封时间 +8 小时，比如上面提示的是 2023-09-19 02:00:00 那么你的解封时间将会是在北京时间的 2023-09-19 10:00:00
