@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.github.io/</loc>
-    <lastmod>2024-02-21T12:40:39.757Z</lastmod>
+    <lastmod>2024-02-22T02:47:37.123Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/telegram.html</loc>
-    <lastmod>2024-02-21T12:40:39.757Z</lastmod>
+    <lastmod>2024-02-22T02:47:37.123Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/twitter.html</loc>
-    <lastmod>2024-02-21T12:40:39.757Z</lastmod>
+    <lastmod>2024-02-22T02:47:37.123Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/account.html</loc>
-    <lastmod>2024-02-21T12:40:39.757Z</lastmod>
+    <lastmod>2024-02-22T02:47:37.123Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/exchange.html</loc>
-    <lastmod>2024-02-21T12:40:39.757Z</lastmod>
+    <lastmod>2024-02-22T02:47:37.123Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/youtube.html</loc>
-    <lastmod>2024-02-21T12:40:39.757Z</lastmod>
+    <lastmod>2024-02-22T02:47:37.123Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -398,7 +398,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/bnb-okx.html</loc>
-    <lastmod>2024-02-21T12:40:38.189Z</lastmod>
+    <lastmod>2024-02-22T02:07:55.064Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -538,12 +538,12 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/chatgpt.html</loc>
-    <lastmod>2024-02-18T01:42:21.092Z</lastmod>
+    <lastmod>2024-02-22T02:34:02.931Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/chatgpt4.html</loc>
-    <lastmod>2024-02-02T01:50:02.608Z</lastmod>
+    <lastmod>2024-02-22T02:34:06.109Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -584,6 +584,11 @@
   </url><url>
     <loc>https://tggsearch.github.io/docs/ins-threads.html</loc>
     <lastmod>2024-02-21T07:15:00.609Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.github.io/docs/chatpgt-error.html</loc>
+    <lastmod>2024-02-22T02:47:33.781Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
