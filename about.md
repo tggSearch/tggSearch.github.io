@@ -28,3 +28,5 @@ categories: [ account ]
 业务合作QQ：3502434065
 
 我们的Youtube：[https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w](/docs/302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w)
+
+如果想添加友情链接，可以直接右下角联系
