@@ -49,7 +49,7 @@ telegram 目前是很多假群，要想找到比较好的优质的电报群是�
 
 ### 萝莉
 
-|群名称|群链接|
+|群名称 |群链接 |
 |--|--|
 |🥰清纯学生/jk/萝莉/福利姬|[https://t.me/HRDBKP](./302.html?target=https://t.me/HRDBKP)|
 |我们都爱小萝莉|[https://t.me/uhstarloli](./302.html?target=https://t.me/uhstarloli)|
@@ -73,13 +73,13 @@ telegram 目前是很多假群，要想找到比较好的优质的电报群是�
 
 ### 小说
 
-|群名称|群链接|
+|群名称 |群链接 |
 |--|--|
-|小说🌸小说搜索🔍全网成人小说🌸完本小说  |[https://t.me/tg_1314](./302.html?target=https://t.me/tg_1314)|
-|有声小说🌸成人有声小说🌸ASMR有声  |[https://t.me/cp3766](./302.html?target=https://t.me/cp3766)  |
-|禁忌书屋/成人小说/长篇精选|[https://t.me/JJSW125689](./302.html?target=https://t.me/JJSW125689)  |
-|开心书库/成人小说/网文群|[https://t.me/happylibrary](./302.html?target=https://t.me/happylibrary)|
-|小说小黄文成人小说精选有声成人小说ASMRH小说  |[https://t.me/Hxiaowen](./302.html?target=https://t.me/Hxiaowen)|
-|情欲阅览室(色情小说/小黄书/文字/语音ASMR)  |[https://t.me/Dk18book](./302.html?target=https://t.me/Dk18book)|
+|小说🌸小说搜索🔍全网成人小说🌸完本小说 |[https://t.me/tg_1314](./302.html?target=https://t.me/tg_1314)|
+|有声小说🌸成人有声小说🌸ASMR有声 |[https://t.me/cp3766](./302.html?target=https://t.me/cp3766) |
+|禁忌书屋/成人小说/长篇精选 |[https://t.me/JJSW125689](./302.html?target=https://t.me/JJSW125689) |
+|开心书库/成人小说/网文群 |[https://t.me/happylibrary](./302.html?target=https://t.me/happylibrary) |
+|小说小黄文成人小说精选有声成人小说ASMRH小说 |[https://t.me/Hxiaowen](./302.html?target=https://t.me/Hxiaowen) |
+|情欲阅览室(色情小说/小黄书/文字/语音ASMR) |[https://t.me/Dk18book](./302.html?target=https://t.me/Dk18book) |
 
 
