@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 币安下载教程，币安返佣20%，幣安註冊教程
-description: 币安安卓苹果高返佣注册下载安装教程，苹果应用商店无法搜索到币安解决方案，币安最高返佣20%下载教程，币安网址苹果无法打开怎么解决，等等币安各类问题解决方案
+title: 币安下载教程，币安返佣20%，币安注册教程
+description: 高返佣幣安註冊教程，币安最高返佣20%下载教程，币安网址苹果无法打开怎么解决，等等币安各类问题解决方案
 canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 categories: [ exchange ]
 pin: true
@@ -12,13 +12,6 @@ pin: true
 ### 币安20%返佣注册地址
 
 [https://accounts.binance.com/register?ref=ZGR4DOXV](./302.html?target=https://accounts.binance.com/register?ref=ZGR4DOXV)
-
-### 币安网址苹果无法打开
-
-币安，你必须要通过上面链接进行注册，打开以上链接注册，注册完成后前往下载，在上面链接打开后，安卓可以直接进入，苹果会提示如下属于正常现象，你按照图片指引点击打开，因为币安交易所地址已经被苹果拉黑。
-<div align=center>
-    <img alt="binance" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/binance.webp" class="page-img" width="70%"/>
-</div>
 
 ### 下载安装教程
 下载完成，注册的时候一定要填写邀请码，否则没有 20%返佣，邀请码是
