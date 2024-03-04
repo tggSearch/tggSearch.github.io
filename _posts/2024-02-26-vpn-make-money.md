@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 翻墙后怎么赚钱
-description: 翻墙后，有没有办法赚钱？翻墙后真的能赚钱吗？有哪些渠道可以在墙外赚钱，赚钱真的合法吗？
+description: 翻墙后，翻墙怎么赚钱，有没有办法搞到钱？翻墙后真的能赚钱吗？有哪些渠道可以在墙外赚钱，赚钱真的合法吗？
 canonical_url: 'https://tggsearch.github.io/docs/vpn-make-money.html'
 categories: [ account ]
 ---
