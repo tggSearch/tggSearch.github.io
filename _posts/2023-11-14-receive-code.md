@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SMS 接码平台｜sms activate官网｜注册海外各类社交账号教程
+title: SMS 接码平台｜sms-activate官网｜注册海外各类社交账号教程
 description: 海外短信接码平台资源合集, 可用于注册常见国外网站和App和接收验证码，比如sms-activate注册telegram，sms activate chatgpt，Google, WhatsApp， Amazon，Facebook， Instagram，Tinder，Twitter等。
 canonical_url: 'https://tggsearch.github.io/docs/receive-code.html'
 categories: [ account ]
@@ -9,7 +9,7 @@ SMS 接码平台很多，但是要找到靠谱比较稳定的平台，有很多�
 
 而且很多账号必须需要海外手机号，比如 ChatGPT 只能用海外手机号（目前已经不需要手机号注册），国内手机号是无法注册的。其次有很多人为了避免安全，会选择用虚拟手机号，避免被追踪。
 ### sms activate
-今天要介绍的接码平台叫做 [sms activate 官网地址](./302.html?target=https://sms-activate.org/?ref=2821105) 大家可以前往注册即可，接下来我们看看每一个步骤如何操作。
+今天要介绍的接码平台叫做 [sms activate 官网，点击打开](./302.html?target=https://sms-activate.org/?ref=2821105) 大家可以前往注册即可，接下来我们看看每一个步骤如何操作。
 
 ### 接码教程
 这里的步骤主要分为以下几大流程
