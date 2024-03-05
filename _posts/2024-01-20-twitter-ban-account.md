@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Twitter X 推特为什么会被封？| 推特怎么解封
+title: Twitter x账号被封，为什么会被封？| 推特怎么解封
 description: 推特 X 在新注册以及被使用一段时间后，都有可能被封，那怎么办解封又或者有哪些被封禁的原因呢？被封的原因是各不相同的，对于新使用推特的人来说最好要了解被封的规则，避免使用过程中被封禁导致的粉丝丢失。
 canonical_url: 'https://tggsearch.github.io/docs/twitter-ban-account.html'
 categories: [ twitter ]
