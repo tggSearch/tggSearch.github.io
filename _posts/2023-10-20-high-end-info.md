@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 网赚项目｜科学家技术必备的平台资源
+title: 海外网赚项目｜科学家技术必备的平台资源
 description: 接码短信平台、海外各类账号购买、VPN 免费资源、海外会员共享、各类刷粉、刷赞、刷评论平台
 canonical_url: 'https://tggsearch.github.io/docs/high-end-info.html'
 categories: [ account ]
