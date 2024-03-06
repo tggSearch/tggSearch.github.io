@@ -21,10 +21,10 @@ TelegramX并非与Telegram完全独立的两个应用，实际上，`TelegramX�
 2. 界面设计： TelegramX在用户界面方面进行了一些实验性的设计更改，可能提供了一些不同的外观和用户体验。
 3. 实验性功能： 作为实验性版本，TelegramX可能会首先引入一些新的功能或改进，并在后续版本中移植到Telegram。因此，如果你喜欢尝试最新的功能，TelegramX可能更适合你。
 
-### TelegramX的下载和使用指南
-要下载和使用TelegramX，你可以按照以下步骤进行操作（苹果必须要走应用商店，安卓可以走 APK 下载方式）：
+### TelegramX的下载和使用指南（只适合安卓用户）
+要下载和使用TelegramX，你可以按照以下步骤进行操作（苹果暂时已经没有，安卓可以走 APK 下载方式）：
 
-1. 在应用商店中搜索： 打开你手机的应用商店（如Google Play Store或Apple App Store），在搜索栏中输入"TelegramX"。同样苹果需要海外平台账号，这里你可以参考我们的文章 [苹果海外账号申请指南](./register-apple-id.html)
+1. 在应用商店中搜索： 打开你手机的应用商店（如Google Play Store），在搜索栏中输入"TelegramX"。
 2. 下载安装： 点击搜索结果中的TelegramX应用图标，然后点击“下载”或“安装”按钮，等待应用完成安装。如果你是安卓也可以使用 APK 来安装，可以在 [uptodown telegramx apk](./302.html?target=https://telegram-x.cn.uptodown.com/android)
 3. 登录账户： 安装完成后，打开TelegramX应用，按照提示登录你的Telegram账户。如果你没有Telegram账户，你需要先在Telegram上注册一个账户。请注意这里是和 Telegram 账号是一致的；
 4. 开始使用： 登录后，你就可以开始使用TelegramX了。探索其界面，尝试一些新的功能，并体验相对于标准Telegram的差异。
