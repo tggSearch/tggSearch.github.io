@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram刚注册就被封，被封telegram申诉方法，telegram被ban原因有哪些?
+title: telegram刚注册就被封，被封telegram申诉方法，telegram被ban原因?
 description: telegram刚注册就被封，telegram申诉方法，如果你在使用电报或者 telegram 由于触犯到相应的平台规则，被封号了，怎么解决呢？目前有多种渠道可以帮忙处理，包括申诉盒重置都是可以解决的，但是两种都有利弊。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-account.html'
 categories: [ telegram ]
