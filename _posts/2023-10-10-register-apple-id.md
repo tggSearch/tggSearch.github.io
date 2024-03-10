@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 注册苹果海外账号教程，下载安装海外应用教程
+title: 苹果id注册/购买教程
 description: 苹果下载海外应用的教程，海外的一些应用，比如电报、推特、tiktok、ins、facebook等等。但是对于苹果用户有一个限制，就是地区限制，你的账号只能下载对应地区的应用。因此有一个海外账号就迫在眉睫了。
 canonical_url: 'https://tggsearch.github.io/docs/register-apple-id.html'
 categories: [ account ]
@@ -39,5 +39,9 @@ pin: true
 - 按照虚拟身份信息，补充资料
 - 接下来就可以正常下载使用了
 
+### 购买苹果账号
+[购买教程点击这里](./ios-account-buy.html)
+
 ### 视频教程看这里
 需要海外梯子打开视频，没有梯子前往这里注册下载[小火箭梯子下载注册](./vpn.html)
+
