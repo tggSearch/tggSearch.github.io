@@ -65,7 +65,11 @@ categories: [ exchange ]
 | bitGet官方中文群 | [@Bitget_CNOfficial](./302.html?target=https://t.me/Bitget_CNOfficial) |
 | gateIO官方中文群 | [@gate_zh](./302.html?target=https://t.me/gate_zh) |
 
-## 币圈基础教学
+### 币圈推特大佬
+为了让大家更熟悉币圈的各种套路，避免大家被坑，其次大家也可以多拿到一些币圈空投的机会，那么关注一些大佬是最好的选择。
+大家可以看下这个[Youtube视频，点击查看](./302.html?target=https://youtu.be/EwMFrup4bR8) 里面从高到低推荐各种币圈大佬，有兴趣看看。
+
+### 币圈基础教学
 币圈有很多基础教程，买卖 USDT 是最基础的，因此在入币圈是需要必修的课程，永续合约是目前币圈玩的最多的衍生金融产品。
 
 [如何购买 USDT](./okx-buy-coins.html) 或者查看 [如果买卖 U 视频教程](./302.html?target=https://www.youtube.com/watch?v=Y2A1SBRD5RM)
