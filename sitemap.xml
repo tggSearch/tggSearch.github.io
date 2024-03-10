@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.github.io/</loc>
-    <lastmod>2024-03-09T07:30:55.914Z</lastmod>
+    <lastmod>2024-03-10T01:50:04.863Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/telegram.html</loc>
-    <lastmod>2024-03-09T07:30:55.914Z</lastmod>
+    <lastmod>2024-03-10T01:50:04.863Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/twitter.html</loc>
-    <lastmod>2024-03-09T07:30:55.914Z</lastmod>
+    <lastmod>2024-03-10T01:50:04.863Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/account.html</loc>
-    <lastmod>2024-03-09T07:30:55.914Z</lastmod>
+    <lastmod>2024-03-10T01:50:04.863Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/exchange.html</loc>
-    <lastmod>2024-03-09T07:30:55.914Z</lastmod>
+    <lastmod>2024-03-10T01:50:04.863Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/youtube.html</loc>
-    <lastmod>2024-03-09T07:30:55.914Z</lastmod>
+    <lastmod>2024-03-10T01:50:04.863Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -328,7 +328,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/receive-code.html</loc>
-    <lastmod>2024-03-09T07:30:52.125Z</lastmod>
+    <lastmod>2024-03-09T07:32:41.169Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -619,6 +619,11 @@
   </url><url>
     <loc>https://tggsearch.github.io/docs/email-best.html</loc>
     <lastmod>2024-03-04T06:02:53.330Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.github.io/docs/apple-vpn.html</loc>
+    <lastmod>2024-03-10T01:50:01.048Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
