@@ -1,7 +1,7 @@
 ---
 layout: default
 title: telegram 优质电报群｜精选分类优质电报群（持续更新）
-description: tggsearch 官方出品精选优质分类，包括：吃瓜、海角、麻豆、反差、萝莉、探花等，telegram 群，由机器人 @ChineseMainSearchBot 提供数据支持。
+description: tggsearch 官方出品精选优质分类，包括：吃瓜电报群、海角社区电报群、糖心vlog telegram、麻豆、反差、萝莉、探花等，telegram 群，由机器人 @ChineseMainSearchBot 提供数据支持。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-high-quality-group.html'
 categories: [ telegram ]
 pin: false
