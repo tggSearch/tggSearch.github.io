@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.github.io/</loc>
-    <lastmod>2024-03-11T11:28:41.469Z</lastmod>
+    <lastmod>2024-03-12T06:33:00.106Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/telegram.html</loc>
-    <lastmod>2024-03-11T11:28:41.469Z</lastmod>
+    <lastmod>2024-03-12T06:33:00.106Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/twitter.html</loc>
-    <lastmod>2024-03-11T11:28:41.469Z</lastmod>
+    <lastmod>2024-03-12T06:33:00.106Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/account.html</loc>
-    <lastmod>2024-03-11T11:28:41.469Z</lastmod>
+    <lastmod>2024-03-12T06:33:00.106Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/exchange.html</loc>
-    <lastmod>2024-03-11T11:28:41.469Z</lastmod>
+    <lastmod>2024-03-12T06:33:00.106Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/youtube.html</loc>
-    <lastmod>2024-03-11T11:28:41.469Z</lastmod>
+    <lastmod>2024-03-12T06:33:00.106Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -608,7 +608,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/telegram-high-quality-group.html</loc>
-    <lastmod>2024-03-11T11:28:37.158Z</lastmod>
+    <lastmod>2024-03-11T11:29:00.887Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -629,6 +629,11 @@
   </url><url>
     <loc>https://tggsearch.github.io/docs/apple-vpn.html</loc>
     <lastmod>2024-03-10T01:50:01.048Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.github.io/docs/social-app-ranking.html</loc>
+    <lastmod>2024-03-12T06:32:56.663Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
