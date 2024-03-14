@@ -1,0 +1,74 @@
+---
+layout: default
+title: line教程/line下载/line软件教程
+description: line 是什么，line 怎么下载，line 常见的问题解决方案，line怎么注册等等，关于line的所有教程。
+canonical_url: 'https://tggsearch.github.io/line.html'
+---
+<h2>常用资源</h2>
+<div class='icon-block-body-three'>
+  <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://line.cn.uptodown.com/android" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/line.png" alt="line安卓版本" height=50px>
+        <p>安卓下载</p>
+    </a>
+  </div>
+   <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://line.me/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/line.png" alt="line官网" height=50px>
+        <p>官网</p>
+    </a>
+  </div>
+    <div class='icon-block-item'>
+    <a href="/docs/302.html?target=https://access.line.me/oauth2/v2.1/login?loginState=VbZMSH51EHSy50niOOopAl&loginChannelId=1648148465&returnUri=%2Foauth2%2Fv2.1%2Fauthorize%2Fconsent%3Fbot_prompt%3Dnormal%26scope%3Dopenid%2Bprofile%26response_type%3Dcode%26state%3DPtJoVGc9zx%26redirect_u#/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/line.png" alt="line网页版" height=50px>
+        <p>网页版</p>
+    </a>
+  </div>
+</div>
+
+<div>
+    <h2>line最新文章</h2>
+  
+    <div>&nbsp;</div>
+  
+    <ul class="post-list">
+      {% assign pin_posts = '' | split: ',' %}
+      {% assign regular_posts = '' | split: ',' %}
+
+      {% for category in site.categories %} 
+      {% if 'line' == category[0] %}
+        {% assign pages_list = category[1] %}
+        {% for tmp_post in pages_list %}
+            {% if tmp_post.pin == true %}
+                {% assign pin_posts = pin_posts | push: tmp_post %}
+            {% else %}
+                {% assign regular_posts = regular_posts | push: tmp_post %}
+            {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% endfor %}
+
+      {% assign combined_posts = pin_posts | concat: regular_posts %}
+
+      {% assign count = 0 %}
+      {% for post in combined_posts %}
+        {% if post.title != null and count < 30 %}
+            {% assign count = count | plus: 1 %}
+        <li>
+          {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+  
+          {% assign url_link = post.url %}
+          <h2>
+            <a class="post-link" href="{{ url_link }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+          </h2>
+  
+          {{ post.excerpt | replace: '<script.*?</script>', '' | strip_html | markdownify | truncate: 60 }}
+  
+          <p>
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </p>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+</div>
