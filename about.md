@@ -6,7 +6,7 @@ canonical_url: 'https://tggsearch.github.io/docs/betrays.html'
 categories: [ account ]
 ---
 ### 什么是 Betrys 社区
-本社区专注软件技术教学，主要是海外软件：电报、推特、油管等，其次社区为了营收也做币圈相关的返佣以及教学。
+本社区专注软件技术教学，主要是海外软件：电报、推特、油管、line、交易所等，其次社区为了营收也做币圈相关的返佣以及教学。
 
 ### Betrys 社区福利
 
