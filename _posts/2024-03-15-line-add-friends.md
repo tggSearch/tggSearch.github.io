@@ -1,7 +1,7 @@
 ---
 layout: default
 title: line怎么加人，line怎么扫码加好友
-description: 2024怎么加人，好友在哪里加，line怎么扫码加好友，line好友添加的方法教程。
+description: 2024怎么加人，好友在哪里加，line怎么扫码加好友，line好友添加的方法教程。line加好友错误无法正常执行，这又是什么原因呢？
 canonical_url: 'https://tggsearch.github.io/docs/line-add-friends.html'
 categories: [ line ]
 ---
@@ -46,6 +46,9 @@ LINE支持通过二维码扫码添加好友，操作步骤如下：
 
 1. 点击LINE官方账号或好友分享的链接，直接添加好友。
 2. 在一些支持LINE登录的网站或应用上，可以通过LINE账号登录，并添加该平台上的好友。
+
+### line加好友错误无法正常执行
+这种往往是好友设置了隐私权限，例如不允许通过LINE ID或电话号码添加好友，则您无法通过这些方式添加对方。还有一种情况就是新账号，刚注册可能会提醒这个问题，如果出现这个问题，可以让对方添加你，一般是可以的。
 
 ### 注意事项
 1. 添加好友时，需要对方确认才能成为好友。
