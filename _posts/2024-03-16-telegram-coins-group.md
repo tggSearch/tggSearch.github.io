@@ -8,6 +8,16 @@ pin: false
 ---
 telegram 是币圈交流的必备社交软件，大部分社区币圈，都有telegram群，那么如何去找到这部分telegram电报群呢？又有哪些精选的telegram群推荐呢？这篇文章就给你推荐一些比较好的币圈交流群，并且教你如何找到你想要的币友。
 
+如果你还没有注册币圈交易所账号，那么一定要先注册了，注册就有盲盒+返佣，以下是注册链接：
+
+[欧易注册下载安装教程](./okx-install.html)、[币安注册下载安装教程](./bnb-buy-coins.html)
+
+[欧易福利注册链接，注册就送20%返佣+现金盲盒](./302.html?target=https://www.okx.com/join/62030781)
+
+[币安福利注册链接，注册就送20%返佣](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)
+
+其他交易所请查看 [币圈交易所导航](./coins-index.html) 
+
 ### 币圈交易所群
 币圈最多就是交易所的群，各大交易所都是有币圈交流群的。以下就是常用的交易所中文telegram群。
 
