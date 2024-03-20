@@ -1,7 +1,7 @@
 ---
 layout: default
-title: line怎么退出，line怎么切换账号？line能双开吗？
-description: line 一登录，你就无法找到退出登录的按钮了，唯有一个删除账号，那么有没有办法退出当前的 line 账号，切换另外一个账号呢？当然是有的，请看本文。
+title: line怎么退出账号，line怎么切换账号？line能双开吗？
+description: line 一登录，你就无法找到退出登录的按钮了，line怎么退出登录，唯有一个删除账号，那么有没有办法退出当前的 line 账号，切换另外一个账号呢？当然是有的，请看本文。
 canonical_url: 'https://tggsearch.github.io/docs/line-logout.html'
 categories: [ line ]
 ---
