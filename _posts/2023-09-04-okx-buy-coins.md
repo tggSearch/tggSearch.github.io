@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 欧易OKX买币教程，法币购买USDT方法，欧易点返佣、OKX U商赚钱方法
-description: 如何购买 USDT ，如何通过 OKX 获得节点返佣赚钱，什么是 U商，怎么通过 U 商赚钱
+description: 如何购买 USDT，okx购买usdt流程 ，如何通过 OKX 获得节点返佣赚钱，什么是 U商，怎么通过 U 商赚钱
 canonical_url: 'https://tggsearch.github.io/docs/okx-buy-coins.html'
 categories: [ exchange ]
 ---
