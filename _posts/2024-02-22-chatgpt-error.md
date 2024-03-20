@@ -1,7 +1,7 @@
 ---
 layout: default
 title: chatgpt打不开？chatgpt 无法访问？2024年最新解决办法
-description: chatgpt打不开的原因很多，比如你的梯子有问题，或者你梯子的节点选择有问题，或者你的浏览器问题，又或者是chatgpt本身的原因。
+description: chatgpt 无法访问，chatgpt打不开的原因很多，比如你的梯子有问题，或者你梯子的节点选择有问题，或者你的浏览器问题，又或者是chatgpt本身的原因。
 canonical_url: 'https://tggsearch.github.io/docs/chatgpt-error.html'
 categories: [ chatgpt ]
 ---
