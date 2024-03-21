@@ -27,7 +27,7 @@ categories: [ account ]
 
 业务合作QQ：3502434065
 
-Telegram 交流群：[@chinaDianBaoFans](./302.html?target=https://t.me/chinaDianBaoFans)
+Telegram 交流群：[@chinaDianBaoFans](/docs/302.html?target=https://t.me/chinaDianBaoFans)
 
 我们的Youtube：[https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w](/docs/302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w)
 
