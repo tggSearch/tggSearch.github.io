@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 翻墙后可以做什么？翻墙后不知道做什么？
+title: 翻墙后可以做什么？翻墙可以干什么？
 description: 翻墙对于很多人来说是非常好奇的事情，但是翻墙后能做什么，有哪些主流平台可以去玩的，翻墙后怎么赚钱都是大家一些疑问，那么这篇文章就是来详细探讨这些知识。
 canonical_url: 'https://tggsearch.github.io/docs/vpn-play-app.html'
 categories: [ account ]
