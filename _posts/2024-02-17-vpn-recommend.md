@@ -1,7 +1,7 @@
 ---
 layout: default
 title: vpn 推荐｜vpn哪个好用
-description: 推荐最好用最便宜的vpn软件，vpn好用的有哪些？应该如何选择又便宜又实惠好用的 vpn。
+description: 推荐最好用最便宜的vpn软件，vpn好用的有哪些？应该如何选择又便宜又实惠好用的 vpn，青柠vpn这些怎么样？
 canonical_url: 'https://tggsearch.github.io/docs/vpn-recommend.html'
 categories: [ account ]
 ---
