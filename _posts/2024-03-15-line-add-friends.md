@@ -1,6 +1,6 @@
 ---
 layout: default
-title: line怎么加人，line怎么扫码加好友
+title: line怎么加人，line怎么加陌生人，line怎么扫码加好友
 description: 2024怎么加人，line怎么加陌生人，line怎么加外国人，好友在哪里加，line二维码哪里生成，line怎么扫码加好友，line好友添加的方法教程。line加好友错误无法正常执行，这又是什么原因呢？
 canonical_url: 'https://tggsearch.github.io/docs/line-add-friends.html'
 categories: [ line ]
