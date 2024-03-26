@@ -9,7 +9,7 @@ categories: [ exchange ]
 请特别注意：买卖 U 走正规渠道，非法渠道会涉及帮信罪以及涉嫌洗钱嫌疑，请勿走任何其他非法渠道，避免这个问题。
 欧易、币安都是相对来说比较可信的平台，大家可以都注册下载一下，根据自己的喜好来选择，关于各大交易所的优缺点，我也做了视频讲解，大家可以看这里，[如何选择适合您的加密货币交易所？](./302.html?target=https://www.youtube.com/watch?v=e5eqMJAFkPs&t=10s) 具体的注册方法如下（<b>请注意一定要通过下面链接注册，否则无法享受返佣</b>）：
 
-[欧易返佣地址](./302.html?target=https://www.okx.com/join/79153417)
+[欧易返佣地址](./302.html?target=https://www.okx.com/join/62030781)
 
 [币安返佣地址](./302.html?target=https://accounts.binance.com/register?ref=G1Q331LS)
 
