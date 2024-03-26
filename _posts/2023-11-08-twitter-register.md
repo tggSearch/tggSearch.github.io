@@ -5,6 +5,7 @@ description: 推特注册、x账号注册教程，x注册APP下载，其中包�
 canonical_url: 'https://tggsearch.github.io/docs/twitter-register.html'
 categories: [ twitter ]
 ---
+推特 X 的注册教程，一步步教你完成 X 的注册，并且说明 X 注册过程中常见的一异常问题。
 ### 介绍
 **推特(Twitter)** 是一家全球著名的社交媒体平台，它允许用户分享短消息、图片、视频和链接，与关注者互动，以及获取即时新闻和信息。注册一个推特账号是参与这个充满活力的社交网络的第一步，本教程将向您展示如何创建自己的推特账号，同时提供关于下载应用程序和解决可能出现的问题的指导。
 
@@ -67,7 +68,7 @@ categories: [ twitter ]
 
 6. **注册后，账号里面被封禁**：主要是你的 VPN 的问题导致的，VPN 已经被污染，无法使用推特，最好的办法就是更换 VPN。
 
-如果你还需要 [推特的疑难杂症](./twitter-register-error.html)
+如果你还需要，比如 X 注册过程点击提示系统异常，或者无法注册，请[点击推特的疑难杂症](./twitter-register-error.html)
 
 ### 推特资源介绍
 很多人进入推特发现什么都没有，觉得和微博差别不大，那么你肯定不知道以下资源，打开推特榜单你就知道特别的资源了 [推特中文榜单](./twitter-ranking.html)
