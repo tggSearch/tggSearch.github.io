@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Youtube 会员功能，Youtube 会员开通教程
+title: youtube会员有什么用，youtube会员开通教程
 description: Youtube 会员有哪些功能点，开通会员能享受哪些服务，Youtube 会员如何开通，youtube会员开通的教程。
 canonical_url: 'https://tggsearch.github.io/docs/youtube-vip.html'
 categories: [ youtube ]
