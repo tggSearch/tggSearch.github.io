@@ -17,14 +17,14 @@ pin: false
 安装完成后按照下图的指示，把 chrome 插件置顶，置顶后就可以在插件栏里面看到这个 tampermonkey 插件图标了。
 
 <div align=center>
-    <img alt="twitter-video-download-detail" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-media-download-chrome.webp" class="page-img" width="70%"/>
+    <img alt="twitter-video-download-detail" src="/docs/assets/img/telegram-media-download-chrome.webp" class="page-img" width="70%"/>
 </div>
 
 ### 第二步，在 tampermonkey 插件中新增 Telegram 图片下载脚本
 接下来打开这个网址 [Telegram 图片下载脚本插件](https://update.greasyfork.org/scripts/446342/Telegram%20Media%20Downloader.user.js) 打开以后，在页面点击 <b>安装</b>，安装完成后，按照下图的指示点击你就可以看到这个插件了，如果没有启用，自己点击启用即可。
 
 <div align=center>
-    <img alt="twitter-video-download-detail" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-media-download-script.webp" class="page-img" width="70%"/>
+    <img alt="twitter-video-download-detail" src="/docs/assets/img/telegram-media-download-script.webp" class="page-img" width="70%"/>
 </div>
 
 ### 第三步，登录 Telegram 网页版
@@ -34,7 +34,7 @@ pin: false
 最后一步在网页版上打开你需要下载资源的群聊，然后打开相应需要下载的资源，启用刚才的 chrome 插件脚本，你就可以看到下面这个下载按钮了。
 
 <div align=center>
-    <img alt="twitter-video-download-detail" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-media-download-button.webp" class="page-img" width="70%"/>
+    <img alt="twitter-video-download-detail" src="/docs/assets/img/telegram-media-download-button.webp" class="page-img" width="70%"/>
 </div>
 
 接下来你就可以下载到资源了。
@@ -43,7 +43,7 @@ pin: false
 这个一般都是直接在 chrome 的下载目录里面，你可以打开 chrome 下载列表，在列表中你可以找到具体的文件位置，比如下图这样
 
 <div align=center>
-    <img alt="twitter-video-download-detail" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-media-download-path.webp" class="page-img" width="70%"/>
+    <img alt="twitter-video-download-detail" src="/docs/assets/img/telegram-media-download-path.webp" class="page-img" width="70%"/>
 </div>
 
 以上就是下载流程。

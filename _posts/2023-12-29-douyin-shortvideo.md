@@ -13,7 +13,7 @@ categories: [ youtube ]
 无论你是在微信还是抖音，被短剧吸引，比如这里我当时被这部短剧吸引了叫做 <b>战帝冰山美女老婆</b>，看了几集我很恼火要收费，我就去 Youtube 上搜索了一下，发现还真有，你看下面这个搜索结果。
 
 <div align=center>
-    <img alt="youtube-dy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-dy.webp" class="page-img" width="70%"/>
+    <img alt="youtube-dy" src="/docs/assets/img/youtube-dy.webp" class="page-img" width="70%"/>
 </div>
 
 好了接下来就简单了，尽情的欣赏就行了。
@@ -21,11 +21,11 @@ categories: [ youtube ]
 再往下看，你就会发现其实很多人在做短剧的 Youtube 视频，因此你想看的应有尽有，比如下面两个博主。
 
 <div align=center>
-    <img alt="youtube-dy-up" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-dy-up1.webp" class="page-img" width="70%"/>
+    <img alt="youtube-dy-up" src="/docs/assets/img/youtube-dy-up1.webp" class="page-img" width="70%"/>
 </div>
 
 <div align=center>
-    <img alt="youtube-dy-up" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/youtube-dy-up2.webp" class="page-img" width="70%"/>
+    <img alt="youtube-dy-up" src="/docs/assets/img/youtube-dy-up2.webp" class="page-img" width="70%"/>
 </div>
 
 那么你还会不会去付费呢？如果你没有找到，我建议你等几天，或者你还有其他的思路。

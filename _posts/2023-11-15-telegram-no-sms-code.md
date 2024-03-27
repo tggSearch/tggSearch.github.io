@@ -24,7 +24,7 @@ pin: true
 今天教大家几种方法，为了让大家更清晰的认识，我绘制了一个排查流程图，帮大家定位无法收到验证码的原因。
 ### 排查流程图
 <div align=center>
-    <img alt="telegram no sms code flow" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/telegram-no-sms-code-flow.webp" class="page-img" width="90%"/>
+    <img alt="telegram no sms code flow" src="/docs/assets/img/telegram-no-sms-code-flow.webp" class="page-img" width="90%"/>
 </div>
 自己可以先按照上面流程来逐步分析，如果看不懂，请看下面文字流程。
 

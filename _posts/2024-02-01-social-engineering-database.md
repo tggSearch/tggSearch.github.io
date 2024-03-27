@@ -20,7 +20,7 @@ categories: [ account ]
 电报骗子比较多，你们最好找一些相当比较靠谱的，比如至少有机器人的，那些人工帮你查询的很可能是骗子或者他的数据很旧很老，价值很低。下面是一个电报机器人，这个机器人 [@SpaceSGK_bot](./302.html?target=https://t.me/SpaceSGK_bot) 我也没有付费过，我也只是用免费的测试过，你们自己需要分辨下，也是我用我自己的账号查询的例子。
 
 <div align=center>
-    <img alt="dark-web-search-shegong-telegram" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/social-engineering-database-telegram.webp" class="page-img" width="70%"/>
+    <img alt="dark-web-search-shegong-telegram" src="/docs/assets/img/social-engineering-database-telegram.webp" class="page-img" width="70%"/>
 </div>
 
 如果你找不到合适的，可以在这个导航群 [电报综合导航群，超级索引](./telegram-gsearch.html) 直接搜索 社工库 看看有没有合适的。
@@ -29,7 +29,7 @@ categories: [ account ]
 这个暗网怎么进入以及怎么查询，你可以看下我们这篇文章教程 [暗网有什么？应该如何进入暗网？暗网社工库怎么查询](./dark-web.html) ,里面就有如何查询社工库的教程，以下是一个例子，我自己的 QQ 号查询的结果。
 
 <div align=center>
-    <img alt="dark-web-search-shegong" src="https://cdn.jsdelivr.net/gh/tggsearch/tggSearch.github.io/assets/img/dark-web-shegong.webp" class="page-img" width="70%"/>
+    <img alt="dark-web-search-shegong" src="/docs/assets/img/dark-web-shegong.webp" class="page-img" width="70%"/>
 </div>
 
 ### 如何保护个人信息？
