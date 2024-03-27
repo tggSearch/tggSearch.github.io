@@ -34,7 +34,7 @@ categories: [ telegram ]
 
 
 <div align=center>
-    <img alt="telegram-download-button" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-android-button.webp" class="page-img" width="70%"/>
+    <img alt="telegram-download-button" src="/docs//assets/img/telegram-android-button.webp" class="page-img" width="70%"/>
 </div>
 
 ### 下载的英文版怎么办？

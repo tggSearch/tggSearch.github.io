@@ -20,7 +20,7 @@ categories: [ youtube ]
 我们随意找一个网站来测试一下我自己的视频，你可以用我的视频地址来测试下，直接复制这个链接到下面网站就可以解析下载了：https://www.youtube.com/watch?v=00bWVdK31og
 
 <div align=center>
-    <img alt="youtube-parse" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube-parse.webp" class="page-img" width="70%"/>
+    <img alt="youtube-parse" src="/docs//assets/img/youtube-parse.webp" class="page-img" width="70%"/>
 </div>
 
 你可以看到里面的油管视频就解析出来了，并且还带有多个高清版本，每个版本都有，包括 1080P 都有。
