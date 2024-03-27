@@ -2,7 +2,7 @@
 layout: default
 title: 推特用户名忘了怎么办，推特用户名忘了解决办法
 description: twitter忘记用户名很可能无法找回账号，推特用户名是非常关键的，如果推特用户名忘了其实也有办法找回，这里教大家几种找回的方法
-canonical_url: 'https://tggsearch.github.io/docs/twitter-forget-username.html'
+canonical_url: 'https://tggsearch.org/docs/twitter-forget-username.html'
 categories: [ twitter ]
 ---
 当你忘记了推特用户名时，可能会感到困扰，但不用担心，有几种方法可以帮助你找回或重设用户名。以下是一些建议：

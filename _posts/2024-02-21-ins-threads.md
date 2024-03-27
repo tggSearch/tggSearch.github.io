@@ -2,7 +2,7 @@
 layout: default
 title: threads和instagram有什么区别
 description: Threads 是什么？threads是基于instagram的应用，threads和ins的区别是什么呢，为什么有了instagram还需要有另外一个threads app呢，threads app是不是值得我们进一步去了解和应用呢？
-canonical_url: 'https://tggsearch.github.io/docs/ins-threads.html'
+canonical_url: 'https://tggsearch.org/docs/ins-threads.html'
 categories: [ threads ]
 ---
 当谈论社交媒体时，Threads 和 Instagram 是两个备受关注的平台，它们在一定程度上共享相似之处，但也存在一些显著的区别。本文将对 Threads 和 Instagram 进行比较，以突显它们之间的异同。

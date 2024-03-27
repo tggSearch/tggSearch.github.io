@@ -2,7 +2,7 @@
 layout: default
 title: USDT 理财教程，钱包 USDT 理财，USDT 币圈埋伏教程
 description: 有足够的 USDT , 但是短期无法兑换成人民币，那么投资理财是最佳的方案，不要浪费了你 USDT，目前年化都可以达到 10% 以上，然后加上汇率加成，那么相当于人民币年化可能达到 20% 以上的利润，究竟应该如何去理财呢？
-canonical_url: 'https://tggsearch.github.io/docs/usdt-make-money.html'
+canonical_url: 'https://tggsearch.org/docs/usdt-make-money.html'
 categories: [ exchange ]
 ---
 现在有很多人都有境外的 USDT 收入，但是这部分收入很大情况下比较难兑换成人民币，而这时候如果你直接放在钱包那就太亏了，因为你将损失美元的加息红利，当前美国一直加息，从而导致美元一直处于增值地位，因此你如果简单买理财产品都有年化 7% 以上的利润。当前又处于熊市，因此埋伏一些低价值币也是非常有吸引力的。
@@ -15,7 +15,7 @@ categories: [ exchange ]
 
 充币完成后，接下来就可以购买相应的理财服务了，比如这里的年化 10% 的稳定 USDT 收益
 <div align=center>
-    <img alt="usdt-mm" src="/docs/assets/img/usdt-mm.webp" class="page-img" width="50%"/>
+    <img alt="usdt-mm" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/usdt-mm.webp" class="page-img" width="50%"/>
 </div>
 
 购买的方法也很简单，直接买入就行了。

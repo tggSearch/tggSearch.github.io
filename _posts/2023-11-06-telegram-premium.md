@@ -2,7 +2,7 @@
 layout: default
 title: telegram会员(电报会员)代开通，电报会员最划算购买教程
 description: telegram 会员服务，这里叫做 Telegram 订阅服务，telegram premium购买，开通会员开通一般需要海外的支付方式，那么telegram会员购买流程是怎么样，需要找人代开通，那么这里就是教大家如何代开通会员。
-canonical_url: 'https://tggsearch.github.io/docs/telegram-premium.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-premium.html'
 categories: [ telegram ]
 ---
 在了解之前，如果你还没有注册下载电报，请参考我们的教程 [Telegram 电报注册下载教程](./register.html)
@@ -18,12 +18,12 @@ Telegram 会员目前已经越来越多了，大家都需要享受更多的会�
 
 2. 进入网站后直接搜索 **Telegram 正规会员充值** 可以看到如下商品
 <div align=center  style="display: flex">
-    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="/docs/assets/img/telegram-premium.webp"/>
+    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-premium.webp"/>
 </div>
 
 3. 接下来点击购买，这时候需要你提供 **TG用户名** ，请特别注意如果你没有用户名，请先前往电报设置一个，这个就类似于微信名一样，设置方法在个人资料页面，然后点击编辑，里面有一个用户名选项，设置就行了。
 <div align=center  style="display: flex">
-    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="/docs/assets/img/telegram-premium-buy.webp" />
+    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-premium-buy.webp" />
 </div>
 4. 选择购买的套餐，最低是 3 个月；
 5. 接下来使用微信或者支付宝支付就可以了。

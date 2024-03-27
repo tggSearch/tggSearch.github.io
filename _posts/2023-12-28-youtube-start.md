@@ -2,7 +2,7 @@
 layout: default
 title: youtube怎么使用？油管看什么？油管福利账号资源｜油管订阅排行
 description: Youtube 注册后，发现什么资源都没有，也不知道油管可以看什么，感觉没有什么好玩的，为什么这么多人还不断的想注册油管呢？真正的原因是你没有发现 Youtube 的神秘之处，今天就带大家领略领略。 sutenekokawaii 和 ol_mizuki 都是优质的福利 UP 主。
-canonical_url: 'https://tggsearch.github.io/docs/youtube-start.html'
+canonical_url: 'https://tggsearch.org/docs/youtube-start.html'
 categories: [ youtube ]
 ---
 刚注册好油管以后，基本都是空白的，或者首页推荐的一些没有什么特别的视频，你看着也觉得很正常，和正常的国内的视频网站也类似差异不大，那么今天我就告诉大家 Youtube 的好玩之处。如果你想学习更多奇淫巧技，可以关注我的油管 [奇淫巧技教学](./302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w)，分享各种软件教程以及赚钱币圈教学资源。
@@ -15,7 +15,7 @@ categories: [ youtube ]
 Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜索到非常多的音乐版权歌曲，而且很多还有串烧，也就是你可以一直听，比如这里我们之间搜索音乐串烧 <b>音乐串烧2023</b> 在下面你就可以看到很多歌曲了。
 
 <div align=center>
-    <img alt="youtube-music" src="/docs/assets/img/youtube-music-cs.webp" class="page-img" width="70%"/>
+    <img alt="youtube-music" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube-music-cs.webp" class="page-img" width="70%"/>
 </div>
 
 ### 福利账号列表推荐
@@ -41,7 +41,7 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 在国内目前比较火热的短剧，其实在 Youtube 上都有，只要你在抖音看到这类短剧，然后直接 Youtube 上搜索你就可以发现很多，而且都是免费的，完全不需要付费，比如前段时间我看的 <b>战帝的冰山美女老婆</b>
 
 <div align=center>
-    <img alt="youtube-dy" src="/docs/assets/img/youtube-dy.webp" class="page-img" width="70%"/>
+    <img alt="youtube-dy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube-dy.webp" class="page-img" width="70%"/>
 </div>
 
 ### 情感交友
@@ -51,7 +51,7 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 如果你是来学习的也是有很多的，比如练习你的英文听力，里面就很多这种资源，比如下面我搜索到的资源，当然还有其他的很多教学资源，就看你自己搜索了。
 
 <div align=center>
-    <img alt="youtube-english" src="/docs/assets/img/youtube-english.webp" class="page-img" width="70%"/>
+    <img alt="youtube-english" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube-english.webp" class="page-img" width="70%"/>
 </div>
 
 ### 影片介绍

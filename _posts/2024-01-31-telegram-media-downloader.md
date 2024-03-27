@@ -2,7 +2,7 @@
 layout: default
 title: Telegram 图片视频下载器，Telegram 限制保存内容群如何下载图片、视频、文件？让你畅通下载电报任何图片、视频、文件资源
 description: Telegram如何下载视频、图片和文件，其次 Telegram 有一个功能可以限制频道和群聊保存文件或者图片，或者视频，那么有没办法去下载这类图片和视频资源呢？
-canonical_url: 'https://tggsearch.github.io/docs/telegram-media-downloader.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-media-downloader.html'
 categories: [ telegram ]
 pin: false
 ---

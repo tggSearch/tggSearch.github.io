@@ -2,7 +2,7 @@
 layout: default
 title: 纸飞机注册-飞机注册(Telegram)-小白都会的教程
 description: Telegram 电报注册教程，小飞机注册教程，纸飞机怎么注册方法，包含苹果注册下载教程，安卓注册教程，其次注册后一些场景的问题解决方法，新账号应该注意哪些细节。
-canonical_url: 'https://tggsearch.github.io/docs/telegram-ios.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-ios.html'
 categories: [ telegram ]
 ---
 本文是苹果的教程，[安卓请点击这里前往注册，注册教程](./telegram-android.html)，整体流程相似，安卓还会更简单一些。
@@ -44,7 +44,7 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 4. 这时候会在任务栏有一个vpn标识就算成功了；
 
 看不懂的可以看图片教程
-![注册教程](/docs/assets/img/ios-register.webp)
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/ios-register.webp)
 ## 注册电报
 ### 打开梯子
 请务必打开代理梯子，就我们第一步下载的应用，选择香港节点即可，然后点第一个启动按钮，显示如下图所示就可以了。 

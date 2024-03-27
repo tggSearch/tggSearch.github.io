@@ -2,7 +2,7 @@
 layout: default
 title: Youtube 下载教程｜油管app下载，最佳1分钟注册下载教程
 description: 油管有app吗？那是肯定有的。油管app下载最新教程，Youtube安卓包、官网最新导航，油管博主推荐等丰富的资源。
-canonical_url: 'https://tggsearch.github.io/docs/youtube-download.html'
+canonical_url: 'https://tggsearch.org/docs/youtube-download.html'
 categories: [ youtube ]
 ---
 Youtube 里面的资源还是非常多的，但是很多人不知道怎么下载使用油管，即使下载了有些同学也不知道为什么用不了，今天就带大家入门 Youtube
@@ -11,19 +11,19 @@ Youtube 里面的资源还是非常多的，但是很多人不知道怎么下载
 <div class='icon-block-body-three'>
     <div class='icon-block-item'>
       <a href="/docs/302.html?target=https://apkpure.com/youtube/com.google.android.youtube" target="_blank">
-          <img src="/docs/assets/img/youtube.webp" alt="Twitter安卓版本" height=50px>
+          <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube.webp" alt="Twitter安卓版本" height=50px>
           <p>安卓下载</p>
       </a>
     </div>
      <div class='icon-block-item'>
       <a href="/docs/302.html?target=https://youtube.com" target="_blank">
-          <img src="/docs/assets/img/youtube.webp" alt="Twitter官网" height=50px>
+          <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube.webp" alt="Twitter官网" height=50px>
           <p>官网</p>
       </a>
     </div>
       <div class='icon-block-item'>
       <a href="/docs/302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w" target="_blank">
-          <img src="/docs/assets/img/youtube.webp" alt="电报网页版" height=50px>
+          <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube.webp" alt="电报网页版" height=50px>
           <p>关注我们</p>
       </a>
     </div>

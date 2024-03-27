@@ -2,7 +2,7 @@
 layout: default
 title: 推特 twitter(X)无法获取推文, 推特敏感设置教程
 description: 推特无法获取推文，twitter无法获取推文，X无法获取推文，推特解除敏感限制方法，敏感设置接触方法，无法查看推文，主要还是敏感限制问题，该如何解决？如果你无法打开推文，提示敏感限制，应该如何操作解决呢？
-canonical_url: 'https://tggsearch.github.io/docs/twitter-spc.html'
+canonical_url: 'https://tggsearch.org/docs/twitter-spc.html'
 categories: [ twitter ]
 pin: true
 ---
@@ -13,19 +13,19 @@ Twitter也称小蓝鸟，目前已经更名为 X，Twitter 相对来说是比较
 一、打开设置与隐私，具体在设置与支持下面有一个设置与隐私
 
 <div align=center>
-    <img alt="twitter-setting" src="/docs/assets/img/twitter-setting.png" class="page-img" width="50%"/>
+    <img alt="twitter-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-setting.png" class="page-img" width="50%"/>
 </div>
 
 二、点击选择隐私与安全，然后右侧选择"你所看到的内容"选项
 
 <div align=center>
-    <img alt="twitter-setting-2" src="/docs/assets/img/twitter-setting-2.png" class="page-img" width="70%"/>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-setting-2.png" class="page-img" width="70%"/>
 </div>
 
 三、最后勾选上“显示可能含有敏感内容的媒体内容”就可以解决了，最后再刷新
 
 <div align=center>
-    <img alt="twitter-setting-2" src="/docs/assets/img/twitter-setting-3.png" class="page-img" width="70%"/>
+    <img alt="twitter-setting-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-setting-3.png" class="page-img" width="70%"/>
 </div>
 
 ### 实验

@@ -2,7 +2,7 @@
 layout: default
 title: 电报诈骗 telegram诈骗项目，telegram被骗，电报群诈骗，电报裸聊诈骗，防骗指南，Telegram 隐私相册骗局，私密花园
 description: 电报诈骗，telegram诈骗，telegram被骗怎么办？电报游戏是不是真的？微信1.5倍跑游戏，收短信验证码，电报账号异常需要处理，电报账号双向，各类棋牌游戏，欺诈第三方钱包，闲鱼兑换卡、租用苹果 ID。
-canonical_url: 'https://tggsearch.github.io/docs/telegram-scam.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-scam.html'
 categories: [ telegram ]
 ---
 本文整理电报常见骗局项目，长期更新维护，请各位新来电报的识别常见骗局，避免被骗。更多骗局，请前往 [中文电报官方群](https://t.me/chinaDianBaoFans) ，这里例举了多种诈骗项目：

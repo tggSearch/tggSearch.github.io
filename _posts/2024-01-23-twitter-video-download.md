@@ -2,7 +2,7 @@
 layout: default
 title: Twitter 推特视频下载｜推特图片下载教程
 description: twitter 视频下载方法，推特的图片下载方法
-canonical_url: 'https://tggsearch.github.io/docs/twitter-video-download.html'
+canonical_url: 'https://tggsearch.org/docs/twitter-video-download.html'
 categories: [ twitter ]
 ---
 在推特（Twitter）上发现了喜欢的视频或图片，但不知道如何下载吗？不用担心，我们为您提供了详细的推特视频下载和图片下载教程，让您轻松保存您喜欢的内容。特别是一些开车的视频和图片很多人特别喜欢，那么怎么保存下来其实很多人都会有疑问。这里我们分视频和图片下载的方法。

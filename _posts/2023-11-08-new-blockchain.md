@@ -2,7 +2,7 @@
 layout: default
 title: 新人币圈入门教程｜如何买币
 description: 新人买卖币教程，如何开始买币，买币需要注意哪些细节？说到底很多听过区块链，从最初的印象开始就是区块链能够造就富翁，从无到有的故事很多，一天上千倍的故事也很多，那么是否真实的呢？
-canonical_url: 'https://tggsearch.github.io/docs/new-blockchain.html'
+canonical_url: 'https://tggsearch.org/docs/new-blockchain.html'
 categories: [ exchange ]
 ---
 说到底很多听过区块链，从最初的印象开始就是区块链能够造就富翁，从无到有的故事很多，一天上千倍的故事也很多，那么是否真实的呢？

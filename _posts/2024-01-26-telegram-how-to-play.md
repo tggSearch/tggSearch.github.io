@@ -2,7 +2,7 @@
 layout: default
 title: telegram 有什么好玩的？老司机教你到底应该如何玩？
 description: Telegram 是目前比较火热的国际社交软件，电报有什么好玩的？电报到底又应该如何玩呢？我相信这是很多人的困扰，那么今天就教大家一些好玩的电报知识，其次也会告诉大家有哪些骗局，避免被骗。
-canonical_url: 'https://tggsearch.github.io/docs/telegram-how-to-play.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-how-to-play.html'
 categories: [ telegram ]
 pin: false
 ---

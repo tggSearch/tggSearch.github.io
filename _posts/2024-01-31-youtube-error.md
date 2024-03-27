@@ -2,7 +2,7 @@
 layout: default
 title: Youtube 常见异常问题汇总以及解决方案
 description: Youtube 出错了点按即可重试，youtube 一直转圈无法播放，Youtube 能打开但是不能播放，Youtube 视频清晰度很低怎么办？视频加载很慢，卡顿严重怎么办呢？这些都是常见的一些问题，这里就带大家一起来分析并解决这类问题。
-canonical_url: 'https://tggsearch.github.io/docs/youtube-error.html'
+canonical_url: 'https://tggsearch.org/docs/youtube-error.html'
 categories: [ youtube ]
 ---
 YouTube作为全球最大的视频分享平台之一，每天都有数以亿计的用户在其上观看、上传和分享视频。然而，随着网络环境、设备兼容性等因素的影响，用户可能会遇到各种各样的问题。本文将总结YouTube常见异常问题，并提供相应的解决方案，帮助用户更好地享受YouTube的服务。

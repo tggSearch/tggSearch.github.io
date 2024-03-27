@@ -2,7 +2,7 @@
 layout: default
 title: line下载 apk，line下载安卓版，line 电脑版，line苹果版本
 description: line 2024最全下载教程，包含：apk、安卓、电脑版、苹果版本，手把手教你学会如何下载 line。
-canonical_url: 'https://tggsearch.github.io/docs/line-download.html'
+canonical_url: 'https://tggsearch.org/docs/line-download.html'
 categories: [ line ]
 ---
 在当今数字化时代，通讯技术的发展极大地改变了人们之间的沟通方式。作为其中一种领先的通讯应用，LINE已经成为了全球范围内数亿用户的首选。本文将简要介绍LINE的起源、功能特点以及其在全球范围内的影响。

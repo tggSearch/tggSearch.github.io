@@ -2,7 +2,7 @@
 layout: default
 title: 电报群打不开进不去，提示敏感信息，解除敏感限制教程
 description: 电报群无法打开进不去的主要原因是因为苹果敏感信息，无法打开会提示 This channel can`t be displayed because it was used to spread pornographic content，如何解开这个敏感限制呢？没有勾选按钮怎么办？
-canonical_url: 'https://tggsearch.github.io/docs/telegram-group-spc.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-group-spc.html'
 categories: [ telegram ]
 pin: true
 ---

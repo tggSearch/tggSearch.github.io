@@ -2,7 +2,7 @@
 layout: default
 title: Telegram 电报聊天群
 description: Telegram 电报上想找一些聊天群，是比较困难的，但是也是有很多聊天群的，那么这篇文章就是教大家怎么找到想要的聊天群，其次我们也构建了一个聊天群，大家也可以一起参与进来，相信随着时间的推移这个群会越来越多人。
-canonical_url: 'https://tggsearch.github.io/docs/telegram-chat.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-chat.html'
 categories: [ telegram ]
 ---
 Telegram 由于其需要使用 VPN 才能使用，因此来 Telegram 上的人目的性都很强，因为目的性强所以那种聊天交友的就很少了，因此要找到这些群也不是很容易，今天就带大家一起来寻找这类群。

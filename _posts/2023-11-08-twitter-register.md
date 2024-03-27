@@ -2,7 +2,7 @@
 layout: default
 title: 推特 X (Twitter)账号注册教程
 description: 推特注册、x账号注册教程，x注册APP下载，其中包含各种推特注册常见异常问题，让你在注册推特过程中，少走弯路，其次在注册过程中提供了各种注意事项，避免注册账号被封的各种问题
-canonical_url: 'https://tggsearch.github.io/docs/twitter-register.html'
+canonical_url: 'https://tggsearch.org/docs/twitter-register.html'
 categories: [ twitter ]
 ---
 推特 X 的注册教程，一步步教你完成 X 的注册，并且说明 X 注册过程中常见的一异常问题。

@@ -3,7 +3,7 @@ const path = require('path');
 
 const markdownFolder = './_posts'; // 指定你的Markdown文件夹路径
 const outputFilePath = './sitemap.xml'; // 指定生成的sitemap.xml文件路径
-const siteUrlPrefix = 'https://tggsearch.github.io/'; // 指定网站URL前缀
+const siteUrlPrefix = 'https://tggsearch.org/'; // 指定网站URL前缀
 
 const currentDate = new Date();
 const formattedDate = currentDate.toISOString();
@@ -11,43 +11,43 @@ const formattedDate = currentDate.toISOString();
 let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tggsearch.github.io/</loc>
+    <loc>https://tggsearch.org/</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tggsearch.github.io/telegram.html</loc>
+    <loc>https://tggsearch.org/telegram.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tggsearch.github.io/twitter.html</loc>
+    <loc>https://tggsearch.org/twitter.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tggsearch.github.io/account.html</loc>
+    <loc>https://tggsearch.org/account.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tggsearch.github.io/exchange.html</loc>
+    <loc>https://tggsearch.org/exchange.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tggsearch.github.io/youtube.html</loc>
+    <loc>https://tggsearch.org/youtube.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tggsearch.github.io/line.html</loc>
+    <loc>https://tggsearch.org/line.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>

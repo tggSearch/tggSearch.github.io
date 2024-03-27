@@ -2,7 +2,7 @@
 layout: default
 title: 币圈导航|币圈电报群|币安返佣|币圈各大交易所返佣导航
 description: 欧易返佣，币安返佣，火币返佣，bitget返佣，gateio返佣，币圈电报群，欧易电报群，币安电报群，火币电报群，bitget电报群，gateio电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
-canonical_url: 'https://tggsearch.github.io/docs/coins-index.html'
+canonical_url: 'https://tggsearch.org/docs/coins-index.html'
 locale: zh_CN
 categories: [ exchange ]
 ---
@@ -11,25 +11,25 @@ categories: [ exchange ]
 <div class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="./302.html?target=https://www.okx.com/join/62030781" target="_blank">
-        <img src="/docs/assets/img/okx.png" alt="OKX 欧易" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/okx.png" alt="OKX 欧易" height=50px>
         <p>欧易</p>
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
-        <img src="/docs/assets/img/bnb.webp" alt="币安  bnb" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/bnb.webp" alt="币安  bnb" height=50px>
         <p>币安</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223" target="_blank">
-        <img src="/docs/assets/img/huobi.webp" alt="币安  bnb" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/huobi.webp" alt="币安  bnb" height=50px>
         <p>火币</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
-        <img src="/docs/assets/img/gateio.png" alt="GateIO 官网" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/gateio.png" alt="GateIO 官网" height=50px>
         <p>GateIO</p>
     </a>
   </div>

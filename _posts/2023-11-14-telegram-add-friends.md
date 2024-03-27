@@ -2,7 +2,7 @@
 layout: default
 title: Telegram 扫码二维码加好友教程，添加好友教程
 description: Telegram 扫码加好友教程，Telegram 怎么扫码添加好友，有好友的二维码怎么扫码加好友，有群的二维码怎么扫码加群的各种解决方案，其次加好友如何避免安全隐私泄漏风险
-canonical_url: 'https://tggsearch.github.io/docs/telegram-add-friends.html'
+canonical_url: 'https://tggsearch.org/docs/telegram-add-friends.html'
 categories: [ telegram ]
 pin: true
 ---

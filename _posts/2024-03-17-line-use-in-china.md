@@ -2,7 +2,7 @@
 layout: default
 title: line是哪个国家的？line在中国能用吗？
 description: line是哪个国家的软件？line是哪个国家的很多人会有这样的疑问，毕竟在东南亚是非常流行的一款社交软件，其次也有很多人想体验一下 line，但是line中国可以用吗？又是很多人想知道的事情，本文就告诉大家这两个疑问。
-canonical_url: 'https://tggsearch.github.io/docs/line-use-in-china.html'
+canonical_url: 'https://tggsearch.org/docs/line-use-in-china.html'
 categories: [ line ]
 ---
 在当今数字化时代，通讯软件已经成为人们生活不可或缺的一部分。LINE作为其中一款备受欢迎的通讯应用程序，在全球范围内拥有大量用户。然而，对于一些人来说，关于LINE究竟是哪个国家的以及在中国是否能使用的问题还存在一定的疑惑。

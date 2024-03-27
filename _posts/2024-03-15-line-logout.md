@@ -2,7 +2,7 @@
 layout: default
 title: line怎么退出账号，line怎么切换账号？line能双开吗？
 description: line 一登录，你就无法找到退出登录的按钮了，line怎么退出登录，唯有一个删除账号，那么有没有办法退出当前的 line 账号，切换另外一个账号呢？当然是有的，请看本文。
-canonical_url: 'https://tggsearch.github.io/docs/line-logout.html'
+canonical_url: 'https://tggsearch.org/docs/line-logout.html'
 categories: [ line ]
 ---
 LINE是一款全球性的即时通讯应用，于2011年由日本NHN公司推出。它提供了多种通讯方式，包括文字、语音、视频通话等，同时还拥有丰富的表情包和贴图，让用户可以更加生动地表达自己的情感。除此之外，LINE还提供了社交游戏、公众号订阅等功能，为用户提供了更丰富的社交体验。作为一款深受全球用户喜爱的通讯应用，LINE不仅在亚洲地区广受欢迎，还逐渐扩展至其他地区，成为了人们日常生活中不可或缺的一部分。

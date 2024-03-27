@@ -2,7 +2,7 @@
 layout: default
 title: line注册，line无需手机号注册教程，邮箱注册line教程
 description: 2024最新教程，line邮箱注册教程，line 很多时候不一定能直接注册，你必须找到注册的方法，因为很多地区是没办法使用手机号注册的，那么有没有不用手机号注册的方法呢？注册提示无法链接互联网解决。line你所在的国家或地区无法使用此功能怎么解决。
-canonical_url: 'https://tggsearch.github.io/docs/line-register.html'
+canonical_url: 'https://tggsearch.org/docs/line-register.html'
 categories: [ line ]
 ---
 LINE是由日本的NHN公司于2011年推出的一款即时通讯应用。最初，它是为了解决日本2011年发生的大地震后通讯受阻的问题而诞生的。随着时间的推移，LINE逐渐扩展了其功能，成为了一款全方位的通讯与社交平台，包括文字、语音、视频通话、社交游戏、新闻订阅等功能。

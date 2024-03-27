@@ -2,7 +2,7 @@
 layout: default
 title: line怎么加人，line怎么加陌生人，line怎么扫码加好友
 description: 2024怎么加人，line怎么加陌生人，line怎么加外国人，好友在哪里加，line二维码哪里生成，line怎么扫码加好友，line好友添加的方法教程。line加好友错误无法正常执行，这又是什么原因呢？
-canonical_url: 'https://tggsearch.github.io/docs/line-add-friends.html'
+canonical_url: 'https://tggsearch.org/docs/line-add-friends.html'
 categories: [ line ]
 ---
 LINE是一款风靡亚洲的即时通讯软件，拥有丰富的功能和便捷的操作体验。添加好友是使用LINE的基本功能之一，本文将介绍LINE加好友的几种方法，帮助您轻松扩充好友列表。

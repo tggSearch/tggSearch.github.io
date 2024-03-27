@@ -2,7 +2,7 @@
 layout: default
 title: twitter推特小蓝鸟网页版安卓版苹果版本，以及注册方法
 description: twitter 有很多版本的地址，很多人无法找到相应的网址，这里提供了一个比较全的导航，有需要的自行可以进行下载
-canonical_url: 'https://tggsearch.github.io/docs/twitter-intro.html'
+canonical_url: 'https://tggsearch.org/docs/twitter-intro.html'
 categories: [ twitter ]
 ---
 Twitter是一个全球性社交媒体平台，它以其独特的短文本发布形式和实时性而闻名。在Twitter上，用户可以分享称为“推文”的消息，每条推文最多可以包含280个字符。这种简洁的限制迫使用户用精炼的语言表达想法、见解、新闻和趣闻。

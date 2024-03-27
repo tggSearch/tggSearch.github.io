@@ -2,7 +2,7 @@
 layout: default
 title: 如何翻墙看youtube
 description: Youtube 内容非常精彩，那么如何翻墙去看 youtube 就是一个比较核心的问题了，本文就详细介绍如何翻墙看 youtube，其次也介绍下 youtube 下到底有哪些比较好的资源可以前往查看的。
-canonical_url: 'https://tggsearch.github.io/docs/vpn-youtube.html'
+canonical_url: 'https://tggsearch.org/docs/vpn-youtube.html'
 categories: [ youtube ]
 ---
 Youtube 由于审核力度不像国内那么严格，因此你可以看到很多特别的内容，比如说一些成人相关的内容，或者一些边界教学的软件教程，或者一些赚钱的小技巧等等，今天我们就带大家了解下如何翻墙看youtube。
