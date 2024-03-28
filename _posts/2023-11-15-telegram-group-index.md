@@ -74,11 +74,11 @@ pin: true
 
 ### 麻豆
 
-|群名称|群链接|
-|--|--|
-|麻豆 91|[https://t.me/sn111222](./302.html?target=https://t.me/sn111222)|
-|麻豆x 🈲福利姬🔥糖心vlog|[https://t.me/cn2040](./302.html?target=https://t.me/cn2040)|
-|🔞麻豆精东91影视传媒|[https://t.me/madou91](./302.html?target=https://t.me/madou91)|
+|分类|群名称|群链接|
+|--|--|--|
+|麻豆|麻豆 91|[https://t.me/sn111222](./302.html?target=https://t.me/sn111222)|
+|麻豆|麻豆x 🈲福利姬🔥糖心vlog|[https://t.me/cn2040](./302.html?target=https://t.me/cn2040)|
+|麻豆|🔞麻豆精东91影视传媒|[https://t.me/madou91](./302.html?target=https://t.me/madou91)|
 
 ### 海角
 
