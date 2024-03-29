@@ -13,9 +13,9 @@ categories: [ telegram ]
     <img alt="频道信息" src="/docs/assets/img/account-buy.webp" height=200px/>
 </div>
 
-### SMS-接码平台
+### SMS-接码平台自行注册
 
-这个是非常靠谱的一个平台，[sms-activate](./302.html?target=https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务
+这个是非常靠谱的一个平台，[sms-activate](./302.html?target=https://sms-activate.org/?ref=2821105) 以下是平台支持的短信注册服务，请特别注意注册的时候不要选择印尼手机号，否则无法打开敏感权限。
 
 注册教程可以参考这里 [sms activate 注册教程](./receive-code.html)
 
