@@ -1,6 +1,6 @@
 ---
 layout: default
-title: line下载 apk，line下载安卓版，line 电脑版，line苹果版本
+title: line下载 apk，line 安卓下载，line 电脑版，line苹果版本
 description: line 2024最全下载教程，包含：apk、安卓、电脑版、苹果版本，手把手教你学会如何下载 line。
 canonical_url: 'https://tggsearch.org/docs/line-download.html'
 categories: [ line ]
