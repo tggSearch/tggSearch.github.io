@@ -44,7 +44,7 @@ categories: [ exchange ]
 
 |  交易所   | 官网地址  | 返佣地址  | 
 |  ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](./302.html?target=https://www.ouxyi. singles/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.ouxyi. singles/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
+| 欧易-okx  | [欧易国内](./302.html?target=https://www.ouxyi.singles/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.ouxyi.singles/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
 | 币安-bnb | [bnb币安官网](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5) | [币安返佣地址](./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5)  |
 | 火币-HTX | [火币官网](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)  |
 | gateIO | [GateIO官网](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
