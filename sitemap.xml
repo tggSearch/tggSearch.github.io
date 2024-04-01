@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-04-01T05:45:27.655Z</lastmod>
+    <lastmod>2024-04-01T06:42:39.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-04-01T05:45:27.655Z</lastmod>
+    <lastmod>2024-04-01T06:42:39.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-04-01T05:45:27.655Z</lastmod>
+    <lastmod>2024-04-01T06:42:39.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-04-01T05:45:27.655Z</lastmod>
+    <lastmod>2024-04-01T06:42:39.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-04-01T05:45:27.655Z</lastmod>
+    <lastmod>2024-04-01T06:42:39.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-04-01T05:45:27.655Z</lastmod>
+    <lastmod>2024-04-01T06:42:39.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-04-01T05:45:27.655Z</lastmod>
+    <lastmod>2024-04-01T06:42:39.162Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -169,7 +169,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-group-spc.html</loc>
-    <lastmod>2024-04-01T05:45:24.775Z</lastmod>
+    <lastmod>2024-04-01T05:46:03.842Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -354,7 +354,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/trx.html</loc>
-    <lastmod>2024-03-27T07:08:34.466Z</lastmod>
+    <lastmod>2024-04-01T06:08:23.016Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -629,7 +629,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/apple-gift-card.html</loc>
-    <lastmod>2024-03-29T04:16:58.351Z</lastmod>
+    <lastmod>2024-04-01T06:06:31.190Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -705,6 +705,11 @@
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-guarantee.html</loc>
     <lastmod>2024-03-29T04:16:33.865Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/trx-how-to-buy.html</loc>
+    <lastmod>2024-04-01T06:42:32.313Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
