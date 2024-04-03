@@ -35,7 +35,7 @@ pin: true
 
 - 比如这里搜索 okx 欧易
 - 然后点击下载会让你补充信息，怎么补充信息呢？
-- [前往这里生产虚拟省份信息](./302.html?target=https://ciroapp.com/zh-CN/free-tools/fake-identity-generator) 请注意美国有些州需要税收，因此最好选择无税收的州
+- [前往这里生产虚拟省份信息](./302.html?target=https://www.meiguodizhi.com/) 请注意美国有些州需要税收，因此最好选择无税收的州
 - 按照虚拟身份信息，补充资料
 - 接下来就可以正常下载使用了
 
