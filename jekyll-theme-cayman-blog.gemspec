@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = " "
+  s.name          = "jekyll-theme-cayman-blog"
   s.version       = "0.0.9"
   s.license       = "CC0-1.0"
   s.authors       = ["Lorenzo Pirritano"]
