@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 翻墙后怎么赚钱，可实践最全教程
+title: 翻墙后怎么赚钱，赚钱引流教程，可实践最全教程
 description: 翻墙后，翻墙怎么赚钱，有没有办法搞到钱？假设你在海外有流量，比如电报群，那么怎么转化为收益呢？翻墙后真的能赚钱吗？有哪些渠道可以在墙外赚钱，赚钱真的合法吗？
 canonical_url: 'https://tggsearch.org/docs/vpn-make-money.html'
 categories: [ account ]
