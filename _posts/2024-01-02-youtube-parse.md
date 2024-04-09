@@ -25,7 +25,3 @@ categories: [ youtube ]
 
 你可以看到里面的油管视频就解析出来了，并且还带有多个高清版本，每个版本都有，包括 1080P 都有。
 
-为了让大家方便，大家也可以直接在这里打开，这个是需要梯子打开的，如果你没有梯子的，你尝试上面其他的地址试试。
-
-<iframe src="./302.html?target=https://y2b.455556.xyz/" style="width: 100%; height: 60vh; border: 0;"></iframe>
-
