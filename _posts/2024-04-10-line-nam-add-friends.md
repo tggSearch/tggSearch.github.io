@@ -1,6 +1,6 @@
 ---
 layout: default
-title: line不能添加好友
+title: line不能添加好友，line为什么加不了好友
 description: line注册后，无法添加好友，添加好友提示错误无法正常执行，遇到此类问题如何解决？
 canonical_url: 'https://tggsearch.org/docs/line-nam-add-friends.html'
 categories: [ line ]
