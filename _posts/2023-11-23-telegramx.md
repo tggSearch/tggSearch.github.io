@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram x 与 telegram｜telegram x 最新版本下载
+title: telegram x 与 telegram｜telegramx下载最新版本
 description: TelegramX 与 Telegram 都是 Telegram 官方推出的版本，那么两者存在什么关系以及功能上存在什么差异，如果想体验 telegramx下载教程和方法指引。
 canonical_url: 'https://tggsearch.org/docs/telegramx.html'
 categories: [ telegram ]
