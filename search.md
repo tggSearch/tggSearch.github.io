@@ -8,7 +8,7 @@ canonical_url: 'https://tggsearch.org/search.html'
 </script>
 <div class="gcse-searchbox-only"></div>
 
-<h2>分类模块</h2>
+<h2>分类检索</h2>
 <div  class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="{{ site.url }}/telegram.html">
