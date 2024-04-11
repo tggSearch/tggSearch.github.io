@@ -9,7 +9,7 @@ canonical_url: 'https://tggsearch.org/search.html'
 <div class="gcse-searchbox-only"></div>
 
 <h2>分类模块</h2>
-<div  class='icon-block-body-four'>
+<div  class='icon-block-body-four only-for-search-module'>
   <div class='icon-block-item'>
     <a href="{{ site.url }}/telegram.html">
         <img src="/docs/assets/img/telegram.png" alt="电报教程" height=50px>
@@ -31,7 +31,7 @@ canonical_url: 'https://tggsearch.org/search.html'
   <div class='icon-block-item'>
     <a href="{{ site.url }}/exchange.html">
         <img src="/docs/assets/img/okx.png" alt="币圈交易所教程" height=50px>
-        <p>币圈交易所</p>
+        <p>币圈教程</p>
     </a>
   </div>
 </div>
