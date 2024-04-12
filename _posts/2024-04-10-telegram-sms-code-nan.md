@@ -4,7 +4,7 @@ title: telegram为什么收不到短信
 description: telegram无法收到短信，无法登录，此时应该如何处理呢？应该如何才能收到telegram短信验证码登录呢？
 canonical_url: 'https://tggsearch.org/docs/telegram-sms-code-nan.html'
 categories: [ telegram ]
-pin: true
+pin: false
 ---
 telegram 由于国内监管的问题，很多时候无法收到短信验证码，但是也有很多其他的原因，需要排除后才能确定到底是什么原因导致的无法收到验证码问题，下面我们就来逐个的分析。
 
