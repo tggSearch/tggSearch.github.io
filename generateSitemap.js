@@ -56,6 +56,9 @@ let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 
 // 读取Markdown文件夹中的文件
 fs.readdirSync(markdownFolder).forEach(file => {
+    if(file.endsWith('302.md')){
+      return;
+    }
     if (file.endsWith('.md')) {
         const fileNameWithoutExtension = file.replace('.md', '').replace(/^\d{4}-\d{2}-\d{2}-/, ''); // 去掉日期部分
         const url = `${siteUrlPrefix}docs/${fileNameWithoutExtension}.html`;
