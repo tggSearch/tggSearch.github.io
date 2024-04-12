@@ -31,11 +31,13 @@ categories: [ account ]
 
 [CloudRocket](./302.html?target=https://cr123.us/?code=FVwFJgPD)
 
-[途游（赠送时长，不返现）](./302.html?target=http://www.youtujsq2.net/share.html?pid=2254819)
+[优途（赠送时长，不返现）](./302.html?target=http://www.youtujsq2.net/share.html?pid=2254819)
 
 [快连VPN（需要去官网找他们开通）](./302.html?target=https://promter-management.onelink.me/WxKq/dc557412)
 
 [米奇加速器](./302.html?target=https://x12.miqijiasu.shop)
+
+[华夏联盟加速器](./302.html?target=https://wwe.trx1.cyou/index.php#/register?code=ejjCAnmQ)
 
 ### 技术服务赚钱
 很多人还是不会翻墙的，或者不会注册各种软件，比如 telegram、twitter、谷歌账号、苹果海外账号，只要你有耐心去教这些人，一个人收费 30-50，还是比较容易的，基本都会原因，那么怎么让这群人找到你，或者怎么引流，看文章最后的部分。
