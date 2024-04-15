@@ -34,6 +34,9 @@ categories: [ telegram ]
 5. 再回复一段文字，例如 I don’t know, but I am unable to send any message to anyone
 6. 最后会告诉你限制的时间长度，请注意这里的时间是世界标准时间，你的解封时间 +8 小时，比如上面提示的是 2023-09-19 02:00:00 那么你的解封时间将会是在北京时间的 2023-09-19 10:00:00
 
+### 特别提醒（会员可以降低被双向的概率）
+官方提供了教程，说会员可以降低被双向的概率，至于如何开通会员，大家可以看下这篇文章，[telegram会员(电报会员)代开通，电报会员最划算购买教程](./telegram-premium.html)
+
 [电报的其他小知识](/telegram.html)
 
 [电报群提示敏感信息无法进入](./telegram-group-spc.html)
