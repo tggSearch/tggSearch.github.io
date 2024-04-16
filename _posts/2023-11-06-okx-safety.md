@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欧易靠谱吗? 钱放在欧易安全吗？
+title: 欧易靠谱吗? 欧易安全吗？解答你的各种疑问
 description: 欧易交易是否安全靠谱是很多新人会咨询的问题，首先自己的个人信息是否安全，其次就是自己的钱是否安全，USDT 转入进去后，还能否取出来都是大家非常关心的问题，今天我就来详细给大家解析一下，让新人有一个大致的理解
 canonical_url: 'https://tggsearch.org/docs/okx-safety.html'
 categories: [ exchange ]
