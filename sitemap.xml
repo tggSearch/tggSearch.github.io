@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-04-16T05:48:42.262Z</lastmod>
+    <lastmod>2024-04-16T07:02:30.343Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-04-16T05:48:42.262Z</lastmod>
+    <lastmod>2024-04-16T07:02:30.343Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-04-16T05:48:42.262Z</lastmod>
+    <lastmod>2024-04-16T07:02:30.343Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-04-16T05:48:42.262Z</lastmod>
+    <lastmod>2024-04-16T07:02:30.343Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-04-16T05:48:42.262Z</lastmod>
+    <lastmod>2024-04-16T07:02:30.343Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-04-16T05:48:42.262Z</lastmod>
+    <lastmod>2024-04-16T07:02:30.343Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-04-16T05:48:42.262Z</lastmod>
+    <lastmod>2024-04-16T07:02:30.343Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -719,7 +719,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-delete-account.html</loc>
-    <lastmod>2024-04-09T02:02:00.256Z</lastmod>
+    <lastmod>2024-04-16T06:14:21.983Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -760,6 +760,11 @@
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-nan-send-msg.html</loc>
     <lastmod>2024-04-15T09:15:17.599Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/okx-exchange.html</loc>
+    <lastmod>2024-04-16T07:02:25.236Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
