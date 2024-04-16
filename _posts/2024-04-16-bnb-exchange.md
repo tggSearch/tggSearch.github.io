@@ -8,7 +8,7 @@ categories: [ exchange ]
 币安交易平台为广大投资者提供了丰富多样的交易工具和机会，包括做多、做空以及合约玩法。无论您是新手还是经验丰富的交易者，本教程都将手把手地教您如何利用币安平台进行交易。
 
 ### 注册下载并且KYC
-首先要想玩币安必须得先进行注册下载，注册的链接如下，下面链接要分有没有梯子也就是 VPN，有梯子的打开梯子链接，没有的打开国内无 VPN 链接：
+首先要想玩币安必须得先进行注册下载，注册的链接如下：
 
 [点击打开注册地址 https://www.binance.com/zh-CN/join?ref=ZGR4DOXV](./302.html?target=https://www.binance.com/zh-CN/join?ref=ZGR4DOXV)
 
