@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /docs/302.html
 Disallow: /docs/docs/
-Disallow: /docs/assets/
+Disallow: /docs/assets/css/
 Sitemap: https://tggsearch.org/sitemap.xml
