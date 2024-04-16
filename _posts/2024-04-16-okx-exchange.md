@@ -44,6 +44,7 @@ categories: [ exchange ]
 
 这里我们以 APP 手机端操作为例子，电脑 PC 操作是类似的。
 
+#### 搜索对应的币种的永续合约
 首先第一步，我们先在欧易的搜索框里面搜索你需要操作的币种的永续合约，比如这里我们搜索以太坊也就是 ETH
 
 <div align=center>
@@ -52,12 +53,14 @@ categories: [ exchange ]
 
 在上面图中，我们找到红色框部分的 ETHUSDT 永续，这个因为我们的资金大部分都是 USDT，所以选择这个交易对，然后一定是合约里面的永续。
 
+#### 进入交易对界面查看交易数据
 第二步进行交易对的详情页面，关注下最上面是 ETHUSDT永续交易对，这个界面的目的是让你看各项数据指标的，每个数据指标都有非常大的参考意义，这部分是需要大家自己去学习的，特别重要，确认这个以后，直接点击下方的交易，进入交易界面。
 
 <div align=center>
     <img alt="telegram-delete-account-login" src="/docs/assets/img/okx-exchange-2.webp" class="page-img" width="50%"/>
 </div>
 
+#### 进入交易界面执行交易
 第三步进入交易界面，点击了交易后，就会进入下面这个界面，在这个界面中有非常多的项要详细说明的。
 
 <div align=center>
