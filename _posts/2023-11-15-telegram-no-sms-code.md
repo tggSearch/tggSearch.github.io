@@ -38,9 +38,9 @@ pin: true
 
 [三毛机场，一年9块](./302.html?target=https://www.三毛机场.live/#/register?code=GvzAuYCT)
 
-[青柠基础，首日免费](./302.html?target=https://yikeqn.club/#/register?code=UzQHEt2g)
+[青柠机场，首日免费](./302.html?target=https://yikeqn.club/#/register?code=UzQHEt2g)
 
-[优途加速器，首日免费](./302.html?target=http://www.youtujsq1.net/share.html?pid=2254819)
+[华夏联盟机场，首日免费](./302.html?target=https://wwe.trx1.cyou/index.php#/register?code=ejjCAnmQ)，7元一月的体验套餐，12-200不等的套餐。
 
 ### 确认发送的是设备码 device 还是短信 sms
 telegram 收不到短信验证码，其中一个最大原因就是根本就没有发送短信验证码。确保你验证码验证页面没有提示，发送到设备，也就是设备码 device code，也就是包含英文单词 device 。
