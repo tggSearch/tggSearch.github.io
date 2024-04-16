@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram x 与 telegram｜telegramx下载最新版本
+title: telegram x官网，telegramx下载最新版本
 description: TelegramX 与 Telegram 都是 Telegram 官方推出的版本，那么两者存在什么关系以及功能上存在什么差异，如果想体验 telegramx下载教程和方法指引。
 canonical_url: 'https://tggsearch.org/docs/telegramx.html'
 categories: [ telegram ]
@@ -13,6 +13,9 @@ TelegramX并非与Telegram完全独立的两个应用，实际上，`TelegramX�
 <p class="red-text-word">
 特别要关注的就是，两者在国内使用都是需要梯子的。
 </p>
+
+### telegramx官网
+因为telegram和telegramx都属于telegram团队的，因此也是telegram官网，具体的官网地址：[点击打开telegramx官网地址](./302.html?target=https://telegram.org/blog/telegram-x)，里面的安卓可以前往 google play下载，如果你想下载apk，请看下面，如果是ios目前看已经无法下载。
 
 ### 功能上存在的差异性
 尽管Telegram和TelegramX在核心通讯功能上保持一致，但它们之间存在一些显著的差异，这些差异可能会影响用户的选择。
