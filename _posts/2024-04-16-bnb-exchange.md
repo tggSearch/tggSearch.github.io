@@ -1,20 +1,18 @@
 ---
 layout: default
-title: 欧易做多教程，欧易做空教程，欧易合约玩法，手把手教程
-description: 欧易 okx做空，okx做多的方法是什么，合约怎么玩，合约怎么可以做多做空，做多做空的风险到底有哪些？在做多做空时如何避免资金损失。
-canonical_url: 'https://tggsearch.org/docs/okx-exchange.html'
+title: 币安做多教程，币安做空教程，币安合约玩法，手把手教程
+description: 币安 okx做空，okx做多的方法是什么，合约怎么玩，合约怎么可以做多做空，做多做空的风险到底有哪些？在做多做空时如何避免资金损失。
+canonical_url: 'https://tggsearch.org/docs/bnb-exchange.html'
 categories: [ exchange ]
 ---
-欧易交易平台为广大投资者提供了丰富多样的交易工具和机会，包括做多、做空以及合约玩法。无论您是新手还是经验丰富的交易者，本教程都将手把手地教您如何利用欧易平台进行交易。
+币安交易平台为广大投资者提供了丰富多样的交易工具和机会，包括做多、做空以及合约玩法。无论您是新手还是经验丰富的交易者，本教程都将手把手地教您如何利用币安平台进行交易。
 
 ### 注册下载并且KYC
-首先要想玩欧易必须得先进行注册下载，注册的链接如下，下面链接要分有没有梯子也就是 VPN，有梯子的打开梯子链接，没有的打开国内无 VPN 链接：
+首先要想玩币安必须得先进行注册下载，注册的链接如下，下面链接要分有没有梯子也就是 VPN，有梯子的打开梯子链接，没有的打开国内无 VPN 链接：
 
-[有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
+[点击打开注册地址 https://www.binance.com/zh-CN/join?ref=ZGR4DOXV](./302.html?target=https://www.binance.com/zh-CN/join?ref=ZGR4DOXV)
 
-[国内无 VPN 梯子注册地址 https://www.xmhherse.com/join/90884854](./302.html?target=https://www.xmhherse.com/join/90884854)
-
-注册好了以后，再进行下载，下载教程可以查看这篇文章 [欧易注册教程 okx注册教程｜欧易安卓下载](./okx-install.html)
+注册好了以后，再进行下载，下载教程可以查看这篇文章 [币安注册教程 bnb注册教程｜币安安卓下载](./bnb-buy-coins.html)
 
 ### 永续合约的概念
 在介绍做多做空之前，我们得先了解一下永续合约的概念，永续合约是一种特殊类型的衍生品合约，其特点是没有到期日期，可以持续交易，直到持仓被平仓或者被强制平仓。它们是一种用于杠杆交易的金融工具，让交易者可以通过小额的资金控制更大的头寸。
@@ -31,24 +29,24 @@ categories: [ exchange ]
 
 总体对于普通用户而言，一句很简单的道理，就是用小的资金可以操作大的资金，比如你用 10美金，可以购买操作 100美金的资产，因为你的操作资金变大了，相对于你的本金，你的风险就变大了。比如你 10 美金操作 100 美金，那么假设跌幅 1%，100美金就是1美金，但是相对于你本金 10美金，跌幅就是 10%了。再深入一些假设跌幅 10%，100美金就是 10美金。而你只有 10美金，那么这时候你就爆仓了。
 
-### 欧易永续合约做多做空概念
+### 币安永续合约做多做空概念
 上面介绍了永续合约的概念，那么做多做空就比较好理解了，我们还是假设你有 10美金，10倍杠杆操作 100美金，买的是1美金的 X币。
 
 **做多的概念就是**，你通过 10美金，买到了 100 个 1美金的 X币，假设 X币涨幅10%，变成 1.1美金一个，那么你将得到 1.1*100=110美金，这时候除去100美金，那么你的盈利就是 10美金，也就是做多的时候涨幅 10%，实际上10倍杠杆，就会让你 10% * 10 = 100%的涨幅，也就是10美金赚到了 10美金。
 
 **做空的概念就是**，你通过 10美金，卖出 100 个 1美金的 X币，假设 X币跌幅10%，变成 0.9美金一个，那么你将可以通过 0.9*100=90美金的价格买入 X币，那么你的盈利就是 100美金 - 0.9 * 100 = 10美金，也就是盈利了 10美金，做空的就是跌幅越大你收益越高，与做多正好相反。
 
-既然知道了做多做空的概念，接下来我们就来看看在欧易中，如何进行做多做空的操作。
+既然知道了做多做空的概念，接下来我们就来看看在币安中，如何进行做多做空的操作。
 
-### 欧易做多做空的教程
+### 币安做多做空的教程
 
 这里我们以 APP 手机端操作为例子，电脑 PC 操作是类似的。
 
 #### 搜索对应的币种的永续合约
-首先第一步，我们先在欧易的搜索框里面搜索你需要操作的币种的永续合约，比如这里我们搜索以太坊也就是 ETH
+首先第一步，我们先在币安的搜索框里面搜索你需要操作的币种的永续合约，比如这里我们搜索以太坊也就是 ETH
 
 <div align=center>
-    <img alt="okx-exchange" src="/docs/assets/img/okx-exchange-1.webp" class="page-img" width="50%"/>
+    <img alt="bnb-exchange" src="/docs/assets/img/bnb-exchange-1.webp" class="page-img" width="50%"/>
 </div>
 
 在上面图中，我们找到红色框部分的 ETHUSDT 永续，这个因为我们的资金大部分都是 USDT，所以选择这个交易对，然后一定是合约里面的永续。
@@ -57,14 +55,14 @@ categories: [ exchange ]
 第二步进行交易对的详情页面，关注下最上面是 ETHUSDT永续交易对，这个界面的目的是让你看各项数据指标的，每个数据指标都有非常大的参考意义，这部分是需要大家自己去学习的，特别重要，确认这个以后，直接点击下方的交易，进入交易界面。
 
 <div align=center>
-    <img alt="okx-exchange" src="/docs/assets/img/okx-exchange-2.webp" class="page-img" width="50%"/>
+    <img alt="bnb-exchange" src="/docs/assets/img/bnb-exchange-2.webp" class="page-img" width="50%"/>
 </div>
 
 #### 进入交易界面执行交易
 第三步进入交易界面，点击了交易后，就会进入下面这个界面，在这个界面中有非常多的项要详细说明的。
 
 <div align=center>
-    <img alt="okx-exchange" src="/docs/assets/img/okx-exchange-3.webp" class="page-img" width="50%"/>
+    <img alt="bnb-exchange" src="/docs/assets/img/bnb-exchange-3.webp" class="page-img" width="50%"/>
 </div>
 
 **全仓**，第一个概念全仓，点击下拉会有一个逐仓，那么全仓和逐仓的概念就是一个是全部资金操作，一个是划分部分资金来操作，全仓的好处就是爆仓点相对较高，逐仓的好处在于资金损失有限，不会导致全部爆仓。
@@ -78,19 +76,19 @@ categories: [ exchange ]
 **开多**，价格里面已经说明了开多开空，那么这里我们可以i看下我的开多的挂单情况，下图就是低于当前价格进行开多，因此会等待成交。
 
 <div align=center>
-    <img alt="okx-exchange" src="/docs/assets/img/okx-exchange-5.webp" class="page-img" width="50%"/>
+    <img alt="bnb-exchange" src="/docs/assets/img/bnb-exchange-5.webp" class="page-img" width="50%"/>
 </div>
 
 **开空**，下图就是高于当前价格开空，也会等待成交。
 
 <div align=center>
-    <img alt="okx-exchange" src="/docs/assets/img/okx-exchange-4.webp" class="page-img" width="50%"/>
+    <img alt="bnb-exchange" src="/docs/assets/img/bnb-exchange-4.webp" class="page-img" width="50%"/>
 </div>
 
 **仓位&平仓**，为了给大家演示，我直接买入了，然后我们可以看下，当前开空卖出了 0.1个 ETH，那么我的资产就是 -308.328，我只有 20 美金的保证金，因此这里的仓位会提示我的爆仓价格，比如下图
 
 <div align=center>
-    <img alt="okx-exchange" src="/docs/assets/img/okx-exchange-6.webp" class="page-img" width="50%"/>
+    <img alt="bnb-exchange" src="/docs/assets/img/bnb-exchange-6.webp" class="page-img" width="50%"/>
 </div>
 
 在上图中，我们可以看到预估强平价格，因为我只有 20美金的保证金，因此假设价格到了 3267.95，那么我的损失金额就是
