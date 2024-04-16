@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 币安做多教程，币安做空教程，币安合约玩法，手把手教程
-description: 币安 okx做空，okx做多的方法是什么，合约怎么玩，合约怎么可以做多做空，做多做空的风险到底有哪些？在做多做空时如何避免资金损失。
+description: 币安 bnb做空，bnb做多的方法是什么，合约怎么玩，合约怎么可以做多做空，做多做空的风险到底有哪些？在做多做空时如何避免资金损失。
 canonical_url: 'https://tggsearch.org/docs/bnb-exchange.html'
 categories: [ exchange ]
 ---
