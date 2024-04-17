@@ -20,19 +20,19 @@ categories: [ telegram ]
 <div class='icon-block-body-three'>
   <div class='icon-block-item'>
     <a href="https://www.mediafire.com/file/bxyoyflc57fmz3i/Telegram+(1).apk/file" target="_blank" rel="noopener noreferrer">
-        <img src="/docs/assets/img/telegram.png" alt="电报安卓版本" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报安卓版本" height=50px>
         <p>安卓无 VPN 下载</p>
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="https://telegram.org" target="_blank" rel="noopener noreferrer">
-        <img src="/docs/assets/img/telegram.png" alt="电报官网" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报官网" height=50px>
         <p>安卓有 vpn 下载</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="https://web.telegram.org" target="_blank">
-        <img src="/docs/assets/img/telegram.png" alt="电报网页版" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
         <p>telegram 网页版</p>
     </a>
   </div>

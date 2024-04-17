@@ -9,7 +9,7 @@ pin: true
 在注册推特的过程中很多人会遇到一些问题，其次也有人经常会问，推特注册是否需要手机号，答案是不需要的，这里主要是注册的问题，如果你遇到[推文无法查看，点击这里](./twitter-spc.html)
 ### 提示系统错误，请稍后重试
 <div align=center>
-    <img alt="register-error-tips" src="/docs/assets/img/twitter-error.jpg" width="40%">
+    <img alt="register-error-tips" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-error.jpg" width="40%">
 </div>
 
 遇到这种情况最可能的问题就是你注册的邮箱有问题，这时候你可以选择换一个邮箱，使用的邮箱最好使用海外的，比如 [gmail](https://gmail.com/) 或者 [outlook](./302.html?target=https://outlook.com/) 邮箱。
@@ -22,7 +22,7 @@ pin: true
 ### 进入页面，显示“查看世界当前正在发生的事情”，点击创建账号无响应
 当你停留在“查看世界当前正在发生的事情”，并且点击创建账号无响应，这个问题主要原因是你没有科学上网工具，也就是🪜，那么怎么解决呢？首先你要去这里下载一个🪜来解决[点击此处查看梯子下载方法](./vpn.html)。
 <div align=center>
-    <img alt="no-vpn-tips" src="/docs/assets/img/twitter-no-vpn.jpg" width="40%">
+    <img alt="no-vpn-tips" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-no-vpn.jpg" width="40%">
 </div>
 
 ### 提示 推特有些不对劲，请稍后重试

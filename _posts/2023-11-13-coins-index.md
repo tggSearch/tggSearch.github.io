@@ -11,25 +11,25 @@ categories: [ exchange ]
 <div class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="./302.html?target=https://www.okx.com/join/62030781" target="_blank">
-        <img src="/docs/assets/img/okx.png" alt="OKX 欧易" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx.png" alt="OKX 欧易" height=50px>
         <p>欧易</p>
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="./302.html?target=https://accounts.binance.com/register?ref=ED13UFJ5" target="_blank">
-        <img src="/docs/assets/img/bnb.webp" alt="币安  bnb" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px>
         <p>币安</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223" target="_blank">
-        <img src="/docs/assets/img/huobi.webp" alt="币安  bnb" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/huobi.webp" alt="币安  bnb" height=50px>
         <p>火币</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103" target="_blank">
-        <img src="/docs/assets/img/gateio.png" alt="GateIO 官网" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/gateio.png" alt="GateIO 官网" height=50px>
         <p>GateIO</p>
     </a>
   </div>

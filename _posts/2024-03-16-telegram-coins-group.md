@@ -36,7 +36,7 @@ telegram 是币圈交流的必备社交软件，大部分社区币圈，都有te
 接下来就是很多币种的社区群，这种一般在交易所界面都是可以找到的，比如欧易各个币种界面都是有相应的该币种的telegram电报群的，比如下面这个。
 
 <div align=center>
-    <img alt="twitter-buy-password" src="/docs/assets/img/okx-telegram-coins.webp" class="page-img" width="30%"/>
+    <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx-telegram-coins.webp" class="page-img" width="30%"/>
 </div>
 
 你找到 sol 币种，然后在 sol 的币种介绍页面你就可以看到该 sol 的 telegram 交流群入口了。
@@ -45,9 +45,9 @@ telegram 是币圈交流的必备社交软件，大部分社区币圈，都有te
 当然你也可以前往 综合导航，前往去搜索，在 telegram 中找到群 [https://t.me/chineseSearchService](./302.html?target=https://t.me/chineseSearchService) ，进入群后，直接回复你要找的币圈的群，比如我想找 floki 或者 doge 又或者是 avive 相关的群，你一搜索就可以找到了。
 
 <div align=center>
-    <img alt="twitter-buy-password" src="/docs/assets/img/telegram-coins-search.webp" class="page-img" width="30%"/>
-    <img alt="twitter-buy-password" src="/docs/assets/img/telegram-coins-search-1.webp" class="page-img" width="30%"/>
-    <img alt="twitter-buy-password" src="/docs/assets/img/telegram-coins-search-2.webp" class="page-img" width="30%"/>
+    <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-coins-search.webp" class="page-img" width="30%"/>
+    <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-coins-search-1.webp" class="page-img" width="30%"/>
+    <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-coins-search-2.webp" class="page-img" width="30%"/>
 </div>
 
 ### 推特搜索

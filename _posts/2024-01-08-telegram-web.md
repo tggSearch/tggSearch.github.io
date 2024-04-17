@@ -11,19 +11,19 @@ Telegram 有很多版本，包括：手机 app、网页版、电报客户端版�
 <div class='icon-block-body-three'>
    <div class='icon-block-item'>
     <a href="/docs/302.html?target=https://telegram.org" target="_blank">
-        <img src="/docs/assets/img/telegram.png" alt="电报官网" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报官网" height=50px>
         <p>Telegram 官网</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="/docs/302.html?target=https://web.telegram.org" target="_blank">
-        <img src="/docs/assets/img/telegram.png" alt="电报网页版" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
         <p>Telegram 网页版</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="/docs/302.html?target=https://t.me/chinaDianBaoFans" target="_blank">
-        <img src="/docs/assets/img/telegram.png" alt="电报网页版" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报网页版" height=50px>
         <p>Telegram 中文官方群</p>
     </a>
   </div>
@@ -35,7 +35,7 @@ Telegram 有很多版本，包括：手机 app、网页版、电报客户端版�
 第一步，打开 [telegram 网页版](./302.html?target=https://web.telegram.org/a/)，手机和电脑都可以，但是前提是你手机和电脑都有开梯子，梯子就是 VPN，如果没有梯子都是打不开的，打开的网页会是如下截图：
 
 <div align=center>
-    <img alt="telegram-web-page-1" src="/docs/assets/img/telegram-web-page-1.webp" class="page-img" width="70%"/>
+    <img alt="telegram-web-page-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-web-page-1.webp" class="page-img" width="70%"/>
 </div>
 
 第二步，有 2 个选择，第1个选择是用手机的电报 app 直接扫码登录，第2个选择是输入手机号，使用手机号来登录，我们先说说使用手机的电报 app 扫码登录流程
@@ -44,7 +44,7 @@ Telegram 有很多版本，包括：手机 app、网页版、电报客户端版�
 **手机号登录**，在上面的图片中，有一个按钮叫做，**LOG IN BY PHONE NUMBER**，进入后，需要输入手机号，你直接输入 +86 加上你的手机号，不用选择国家或者地区，会自动选择，接下来就非常关键了，这时候是不会发送短信给你的手机的，因为这里发送的是设备码，也叫做 device code，只会把这个验证码发送到你的 telegram 手机app里面，记住只会这样，及时你没有注册也会这样，所以这里永远不会发送短信。在手机app收到一个官方的账号发送的验证码，例如下图：
 
 <div align=center>
-    <img alt="telegram-web-page-2" src="/docs/assets/img/telegram-web-page-2.webp" class="page-img" width="40%"/>
+    <img alt="telegram-web-page-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-web-page-2.webp" class="page-img" width="40%"/>
 </div>
 
 请注意这个账号是有官方认证标识的，如果不是请不要相信，其次这个账号的验证码不要乱截图给其他人。
