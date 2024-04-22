@@ -8,7 +8,7 @@ categories: [ exchange ]
 在数字货币交易市场中，火币交易所备受青睐。想要开始使用火币App，首先需要了解如何下载并注册账户。以下是详细的步骤指南：
 
 ### 注册账户
-火币注册返佣地址：[火币官方福利注册链接](./302.html?target=https://www.huobi-kol.me/invite/zh-cn/1g?invite_code=xgf98223)
+火币注册返佣地址：[火币官方福利注册链接](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)
 需要注意的是火币在国内只能使用邮箱注册，无法使用手机号注册。
 
 ### 下载APP
