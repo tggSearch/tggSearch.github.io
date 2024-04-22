@@ -31,6 +31,6 @@ target-blank:
 
 # Paginate
 paginate: 10
-paginate_path: "docs/page:num"
+paginate_path: "/docs/page:num"
 
 header_page_refs: [{'id' : 'telegram', 'name': '电报'}, {'id': 'twitter', 'name': '推特'}, {'id': 'youtube', 'name': '油管'}, {'id': 'exchange', 'name': '交易所'}, {'id': 'account', 'name': '账号类'}, {'id': 'line', 'name': 'line'}, {'id': 'about', 'name': '关于我们'}, {'id': 'index', 'name': '返回首页'}]
