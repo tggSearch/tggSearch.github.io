@@ -35,7 +35,7 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
     <!-- Pagination links -->
     {% if paginator.total_pages > 1 %}
         <ul class="pagination"> 
-            {% if !paginator.previous_page %}
+            {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | append: '/'| replace: '//', '/' }}">&laquo;</a></li>
             {% else %}
                 <li class="page-item disabled"><span class="prev page-link">&laquo;</span></li>
