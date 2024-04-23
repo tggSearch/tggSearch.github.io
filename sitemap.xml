@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-04-23T02:06:00.962Z</lastmod>
+    <lastmod>2024-04-23T02:31:33.302Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-04-23T02:06:00.962Z</lastmod>
+    <lastmod>2024-04-23T02:31:33.302Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-04-23T02:06:00.962Z</lastmod>
+    <lastmod>2024-04-23T02:31:33.302Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-04-23T02:06:00.962Z</lastmod>
+    <lastmod>2024-04-23T02:31:33.302Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-04-23T02:06:00.962Z</lastmod>
+    <lastmod>2024-04-23T02:31:33.302Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-04-23T02:06:00.962Z</lastmod>
+    <lastmod>2024-04-23T02:31:33.302Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-04-23T02:06:00.962Z</lastmod>
+    <lastmod>2024-04-23T02:31:33.302Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -149,7 +149,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-account.html</loc>
-    <lastmod>2024-04-23T02:05:58.479Z</lastmod>
+    <lastmod>2024-04-23T02:10:45.312Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -394,7 +394,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-not-send-msg.html</loc>
-    <lastmod>2024-04-15T07:49:14.303Z</lastmod>
+    <lastmod>2024-04-23T02:10:55.159Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -775,6 +775,11 @@
   </url><url>
     <loc>https://tggsearch.org/docs/change-ip.html</loc>
     <lastmod>2024-04-22T08:23:45.080Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/telegram-qrcode.html</loc>
+    <lastmod>2024-04-23T02:31:30.532Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
