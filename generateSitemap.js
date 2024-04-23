@@ -20,37 +20,37 @@ let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
     <loc>https://tggsearch.org/telegram.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.8</priority>
   </url>
 `;
 
