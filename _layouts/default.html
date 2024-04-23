@@ -122,7 +122,9 @@
                
             </footer>
         </section>
-        
+        {% if site.disqus.shortname %}
+            {% include disqus_comments.html %}
+        {% endif %}
         <script>
             var menu = document.querySelector("nav.site-nav");
             var checkbox = document.getElementById("nav-trigger");
