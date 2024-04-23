@@ -15,8 +15,9 @@ cayman-blog:
 
 theme: # leave it empty
 
-disqus_shortname: https-tggsearch-org
-
+disqus:
+  shortname: https-tggsearch-org
+  
 # social
 author: 小青
 image: /thumbnail-jumbo.png
