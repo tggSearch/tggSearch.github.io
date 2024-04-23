@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram为什么没有中文
+title: telegram为什么没有中文，telegram如何设置中文
 description: telegram在大陆还是非常多的用户的，但是很多人都发现telegram下载后是没有中文版本的，当然很多安卓的第三方开发的是有中文的，但是不是官方的版本，很多时候无法收到验证码，因此官方的怎么切换中文是一个问题。
 canonical_url: 'https://tggsearch.org/docs/telegram-no-chinese.html'
 categories: [ telegram ]
