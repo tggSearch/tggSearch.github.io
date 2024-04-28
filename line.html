@@ -72,3 +72,15 @@ canonical_url: 'https://tggsearch.org/line.html'
       {% endfor %}
     </ul>
 </div>
+
+
+curl -X PUT "http://localhost:9200/fee-master-order/_doc/Mh554YoB9ha3bX1an978" -H "Content-Type: application/json" -d '{"order_id":"51fb990bc9a52ba57abd608e158295c6_20011951","state":0,"create_time":1695999959,"transactionHash":"","pay_address":"0x34749bbe073c52c418f6321bb962C86f5eBC7196","pay_method":"erc20","pay_money":"20.000000","pay_callback_time":0,"user_id":"2143996181","msg_info":{"private_chat_id":2143996181,"user_lang":"zh","group_username":"catmangox"},"vendor_id":"-1001195601738"}'
+
+curl -X POST "http://localhost:9200/my-view-index/_delete_by_query" -H 'Content-Type: application/json' -d'
+{
+  "query": {
+    "match": {
+      "title": "彩"
+    }
+  }
+}'
