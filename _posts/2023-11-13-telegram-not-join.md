@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram网页版打不开解决教程，Telegram进不去教程
-description: telegram app无法进去，Telegram网页版在哪里，网页版打不开，telegram网页版收不到短信，APP 无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
+description: telegram app无法进去，telegram无法登录，Telegram网页版在哪里，网页版打不开，telegram网页版收不到短信，APP 无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
 canonical_url: 'https://tggsearch.org/docs/telegram-not-join.html'
 categories: [ telegram ]
 pin: true
@@ -14,6 +14,7 @@ pin: true
 4. 电报 Telegram app 无法接收短信；
 5. 电报 Telegram 群无法进去
 6. 电报 Telegram 无法发送私信；
+7. 电报 telegram无法登录
 
 ### 电报 telegram 网页版本无法打开
 这部分会有 2 种情况，要分情况来看
@@ -38,5 +39,8 @@ pin: true
 
 ### 电报 telegram 无法发送私信
 这个原因主要是你私信太多人，被系统识别有一定广告风险，这时候会直接把你的私信给封禁一段时间，具体查看解决方案，请参考这个视频 [私信无法发送，被双向限制了，怎么解决](./telegram-not-send-msg.html)
+
+### 电报 telegram无法登录
+这种情况下要分是否是因为无法收到验证码而导致的无法登录，如果无法收到验证码，那么可以查看我们的这篇文章 [纸飞机 telegram 收不到验证码解决方案 （华为/鸿蒙系统也可解决）](./telegram-no-sms-code.html)
 
 如果你还有其他问题，请右下角联系客服。
