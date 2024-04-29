@@ -5,7 +5,7 @@ description: 翻墙和机场是什么意思？在翻墙软件中，机场是非�
 canonical_url: 'https://tggsearch.org/docs/vpn-airport.html'
 categories: [ account ]
 ---
-在使用机场前，先用下载机场的软件，在安卓中这个软件叫做 clash，在苹果 iOS 中叫做 shadowrocket ，下载方法如下：
+翻墙机场，主要是为了出去看外网，比如上youtube，twitter或者其他海外社交软件。在使用机场前，先用下载机场的软件，在安卓中这个软件叫做 clash，在苹果 iOS 中叫做 shadowrocket ，下载方法如下：
 
 ### 免费梯子 VPN 必备软件小火箭
 目前很多机场之类的都是使用小火箭，因此在你用各种 VPN 之前先下载一个小火箭则是首选，这里我们区分安卓、苹果、PC、Mac平台。
