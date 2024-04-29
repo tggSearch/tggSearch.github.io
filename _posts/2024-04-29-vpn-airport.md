@@ -2,7 +2,7 @@
 layout: default
 title: 翻墙机场，翻墙加速器，翻墙app下载
 description: 在翻墙软件中，机场是非常多的，什么一元机场、三毛机场、各种机场，也有变化了名字的也是机场，那么机场应该如何用，如何下载机场app呢？
-canonical_url: 'https://tggsearch.org/docs/vpn-play-app.html'
+canonical_url: 'https://tggsearch.org/docs/vpn-airport.html'
 categories: [ account ]
 ---
 在使用机场前，先用下载机场的软件，在安卓中这个软件叫做 clash，在苹果 iOS 中叫做 shadowrocket ，下载方法如下：
