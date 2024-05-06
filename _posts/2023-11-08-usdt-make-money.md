@@ -15,7 +15,7 @@ categories: [ exchange ]
 
 充币完成后，接下来就可以购买相应的理财服务了，比如这里的年化 10% 的稳定 USDT 收益
 <div align=center>
-    <img alt="usdt-mm" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/usdt-mm.webp" class="page-img" width="50%"/>
+    <img alt="usdt-mm" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/usdt-mm.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/usdt-mm.webp'" />
 </div>
 
 购买的方法也很简单，直接买入就行了。

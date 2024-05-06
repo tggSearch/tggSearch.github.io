@@ -18,7 +18,7 @@ pin: true
 ## 下单流程
 在介绍知识之前，先教大家如何开始做永续合约，请大家看下图：
 <div align=center>
-    <img alt="order-flow" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/yx-tech.webp" class="page-img" width="100%"/>
+    <img alt="order-flow" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/yx-tech.webp" class="page-img" width="100%" onerror="this.onerror=null;this.src='/assets/img/yx-tech.webp'" />
 </div>
 请大家查看图片中的流程，依次操作
 
@@ -37,7 +37,7 @@ pin: true
 
 在币圈中，频繁操作是非常多的，举个例子，看下这个交易员每天的带单操作
 <div align=center>
-    <img alt="yx-flow" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/example-yx.webp" class="page-img" width="100%"/>
+    <img alt="yx-flow" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/example-yx.webp" class="page-img" width="100%" onerror="this.onerror=null;this.src='/assets/img/example-yx.webp'" />
 </div>
 而利润都是一点点积累的，不会用永续合约当作一种长期投资。
 
@@ -58,7 +58,7 @@ pin: true
 
 如果你不关注这个，很可能导致你损失很多资金，在做空较多的时候，有时候这个费率会去到 -3%，而这个 -3% 如果算上你的杠杆倍数 100倍，那就是你损失 300% 保证金，相当恐怖的数字，例如下图这个值。
 <div align=center>
-    <img alt="费率" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/feilv.webp" class="page-img" width="50%"/>
+    <img alt="费率" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/feilv.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/feilv.webp'" />
 </div>
 那么怎么计算的呢？
 
@@ -84,7 +84,7 @@ pin: true
 
 例如如下方式下单：
 <div align=center>
-    <img alt="下单流程" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/make-order.webp" class="page-img" width="50%"/>
+    <img alt="下单流程" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/make-order.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/make-order.webp'" />
 </div>
 
 - **止损：** 止损是设定一个价格水平，在该价格水平上触发平仓，以限制损失。例如，如果你开了做多头寸，你可以设置止损价在某个价格以下，以防止亏损过大。这有助于保护你的本金，避免爆仓。

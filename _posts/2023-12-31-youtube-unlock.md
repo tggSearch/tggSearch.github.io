@@ -11,7 +11,7 @@ categories: [ youtube ]
 前往这个地址 [https://myaccount.google.com/birthday](./302.html?target=https://myaccount.google.com/birthday) 进入后修改自己的真实年龄。比如下方这样，当然为了隐私考虑，你可以选择是否公开自己的年龄。
 
 <div align=center>
-    <img alt="google-spc" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/google-spc.webp" class="page-img" width="70%"/>
+    <img alt="google-spc" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/google-spc.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/google-spc.webp'" />
 </div>
 
 修改完成后，再回到相应的 Youtube 视频页面，然后点击查看就可以了。
