@@ -15,7 +15,7 @@ pin: true
 ### 搜索开车群
 你可以尝试搜索 **麻豆**，你就发现很多意外惊喜。当然 iOS 会有敏感提示，具体怎么解除查看这篇文章 [iOS解除电报敏感限制](./telegram-group-spc.html)
 <div align=center>
-    <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/driver-bus-madou-new.webp" class="page-img" width="70%"/>
+    <img alt="driver-bus-madou" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/driver-bus-madou-new.webp" onerror="this.onerror=null;this.src='/assets/img/driver-bus-madou-new.webp'" class="page-img" width="70%"/>
 </div>
 
 ### 搜索本地修车上门品茶群
