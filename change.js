@@ -34,7 +34,7 @@ async function processFilesInDirectory(directoryPath) {
 }
 
 // 指定要处理的目录
-const directoryPath = './_posts';
+const directoryPath = './';
 
 // 调用函数处理目录下的所有文件
 processFilesInDirectory(directoryPath);

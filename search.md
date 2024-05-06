@@ -12,25 +12,25 @@ canonical_url: 'https://tggsearch.org/search.html'
 <div  class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="{{ site.url }}/telegram.html">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报教程" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram.png" alt="电报教程" height=50px onerror="this.onerror=null;this.src='/assets/img/telegram.webp'">
         <p>电报教程</p>
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="{{ site.url }}/twitter.html">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter.png" alt="推特教程" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter.png" alt="推特教程" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.webp'">
         <p>推特教程</p>
     </a>
   </div>  
    <div class='icon-block-item'>
     <a href="{{ site.url }}/youtube.html">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/youtube.webp" alt="油管教程" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/youtube.webp" alt="油管教程" height=50px onerror="this.onerror=null;this.src='/assets/img/youtube.webp'">
         <p>油管教程</p>
     </a>
   </div>
   <div class='icon-block-item'>
     <a href="{{ site.url }}/exchange.html">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx.png" alt="币圈交易所教程" height=50px>
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx.png" alt="币圈交易所教程" height=50px onerror="this.onerror=null;this.src='/assets/img/okx.webp'">
         <p>币圈教程</p>
     </a>
   </div>
