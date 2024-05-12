@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram安全知识之-电报如何隐藏手机号，保护个人隐私信息
+title: 电报如何隐藏手机号，保护个人隐私信息-[telegram安全知识]
 description: 在使用telegram电报的过程中，如果你没有注意这些将会导致你的个人隐私信息严重泄漏，从而会引发很多问题。特别是注册电报的手机号。
 canonical_url: 'https://tggsearch.org/docs/telegram-safety-phone.html'
 categories: [ telegram ]
