@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报为什么会被销号，Telegram为什么会自动注销账号
-description: 电报在长时间不使用后会导致被消号，那么为什么会自动注销账号呢？以及哪里去更改这个账号自动注销的时间呢？
+description: 电报在长时间不使用后会导致被消号，那么为什么会自动注销账号呢？以及哪里去更改这个账号自动注销的时间呢？真的想注销应该如何注销呢？
 canonical_url: 'https://tggsearch.org/docs/telegram-logout.html'
 categories: [ telegram ]
 ---
