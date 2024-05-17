@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-05-13T01:43:10.964Z</lastmod>
+    <lastmod>2024-05-17T02:40:40.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-05-13T01:43:10.964Z</lastmod>
+    <lastmod>2024-05-17T02:40:40.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-05-13T01:43:10.964Z</lastmod>
+    <lastmod>2024-05-17T02:40:40.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-05-13T01:43:10.964Z</lastmod>
+    <lastmod>2024-05-17T02:40:40.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-05-13T01:43:10.964Z</lastmod>
+    <lastmod>2024-05-17T02:40:40.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-05-13T01:43:10.964Z</lastmod>
+    <lastmod>2024-05-17T02:40:40.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-05-13T01:43:10.964Z</lastmod>
+    <lastmod>2024-05-17T02:40:40.740Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -809,12 +809,17 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-safety-phone.html</loc>
-    <lastmod>2024-05-13T01:19:54.071Z</lastmod>
+    <lastmod>2024-05-17T02:14:38.895Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/twitter-cn.html</loc>
-    <lastmod>2024-05-13T01:43:05.922Z</lastmod>
+    <lastmod>2024-05-17T02:14:56.676Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/telegram-logout.html</loc>
+    <lastmod>2024-05-17T02:40:38.020Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
