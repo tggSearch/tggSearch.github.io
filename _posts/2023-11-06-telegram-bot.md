@@ -24,7 +24,7 @@ Telegram 作为一款广受欢迎的即时通讯应用，提供了丰富的功�
 ### 有哪些好玩的机器人推荐
 接下来我们就来说说，有哪些好玩的机器人
 
-#### 电报中文群搜索机器人 @ChineseMainSearchBot
+#### 电报搜索机器人 @ChineseMainSearchBot
 这种机器人目前是市面上最多的机器人，就是中文搜索，你可以通过这个群搜索到非常多的其他的群，这里的机器人体验，你可以说搜索 @ChineseMainSearchBot 这个机器人，也可以直接 [点击打开机器人](./302.html?target=https://t.me/ChineseMainSearchBot)，与机器人直接对话，直接回复你想要搜索的群，比如这里我们想要 麻豆 ，直接回复，你就可以拿到你想要的群资源了。
 
 #### Group Help @GroupHelpBot
