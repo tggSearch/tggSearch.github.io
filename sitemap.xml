@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-05-18T12:16:09.505Z</lastmod>
+    <lastmod>2024-05-19T01:08:42.084Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-05-18T12:16:09.505Z</lastmod>
+    <lastmod>2024-05-19T01:08:42.084Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-05-18T12:16:09.505Z</lastmod>
+    <lastmod>2024-05-19T01:08:42.084Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-05-18T12:16:09.505Z</lastmod>
+    <lastmod>2024-05-19T01:08:42.084Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-05-18T12:16:09.505Z</lastmod>
+    <lastmod>2024-05-19T01:08:42.084Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-05-18T12:16:09.505Z</lastmod>
+    <lastmod>2024-05-19T01:08:42.084Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-05-18T12:16:09.505Z</lastmod>
+    <lastmod>2024-05-19T01:08:42.084Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -828,8 +828,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://tggsearch.org/docs/btc-doge-diff.html</loc>
+    <lastmod>2024-05-19T01:08:39.248Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://tggsearch.org/docs/btc-eth-diff.html</loc>
-    <lastmod>2024-05-18T12:16:05.816Z</lastmod>
+    <lastmod>2024-05-18T14:31:06.158Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
