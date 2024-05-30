@@ -1,6 +1,6 @@
 ---
 layout: default
-title: trx能量是什么？trx能量怎么购买？trx能量有什么用？
+title: trx能量是什么？trx能量有什么用？trx能量购买方法
 description: 在 trc20 下进行 usdt 转账时，都需要一定的手续费，而一般这个手续费都比较多，为了降低手续费一般情况下，我们需要去购买 trx 能量，那么什么是 trx 能量，怎么购买，以及如何使用。
 canonical_url: 'https://tggsearch.org/docs/trx-energy.html'
 categories: [ exchange ]
