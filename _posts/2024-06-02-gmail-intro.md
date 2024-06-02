@@ -1,6 +1,6 @@
 ---
 layout: default
-title: gmail是什么，gmail使用技巧，gmail与国内邮箱有什么差异
+title: gmail邮箱是什么，gmail使用技巧，gmail与国内邮箱有什么差异
 description: telegram中文版有很多山寨的，真正做的好的其实比较少，而 Turrit 算是非常好用的第三方客户端了，那么到底有哪些好用的功能点呢？
 canonical_url: 'https://tggsearch.org/docs/gmail-intro.html'
 categories: [ gmail ]
