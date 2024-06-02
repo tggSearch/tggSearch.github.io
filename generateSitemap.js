@@ -52,6 +52,12 @@ let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://tggsearch.org/gmail.html</loc>
+    <lastmod>${formattedDate}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
 `;
 
 // 读取Markdown文件夹中的文件
