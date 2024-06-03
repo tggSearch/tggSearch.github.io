@@ -11,6 +11,8 @@ categories: [ telegram ]
 
 目前 telegram 都只有英文版本，英文版本前往官网下载 [telegram.org](https://telegram.org) ，请注意下载的非官网版本都可能导致无法收到验证码。这也就是之前大家常会问的，为什么我收不到验证码，如果你还有这个困惑，你去看下这篇文章 [电报 telegram 纸飞机 收不到验证码 （华为/鸿蒙系统也可解决）](./telegram-no-sms-code.html)，其实大部分原因都是你下载了非官方版本。
 
+如果你们需要中文的第三方客户端也可以查看下这篇文章，这里有一个相对来说比较好用的中文第三方客户端。[telegram 最优质第三方中文客户端，telegram 中文版本 Turrit](./telegram-cn-app.html)
+
 ### 切换中文方法手机APP
 
 加入群聊进行切换简体中文，两种方法加入电报群进行切换
