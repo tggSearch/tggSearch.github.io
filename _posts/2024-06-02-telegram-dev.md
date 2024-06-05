@@ -23,7 +23,7 @@ telegram 机器人是非常常见的，也是使用非常广的，因此如果�
 
 **使用Telegram Bot API**，这部分技术问题，大家就自己查看官方文档了，里面都有非常多的开发教程，这里就不详细说明了。
 
-### Telegram API开发者
+### Telegram API/APP ID开发者
 Telegram API允许你创建更复杂的应用程序，例如自定义的消息处理器、数据分析工具等。除了Bot API，Telegram还提供了一个更强大的API：Telegram MTProto API。
 
 **获取API ID和Hash**
