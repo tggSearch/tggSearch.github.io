@@ -7,7 +7,9 @@ categories: [ telegram ]
 ---
 Telegram是一款流行的即时通讯应用程序，以其安全性和灵活性著称。对于开发者来说，Telegram提供了强大的API和Bot（机器人）功能，允许创建丰富的互动体验。本教程将指导你如何申请成为Telegram开发者，并详细介绍如何创建和使用Telegram机器人和API。
 
-如果你会申请 telegram 机器人和 telegram 开发者 api，也不想麻烦，可以直接右下角找我们技术客服支持，100块钱包申请成功。
+<p class="red-text-word">
+如果你会申请 telegram 机器人和 telegram 开发者 api，也就是APP ID，也不想麻烦，可以直接右下角找我们技术客服支持，100块钱包申请成功。
+</p>
 
 ### 注册 Telegram 账号
 在使用 telegram 各种开发者前，你都需要先注册申请一个 telegram 账号，那么注册教程的话大家可以看下我们这篇文章 [telegram 安卓注册教程](./telegram-android.html)，以及 [telegram 苹果注册教程](./telegram-ios.html)
