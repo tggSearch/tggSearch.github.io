@@ -13,9 +13,9 @@ OKX（欧易）是全球领先的数字资产交易平台之一，为用户提�
 ### 重新注册最高 20% 返佣（新账号直接注册就行）
 如果你们要注册请认准下面的20%返佣机会
 
-[有 VPN 梯子注册地址 https://www.okx.com/join/betrys](./302.html?target=https://www.okx.com/join/90884854)
+[有 VPN 梯子注册地址 https://www.okx.com/join/betrys](./302.html?target=https://www.okx.com/join/betrys)
 
-[国内无 VPN 梯子注册地址 https://www.caca5280.com/join/betrys](./302.html?target=https://www.caca5280.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.caca5280.com/join/betrys](./302.html?target=https://www.caca5280.com/join/betrys)
 
 ### 旧账号无法获得返佣的原因
 尽管返佣机制对新用户和推广者都有吸引力，但很多旧账号持有者发现自己无法获得返佣机会。这主要是因为以下几个原因：

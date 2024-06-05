@@ -13,9 +13,9 @@ categories: [ exchange ]
 ### 链接注册教程
 如果你不想直接输入邀请码，也可以通过下方链接进行注册：
 
-[有 VPN 梯子注册地址 https://www.okx.com/join/betrys](./302.html?target=https://www.okx.com/join/90884854)
+[有 VPN 梯子注册地址 https://www.okx.com/join/betrys](./302.html?target=https://www.okx.com/join/betrys)
 
-[国内无 VPN 梯子注册地址 https://www.caca5280.com/join/betrys](./302.html?target=https://www.caca5280.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.caca5280.com/join/betrys](./302.html?target=https://www.caca5280.com/join/betrys)
 
 ### “betrys” 邀请码福利
 betrys 邀请码可以享受如下福利
