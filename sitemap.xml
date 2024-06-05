@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-06-05T06:10:10.931Z</lastmod>
+    <lastmod>2024-06-05T09:31:41.872Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -875,12 +875,12 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/gmail-register-error.html</loc>
-    <lastmod>2024-06-03T06:15:55.277Z</lastmod>
+    <lastmod>2024-06-05T06:15:06.758Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-dev.html</loc>
-    <lastmod>2024-06-05T06:10:08.491Z</lastmod>
+    <lastmod>2024-06-05T06:13:58.764Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -889,8 +889,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://tggsearch.org/docs/okx-invite-code.html</loc>
+    <lastmod>2024-06-05T09:31:38.588Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://tggsearch.org/docs/okx-register-new.html</loc>
-    <lastmod>2024-06-05T06:01:02.523Z</lastmod>
+    <lastmod>2024-06-05T09:25:26.658Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
