@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Telegram开发者申请教程：包括Telegram机器人和Telegram API
+title: telegram机器人，Telegram API，telegram appid 申请教程
 description: 本教程详细介绍了如何申请成为Telegram开发者，涵盖了从创建Telegram账号和机器人到使用Telegram Bot API和MTProto API的全部过程。通过本教程，你将学会设置Webhooks、处理消息、以及使用Python库Telethon与Telegram API进行交互，为你开发Telegram应用提供全面的指导。无论是初学者还是有经验的开发者，本教程都是快速上手Telegram开发的最佳指南。
 canonical_url: 'https://tggsearch.org/docs/telegram-dev.html'
 categories: [ telegram ]
