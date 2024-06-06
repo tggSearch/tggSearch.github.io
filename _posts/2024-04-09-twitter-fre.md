@@ -1,7 +1,7 @@
 ---
 layout: default
 title: twitter超过频率限制
-description: twitter超过频率限制解决方案，如何解决超过频率限制问题，能够查看刷到更多的twitter内容。
+description: twitter超过频率限制解决方案，推特超过频率限制怎么解决，推特超过频率限制请稍后再试，如何解决超过频率限制问题，能够查看刷到更多的twitter内容。
 canonical_url: 'https://tggsearch.org/docs/twitter-fre.html'
 categories: [ twitter ]
 ---
