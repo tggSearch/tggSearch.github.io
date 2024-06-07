@@ -58,7 +58,7 @@ categories: [ exchange ]
 ### 怎么降低 trx 转账手续费
 请特别注意 trx 转账的话，如果是交易所往 钱包提取，或者 trx 提取到钱包，或者 usdt 提取到钱包，费用都是非常高的。那么怎么降低 trx 费用呢？就需要去购买 trx 能量，比如这个
 
-[购买 trx 能力，降低手续费](./302.html?target=http://tggsearch.shop?from=10664&cid=27&mid=135)
+[购买 trx 能量，降低手续费](./302.html?target=http://tggsearch.shop?from=10664&cid=27&mid=135)
 
 购买钱，请确保您的地址里有至少有任意数量的TRX！否则地址未激活！能量不会到账！并且不退款！
 
