@@ -1,6 +1,6 @@
 ---
 layout: default
-title: trx怎么买？
+title: trx哪里买，trx怎么买，trx如何购买？
 description: TRC20的USDT是最多的，不过很多人因为没有 trx 所以经常会导致 usdt 无法转账。那么trx怎么买。去哪里买，买了以后怎么使用，怎么用最小的手续费等等，这些都是需要知道的，不然很容易会导致手续费过高，转账成本过大。
 canonical_url: 'https://tggsearch.org/docs/trx-how-to-buy.html'
 categories: [ exchange ]
@@ -9,6 +9,10 @@ categories: [ exchange ]
 
 ### trx 怎么买
 这里要分 2 种情况，一种是直接找人兑换方法，还有一种是自己前往购买的方法，我们分别来看下。
+
+<p class="red-text-word">
+如果你嫌整个流程麻烦，可以直接右下角联系我们技术客服，我们支持 trx 购买。
+</p>
 
 ### 交易所购买（流程复杂，一劳永逸，会被冻结2天）
 这种方法可以直接从交易所购买，安全并且没有任何风险，但是过程比较复杂，不过一劳永逸，后面就比较简单了。
