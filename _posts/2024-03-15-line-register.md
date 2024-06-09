@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 邮箱注册line，line注册免手机教程
-description: 2024最新教程，line邮箱注册教程，line 很多时候不一定能直接注册，你必须找到注册的方法，因为很多地区是没办法使用手机号注册的，那么有没有不用手机号注册的方法呢？注册提示无法链接互联网解决。line你所在的国家或地区无法使用此功能怎么解决。
+description: 2024最新教程，line邮箱注册教程，line可以用邮箱注册吗，你必须找到注册的方法，因为很多地区是没办法使用手机号注册的，那么有没有不用手机号注册的方法呢？注册提示无法链接互联网解决。line你所在的国家或地区无法使用此功能怎么解决。
 canonical_url: 'https://tggsearch.org/docs/line-register.html'
 categories: [ line ]
 ---
