@@ -1,6 +1,6 @@
 ---
 layout: default
-title: trx 是什么币？有什么作用？哪里去兑换
+title: trx 是什么币？有什么作用？trx怎么获取
 description: 想了解TRX是什么币？想知道怎样购买TRX以及它在波场网络中的作用？探索TRX作为波场生态系统的基石，了解其交易、内容创作激励和网络治理功能。发现最佳方式购买和兑换TRX。
 canonical_url: 'https://tggsearch.org/docs/what-is-trx.html'
 categories: [ exchange ]
