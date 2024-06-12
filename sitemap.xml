@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-06-12T01:56:36.207Z</lastmod>
+    <lastmod>2024-06-12T07:26:10.752Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -870,12 +870,12 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/gmail-no-email.html</loc>
-    <lastmod>2024-06-03T06:14:21.645Z</lastmod>
+    <lastmod>2024-06-12T02:04:06.011Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/gmail-register-error.html</loc>
-    <lastmod>2024-06-05T06:15:06.758Z</lastmod>
+    <lastmod>2024-06-12T02:03:10.784Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -920,7 +920,12 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/trx-usdt.html</loc>
-    <lastmod>2024-06-11T10:42:11.422Z</lastmod>
+    <lastmod>2024-06-12T07:18:31.752Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/trc20-erc20.html</loc>
+    <lastmod>2024-06-12T07:26:00.127Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
