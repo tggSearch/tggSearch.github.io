@@ -1,7 +1,7 @@
 ---
 layout: default
-title: telegram会员多少钱，telegram会员国内怎么买，会员如何代开如何充值？
-description: telegram 会员提供了多种功能服务，那么在国内应该如何开通 telegram 会员呢？会员的价格又是多少呢？怎么才能找到靠谱的代充会员渠道呢？
+title: telegram会员代开，telegram会员国内怎么买，会员如何代开如何充值？
+description: telegram 会员提供了多种功能服务，那么在国内应该如何开通 telegram 会员呢？电报会员多少钱呢？怎么才能找到靠谱的代充会员渠道呢？
 canonical_url: 'https://tggsearch.org/docs/telegram-permium-question.html'
 categories: [ telegram ]
 ---
