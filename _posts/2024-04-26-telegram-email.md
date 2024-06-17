@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram支持邮箱接收验证码了，telegram邮箱登录教程，实用教程
+title: telegram 邮箱登录，telegram邮箱登录版本，邮箱登录接收验证码
 description: Telegram 无法收到短信验证码是经常会遇到的问题，现在 telegram 官方支持邮箱验证了，可以帮助大家解决短信无法收到的问题，那么如何才能设置邮箱接收验证码呢？
 canonical_url: 'https://tggsearch.org/docs/telegram-email.html'
 categories: [ telegram ]
