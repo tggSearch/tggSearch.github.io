@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-06-17T07:25:32.566Z</lastmod>
+    <lastmod>2024-06-18T02:04:21.157Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -850,7 +850,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-permium-question.html</loc>
-    <lastmod>2024-06-17T07:24:19.860Z</lastmod>
+    <lastmod>2024-06-17T09:28:41.958Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -930,17 +930,22 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/trx-wechat-alipay.html</loc>
-    <lastmod>2024-06-17T04:03:42.976Z</lastmod>
+    <lastmod>2024-06-17T09:48:00.106Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/facebook-how-to-play.html</loc>
-    <lastmod>2024-06-17T04:03:38.298Z</lastmod>
+    <lastmod>2024-06-17T09:48:09.917Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/facebook-not-register.html</loc>
     <lastmod>2024-06-17T04:02:58.995Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/how-to-get-trx.html</loc>
+    <lastmod>2024-06-18T02:04:18.143Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
