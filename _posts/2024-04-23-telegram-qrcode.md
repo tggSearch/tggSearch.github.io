@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram二维码，二维码加好友，二维码扫码登录方法
+title: telegram扫描二维码加好友，怎么扫码加好友，二维码登录
 description: 了解如何在Telegram中生成个人或群组二维码，并通过简便的扫码方式添加好友或加入群组。探索Telegram二维码的多种应用场景，以及在Web或移动端轻松实现扫码登录的方法。让您的Telegram通讯更加便捷高效！
 canonical_url: 'https://tggsearch.org/docs/telegram-qrcode.html'
 categories: [ telegram ]
