@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 	欧易(OKX)邀请码 betrys，欧易20%+返佣
+title: 	欧易邀请码,okx邀请码(填写betrys)，欧易20%+返佣
 description: 欧易返佣邀请码 betrys，可以获得 20% 的返佣机会，并且此邀请码还有日常各种活动福利，需要邀请码的可以直接输入 betrys，也可以通过本站链接注册。
 canonical_url: 'https://tggsearch.org/docs/okx-invite-code.html'
 categories: [ exchange ]
