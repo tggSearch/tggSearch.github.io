@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 	欧易返佣，OKX 欧易信新旧账号如何获得返佣机会？一个人如何注册2个欧易实名账号？
+title: 	欧易返佣，okx重新註冊，OKX 欧易新旧账号如何获得返佣机会？一个人如何注册2个欧易实名账号？
 description: 欧易已经注册过的账号是无法获得返佣的，新账号okx返佣可以直接点击下方注册就可拿到，旧账号那么如果真想获得 20% 返佣应该如何来操作呢？可以换一个账号来认证，也就是使用护照的方式来认证，这样会变成2个账号，也就是新的欧易实名账号，具体该如何操作呢？
 canonical_url: 'https://tggsearch.org/docs/okx-register-new.html'
 categories: [ exchange ]
