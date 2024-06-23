@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欧易做多教程，欧易做空教程，欧易合约玩法，手把手教程
+title: 欧易做多教程，欧易怎么做空，欧易合约玩法，手把手教程
 description: 欧易 okx做空，okx做多的方法是什么，欧易怎么做空教程，合约怎么玩，合约怎么可以做多做空，做多做空的风险到底有哪些？在做多做空时如何避免资金损失。
 canonical_url: 'https://tggsearch.org/docs/okx-exchange.html'
 categories: [ exchange ]
