@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 如何翻墙看youtube
+title: 如何翻墙看youtube，免翻墙看youtube
 description: Youtube 内容非常精彩，那么如何翻墙去看 youtube 就是一个比较核心的问题了，本文就详细介绍如何翻墙看 youtube，其次也介绍下 youtube 下到底有哪些比较好的资源可以前往查看的。
 canonical_url: 'https://tggsearch.org/docs/vpn-youtube.html'
 categories: [ youtube ]
