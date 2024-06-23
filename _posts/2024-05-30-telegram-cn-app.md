@@ -1,7 +1,7 @@
 ---
 layout: default
 title: telegram 最优质第三方中文客户端，telegram 中文版本 Turrit
-description: telegram中文版有很多山寨的，真正做的好的其实比较少，而 Turrit 算是非常好用的第三方客户端了，那么到底有哪些好用的功能点呢？
+description: telegram中文版有很多山寨的，真正做的好的其实比较少，而 Turrit 算是非常好用的第三方客户端了，那么去turrit下载在哪里，到底有哪些好用的功能点呢？
 canonical_url: 'https://tggsearch.org/docs/telegram-cn-app.html'
 categories: [ telegram ]
 ---
