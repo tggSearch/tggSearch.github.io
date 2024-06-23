@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Twitter blue 特权，开通方法和教程
-description: Twitter 也就是目前的 X 有类似会员和订阅的功能，叫做 twitter blue，也可以叫做 X blue，国内用户支付方法比较困难，因此这里特意介绍 twitter 会员有哪些特权，其次介绍该如何开通。
+title: Twitter blue 特权，推特premium开通方法和教程
+description: Twitter 也就是目前的 X 有类似会员和订阅的功能，叫做 twitter blue，也可以叫做 X blue，那么推特premium怎么开通，国内用户支付方法比较困难，因此这里特意介绍 twitter 会员有哪些特权，其次介绍该如何开通。
 canonical_url: 'https://tggsearch.org/docs/twitter-blue.html'
 categories: [ twitter ]
 ---
