@@ -1,7 +1,7 @@
 ---
 layout: default
 title: eth如何提现，以太坊兑换人民币的方法
-description: 。
+description: 详细指南，教您如何将以太坊（ETH）安全、快速地提现并兑换成人民币（CNY）。包括准备工作、转账步骤、交易所交易、人民币提现及注意事项，确保您在操作过程中顺利完成每一步。
 canonical_url: 'https://tggsearch.org/docs/eth-withdraw.html'
 categories: [ exchange ]
 ---
