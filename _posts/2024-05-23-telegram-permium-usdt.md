@@ -22,7 +22,7 @@ Telegram会员服务为用户提供了一系列高级功能和特权，以提升
 如果你想直接用微信或者支付宝开通，那么你可以参考我们这篇文章，[telegram会员(电报会员)代开通，电报会员最划算购买教程](./telegram-premium.html)
 
 ### USDT 开通方法
-首先需要打开官方代开会员平台 [TG会员自动充值](./302.html?target=https://telegramcard.sh5.live/tg_web/main.html#/login?inNo=ttgmhg)，然后进入注册，注册成功后进入平台。
+首先需要打开官方代开会员平台 [TG会员自动充值](https://telegramcard.sh5.live/tg_web/main.html#/login?inNo=ttgmhg)，然后进入注册，注册成功后进入平台。
 
 这时候需要你有 USDT ，如果你没有欧易交易所，那么你需要下载一个欧易交易所，下载注册教程参考这里 [欧易注册教程 okx注册教程｜欧易安卓下载](./okx-install.html)
 
