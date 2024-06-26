@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Telegram 群限制有哪些，电报群进不去怎么解决？
-description: 经常遇到问为什么我无法加入群了，有些群为什么我进不去，这里面也存在很多问题，这里我就给大家介绍下到底是什么原因，以及如何处理。
+description: telegram 500群组限制解除，为什么我telegram有些群进不去，有些群为什么我进不去，这里面也存在很多问题，这里我就给大家介绍下到底是什么原因，以及如何处理。
 canonical_url: 'https://tggsearch.org/docs/telegram-group-limit.html'
 categories: [ telegram ]
 ---
