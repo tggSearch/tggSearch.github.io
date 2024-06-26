@@ -1,7 +1,7 @@
 ---
 layout: default
-title: telegram注销，telegram正确的卸载方法，delete telegram account
-description: telegram账号注销流程和方法，帮你快速1分钟注销。直接卸载是最不可用的注销方法，会导致很多问题。
+title: telegram注销，telegram正确的卸载方法
+description: 注销telegram，telegram账号注销流程和方法，帮你快速1分钟注销。直接卸载是最不可用的注销方法，会导致很多问题。
 canonical_url: 'https://tggsearch.org/docs/telegram-delete-account.html'
 categories: [ telegram ]
 pin: false
