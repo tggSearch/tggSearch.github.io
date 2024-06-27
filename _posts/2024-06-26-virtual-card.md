@@ -22,7 +22,7 @@ categories: [ exchange ]
 这个平台安卓可以下载，苹果的话只能使用网页版，[fomepay 下载地址](./302.html?target=https://visa.fomepay.com/p/success.html)
 
 ### 那么如何使用 fomepay 虚拟卡呢？
-这个是比较简单的，大家正常的当作 mastercard 卡进行支付就行了。
+这个是比较简单的，大家正常的当作 mastercard 卡进行支付就行了。在充值的时候可以支持微信和支付宝进行充值，但是也支持 USDT 充值。但是请特别注意虚拟卡平台的充值手续费一般都是比较高的，大家注意这点就行了。
 
 ### 虚拟卡支付赚钱
 如果大家有了虚拟卡以后，大家可以做一些代开平台，比如代开 telegram 会员，或者代开 youtube 会员，chatgpt 会员等等。
