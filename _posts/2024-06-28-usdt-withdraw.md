@@ -1,6 +1,6 @@
 ---
 layout: default
-title: usdt如何提现，usdt如何变现
+title: usdt如何提现，usdt如何变现，如何转给别人
 description: 掌握USDT提现和变现的全面指南，涵盖通过交易所、OTC平台及P2P交易的具体步骤与注意事项，帮助您高效、安全地将USDT转换为法币或其他加密货币。
 canonical_url: 'https://tggsearch.org/docs/usdt-withdraw.html'
 categories: [ exchange ]
@@ -35,6 +35,11 @@ P2P交易是另一种常见的提现方式，类似于OTC交易，但通常直�
 1. 选择交易所的P2P平台：例如Binance P2P、Huobi P2P等。
 2. 发布订单或寻找买家：在P2P平台上发布出售USDT的订单，或寻找合适的买家。
 3. 协商并完成交易：与买家协商好交易细节后，完成支付和放币操作。
+
+### 如何转给别人
+这个就是 usdt 转账支付了，这个和微信支付宝转账类似的，但是需要注意的是 usdt 转账必须要有 gas 费用，目前用的最多的是 trc20，因此最需要的是 trx，如果你不会可以找我们右下角的技术客服，我们可以协助你兑换和转账。
+
+如果你想自己学习，可以查看这个 youtube 视频 [USDT怎么支付，怎么用USDT转账，链上转账方法教程，怎用USDT购买商品](./302.html?targert=https://youtu.be/m9WqHFmEsX4)
 
 ### 注意事项
 1. 选择可靠平台：无论是交易所、OTC平台还是P2P平台，都要选择知名、可靠的平台，确保交易的安全性。
