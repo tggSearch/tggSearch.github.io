@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 小火箭下载，小火箭共享账号，小火箭节点购买
-description: 小火箭shadowrocket下载，app store 小火箭方法，小火箭 app 共享 ios 账号、小火箭共享苹果账号购买，小火箭免费节点，付费节点购买
+description: 小火箭shadowrocket下载，android 小火箭，app store 小火箭方法，小火箭 app 共享 ios 账号、小火箭共享苹果账号购买，小火箭免费节点，付费节点购买
 canonical_url: 'https://tggsearch.org/docs/shadowrocket.html'
 categories: [ account ]
 ---
