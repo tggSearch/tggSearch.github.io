@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 推特上有什么值得关注的人，持续更新，为你推荐最优质推特主
-description: twitter 有很多版本的地址，很多人无法找到相应的网址，这里提供了一个比较全的导航，有需要的自行可以进行下载
+description: 在信息爆炸的时代，找到高质量的信息源至关重要。我们为你推荐了一些值得关注的推特主，包括Elon Musk、Bill Gates、李开复和安替等。他们在科技、商业、历史和社会等领域提供了丰富的见解和最新动态。这些优质推特主将为你的推特时间线注入新鲜和有价值的信息。持续更新，发现更多推特上的优质内容。
 canonical_url: 'https://tggsearch.org/docs/twitter-need-follow.html'
 categories: [ twitter ]
 ---
