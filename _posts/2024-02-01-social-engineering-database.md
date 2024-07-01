@@ -19,7 +19,7 @@ categories: [ account ]
 #### 电报渠道查询
 极力推荐机器 [暗精灵社工库](./302.html?target=https://t.me/AJL01_bot?start=jqYsv9x52g) ,也可以免费试用查询效果不错。
 
-电报骗子比较多，你们最好找一些相当比较靠谱的，比如至少有机器人的，那些人工帮你查询的很可能是骗子或者他的数据很旧很老，价值很低。下面是一个电报机器人，这个机器人 [@SpaceSGK_bot](./302.html?target=https://t.me/SpaceSGK_bot) 我也没有付费过，我也只是用免费的测试过，你们自己需要分辨下，也是我用我自己的账号查询的例子。
+电报骗子比较多，你们最好找一些相当比较靠谱的，比如至少有机器人的，那些人工帮你查询的很可能是骗子或者他的数据很旧很老，价值很低。下面是一个电报机器人，这个机器人 [暗精灵社工库](./302.html?target=https://t.me/AJL01_bot?start=jqYsv9x52g)  我也没有付费过，我也只是用免费的测试过，你们自己需要分辨下，也是我用我自己的账号查询的例子。
 
 <div align=center>
     <img alt="dark-web-search-shegong-telegram" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/social-engineering-database-telegram.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/social-engineering-database-telegram.webp'" />
