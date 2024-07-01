@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-06-29T07:01:56.652Z</lastmod>
+    <lastmod>2024-07-01T07:26:39.103Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -375,7 +375,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/okx-install.html</loc>
-    <lastmod>2024-06-02T02:33:52.983Z</lastmod>
+    <lastmod>2024-07-01T02:49:51.398Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -970,7 +970,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/btc-half.html</loc>
-    <lastmod>2024-06-26T09:19:50.959Z</lastmod>
+    <lastmod>2024-07-01T03:45:05.758Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -985,7 +985,12 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/shadowrocket.html</loc>
-    <lastmod>2024-06-29T07:01:53.748Z</lastmod>
+    <lastmod>2024-07-01T07:10:22.873Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/twitter-need-follow.html</loc>
+    <lastmod>2024-07-01T07:26:36.029Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
