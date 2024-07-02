@@ -28,7 +28,7 @@ categories: [ telegram ]
 这个平台也支持支付宝充值，所以整体来说非常方便快捷。
 
 ### 自助购买
-[自助购买 telegram 成品账号](./302.html?target=http://tggsearch.shop?from=10664&cid=25&mid=154) 打开上面的网站，然后输入密码：5213，然后可以支持微信和支付宝支付。
+[自助购买 telegram 成品账号，需要电脑登录](./302.html?target=http://tggsearch.shop?from=10664&cid=25&mid=154) 打开上面的网站，然后输入密码：5213，然后可以支持微信和支付宝支付。
 
 ### 注意事项
 
