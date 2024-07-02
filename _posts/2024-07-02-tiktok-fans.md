@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 	tiktok如何快速涨粉，tiktok刷粉教程
-description: tiktok翻墙也不能看，tiktok翻墙也不能用，怎么样才能使用tiktok，为什么tiktok无网络连接，这种情况怎么解决呢？
+description: tiktok如何刷粉，快速涨粉技巧，buy tiktok followers怎么操作，如何才能快速的涨到 1000粉丝，非常简单的技巧，教你1分钟快速涨粉1000。
 canonical_url: 'https://tggsearch.org/docs/tiktok-fans.html'
 categories: [ account ]
 ---
