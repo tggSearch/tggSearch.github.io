@@ -1,7 +1,7 @@
 ---
 layout: default
 title: telegram币圈群，币圈电报群，精选币圈电报群推荐
-description: 币圈交流大部分都是使用telegram，币圈交流群telegram怎么找，telegram上又有哪些比较好的币圈交流群，以及如何找到志同道合的币友呢？
+description: 币圈交流大部分都是使用telegram，币圈交流群，telegram币圈交流群怎么找，telegram上又有哪些比较好的币圈交流群，以及如何找到志同道合的币友呢？
 canonical_url: 'https://tggsearch.org/docs/telegram-coins-group.html'
 categories: [ telegram ]
 pin: false
@@ -49,6 +49,9 @@ telegram 是币圈交流的必备社交软件，大部分社区币圈，都有te
     <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-coins-search-1.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-coins-search-1.webp'" />
     <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-coins-search-2.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-coins-search-2.webp'" />
 </div>
+
+### 币圈微信交流群
+这个需要右下角联系我们技术客服，技术客服会拉你进币圈微信交流群。
 
 ### 推特搜索
 当然还有一种办法就是可以通过推特去搜索，一般在推特都有官方的推特账户，在推特中你就可以找到官方的 telegram 电报群。
