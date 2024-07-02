@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 苹果礼品卡购买，苹果礼品卡怎么用教程，苹果礼品卡哪里买
+title: 苹果礼品卡购买[自动发货]，苹果礼品卡怎么用教程，苹果礼品卡哪里买
 description: 想了解如何购买、使用和充值苹果礼品卡吗？本文详细介绍了苹果礼品卡的购买方法、使用教程和充值方式，让你轻松享受苹果产品带来的乐趣。。
 canonical_url: 'https://tggsearch.org/docs/apple-gift-card.html'
 categories: [ account ]
