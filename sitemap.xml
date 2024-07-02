@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-07-02T02:39:05.781Z</lastmod>
+    <lastmod>2024-07-02T06:29:51.878Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -245,7 +245,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/okx.html</loc>
-    <lastmod>2024-05-11T06:37:19.441Z</lastmod>
+    <lastmod>2024-07-02T06:27:45.851Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -880,7 +880,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-dev.html</loc>
-    <lastmod>2024-06-05T06:13:58.764Z</lastmod>
+    <lastmod>2024-07-02T06:29:45.786Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -890,7 +890,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/okx-invite-code.html</loc>
-    <lastmod>2024-06-28T06:32:34.658Z</lastmod>
+    <lastmod>2024-07-02T06:27:05.131Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -945,7 +945,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/how-to-get-trx.html</loc>
-    <lastmod>2024-06-18T02:04:51.977Z</lastmod>
+    <lastmod>2024-07-02T03:19:52.427Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -990,7 +990,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/twitter-delete-account.html</loc>
-    <lastmod>2024-07-01T07:57:04.947Z</lastmod>
+    <lastmod>2024-07-02T02:56:16.995Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -1000,12 +1000,17 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-social-work-lib.html</loc>
-    <lastmod>2024-07-02T02:30:16.897Z</lastmod>
+    <lastmod>2024-07-02T02:47:14.042Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/tiktok-fans.html</loc>
-    <lastmod>2024-07-02T02:39:02.159Z</lastmod>
+    <lastmod>2024-07-02T02:57:22.685Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/wechat-limit.html</loc>
+    <lastmod>2024-07-02T03:23:29.318Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
