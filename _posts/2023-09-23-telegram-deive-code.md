@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报收不到验证码 Telegram 发送设备码 device code 解决全教程
-description: Telegram 收不到验证码，发送设备码也就是 device code，发送到其他设备，卸载后发送设备码，再也不发送短信，Telegram 短信无法接收，等等都可以解决，解决详细的教程。
+description: Telegram 收不到验证码，telegram验证码发到其他设备，发送设备码也就是 device code，telegram验证码发送到其他设备，卸载后发送设备码，再也不发送短信，Telegram 短信无法接收，等等都可以解决，解决详细的教程。
 canonical_url: 'https://tggsearch.org/docs/telegram-deive-code.html'
 categories: [ telegram ]
 pin: true
