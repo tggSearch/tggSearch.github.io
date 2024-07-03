@@ -6,7 +6,7 @@ canonical_url: 'https://tggsearch.org/docs/telegram-deive-code.html'
 categories: [ telegram ]
 pin: true
 ---
-这篇文章是核心处理telegram提示设备码的问题，也就是 device code的问题，如果是无法收到短信验证码的请看本文末尾。
+这篇文章是核心处理telegram提示设备码的问题，也就是 device code的问题，如果是电报收不到验证码，无法收到短信验证码的请看本文末尾。
 
 相信很多人会遇到这类问题，telegram 短信无法收到，但是这里面的情况非常的多，但是在这个问题之前，你要先了解是发送的短信验证码还是设备码，这两个有英文单词区别，一个是 sms code 一个是 device code，解决方案也不一样，下面你对照着自己的问题来看解决方案。
 ### 非官网版本，不是在 telegram.org 下载的
