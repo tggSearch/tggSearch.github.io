@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 番号是什么，番号怎么用，番号如何下载，哪里有番号大全
-description: 番号是什么，番号哪里输入，哪里有番号资源，怎么找到番号后面对应的视频资源，如何观看番号资源，相信这些都是大家所想要知道的。
+description: 番号是什么，番号哪里输入，番号索引哪里有番号资源，怎么找到番号后面对应的视频资源，番号怎么下载，如何观看番号资源，相信这些都是大家所想要知道的。
 canonical_url: 'https://tggsearch.org/docs/serial-number.html'
 categories: [ account ]
 ---
