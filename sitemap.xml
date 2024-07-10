@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-07-08T07:37:36.594Z</lastmod>
+    <lastmod>2024-07-10T07:19:55.970Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -670,7 +670,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/line-register.html</loc>
-    <lastmod>2024-06-27T10:46:10.894Z</lastmod>
+    <lastmod>2024-07-10T01:17:28.068Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -880,7 +880,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-dev.html</loc>
-    <lastmod>2024-07-02T06:30:45.748Z</lastmod>
+    <lastmod>2024-07-08T09:21:57.431Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -935,17 +935,17 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/facebook-how-to-play.html</loc>
-    <lastmod>2024-06-23T05:09:33.464Z</lastmod>
+    <lastmod>2024-07-10T02:30:27.129Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/facebook-not-register.html</loc>
-    <lastmod>2024-06-26T03:37:58.866Z</lastmod>
+    <lastmod>2024-07-10T06:52:59.177Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/how-to-get-trx.html</loc>
-    <lastmod>2024-07-02T03:19:52.427Z</lastmod>
+    <lastmod>2024-07-10T02:31:13.149Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -965,7 +965,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/eth-withdraw.html</loc>
-    <lastmod>2024-06-25T06:19:21.308Z</lastmod>
+    <lastmod>2024-07-10T02:31:50.442Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -995,7 +995,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/twitter-need-follow.html</loc>
-    <lastmod>2024-07-08T07:37:33.578Z</lastmod>
+    <lastmod>2024-07-08T07:37:46.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -1005,12 +1005,17 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/tiktok-fans.html</loc>
-    <lastmod>2024-07-08T07:14:33.798Z</lastmod>
+    <lastmod>2024-07-10T02:31:21.100Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/wechat-limit.html</loc>
-    <lastmod>2024-07-08T07:10:58.357Z</lastmod>
+    <lastmod>2024-07-10T02:31:26.458Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/serial-number.html</loc>
+    <lastmod>2024-07-10T07:19:50.115Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
