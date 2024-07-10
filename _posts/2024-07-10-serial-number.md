@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 番号是什么，怎么去快速寻找番号资源，哪里有番号大全
-description: 如果你决定不再使用推特，注销账号是必需的步骤。本文详细介绍了如何登录、进入设置和隐私、选择“停用你的账号”并确认停用。此外，还包括30天恢复期和数据备份等注意事项，帮助你顺利删除推特账号。
-canonical_url: 'https://tggsearch.org/docs/twitter-need-follow.html'
+description: 番号是什么，哪里有番号资源，怎么找到番号后面对应的视频资源，如何观看番号资源，相信这些都是大家所想要知道的。
+canonical_url: 'https://tggsearch.org/docs/serial-number.html'
 categories: [ account ]
 ---
 番号，原本是指军队中的编号码，但在如今的互联网时代，番号更多指的是日本成人影片（Japanese Adult Video，简称JAV）的识别编号。每部影片都有一个唯一的编号，这个编号通常由字母和数字组成，用于区分不同的影片和方便查询。例如，ABP-123、SSNI-345 等都是常见的番号格式。
