@@ -1,5 +1,7 @@
-<html>
+<!DOCTYPE html>
+<html lang="zh">
 <head>
+    <meta charset="UTF-8">
     <title>跳转中</title>
     <style>
         /* 添加居中样式 */
@@ -9,6 +11,7 @@
             align-items: center;
             height: 100vh;
             margin: 0;
+            font-family: Arial, sans-serif;
         }
 
         .loading {
@@ -34,19 +37,17 @@
         }
     </style>
     <script>
-        // 获取 URL 参数的函数
-        function getParameterByName(name, url) {
-            if (!url) url = window.location.href;
-            name = name.replace(/[\[\]]/g, '\\$&');
-            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
-                results = regex.exec(url);
-            if (!results) return null;
-            if (!results[2]) return '';
-            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        // 获取 URL 参数的函数，使用 URLSearchParams 确保参数完整
+        function getTargetURL() {
+            const url = window.location.href;
+            console.log(url);
+            const regex = /[?&]target=([^&]*)/;
+            const results = regex.exec(url);
+            return results ? decodeURIComponent(results[1]) : null;
         }
 
-        // 获取目标网址参数
-        var targetURL = getParameterByName('target');
+        // 获取目标网址参数并解码
+        const targetURL = getTargetURL('target');
 
         // 对目标网址进行合法性验证，防止 XSS 攻击
         function isValidURL(url) {
@@ -57,17 +58,27 @@
         // 进行 302 跳转
         function redirectToTarget() {
             if (targetURL && isValidURL(targetURL)) {
-                window.location.replace(targetURL);
+                // 使用 setTimeout 来延迟几秒钟以确保用户看到提示信息
+                setTimeout(function() {
+                    window.location.href = targetURL;
+                }); // 3秒后跳转
+            } else {
+                document.getElementById('manual-link').style.display = 'block';
+                document.getElementById('manual-link').href = targetURL;
             }
         }
-        
+
         // 在页面加载时执行跳转操作
         window.onload = redirectToTarget;
     </script>
 </head>
 <body>
     <div class="loading">
+        正在跳转，请稍候...
         <div class="loading-icon"></div>
+        <div id="manual-link-container" style="display:none;">
+            <p>如果没有自动跳转，请点击 <a id="manual-link" href="#">这里</a> 手动打开链接。</p>
+        </div>
     </div>
 </body>
 </html>
