@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 社工库telegram，社工库机器人，tg 社工库，免费试用
+title: 社工库telegram，社工库机器人，tg 社工库，免费社工库
 description: 社工库在telegram上是非常多的，社工库bot也有真假，你可以使用telegram得机器人免费查询一些简单的个人信息，免费查询到了才进行付费，这里给大家推荐一些可以使用的免费试用的 telegram 机器人，有些需要邀请才能免费试用。
 canonical_url: 'https://tggsearch.org/docs/telegram-social-work-lib.html'
 categories: [ account ]
