@@ -11,6 +11,8 @@ SMS 接码平台很多，但是要找到靠谱比较稳定的平台，有很多�
 ### sms activate
 今天要介绍的接码平台叫做 [sms activate 官网，点击打开](./302.html?target=https://sms-activate.org/?ref=2821105) 大家可以前往注册即可，接下来我们看看每一个步骤如何操作。
 
+最近新出了一个 [灰熊接码平台官网，点击打开](./302.html?target=https://grizzlysms.com/cn/registration?r=835900) 你们也可以试试。
+
 ### 接码教程
 这里的步骤主要分为以下几大流程
 
