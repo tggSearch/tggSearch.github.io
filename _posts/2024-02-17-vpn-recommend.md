@@ -18,7 +18,7 @@ categories: [ account ]
 [红杏加速器](./302.html?target=https://hongxingdl.com/web/#/login?code=WjjqTnEn)
 
 ### 速盾网络，便宜稳定（10块一月）
-[速盾网络注册](./302.html?target=https://www.sudun.site/#/register?code=ny55y0fL)
+[速盾网络注册](./302.html?target=https://ww.sudun.site/#/login?code=ny55y0fL)
 
 ### 快连VPN（免费3天）（可能无法注册推特）
 目前也是可以免费试用一段时间的，并且还有每小时免费抽，这就看你运气了，如果想买，也不贵一年 40 美金。
