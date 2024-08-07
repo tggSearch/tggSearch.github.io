@@ -12,7 +12,7 @@ categories: [ exchange ]
 
 [OKX海外注册地址：https://www.okx.com/join/30029571](./302.html?target=https://www.okx.com/join/30029571)
 
-[国内无 VPN 梯子注册地址 https://www.ukifpycwpmrd.com/join/90884854](./302.html?target=https://www.ukifpycwpmrd.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.jrbslpxzcmbs.com/join/90884854](./302.html?target=https://www.jrbslpxzcmbs.com/join/90884854)
 
 <p class="red-text-word">
 如果链接无法打开注册，请下载此 VPN 来注册
