@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-08-14T01:35:19.207Z</lastmod>
+    <lastmod>2024-08-14T02:04:17.152Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1025,12 +1025,17 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/airplane-index.html</loc>
-    <lastmod>2024-08-14T01:35:13.717Z</lastmod>
+    <lastmod>2024-08-14T01:36:55.249Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/rmb-to-trx.html</loc>
-    <lastmod>2024-07-31T02:21:45.551Z</lastmod>
+    <lastmod>2024-08-14T01:37:00.833Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/telegram-fans.html</loc>
+    <lastmod>2024-08-14T02:03:05.624Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
