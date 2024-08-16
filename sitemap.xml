@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-08-14T08:47:30.585Z</lastmod>
+    <lastmod>2024-08-16T07:27:30.391Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1036,6 +1036,11 @@
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-fans.html</loc>
     <lastmod>2024-08-14T02:06:02.385Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/telegram-account-stolen.html</loc>
+    <lastmod>2024-08-16T07:24:24.210Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
