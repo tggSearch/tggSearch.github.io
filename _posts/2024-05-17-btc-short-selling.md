@@ -40,4 +40,4 @@ categories: [ exchange ]
 
 [欧易永续合约做多做空教程](./okx-exchange.html)
 
-[币安永续合约做多做空教程](./bnb-exchangt.html)
+[币安永续合约做多做空教程](./bnb-exchange.html)
