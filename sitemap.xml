@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-08-20T03:44:39.356Z</lastmod>
+    <lastmod>2024-08-24T00:04:52.767Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 <url>
     <loc>https://tggsearch.org/docs/vpn-kl.html</loc>
-    <lastmod>2024-08-14T01:35:06.148Z</lastmod>
+    <lastmod>2024-08-21T06:59:49.131Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -80,7 +80,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/okx-buy-coins.html</loc>
-    <lastmod>2024-08-07T01:23:32.788Z</lastmod>
+    <lastmod>2024-08-21T06:59:51.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -740,7 +740,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/line-nam-add-friends.html</loc>
-    <lastmod>2024-08-01T02:19:08.567Z</lastmod>
+    <lastmod>2024-08-23T23:40:12.920Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -1040,7 +1040,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-account-stolen.html</loc>
-    <lastmod>2024-08-16T07:43:07.535Z</lastmod>
+    <lastmod>2024-08-21T06:59:38.809Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -1051,6 +1051,11 @@
   </url><url>
     <loc>https://tggsearch.org/docs/telegram-has-no-sms-code.html</loc>
     <lastmod>2024-08-20T03:44:11.986Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/facebook-no-sms-code.html</loc>
+    <lastmod>2024-08-24T00:03:00.994Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
