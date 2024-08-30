@@ -45,7 +45,7 @@ pin: true
 想要永久的购买一个海外苹果账号，前往这里购买
  [https://tggsearch.shop/#shop](./302.html?target=https://tggsearch.shop/#shop)
 
-如果你想永久免费申请一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](./302.html?target=https://www.youtube.com/watch?v=oY396wEXzww)
+如果你想永久免费申请一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](./302.html?target=https://www.youtube.com/watch?v=Y51VMx4NOfk)
 
 下载完成后，直接在应用商店搜索 OKX 或者 欧易就行了，然后点击安装。
 
