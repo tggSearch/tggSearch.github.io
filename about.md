@@ -29,6 +29,6 @@ categories: [ account ]
 
 Telegram 交流群：[@chinaDianBaoFans](/docs/302.html?target=https://t.me/chinaDianBaoFans)
 
-我们的Youtube：[https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w](/docs/302.html?target=https://www.youtube.com/channel/UCZBYb7on1OKet0fBpHaDD7w)
+我们的Youtube：[https://www.youtube.com/@softerbetrys](/docs/302.html?target=https://www.youtube.com/@softerbetrys)
 
 如果想添加友情链接，可以直接右下角联系

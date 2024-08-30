@@ -11,7 +11,7 @@ categories: [ telegram ]
 如果你想我们技术客服来帮你协助设置这个邮箱，可以右下角联系我们技术客服，我们可以支持付费帮你解决。
 </p>
 
-[Youtube 视频教程，邮箱登录方法](./302.html?target=https://youtu.be/o5zgb7FmXjM)
+[Youtube 视频教程，邮箱登录方法](./302.html?target=https://youtu.be/1GjXyAgyamw)
 
 ### 前提条件
 不管是任何邮箱设置，都需要你有原有账号的登录状态，或者你可以登录原来账号，如果不行，那么你也没办法设置，遇到无法登录的情况，也可以找我们技术客服来协助解决。

@@ -7,7 +7,7 @@ categories: [ facebook ]
 ---
 facebook作为一款海外比较火的社交软件，但是在国内目前是存在无法收到短信的情况的，而这种就会导致你无法登录，因为你切换设备facebook都需要短信验证，所以很多人的账号都没办法直接找回，那么有没有办法解决这个问题呢？下面我们就来告诉大家步骤和过程。
 
-如果嫌文字看起来麻烦，请查看 Youtube 视频教学：[facebook为什么收不到验证码，无法登录怎么办](./302.html?target=https://youtu.be/EI_jtKosqKY )
+如果嫌文字看起来麻烦，请查看 Youtube 视频教学：[facebook为什么收不到验证码，无法登录怎么办](./302.html?target=https://youtu.be/dXqiEVZBIx4 )
 
 ### 注册一个 whatsapp 账号
 首先大家需要下载一个 whatsapp 账号，如果你是安卓的直接谷歌搜索下 whatsapp 就行了，如果你是苹果的则需要使用海外苹果账号，如果你没有海外苹果账号，可以查看我们这里免费的海外苹果账号 [点击获取免费苹果账号](./302.html?target=./apple-id.html)

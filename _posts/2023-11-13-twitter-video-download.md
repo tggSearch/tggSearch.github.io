@@ -16,7 +16,7 @@ categories: [ twitter ]
 ### 使用视频下载器
 接下来我们打开以下神器，也就是下载推文的神器方法
 
-[Twitter Video Download 推特视频下载](./302.html?target=https://twittervideodownloader.com/)
+[Twitter Video Download 推特视频下载](./302.html?target=https://youtu.be/0skH2GB-1kI)
 
 打开以后，我们直接粘贴我们刚才复制的推文链接，然后点击下载就完成了
 

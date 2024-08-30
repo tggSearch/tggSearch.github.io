@@ -7,7 +7,7 @@ categories: [ telegram ]
 ---
 Telegram 会员是很多人想开通的服务，但是开通 telegram 会员也是存在一些困难的，特别是国内用户，因为你没有境外的支付方式，因此选择代开通是一种比较常见的方式了，但是代开通必须要找到合适的平台，不然很容易被骗，那么这里就给大家几种代开通的教程。
 
-telegram 的会员功能详细介绍，请查看 youtube 这个视频 [Telegram会员开通，Telegram会员代开通，Telegram会员有什么功能，Telegram会员引流赚钱教程，Telegram Premium如何开通，开通的价格是多少。](./302.html?target=https://youtu.be/BwKwJrsMQ80)
+telegram 的会员功能详细介绍，请查看 youtube 这个视频 [Telegram会员开通，Telegram会员代开通，Telegram会员有什么功能，Telegram会员引流赚钱教程，Telegram Premium如何开通，开通的价格是多少。](./302.html?target=https://youtu.be/qaFGNJ_gHEU)
 
 ### telegram 会员多少钱
 首先我们看下 telegram 会员到底多少钱，我们可以看下官方的开通价格，Telegram 官方是一个月 38 $HK，如果按照年开通，一个月是 24 $HK，因此按照月算，一个月最少 38 $HK，换算成人民币，大家自己可以乘 0.9 。官方价格大家已经清楚了，那么我们再来看看一些代开平台的价格以及开通方式。

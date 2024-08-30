@@ -12,7 +12,7 @@ pin: true
 
 如果无法搜索上面的，或者添加了没有处理再搜索qq群：599976386
 
-如果嫌文字看起来麻烦，请查看 Youtube 视频教学：[电报无法收到验证码，发送电报设备码，device code又是什么](./302.html?target=https://youtu.be/3BiUss4RPls )
+如果嫌文字看起来麻烦，请查看 Youtube 视频教学：[电报无法收到验证码，发送电报设备码，device code又是什么](./302.html?target=https://youtu.be/dXqiEVZBIx4 )
 
 > 经常有人来询问，为什么收不到验证码，首先电报确实有时候抽风，但是也不确定到底是哪里将信息拦截了。
 

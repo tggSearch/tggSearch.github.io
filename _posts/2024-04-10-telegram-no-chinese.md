@@ -20,7 +20,7 @@ pin: false
 
 进群后，直接回复 中文，然后点击任何链接就可以切换了。
 
-这里需要注意的是，国内的手机号注册的账号，刚开始读会被双向限制，因此你需要先去处理双向问题，具体处理的方法可以查看 youtube视频，[解除双向限制教程](./302.html?target=https://youtu.be/SW2vg3h667A)
+这里需要注意的是，国内的手机号注册的账号，刚开始读会被双向限制，因此你需要先去处理双向问题，具体处理的方法可以查看 youtube视频，[解除双向限制教程](./302.html?target=https://youtu.be/ybmb0td-i38)
 
 ### telegram 玩法
 如果你是刚解除 telegram，那么这里有一份 telegram 玩法教程，你可以前往了解，[点击打开telegram玩法教程](./telegram-driver-bus.html)

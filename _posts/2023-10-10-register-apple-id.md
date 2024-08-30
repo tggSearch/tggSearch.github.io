@@ -10,7 +10,7 @@ pin: true
 
 今天就教大家注册一个自己拥有的永久苹果账号（如果想购买一个，请网站右下角联系技术人员）
 
-[可以看视频流程，点击查看youtube视频介绍](https://www.youtube.com/embed/oY396wEXzww)
+[可以看视频流程，点击查看youtube视频介绍](https://www.youtube.com/watch?v=6TSYIkKE2Bk&t=1s)
 
 ### 1. 注册一个海外邮箱账号
 海外邮箱账号可以选择 [gmail](https://gmail.com) 或者 [outlook](https://outlook.com) 限制都很少，这部分自己前往两个官网注册就行了。

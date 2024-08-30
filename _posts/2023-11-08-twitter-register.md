@@ -81,7 +81,7 @@ categories: [ twitter ]
 ### 推特资源介绍
 很多人进入推特发现什么都没有，觉得和微博差别不大，那么你肯定不知道以下资源，打开推特榜单你就知道特别的资源了 [推特中文榜单](./twitter-ranking.html)
 
-这里还有推特的资源介绍，请大家看看 Youtube 视频 [推特 Twitter X 有什么好玩的？老司机教你在推特开车](./302.html?target=https://youtu.be/XjSannmQDd4)
+这里还有推特的资源介绍，请大家看看 Youtube 视频 [推特 Twitter X 有什么好玩的？老司机教你在推特开车](./302.html?target=https://youtu.be/yZulurlxgSs)
 
 **关注我们的官方号**
 进入后，点击下面打开关注 [关注点击 软件分析师](https://twitter.com/idanhua) 

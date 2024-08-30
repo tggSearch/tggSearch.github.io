@@ -10,7 +10,7 @@ pin: true
 今天这里就教大家怎么打开敏感限制。（如果你还不会，请右下角联系技术客服协助解决）
 ## 视频介绍流程
 下面有视频介绍流程，可以点击查看视频教程
-youtube: [https://www.youtube.com/shorts/6Wvdn0akiN4](./302.html?target=https://www.youtube.com/shorts/6Wvdn0akiN4)
+youtube: [https://youtu.be/zYILfnevV5A](./302.html?target=https://youtu.be/zYILfnevV5A)
 
 <p class="red-text-word">
 如果不想自己操作，或者无法自己操作，可以收费协助，10元可以协助开通，请联系 qq 1702242347，加了没同意，请加 2928893676，备注，敏感限制。
