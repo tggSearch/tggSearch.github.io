@@ -1,6 +1,6 @@
 ---
 layout: default
-title: facebook为什么收不到验证码，无法登录怎么办
+title: facebook为什么收不到验证码，facebook为什么登录不了
 description: facebook的短信现在已经被国内基本封禁了，如果你在使用 facebook 过程中需要短信验证，你是无法正常收到短信并且登录的，那么有没有办法解决这个问题，当然是有的。
 canonical_url: 'https://tggsearch.org/docs/facebook-no-sms-code.html'
 categories: [ facebook ]
