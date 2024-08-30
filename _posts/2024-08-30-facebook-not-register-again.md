@@ -2,7 +2,7 @@
 layout: default
 title: facebook为什么注册不了，facebook注册教程
 description: facebook注册审核是非常严格的，而注册不了很大原因是资料不够真实，或者注册的时候没办法收到短信验证导致的，这篇文章就教大家如何成功的注册Facebook
-canonical_url: 'https://tggsearch.org/docs/facebook-not-register.html'
+canonical_url: 'https://tggsearch.org/docs/facebook-not-register-again.html'
 categories: [ facebook ]
 ---
 Facebook作为全球最大的社交媒体平台之一，吸引了数亿用户加入。然而，有些人在尝试注册时可能会遇到各种问题，导致注册失败。本文将详细探讨Facebook注册不了的原因，并提供一个完整的Facebook注册教程，帮助你顺利完成注册。
