@@ -15,7 +15,7 @@ categories: [ account ]
 
 打开以后会有一个人机校验，这时候你正常点击确认您是真人即可。
 
-接下来需要输入进入网站的密码，这里直接说明了是 5213 ，如下图所示：
+接下来需要输入进入网站的密码，这里直接输入 5213 ，如下图所示：
 
 <div align=center>
     <img alt="ios-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-password.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-password.webp'" />
