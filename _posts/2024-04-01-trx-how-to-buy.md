@@ -21,7 +21,7 @@ categories: [ exchange ]
 
 #### 2. 交易所购买 USDT
 在交易所，你首先需要去购买 USDT，用 RMB，交易所一般都支持 微信或者支付宝支付，通过这种方式将 RMB 兑换成 USDT，如果你不懂这个方法，详细流程可以查看 [ 如何买 U(USDT)，然后通过 U(USDT) 购买数字货币(BTC/ETH/DOGE)](./buyu-selleru.html)
-这里几个比较重要的过程：KYC 三层验证，你需要经过三层的 KYC 也就是身份认证，接下来就是绑定支付方式，这里可以支持微信、支付宝和银行卡绑定，最后就是通过 RMB 购买 USDT，这个过程也有视频教程，可以查看 Youtube 视频教程 [RMB 购买 USDT 教程](./302.html?target=https://youtu.be/QiSgvcxV64o)
+这里几个比较重要的过程：KYC 三层验证，你需要经过三层的 KYC 也就是身份认证，接下来就是绑定支付方式，这里可以支持微信、支付宝和银行卡绑定，最后就是通过 RMB 购买 USDT，这个过程也有视频教程，可以查看 Youtube 视频教程 [RMB 购买 USDT 教程](./302.html?target=https://youtu.be/eT9z-N34Y8s)
 
 #### 3. USDT 购买 TRX
 接下来还是在交易所，你需要用你刚才买的 USDT，去交易购买 TRX，请注意你买的 USDT 在资金账户，当你需要购买 TRX 时，你需要先转到交易账户，这里的购买流程在上面的文章有提到，上面的文章里面包含了如何购买数字货币 BTC/ETH/DOGE 当然也包含 TRX。
