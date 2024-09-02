@@ -5,7 +5,7 @@ description: Youtube 注册后，发现什么资源都没有，也不知道油�
 canonical_url: 'https://tggsearch.org/docs/youtube-start.html'
 categories: [ youtube ]
 ---
-刚注册好油管以后，基本都是空白的，或者首页推荐的一些没有什么特别的视频，你看着也觉得很正常，和正常的国内的视频网站也类似差异不大，那么今天我就告诉大家 Youtube 的好玩之处。如果你想学习更多奇淫巧技，可以关注我的油管 [奇淫巧技教学](./302.html?target=https://www.youtube.com/@softerbetrys)，分享各种软件教程以及赚钱币圈教学资源。
+刚注册好油管以后，基本都是空白的，或者首页推荐的一些没有什么特别的视频，你看着也觉得很正常，和正常的国内的视频网站也类似差异不大，那么今天我就告诉大家 Youtube 的好玩之处。如果你想学习更多奇淫巧技，可以关注我的油管 [奇淫巧技教学](./302.html?target=https://www.youtube.com/@aiDigitalMan)，分享各种软件教程以及赚钱币圈教学资源。
 
 <p class="red-text-word">
 请特别注意，注册 Youtube 一定要大于18岁，不然你很多视频观看不了。
@@ -21,7 +21,7 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 ### 福利账号列表推荐
 这种也是比较多的，特别是里面有各国资源，比如日本小姐姐就很多，我这里也收藏了很多日本和韩国小姐姐的资源，因为 Youtube 这些是允许的，所以你可以看到这类资源，你可以看看下面几个博主的首页都有惊喜。一般这群人是来这里引流的，真正精彩的可能在推特或者其他小平台，就看你自己去寻找了。
 
-软件教学视频教程账号，里面包含了：youtube、twitter、telegram 各种软件教学 [点击这里前往频道关注](./302.html?target=https://www.youtube.com/@softerbetrys)
+软件教学视频教程账号，里面包含了：youtube、twitter、telegram 各种软件教学 [点击这里前往频道关注](./302.html?target=https://www.youtube.com/@aiDigitalMan)
 
 [@sutenekokawaii](./302.html?target=https://www.youtube.com/@sutenekokawaii)
 
@@ -65,5 +65,5 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 ### 50 大中文博主
 当然你们还可以在这里找到中文的前 50 大订阅的博主，你可以一一进去看看，看看哪些是你需要的资源 [50大订阅中文博主](./302.html?target=https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8YouTube%E9%A0%BB%E9%81%93%E8%A8%82%E9%96%B1%E4%BA%BA%E6%95%B8%E6%8E%92%E8%A1%8C%E6%A6%9C)
 
-好了以上就是我们今天的油管入门介绍，后续我们还会持续更新，如果你想要更多教学资源，请一定要关注我们的油管账号。 [奇淫巧技教学](./302.html?target=https://www.youtube.com/@softerbetrys)
+好了以上就是我们今天的油管入门介绍，后续我们还会持续更新，如果你想要更多教学资源，请一定要关注我们的油管账号。 [奇淫巧技教学](./302.html?target=https://www.youtube.com/@aiDigitalMan)
 

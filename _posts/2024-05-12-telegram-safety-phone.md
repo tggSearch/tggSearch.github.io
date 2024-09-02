@@ -34,4 +34,4 @@ categories: [ telegram ]
     <img alt="telegram-safety-phone-add" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-safety-phone-add.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-safety-phone-add.webp'" />
 </div>
 
-这样操作完成后就完成了整个手机号隐藏的隐私设置了，更多  telegram 的教程与知识，请关注我们的 Youtube ，[Youtube 软件分析师](./302.html?target=https://www.youtube.com/@softerbetrys)
+这样操作完成后就完成了整个手机号隐藏的隐私设置了，更多  telegram 的教程与知识，请关注我们的 Youtube ，[Youtube 软件分析师](./302.html?target=https://www.youtube.com/@aiDigitalMan)
