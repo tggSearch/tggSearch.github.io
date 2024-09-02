@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.org/</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/telegram.html</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/twitter.html</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/account.html</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/exchange.html</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/youtube.html</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/line.html</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.org/gmail.html</loc>
-    <lastmod>2024-09-01T08:48:47.424Z</lastmod>
+    <lastmod>2024-09-02T02:12:09.749Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -75,7 +75,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/apple-id.html</loc>
-    <lastmod>2024-08-07T09:15:31.210Z</lastmod>
+    <lastmod>2024-09-02T01:45:11.838Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -195,7 +195,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/usdt.html</loc>
-    <lastmod>2024-09-01T08:48:45.000Z</lastmod>
+    <lastmod>2024-09-01T08:54:27.686Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -320,7 +320,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/usdt-buy.html</loc>
-    <lastmod>2024-05-11T06:37:09.936Z</lastmod>
+    <lastmod>2024-09-02T01:52:57.882Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -355,7 +355,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/trx.html</loc>
-    <lastmod>2024-09-01T08:48:44.292Z</lastmod>
+    <lastmod>2024-09-01T08:54:26.626Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -720,7 +720,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/trx-how-to-buy.html</loc>
-    <lastmod>2024-09-01T08:48:44.292Z</lastmod>
+    <lastmod>2024-09-01T08:54:26.626Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -980,7 +980,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/usdt-withdraw.html</loc>
-    <lastmod>2024-08-30T02:39:13.158Z</lastmod>
+    <lastmod>2024-09-01T08:54:26.674Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -1030,7 +1030,7 @@
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.org/docs/rmb-to-trx.html</loc>
-    <lastmod>2024-09-01T08:48:44.292Z</lastmod>
+    <lastmod>2024-09-01T08:54:26.626Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
@@ -1071,6 +1071,11 @@
   </url><url>
     <loc>https://tggsearch.org/docs/quantumultx.html</loc>
     <lastmod>2024-08-31T01:31:42.039Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.org/docs/usdt-trc20.html</loc>
+    <lastmod>2024-09-02T02:12:02.304Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
