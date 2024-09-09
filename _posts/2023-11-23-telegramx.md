@@ -8,7 +8,7 @@ categories: [ telegram ]
 随着社交通讯的不断发展，Telegram作为一款备受欢迎的即时通讯应用，其分支产品TelegramX也逐渐崭露头角。本文将深入介绍TelegramX与Telegram之间的关系，以及它们在功能上的差异，并提供TelegramX的下载和使用指南。<b>下载教程在下方⬇️⬇️⬇️</b>
 
 ### TelegramX 与 Telegram 两者关联
-TelegramX并非与Telegram完全独立的两个应用，实际上，`TelegramX是Telegram官方`推出的一种实验性版本。TelegramX的开发旨在测试新的技术和功能，以便更好地满足用户需求。因此，可以将TelegramX看作是Telegram的实验性演进。
+TelegramX并非与Telegram完全独立的两个应用，实际上，`TelegramX是Telegram官方`推出的一种实验性版本。TelegramX的开发旨在测试新的技术和功能，以便更好地满足用户需求。因此，可以将TelegramX看作是Telegram的实验性演进。如果想要了解更多，可以 [点击查看Youtube视频教程](./302.html?target=https://youtu.be/SUCztygGXms)
 
 <p class="red-text-word">
 特别要关注的就是，两者在国内使用都是需要梯子的。
