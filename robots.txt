@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /docs/302.html
 Disallow: /docs/docs/
+Disallow: /docs/youtube-download.html
+Disallow: /docs/91.html
+Disallow: /docs/chigua.html
 Sitemap: https://tggsearch.org/sitemap.xml
