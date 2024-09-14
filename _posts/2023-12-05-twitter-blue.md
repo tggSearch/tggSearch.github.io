@@ -2,7 +2,7 @@
 layout: default
 title: Twitter blue 特权，推特premium开通方法和教程
 description: Twitter 也就是目前的 X 有类似会员和订阅的功能，叫做 twitter blue，也可以叫做 X blue，那么推特premium怎么开通，国内用户支付方法比较困难，因此这里特意介绍 twitter 会员有哪些特权，其次介绍该如何开通。
-canonical_url: 'https://tggsearch.org/docs/twitter-blue.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-blue.html'
 categories: [ twitter ]
 ---
 Twitter X Blue是Twitter推出的一项订阅服务，为用户提供了一系列独特的特权和增值服务。本文将介绍Twitter Blue的特权内容，以及如何开通这一服务的详细教程。

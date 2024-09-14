@@ -2,7 +2,7 @@
 layout: default
 title: Twitter (X)推特设置高清视频，推特视频切换高清，推特清晰度
 description: 在推特上看一些视频的时候总是会看到很模糊的小视频，以为是推特视频模糊就是这样的，特别是一些每日大赛因为视频比较大，大部分看起来都是比较模糊的，那么有没有办法去切换清晰度呢，也就是推特视频清晰度设置？
-canonical_url: 'https://tggsearch.org/docs/twitter-hd.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-hd.html'
 categories: [ twitter ]
 ---
 很多人在推特上看到的视频都比较模糊，又发现根本没有地方去切换清晰度，所以只能忍受，那么有没有切换的方法呢？当然是有的了。今天我就带大家一步步来操作。

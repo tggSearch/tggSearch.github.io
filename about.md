@@ -2,7 +2,7 @@
 layout: default
 title: Betrys 社区常见服务介绍
 description: Betrys 社区专属入群，社区福利空投，社区定期红包福利等
-canonical_url: 'https://tggsearch.org/about.html'
+canonical_url: 'https://tggsearch.gtihub.io/about.html'
 categories: [ account ]
 ---
 ### 什么是 Betrys 社区

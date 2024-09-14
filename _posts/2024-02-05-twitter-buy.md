@@ -2,7 +2,7 @@
 layout: default
 title: Twitter 推特账号购买，购买详细教程
 description: 注册推特账号一直失败，购买一个老的推特账号也是一种方法，那么去哪里买，买的账号如何避免被封，有没有比较靠谱的账号购买平台，本文就是提供靠谱的推特账号购买平台，并且提供完整的购买教程，让你用微信支付宝轻松支付购买。
-canonical_url: 'https://tggsearch.org/docs/twitter-buy.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-buy.html'
 categories: [ twitter ]
 ---
 在购买前，我都建议大家尝试自己注册一个，如果没有遇到什么比较大的问题，注册时最简单的，而且0成本，如果你遇到注册问题，可以前往我们这篇文章查看并且解决一下 [推特注册异常问题汇总](./twitter-register-error.html) ，如果还是没办法解决，那么你就可以前往去购买一个了，这里我们讲解下购买流程。

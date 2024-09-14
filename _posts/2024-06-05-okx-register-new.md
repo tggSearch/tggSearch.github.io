@@ -2,7 +2,7 @@
 layout: default
 title: 	欧易返佣，okx重新註冊，OKX 欧易新旧账号如何获得返佣机会？一个人如何注册2个欧易实名账号？
 description: 欧易已经注册过的账号是无法获得返佣的，新账号okx返佣可以直接点击下方注册就可拿到，旧账号那么如果真想获得 20% 返佣应该如何来操作呢？可以换一个账号来认证，也就是使用护照的方式来认证，这样会变成2个账号，也就是新的欧易实名账号，具体该如何操作呢？
-canonical_url: 'https://tggsearch.org/docs/okx-register-new.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/okx-register-new.html'
 categories: [ exchange ]
 ---
 OKX（欧易）是全球领先的数字资产交易平台之一，为用户提供广泛的加密货币交易服务。其平台以高效、安全、稳定而著称，吸引了大量全球用户进行比特币、以太坊等数字货币的交易。除了现货交易，OKX还提供合约交易、杠杆交易、存币生息等多种金融服务。

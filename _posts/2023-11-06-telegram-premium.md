@@ -2,7 +2,7 @@
 layout: default
 title: telegram会员(电报会员)代开通，电报会员最划算购买教程
 description: telegram 会员服务，电报会员，这里叫做 Telegram 订阅服务，telegram premium购买，开通会员开通一般需要海外的支付方式，那么telegram会员购买流程是怎么样，需要找人代开通，那么这里就是教大家如何代开通会员。
-canonical_url: 'https://tggsearch.org/docs/telegram-premium.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-premium.html'
 categories: [ telegram ]
 ---
 在了解之前，如果你还没有注册下载电报，请参考我们的教程 [Telegram 电报注册下载教程](./register.html)

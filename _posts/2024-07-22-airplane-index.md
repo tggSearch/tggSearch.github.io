@@ -2,7 +2,7 @@
 layout: default
 title: 机场导航，各类机场分析对比
 description: 一毛机场、三毛机场、米奇加速器、乐连加速器、青柠机场、红杏机场等等，这些机场到底应该用哪个，怎么使用，如何使用最划算，请看这个教程
-canonical_url: 'https://tggsearch.org/docs/airplane-index.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/airplane-index.html'
 categories: [ account ]
 pin: true
 ---

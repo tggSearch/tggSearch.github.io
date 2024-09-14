@@ -2,7 +2,7 @@
 layout: default
 title: telegram为什么会被盗
 description: telegram盗号经常会出现，那么有哪些奇葩的盗号方式，以及我们如何来识别盗号，其次我们应该如何防止被盗号呢？
-canonical_url: 'https://tggsearch.org/docs/telegram-account-stolen.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-account-stolen.html'
 categories: [ telegram ]
 ---
 Telegram 是一款以隐私保护和安全性著称的即时通讯应用，然而，尽管其安全措施相对完善，用户的账号仍然可能面临被盗的风险。了解为什么 Telegram 会被盗号、识别盗号方式及采取防范措施，对保护个人信息至关重要。下面，我们将详细讨论这些问题。

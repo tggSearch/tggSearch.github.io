@@ -2,7 +2,7 @@
 layout: default
 title: telegram扫描二维码加好友，怎么扫码加好友，二维码登录
 description: 了解如何在Telegram中生成个人或群组二维码，并通过简便的扫码方式添加好友或加入群组。探索Telegram二维码的多种应用场景，以及在Web或移动端轻松实现扫码登录的方法。让您的Telegram通讯更加便捷高效！
-canonical_url: 'https://tggsearch.org/docs/telegram-qrcode.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-qrcode.html'
 categories: [ telegram ]
 ---
 在数字化社交的浪潮中，Telegram以其安全、便捷的通讯方式备受青睐。其中，二维码作为一种快捷的信息传递方式，在Telegram中也扮演着重要的角色。本文将为您详细介绍Telegram二维码的三大应用场景：生成二维码、加好友、以及扫码登录方法。

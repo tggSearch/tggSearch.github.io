@@ -2,7 +2,7 @@
 layout: default
 title: 哪些 twitter 值得关注，持续更新，为你推荐最优质推特主
 description: 在信息爆炸的时代，找到高质量的信息源至关重要。我们为你推荐了一些值得关注的推特主，包括Elon Musk、Bill Gates、李开复和安替等。他们在科技、商业、历史和社会等领域提供了丰富的见解和最新动态。这些优质推特主将为你的推特时间线注入新鲜和有价值的信息。持续更新，发现更多推特上的优质内容。
-canonical_url: 'https://tggsearch.org/docs/twitter-need-follow.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-need-follow.html'
 categories: [ twitter ]
 ---
 在社交媒体的世界中，推特（Twitter）以其简洁的信息传播方式和即时性赢得了大量用户的青睐。无论你是想了解最新的新闻动态，还是希望获取专业领域的见解，推特上总有一些值得关注的人，他们的内容高质且富有启发性。以下是我们为你推荐的几位优质推特主，他们涵盖了多个领域，持续更新，为你的推特时间线注入新鲜和有价值的信息。

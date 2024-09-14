@@ -2,7 +2,7 @@
 layout: default
 title: telegram 担保，汇旺担保
 description: 为了避免在 telegram 交易被骗，很多都会走担保平台，telegram担保交易，是一种在 Telegram 平台上进行交易时使用的安全机制。它由第三方担保人进行管理，旨在确保交易双方都能履行各自的义务。
-canonical_url: 'https://tggsearch.org/docs/telegram-guarantee.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-guarantee.html'
 categories: [ telegram ]
 ---
 在 telegram 现在比较流行的情况下，很多人都会在 telegram 上进行一些交易，而这个交易很多存在欺诈，为了避免欺诈很多会走担保平台，因此选择一个比较靠谱的担保平台就很关键，而目前用的比较多的就一个叫做汇旺的担保平台，但是这个平台假冒的还是非常多。但是每个平台都存在担保骗局的风险，因此要找的一个靠谱的担保平台也是存在困难的。

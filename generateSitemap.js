@@ -3,7 +3,7 @@ const path = require('path');
 
 const markdownFolder = './_posts'; // 指定你的Markdown文件夹路径
 const outputFilePath = './sitemap.xml'; // 指定生成的sitemap.xml文件路径
-const siteUrlPrefix = 'https://tggsearch.org/'; // 指定网站URL前缀
+const siteUrlPrefix = 'https://tggsearch.gtihub.io/'; // 指定网站URL前缀
 
 const currentDate = new Date();
 const formattedDate = currentDate.toISOString();
@@ -11,49 +11,49 @@ const formattedDate = currentDate.toISOString();
 let sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tggsearch.org/</loc>
+    <loc>https://tggsearch.gtihub.io/</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tggsearch.org/telegram.html</loc>
+    <loc>https://tggsearch.gtihub.io/telegram.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tggsearch.org/twitter.html</loc>
+    <loc>https://tggsearch.gtihub.io/twitter.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tggsearch.org/account.html</loc>
+    <loc>https://tggsearch.gtihub.io/account.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tggsearch.org/exchange.html</loc>
+    <loc>https://tggsearch.gtihub.io/exchange.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tggsearch.org/youtube.html</loc>
+    <loc>https://tggsearch.gtihub.io/youtube.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tggsearch.org/line.html</loc>
+    <loc>https://tggsearch.gtihub.io/line.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tggsearch.org/gmail.html</loc>
+    <loc>https://tggsearch.gtihub.io/gmail.html</loc>
     <lastmod>${formattedDate}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>

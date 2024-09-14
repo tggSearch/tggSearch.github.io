@@ -2,7 +2,7 @@
 layout: default
 title: 	支付宝购买trx，微信支付购买trx教程方法
 description: 想要轻松购买TRX（Tronix）吗？通过本教程，您将学习如何使用支付宝购买TRX和微信支付购买TRX，快速、安全地在知名加密货币交易平台上进行交易。了解详细步骤和注意事项，让您的投资更便捷。
-canonical_url: 'https://tggsearch.org/docs/trx-wechat-alipay.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/trx-wechat-alipay.html'
 categories: [ exchange ]
 ---
 随着区块链技术的发展，越来越多的人开始关注和投资加密货币。TRX（Tronix）作为一种备受欢迎的加密货币，吸引了大量投资者。如果你想通过支付宝和微信支付购买TRX，以下是详细的教程。

@@ -2,7 +2,7 @@
 layout: default
 title: 电报中文版
 description: telegram中文版，电报中文版下载方法教程，哪里找到靠谱的中文版，并且避免被盗号问题。
-canonical_url: 'https://tggsearch.org/docs/telegram-cn-version.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-cn-version.html'
 categories: [ telegram ]
 ---
 电报中文版是没有官方的版本的，目前电报中文版都是一些第三方构建的包，这类包一般都是用了官方的协议，但是包装了一下，看起来就像是官方的一样，导致一个问题就是这类包目前都是发送的设备码，很少能发送短信验证码，所以很多时候你可能无法直接注册。

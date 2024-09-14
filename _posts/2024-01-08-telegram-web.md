@@ -2,7 +2,7 @@
 layout: default
 title: 电报下载(Telegram)网页版｜网页版登录教程
 description: Telegram 网页版地址导航，电报的网页版如何登录，登录以后为什么不会发送短信？网页版应该如何登录使用。telegram web下载登录流程。
-canonical_url: 'https://tggsearch.org/docs/telegram-web.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-web.html'
 categories: [ telegram ]
 ---
 Telegram 有很多版本，包括：手机 app、网页版、电报客户端版本等等，而很多时候我们需要做一些配置，比如敏感设置就需要登录 telegram 的网页版，很多人也不知道到底哪个才是 telegram 网页版的官网地址，因为很多都是假冒的，那么这篇文章就给大家导航，并且教大家一些方法技巧。

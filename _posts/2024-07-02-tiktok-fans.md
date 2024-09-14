@@ -2,7 +2,7 @@
 layout: default
 title: 	tiktok如何快速涨粉，tiktok刷粉教程
 description: tiktok如何刷粉，快速涨粉技巧，buy tiktok followers怎么操作，如何才能快速的涨到 1000粉丝，非常简单的技巧，教你1分钟快速涨粉1000。
-canonical_url: 'https://tggsearch.org/docs/tiktok-fans.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/tiktok-fans.html'
 categories: [ account ]
 ---
 TikTok作为一个全球性的短视频平台，以其独特的算法和广泛的用户基础，为创作者提供了展示自己的绝佳机会。然而，对于新手来说，快速涨粉可能会面临一些挑战。本文将介绍一些实用的技巧和方法，帮助你在TikTok上快速涨粉。

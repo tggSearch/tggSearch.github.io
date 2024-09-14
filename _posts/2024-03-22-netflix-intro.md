@@ -2,7 +2,7 @@
 layout: default
 title: Netflix：解锁全球内容的娱乐新选择，Netflix 三体如何观看
 description: Netflix 又叫做奈飞，是美国最大的流媒体平台，目前奈飞有一部电视剧是三体，而三体是国内的科幻小说，因此备受关注，很多人也想知道怎么才能访问 Netflix，其次还有如何开通Netflix会员是非常关键的。
-canonical_url: 'https://tggsearch.org/docs/netflix-intro.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/netflix-intro.html'
 categories: [ netflix ]
 ---
 随着互联网的普及和流媒体技术的发展，Netflix作为一项领先的在线流媒体服务，逐渐成为全球观众的首选娱乐平台。本文将介绍Netflix是什么、如何在中国大陆访问以及如何开通会员。

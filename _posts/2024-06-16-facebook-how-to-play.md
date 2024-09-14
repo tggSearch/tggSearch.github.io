@@ -2,7 +2,7 @@
 layout: default
 title: 	facebook怎么玩，玩法教程，一个小白如何玩facebook
 description: 本文提供全面的Facebook使用教程，适合新手用户。详细讲解如何创建Facebook账号、添加好友、发布动态、参与群组和活动，掌握隐私和安全设置。教你如何高效使用Facebook，了解Facebook群组、页面、消息和动态消息等功能，增强社交互动，保护账户安全。快速上手Facebook，享受社交媒体的乐趣，探索Facebook直播、Stories和Marketplace的实用技巧。
-canonical_url: 'https://tggsearch.org/docs/facebook-how-to-play.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/facebook-how-to-play.html'
 categories: [ facebook ]
 ---
 在当今数字化时代，社交媒体已成为人们沟通、娱乐和信息获取的重要平台。Facebook作为全球用户最多的社交网络，拥有超过20亿的月活跃用户，成为了许多人日常生活的一部分。对于刚接触Facebook的新手来说，如何高效使用这一平台，可能会感到一些困惑。本文将为您详细介绍如何开始使用Facebook，并掌握一些基础玩法，帮助你顺利融入这个社交网络。

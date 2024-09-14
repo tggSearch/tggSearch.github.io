@@ -2,7 +2,7 @@
 layout: default
 title: gmail在中国能用吗？gmail在中国使用教程
 description: 在中国使用Gmail可能受到限制，但通过VPN、代理服务器和Tor浏览器等方法可以绕过封锁，顺利访问Gmail。本文详细介绍了Gmail在中国的使用现状及具体操作教程，帮助用户在中国畅通无阻地使用Gmail，确保安全和隐私保护。了解更多关于如何在中国使用Gmail的方法，请阅读完整指南。
-canonical_url: 'https://tggsearch.org/docs/gmail-use-in-china.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/gmail-use-in-china.html'
 categories: [ gmail ]
 ---
 Gmail是谷歌公司推出的一款广受欢迎的电子邮件服务，拥有强大的功能和安全性。然而，由于中国的互联网政策，谷歌的许多服务，包括Gmail，在中国大陆是无法直接访问的。这意味着，如果你在中国大陆地区，想要直接使用Gmail，通常会遇到访问受限的情况。

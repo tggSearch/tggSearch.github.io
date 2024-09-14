@@ -2,7 +2,7 @@
 layout: default
 title: quantumultx教程，下载，配置教程和方法，教你快速使用
 description: QuantumultX 教程：提供详细的 QuantumultX 下载与配置教程，包括 QuantumultX 规则、自定义设置与代理节点配置。帮助用户快速掌握 QuantumultX 的使用方法，优化网络体验。了解更多关于 QuantumultX 的使用技巧与常见问题解决方法，确保你能顺利使用这款强大的 iOS 工具。关键词：QuantumultX 规则、QuantumultX 下载、QuantumultX 配置、QuantumultX 教程。
-canonical_url: 'https://tggsearch.org/docs/quantumultx-how-to-use.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/quantumultx-how-to-use.html'
 categories: [ account ]
 ---
 QuantumultX 是一款功能强大的网络工具，能够帮助用户在 iOS 设备上实现网络加速、广告过滤等功能。本文将详细介绍 QuantumultX 的下载与配置教程，让你快速上手使用这款应用。

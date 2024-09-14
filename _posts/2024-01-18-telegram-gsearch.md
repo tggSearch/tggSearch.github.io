@@ -2,7 +2,7 @@
 layout: default
 title: 电报超级索引｜telegram超级索引
 description: 电报超级索引，telegram超级索引机器人，有群也有机器人，群可以直接搜索 @chineseSearchService，机器人可以直接搜索 @ChineseMainSearchBot，可以帮你搜索到电报群、电报频道、电报各类稀缺资源、apk、音乐、开车群等等，应有尽有，那么这里就来详细介绍下这个电报超级索引该怎么用，有哪些服务功能。
-canonical_url: 'https://tggsearch.org/docs/telegram-gsearch.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-gsearch.html'
 categories: [ telegram ]
 ---
 超级索引电报群 [综合导航/电报群搜索/视频音乐搜索/频道搜索/币圈服务](./302.html?target=https://t.me/chineseSearchService)

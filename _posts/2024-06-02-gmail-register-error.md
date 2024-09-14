@@ -2,7 +2,7 @@
 layout: default
 title: gmail为什么注册不了，有哪些原因导致无法注册gmail
 description: 遇到Gmail注册问题？本文详细解析了无法注册Gmail的多种可能原因，包括网络连接问题、账户信息错误、地区限制及Google的反垃圾邮件措施等。提供实用的解决方案，帮助您顺利完成Gmail注册。
-canonical_url: 'https://tggsearch.org/docs/gmail-register-error.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/gmail-register-error.html'
 categories: [ gmail ]
 ---
 在尝试注册Gmail账户时，有时会遇到各种问题，导致无法顺利注册。这篇文章将详细探讨导致Gmail注册失败的常见原因，并提供解决方案，帮助您成功创建Gmail账户。

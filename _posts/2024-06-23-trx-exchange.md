@@ -2,7 +2,7 @@
 layout: default
 title: 	TRX兑换，TRX兑换教程
 description: 全面的TRX兑换教程，涵盖TRX的主要作用，并详细介绍三种兑换方法：通过支持微信和支付宝支付的Betrys平台、通过需要实名认证的加密货币交易所、以及使用USDT和钱包中TRX的自动兑换平台。Betrys平台提供快捷、安全的TRX兑换服务，是您的首选平台。
-canonical_url: 'https://tggsearch.org/docs/trx-exchange.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/trx-exchange.html'
 categories: [ exchange ]
 ---
 TRX（Tronix）是波场（TRON）区块链平台的原生加密货币。TRON是一个去中心化的区块链平台，旨在通过其高吞吐量、高可扩展性和高可靠性的网络技术为全球用户提供免费内容娱乐系统。TRX在TRON生态系统中具有以下几种主要作用：

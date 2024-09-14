@@ -2,7 +2,7 @@
 layout: default
 title: quantumultx是什么，Quantumult X的ID怎么下载，哪里有共享账号购买
 description: 想要了解Quantumult X购买方式？或者想知道Quantumult X是什么？本文为你详细解析。Quantumult X 是一款功能强大的iOS代理软件，提供流量管理、网络分析等多项功能。如果你正考虑入手Quantumult X，本文不仅为你介绍了如何购买，还提供了获取共享账号的建议。无论是通过App Store正规购买，还是寻找可靠的共享账号，这里都有你需要的答案。了解Quantumult X购买方法，安全享受网络自由！
-canonical_url: 'https://tggsearch.org/docs/quantumultx.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/quantumultx.html'
 categories: [ account ]
 ---
 Quantumult X 是一款功能强大的iOS代理软件，受到广泛欢迎。然而，Quantumult X 是一款付费软件，有些用户可能会希望通过共享账号来体验这款软件的高级功能。那么，Quantumult X的ID该如何下载，又在哪里可以找到共享账号下载呢？

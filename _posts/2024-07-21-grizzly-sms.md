@@ -2,7 +2,7 @@
 layout: default
 title: 接码平台，接码注册telegram、whatsapp、facebook
 description: 短信接码平台，优质接码，快速注册封号概率小，灰熊接码平台，可以注册telegram、whatsapp、facebook、tinder、amazon、tiktok和谷歌相关服务。
-canonical_url: 'https://tggsearch.org/docs/grizzly-sms.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/grizzly-sms.html'
 categories: [ account ]
 ---
 SMS 接码平台很多，但是要找到靠谱比较稳定的平台，有很多小众的接码平台，你充值后。发现很多账号都无法使用，或者被人注册了，或者被封号了，问题很多。因此找到稳定靠谱的接码平台就非常重要。

@@ -2,7 +2,7 @@
 layout: default
 title: 	欧易邀请码,okx邀请码(填写betrys)，欧易20%+返佣
 description: 欧易邀请码有什么用？欧易返佣邀请码 betrys，okx邀請碼，可以获得 20% 的返佣机会，并且此邀请码还有日常各种活动福利，需要邀请码的可以直接输入 betrys，也可以通过本站链接注册。
-canonical_url: 'https://tggsearch.org/docs/okx-invite-code.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/okx-invite-code.html'
 categories: [ exchange ]
 ---
 欧易(OKX)是全球领先的加密货币交易所之一，提供多种数字资产的交易服务。为了吸引新用户并鼓励现有用户推荐，欧易推出了邀请码制度。邀请码是一串独特的代码，用户可以在注册时输入，使用邀请码注册的新用户和推荐人都可以享受一定的返佣和其他优惠。

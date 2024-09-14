@@ -2,7 +2,7 @@
 layout: default
 title: 推特无法搜索｜此手机号无法注册｜推特为什么进不去
 description: 这里汇集推特常见的使用异常问题，包括：推特为什么搜索不了、推特为什么会提示敏感内容、twitter为什么打不开、推特注册时手机号无法注册、为什么推特看不了评论、为什么推特发不了帖子等等常见推特使用过程中的问题。
-canonical_url: 'https://tggsearch.org/docs/twitter-error.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-error.html'
 categories: [ twitter ]
 ---
 在推特使用过程中经常会出现一些问题，那么这里就汇总了一系列问题，并且提供了解决方案。

@@ -2,7 +2,7 @@
 layout: default
 title: 为什么gmail没有通知，怎么设置gmail提醒
 description: 如何在不同平台上设置 Gmail 通知提醒？本指南详细介绍了在 Chrome 浏览器、Android 手机和 iOS 设备上设置 Gmail 通知的步骤，帮助您解决 Gmail 没有通知的问题。通过正确配置 Gmail 和设备设置，确保您不会错过任何重要邮件通知，提高工作效率。立即阅读，掌握 Gmail 提醒设置技巧！
-canonical_url: 'https://tggsearch.org/docs/gmail-no-tips.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/gmail-no-tips.html'
 categories: [ gmail ]
 ---
 Gmail 是许多人日常生活和工作中不可或缺的一部分。然而，有时候我们会发现 Gmail 没有如期发送通知，这可能会影响我们的工作效率和及时回复重要邮件的能力。本文将探讨 Gmail 通知可能失效的原因，并详细介绍如何在不同平台（如 Chrome 浏览器和手机应用）中设置 Gmail 提醒。

@@ -2,7 +2,7 @@
 layout: default
 title: 比特币做空，比特币做多，做空做多爆仓是什么意思？
 description: 比特币如何做空？如何做多？做空做多的爆仓是什么意思，为什么会出现做多做空的爆仓，应该去哪里玩比特币的做空做多？
-canonical_url: 'https://tggsearch.org/docs/btc-short-selling.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/btc-short-selling.html'
 categories: [ exchange ]
 ---
 当谈到比特币交易时，经常会听到一些术语，如“做空”和“做多”，以及“爆仓”。这些术语是在描述不同的交易策略和可能的结果。让我们逐一解释它们的含义。

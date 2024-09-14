@@ -2,7 +2,7 @@
 layout: default
 title: 海外网赚项目｜科学家技术必备的平台资源
 description: 接码短信平台、海外各类账号购买、VPN 免费资源、海外会员共享、各类刷粉、刷赞、刷评论平台
-canonical_url: 'https://tggsearch.org/docs/high-end-info.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/high-end-info.html'
 categories: [ account ]
 ---
 在互联网是否能赚钱？答案是肯定的，但是怎么去赚呢？你需要了解很多资源，没有资源你就没办法去赚钱，因此要掌握互联网的很多资源，通过资源利用去赚钱才是最大的方法，这里就给大家提供各种资源，帮助大家可以获得很多利润，复杂的工作，因为你有这些平台而变的简单。

@@ -2,7 +2,7 @@
 layout: default
 title: 推特粉丝购买，推特涨粉技巧，推特刷粉
 description: 推特的粉丝如何初始购买，twitter粉丝购买方法，買twitter粉絲方法，购买后如何运营获得更多用户的关注，这里面的技巧都是非常多的。今天就教大家一些可以用的小技巧，帮你快速的涨粉，或许一天就可以涨粉。
-canonical_url: 'https://tggsearch.org/docs/twitter-fans.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-fans.html'
 categories: [ twitter ]
 ---
 在很多平台都会教大家一些怎么吸粉的方法，但是很多都不一定可实践，即使实践了也不一定有效果。

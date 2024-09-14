@@ -2,7 +2,7 @@
 layout: default
 title:  安卓修改手机定位，修改定位软件
 description: 在实际的营销生活过程中，我们常常需要一些修改定位的需求，特别是android 定位修改需求，陌陌修改定位、小红书修改定位、抖音修改定位、微信&qq修改定位都有需求，因此找到一款能修改定位的软件是非常重要的，那么这种软件去哪里找呢？
-canonical_url: 'https://tggsearch.org/docs/change-location.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/change-location.html'
 categories: [ account ]
 ---
 在现代社会，智能手机已经成为我们生活中不可或缺的一部分。其中，定位功能为我们提供了便捷的导航、地图、社交媒体等服务。然而，有时我们可能需要修改手机的定位信息，可能是出于隐私保护、测试应用程序功能或者其他目的。在本文中，我们将介绍如何修改Android设备的定位信息，以及一些常用的修改定位软件。

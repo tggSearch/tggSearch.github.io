@@ -2,7 +2,7 @@
 layout: default
 title: 社工库查询，社工库是什么？暗网社工库查询
 description: 社工库是指存储着各种个人信息的数据库，那么怎么查询社工库呢？是不是一定需要暗网才能查询，那么暗网社工库查询方法是什么呢？通常用于进行社会工程攻击或者调查。社会工程是指利用心理学和欺骗技巧来获取目标个人信息的行为。社工库的存在引发了人们对个人隐私和信息安全的担忧，也促使了对于个人信息保护的重视和探讨。
-canonical_url: 'https://tggsearch.org/docs/social-engineering-database.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/social-engineering-database.html'
 categories: [ account ]
 ---
 目前很多人还是非常好奇什么是社工库的，既然社工库这么多人好奇，今天我们就带大家来揭秘这个神奇的东西。

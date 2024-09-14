@@ -2,7 +2,7 @@
 layout: default
 title: telegram机器人，Telegram API，telegram api申请教程
 description: 本教程详细介绍了如何申请成为Telegram开发者，涵盖了从创建Telegram账号和机器人到使用Telegram Bot API和MTProto API的全部过程。通过本教程，你将学会设置Webhooks、处理消息、以及使用Python库Telethon与Telegram API进行交互，为你开发Telegram应用提供全面的指导。无论是初学者还是有经验的开发者，本教程都是快速上手Telegram开发的最佳指南。
-canonical_url: 'https://tggsearch.org/docs/telegram-dev.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-dev.html'
 categories: [ telegram ]
 ---
 Telegram是一款流行的即时通讯应用程序，以其安全性和灵活性著称。对于开发者来说，Telegram提供了强大的API和Bot（机器人）功能，允许创建丰富的互动体验。本教程将指导你如何申请成为Telegram开发者，并详细介绍如何创建和使用Telegram机器人和API。

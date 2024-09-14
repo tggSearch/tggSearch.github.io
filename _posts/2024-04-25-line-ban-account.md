@@ -2,7 +2,7 @@
 layout: default
 title: line为什么会被封？被封后如何解封？
 description: line在东南亚是非常流行的一款社交软件，但是在使用 line 的过程中由于某些原因触犯到了平台规范会导致账号被封禁的可能，那么哪些情况下可能导致line被封呢？如果被封了，我们又应该如何来解封呢？
-canonical_url: 'https://tggsearch.org/docs/line-ban-account.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/line-ban-account.html'
 categories: [ line ]
 ---
 在当今数字化社会中，通讯应用程序已经成为人们生活中不可或缺的一部分。然而，有时候这些应用程序可能会面临被封的风险，其中包括像Line这样的应用。Line是一款流行的即时通讯应用程序，但它也可能受到各种各样的封锁或限制。那么，Line为什么会被封？被封后又该如何解封呢？

@@ -2,7 +2,7 @@
 layout: default
 title: 狗狗币和比特币，狗狗币和比特币的区别
 description: 探索狗狗币和比特币的区别，以及狗狗币与马斯克的关系。了解狗狗币在哪里购买和如何购买，以做出明智的加密货币投资决策。
-canonical_url: 'https://tggsearch.org/docs/btc-doge-diff.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/btc-doge-diff.html'
 categories: [ exchange ]
 ---
 狗狗币（Dogecoin）和比特币（Bitcoin）都是备受关注的加密货币，但它们之间有着显著的区别。本文将探讨狗狗币和比特币之间的不同之处，以及它们的特点和应用场景。

@@ -2,7 +2,7 @@
 layout: default
 title: 电报 telegram 收不到验证码解决方案 
 description: telegram 电报无法收到验证码解决方案合集，包含了多种自查方案，帮你自行排查无法收到验证码问题，其次我们也支持人工付费解决，不解决不收费，帮你找回你的telegram 的账号。
-canonical_url: 'https://tggsearch.org/docs/telegram-has-no-sms-code.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-has-no-sms-code.html'
 categories: [ telegram ]
 pin: true
 ---

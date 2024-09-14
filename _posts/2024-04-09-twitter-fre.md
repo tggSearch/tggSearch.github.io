@@ -2,7 +2,7 @@
 layout: default
 title: twitter超过频率限制
 description: twitter超过频率限制解决方案，推特超过频率限制怎么解决，推特超过频率限制请稍后再试，如何解决超过频率限制问题，能够查看刷到更多的twitter内容。
-canonical_url: 'https://tggsearch.org/docs/twitter-fre.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-fre.html'
 categories: [ twitter ]
 ---
 马斯克接管托特后，对于推特从上到下做了大刀阔斧的改革，其中一个改动，马斯克发文表示，为了应对推特被抓取数据和系统操纵的问题，推特暂时开启了浏览限制，普通账户每天只能刷1000条推文，新账户每天500条推文。

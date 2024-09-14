@@ -2,7 +2,7 @@
 layout: default
 title: 电报中文版，电报群中文切换、电报汉化教程，telegram 中文
 description: telegram中文版，电报怎么设置中文？telegram中文版下载，telegram设置中文方法，电报中文版，telegram翻译桌面版，电报没有中文的解决教程，电报怎么翻译成中文教程，Telegram 翻译桌面版，电报切换中文教程，切换简体中文教程。
-canonical_url: 'https://tggsearch.org/docs/telegram-cn.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-cn.html'
 categories: [ telegram ]
 ---
 电报telegram怎么设置为中文，telegram 电报中文版哪里下载，苹果、安卓怎么切换中文简体？其次与国外用户聊天，发的是英文或者其他语言，怎么进行交流，怎么能看懂他们发的内容消息。怎么把聊天消息也翻译成中文，有这些疑问，就对了，这篇文章可以帮你解决。

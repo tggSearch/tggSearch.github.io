@@ -2,7 +2,7 @@
 layout: default
 title: 币圈导航，币圈电报群，币圈各大交易所返佣导航
 description: 欧易返佣，币安返佣，火币返佣，bitget返佣，gateio返佣，币圈电报群，欧易电报群，币安电报群，火币电报群，bitget电报群，gateio电报群。币圈各大功能教程导航，例如合约玩法，充提 USDT 教程等。查看加密货币交易所排名，根据用户评价和交易量挑选您信赖的交易平台。
-canonical_url: 'https://tggsearch.org/docs/coins-index.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/coins-index.html'
 locale: zh_CN
 categories: [ exchange ]
 ---

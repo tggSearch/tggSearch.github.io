@@ -2,7 +2,7 @@
 layout: default
 title: Twitter 推特无法搜索，搜索提示内部错误怎么解决？
 description: 推特经常会遇到一些搜索异常问题，比如搜索无结果，无法搜索，搜索提示内部错误等等的问题，今天我们就简单说一下里面问题解决方案
-canonical_url: 'https://tggsearch.org/docs/twitter-search.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-search.html'
 categories: [ twitter ]
 ---
 推特搜索目前是比较弱的，很多时候你不一定搜索出来你要的资源，但是搜索无结果和搜索异常是两回事，一般会有如何几种问题：

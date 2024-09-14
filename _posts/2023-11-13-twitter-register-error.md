@@ -2,7 +2,7 @@
 layout: default
 title: 推特twitter注册显示错误｜推特twitter错误请重试终极解决方案
 description: 推特twitter错误请重试，推特创建账号出错，提示手机号无法注册，推特有些不对劲，twitter出错了请稍后再试，推特无法查看，推特出错了但别担心这不是你的错怎么办，注册后立马被封禁原因分析，推特停留在查看世界正在发生的事情等的解决方案
-canonical_url: 'https://tggsearch.org/docs/twitter-register-error.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-register-error.html'
 categories: [ twitter ]
 pin: true
 ---

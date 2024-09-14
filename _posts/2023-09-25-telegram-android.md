@@ -2,7 +2,7 @@
 layout: default
 title: 电报注册教程，telegram apk 下载，telegram安卓下载
 description: 电报怎么注册，电报安卓最新版本下载，电报安卓下载注册教程，电报安卓常见问题，鸿蒙系统华为解决方案，电报apk下载地址
-canonical_url: 'https://tggsearch.org/docs/telegram-android.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-android.html'
 categories: [ telegram ]
 ---
 整理分为 4 个大步骤

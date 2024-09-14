@@ -2,7 +2,7 @@
 layout: default
 title: Twitter 推特在哪里下载｜推特账号购买｜苹果&安卓如何下载推特教程
 description: Twitter 怎么下载教程，以及如何注册，如果注册一直失败怎么购买，推特安卓包、苹果下载方式，Twitter下载iOS，Twitter 下载安卓，Twitter 注册，底部有推特福利账号，下载完成后账号购买方法。
-canonical_url: 'https://tggsearch.org/docs/twitter-download.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-download.html'
 categories: [ twitter ]
 ---
 Twitter 下载方法很多，但是很多人也会遇到问题，比如下载的是不安全不正版的 Twitter ，或者无法下载最新的版本，等等问题，今天就给大家一个指引，能够找到最新最官方的版本。请特别注意这些网站都需要用梯子才能打开，如果你没有梯子，请前往这里查看并下载安装 [免费 VPN 翻墙爬梯子教程，免费翻墙软件，小火箭下载](./vpn-kl.html)

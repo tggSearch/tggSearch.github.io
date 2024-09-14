@@ -2,7 +2,7 @@
 layout: default
 title: 永续合约怎么玩？欧易合约怎么玩，小白玩法教程
 description: 欧易币安的永续合约怎么玩，永续合约是什么，永續合約玩法，币圈的永续合约是目前币圈交易量最大的衍生品，里面包含了很多知识点，比如费率、逐仓、止盈、止损等等，要清楚了解这些你才能避免爆仓。
-canonical_url: 'https://tggsearch.org/docs/coins-yx-play.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/coins-yx-play.html'
 categories: [ exchange ]
 pin: true
 ---

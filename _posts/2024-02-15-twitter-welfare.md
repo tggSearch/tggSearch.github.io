@@ -2,7 +2,7 @@
 layout: default
 title: Twitter 福利账号，推特资源精选
 description: 推特要想找到一些好的资源，比如女优资源、个人福利账号、微密 & onlyfans & sm等圈子账号以及cosplay账号和黄推账号，需要花费点时间，但是作为男生，我们这里精选了一批男生福利账号，当然不仅仅是黄推账号了，我们还有各种其他的福利账号。
-canonical_url: 'https://tggsearch.org/docs/twitter-welfare.html'
+canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-welfare.html'
 categories: [ twitter ]
 ---
 里面应有尽有，当然大部分是男生福利账号，女生也是可以看的，相信有一些女生也是喜欢的。请注意下面的账号有一部分可能是素材引流账号，涉及金钱交易请慎重，这里不保证下面的账号是真人账号，这里也没有进行认证。
