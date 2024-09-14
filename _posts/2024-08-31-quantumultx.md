@@ -13,7 +13,7 @@ Quantumult X 是一款功能强大的iOS代理软件，受到广泛欢迎。然�
 2. 接下来需要输入进入网站的密码，这里直接输入了是 5213 ，如下图所示：
 
 <div align=center>
-    <img alt="ios-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-password.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-password.webp'" />
+    <img alt="ios-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-buy-password.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-password.webp'" />
 </div>
 
 输入完成后，点击右侧的眼睛，就可以进入网站了。

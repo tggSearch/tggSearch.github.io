@@ -46,7 +46,7 @@ pin: true
 4. 这时候会在任务栏有一个vpn标识就算成功了；
 
 看不懂的可以看图片教程
-![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/ios-register.webp)
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/ios-register.webp)
 ## 打开梯子测试
 大家可以把梯子连接打开，如果显示数据0，可以切换节点，大家一定要记得切换节点
 然后打开任意浏览器，看看是否能打开 [https://www.google.com](./302.html?target=https://www.google.com) 如果打不开说明梯子配置还有问题。

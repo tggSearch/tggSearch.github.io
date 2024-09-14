@@ -18,7 +18,7 @@ categories: [ account ]
 接下来需要输入进入网站的密码，这里直接输入 5213 ，如下图所示：
 
 <div align=center>
-    <img alt="ios-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-password.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-password.webp'" />
+    <img alt="ios-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-buy-password.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-password.webp'" />
 </div>
 
 输入完成后，点击右侧的眼睛，就可以进入网站了。
@@ -27,20 +27,20 @@ categories: [ account ]
 以上是所有的苹果的礼品卡，这里大家根据自己的需求下单，别下单错了，因为里面有每个地区的礼品卡，有区分的，因此根据你自己的苹果账号的地区选择，比如香港、美国、日本的。
 
 <div align=center>
-    <img alt="apple-gift-card-goods-list" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/apple-gift-card-goods-list.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/apple-gift-card-goods-list.webp'" />
+    <img alt="apple-gift-card-goods-list" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/apple-gift-card-goods-list.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/apple-gift-card-goods-list.webp'" />
 </div>
 
 #### 支付获取账号
 这里大家点击进入商品下单页面，然后需要填写一个邮箱来接收你的账号，然后点击下单
 
 <div align=center>
-    <img alt="apple-gift-card-order" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/apple-gift-card-order.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/apple-gift-card-order.webp'" />
+    <img alt="apple-gift-card-order" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/apple-gift-card-order.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/apple-gift-card-order.webp'" />
 </div>
 
 点击下单就会弹出支付，这时候你需要选择一种支付方式，你可以选择支付宝、微信或者虚拟货币支付都行。
 
 <div align=center>
-    <img alt="ios-buy-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-pay.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-pay.webp'" />
+    <img alt="ios-buy-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-buy-pay.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-pay.webp'" />
 </div>
 
 但是后面两者都有支付手续费 8% ，这里就看你自己选择了，价格相对便宜，所以 8% 也不会有多少钱。

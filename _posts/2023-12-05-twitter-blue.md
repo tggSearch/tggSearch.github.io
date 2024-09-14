@@ -30,16 +30,16 @@ X blue 目前的费用是一年大概是 660 HK$，这算人民币大概就是 6
 
 以上是一个全部的特权：
 <div align=center>
-    <img alt="twitter-premium" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-premium-1.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/twitter-premium-1.webp'" />
-    <img alt="twitter-premium" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-premium-2.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/twitter-premium-2.webp'" />
-    <img alt="twitter-premium" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-premium-3.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/twitter-premium-3.webp'" />
+    <img alt="twitter-premium" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-premium-1.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/twitter-premium-1.webp'" />
+    <img alt="twitter-premium" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-premium-2.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/twitter-premium-2.webp'" />
+    <img alt="twitter-premium" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-premium-3.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/twitter-premium-3.webp'" />
 </div>
 
 ### 如何开通
 如果你有 VISA 卡，那就非常简单了，直接在 twitter 菜单中找到 `premium` 然后选择个人进行支付，进入支付页面，如下：
 
 <div align=center>
-    <img alt="twitter-blue-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-blue-visa.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-blue-visa.webp'" />
+    <img alt="twitter-blue-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-blue-visa.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-blue-visa.webp'" />
 </div>
 
 选择代开服务，代开的话一般都比网页上开通会贵一些，这种你直接去谷歌搜索一下代开服务就行了。

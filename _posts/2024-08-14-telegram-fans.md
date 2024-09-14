@@ -16,7 +16,7 @@ Telegram频道可以为你的业务或个人品牌带来巨大的曝光机会。
 进入商品详情以后，就可以看到下面这个商品详情的图了
 
 <div align=center>
-    <img alt="telegram-fans-detail" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-fans-detail.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-fans-detail.webp'" />
+    <img alt="telegram-fans-detail" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-fans-detail.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-fans-detail.webp'" />
 </div>
 
 这里需要注意的是要填写你的邮箱地址和你要刷的telegram的群或者频道的地址，填写好以后就下单就会进入支付流程。
@@ -25,7 +25,7 @@ Telegram频道可以为你的业务或个人品牌带来巨大的曝光机会。
 接下来就可以选择你要的支付方式了，注意这里微信和支付宝都有手续费，usdt 是不需要手续费的
 
 <div align=center>
-    <img alt="ios-buy-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-pay.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-pay.webp'" />
+    <img alt="ios-buy-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-buy-pay.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-pay.webp'" />
 </div>
 
 就看你们自己选择支付方式了

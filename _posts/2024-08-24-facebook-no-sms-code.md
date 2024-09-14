@@ -19,13 +19,13 @@ facebook作为一款海外比较火的社交软件，但是在国内目前是存
 接下来大家正常打开 facebook 的官网，然后使用你的邮箱或者手机号登录，登录后，你会看到一个提示需要你输入你手机号的验证码，然后有一个可以切换的方法，也是一样无法收到验证码，这时候系统就可以让你切换为 whatsapp 来收验证码，比如下图这样。
 
 <div align=center>
-    <img alt="facebook-no-sms-code" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/facebook-no-sms-code.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/facebook-no-sms-code.webp'" />
+    <img alt="facebook-no-sms-code" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/facebook-no-sms-code.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/facebook-no-sms-code.webp'" />
 </div>
 
 接下来你就会在 whatsapp 中收到一条下面这样的短信，正常输入进 facebook 的验证码校验框，你就可以正常登录了。
 
 <div align=center>
-    <img alt="facebook-no-sms-code-whatsapp" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/facebook-no-sms-code-whatsapp.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/facebook-no-sms-code-whatsapp.webp'" />
+    <img alt="facebook-no-sms-code-whatsapp" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/facebook-no-sms-code-whatsapp.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/facebook-no-sms-code-whatsapp.webp'" />
 </div>
 
 好了以上就是解决 facebook 无法收到验证码，无法登录的处理办法，你学会了吗？如果你还不会可以右下角联系我们技术客服，我们可以付费协助你处理解决这个问题。

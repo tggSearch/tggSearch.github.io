@@ -15,7 +15,7 @@ categories: [ youtube ]
 Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜索到非常多的音乐版权歌曲，而且很多还有串烧，也就是你可以一直听，比如这里我们之间搜索音乐串烧 <b>音乐串烧2023</b> 在下面你就可以看到很多歌曲了。
 
 <div align=center>
-    <img alt="youtube-music" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/youtube-music-cs.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/youtube-music-cs.webp'" />
+    <img alt="youtube-music" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube-music-cs.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/youtube-music-cs.webp'" />
 </div>
 
 ### 福利账号列表推荐
@@ -41,7 +41,7 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 在国内目前比较火热的短剧，其实在 Youtube 上都有，只要你在抖音看到这类短剧，然后直接 Youtube 上搜索你就可以发现很多，而且都是免费的，完全不需要付费，比如前段时间我看的 <b>战帝的冰山美女老婆</b>
 
 <div align=center>
-    <img alt="youtube-dy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/youtube-dy.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/youtube-dy.webp'" />
+    <img alt="youtube-dy" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube-dy.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/youtube-dy.webp'" />
 </div>
 
 ### 情感交友
@@ -51,7 +51,7 @@ Youtube 基本购买了所有音乐的版本，因此你在 Youtube 上可以搜
 如果你是来学习的也是有很多的，比如练习你的英文听力，里面就很多这种资源，比如下面我搜索到的资源，当然还有其他的很多教学资源，就看你自己搜索了。
 
 <div align=center>
-    <img alt="youtube-english" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/youtube-english.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/youtube-english.webp'" />
+    <img alt="youtube-english" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/youtube-english.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/youtube-english.webp'" />
 </div>
 
 ### 影片介绍

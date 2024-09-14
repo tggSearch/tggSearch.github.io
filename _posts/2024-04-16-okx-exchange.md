@@ -48,7 +48,7 @@ categories: [ exchange ]
 首先第一步，我们先在欧易的搜索框里面搜索你需要操作的币种的永续合约，比如这里我们搜索以太坊也就是 ETH
 
 <div align=center>
-    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx-exchange-1.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-1.webp'" />
+    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/okx-exchange-1.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-1.webp'" />
 </div>
 
 在上面图中，我们找到红色框部分的 ETHUSDT 永续，这个因为我们的资金大部分都是 USDT，所以选择这个交易对，然后一定是合约里面的永续。
@@ -57,14 +57,14 @@ categories: [ exchange ]
 第二步进行交易对的详情页面，关注下最上面是 ETHUSDT永续交易对，这个界面的目的是让你看各项数据指标的，每个数据指标都有非常大的参考意义，这部分是需要大家自己去学习的，特别重要，确认这个以后，直接点击下方的交易，进入交易界面。
 
 <div align=center>
-    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx-exchange-2.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-2.webp'" />
+    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/okx-exchange-2.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-2.webp'" />
 </div>
 
 #### 进入交易界面执行交易
 第三步进入交易界面，点击了交易后，就会进入下面这个界面，在这个界面中有非常多的项要详细说明的。
 
 <div align=center>
-    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx-exchange-3.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-3.webp'" />
+    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/okx-exchange-3.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-3.webp'" />
 </div>
 
 **全仓**，第一个概念全仓，点击下拉会有一个逐仓，那么全仓和逐仓的概念就是一个是全部资金操作，一个是划分部分资金来操作，全仓的好处就是爆仓点相对较高，逐仓的好处在于资金损失有限，不会导致全部爆仓。
@@ -78,19 +78,19 @@ categories: [ exchange ]
 **开多**，价格里面已经说明了开多开空，那么这里我们可以i看下我的开多的挂单情况，下图就是低于当前价格进行开多，因此会等待成交。
 
 <div align=center>
-    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx-exchange-5.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-5.webp'" />
+    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/okx-exchange-5.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-5.webp'" />
 </div>
 
 **开空**，下图就是高于当前价格开空，也会等待成交。
 
 <div align=center>
-    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx-exchange-4.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-4.webp'" />
+    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/okx-exchange-4.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-4.webp'" />
 </div>
 
 **仓位&平仓**，为了给大家演示，我直接买入了，然后我们可以看下，当前开空卖出了 0.1个 ETH，那么我的资产就是 -308.328，我只有 20 美金的保证金，因此这里的仓位会提示我的爆仓价格，比如下图
 
 <div align=center>
-    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/okx-exchange-6.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-6.webp'" />
+    <img alt="okx-exchange" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/okx-exchange-6.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/okx-exchange-6.webp'" />
 </div>
 
 在上图中，我们可以看到预估强平价格，因为我只有 20美金的保证金，因此假设价格到了 3267.95，那么我的损失金额就是

@@ -19,20 +19,20 @@ telegram上鱼龙混杂，并且国内经常会宣扬说警方和进行排查处
 2. 打开网页后，输入你的手机号进行登录，注意这里的手机号要加国家区号，例如中国大陆就是 +86，香港就是 +852;
 3. 输入完成后，点击 next，比如下图这里；
 <div align=center>
-    <img alt="telegram-delete-account-login" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-delete-account-login.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-login.webp'" />
+    <img alt="telegram-delete-account-login" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-delete-account-login.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-login.webp'" />
 </div>
 4. 这时候你在手机或者桌面或者其他登录的 telegram中，会有一个下面这样的提示
 <div align=center>
-    <img alt="telegram-delete-account-code" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-delete-account-code.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-code.webp'" />
+    <img alt="telegram-delete-account-code" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-delete-account-code.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-code.webp'" />
 </div>
 5. 接下来直接拿这个验证码登录，登录成功后，就可以看到下面这样的界面了。
 <div align=center>
-    <img alt="telegram-delete-account-main" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-delete-account-main.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-main.webp'" />
+    <img alt="telegram-delete-account-main" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-delete-account-main.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-main.webp'" />
 </div>
 6. 点击里面的 delete account，进入注销界面；
 7. 在注销界面，你要确认好信息，确认无误后，点击最后的 delete my account 就完成了。
 <div align=center>
-    <img alt="telegram-delete-account-last" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-delete-account-last.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-last.webp'" />
+    <img alt="telegram-delete-account-last" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-delete-account-last.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-delete-account-last.webp'" />
 </div>
 
 ### 存在的问题（以上流程卡住）

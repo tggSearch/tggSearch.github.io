@@ -16,7 +16,7 @@ categories: [ twitter ]
 接下来需要输入进入网站的密码，这里直接说明了是 5213 ，如下图所示：
 
 <div align=center>
-    <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-password.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-password.webp'" />
+    <img alt="twitter-buy-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-buy-password.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-password.webp'" />
 </div>
 
 输入完成后，点击右侧的眼睛，就可以进入网站了。
@@ -25,13 +25,13 @@ categories: [ twitter ]
 打开网站后，会自动跳转到推特账号购买的下单页面，比如
 
 <div align=center>
-    <img alt="twitter-buy-order" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-order.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-order.webp'" />
+    <img alt="twitter-buy-order" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-buy-order.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-order.webp'" />
 </div>
 
 在这里你需要填写一下你的邮箱，因为避免下单后你找不到订单，接下来直接点击下单，这时候会弹出付款方式，你可以选择支付宝、微信或者虚拟货币支付都行。
 
 <div align=center>
-    <img alt="twitter-buy-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-buy-pay.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-pay.webp'" />
+    <img alt="twitter-buy-pay" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-buy-pay.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-buy-pay.webp'" />
 </div>
 
 但是后面两者都有支付手续费 8% ，这里就看你自己选择了，价格相对便宜，所以 8% 也不会有多少钱。

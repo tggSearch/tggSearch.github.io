@@ -30,7 +30,7 @@ categories: [ telegram ]
 6. **启动软件**，选择后回到（小火箭 Clash）首页，选择“点击启动”，就可以启动了，启动后，有一个代理的按钮，你可以进去最好选择香港节点；
 
 看不懂的可以看图片教程
-![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/android-register.webp)
+![注册教程](https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/android-register.webp)
 
 ## 电报飞机应用下载
 首先打开我们上面的梯子， 
