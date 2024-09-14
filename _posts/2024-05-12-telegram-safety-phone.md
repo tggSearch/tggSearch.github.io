@@ -25,13 +25,13 @@ categories: [ telegram ]
 以上就完成了基本的隐私设置了，配置要配置如下图这样才算可以。
 
 <div align=center>
-    <img alt="telegram-safety-phone-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-safety-phone-config.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-safety-phone-config.webp'" />
+    <img alt="telegram-safety-phone-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-safety-phone-config.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-safety-phone-config.webp'" />
 </div>
 
 接下来还需要注意的就是，当你在添加其他人为好友时，一般默认共享手机号给对方，这里你们添加别人的时候最好也关闭这个共享手机号的功能，例如下面这个选择，一定不要打开。
 
 <div align=center>
-    <img alt="telegram-safety-phone-add" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-safety-phone-add.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-safety-phone-add.webp'" />
+    <img alt="telegram-safety-phone-add" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-safety-phone-add.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-safety-phone-add.webp'" />
 </div>
 
 这样操作完成后就完成了整个手机号隐藏的隐私设置了，更多  telegram 的教程与知识，请关注我们的 Youtube ，[Youtube 软件分析师](./302.html?target=https://www.youtube.com/@aiDigitalMan)

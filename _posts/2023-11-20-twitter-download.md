@@ -11,25 +11,25 @@ Twitter 下载方法很多，但是很多人也会遇到问题，比如下载的
 <div class='icon-block-body-four'>
   <div class='icon-block-item'>
     <a href="./302.html?target=https://twitter.cn.uptodown.com/android/download" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter.png" alt="Twitter安卓版本" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter.png" alt="Twitter安卓版本" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
         <p>安卓下载</p>
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="./302.html?target=https://x.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter.png" alt="Twitter官网" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter.png" alt="Twitter官网" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
         <p>官网</p>
     </a>
   </div>
     <div class='icon-block-item'>
     <a href="./302.html?target=https://twitter.com/idanhua" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter.png" alt="电报网页版" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter.png" alt="电报网页版" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
         <p>关注我们</p>
     </a>
   </div>
    <div class='icon-block-item'>
     <a href="./302.html?target=http://tggsearch.shop?from=10664&cid=25&mid=56" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter.png" alt="推特账号购买" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
+        <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter.png" alt="推特账号购买" height=50px onerror="this.onerror=null;this.src='/assets/img/twitter.png'">
         <p>账号购买</p>
     </a>
   </div>

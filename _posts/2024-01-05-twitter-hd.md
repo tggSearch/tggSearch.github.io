@@ -12,19 +12,19 @@ categories: [ twitter ]
 第二步：在左侧菜单栏中找到 <b>更多选项</b>，然后选择 <b>设置与隐私</b>，如下图所示：
 
 <div align=center>
-    <img alt="twitter-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-hd-config.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-hd-config.webp'" />
+    <img alt="twitter-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-hd-config.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-hd-config.webp'" />
 </div>
 
 第三步：在设置里面找到 <b>辅助功能、显示和语言</b>，然后点击找到 <b>数据使用</b>
 
 <div align=center>
-    <img alt="twitter-hd-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-hd-setting.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-hd-setting.webp'" />
+    <img alt="twitter-hd-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-hd-setting.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-hd-setting.webp'" />
 </div>
 
 第四步：在数据使用情况里面，把流量节省程序关闭，如下面这样就可以了。
 
 <div align=center>
-    <img alt="twitter-hd-high" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-hd-high.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-hd-high.webp'" />
+    <img alt="twitter-hd-high" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-hd-high.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/twitter-hd-high.webp'" />
 </div>
 
 第五步：重新刷新推特的网页就可以了看高清视频了。
@@ -33,25 +33,25 @@ categories: [ twitter ]
 第一步：打开推特 APP，选择 <b>设置与隐私</b>
 
 <div align=center>
-    <img alt="twitter-app-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-app-hd-config.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-config.webp'" />
+    <img alt="twitter-app-hd-config" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-app-hd-config.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-config.webp'" />
 </div>
 
 第二步：在设置里面找到 <b>辅助功能、显示和语言</b>
 
 <div align=center>
-    <img alt="twitter-app-hd-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-app-hd-setting.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-setting.webp'" />
+    <img alt="twitter-app-hd-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-app-hd-setting.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-setting.webp'" />
 </div>  
 
 第三步：在辅助功能、显示和语言中找到 <b>数据使用</b>
 
 <div align=center>
-    <img alt="twitter-app-hd-high-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-app-hd-high-1.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-high-1.webp'" />
+    <img alt="twitter-app-hd-high-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-app-hd-high-1.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-high-1.webp'" />
 </div>
 
 第四步：这里就像下面这个图片一样设置 
 
 <div align=center>
-    <img alt="twitter-app-hd-high-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/twitter-app-hd-high-2.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-high-2.webp'" />
+    <img alt="twitter-app-hd-high-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/twitter-app-hd-high-2.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/twitter-app-hd-high-2.webp'" />
 </div>
 
 第五步：重新打开推特的 APP 就可以了看高清视频了。

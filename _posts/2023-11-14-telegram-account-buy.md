@@ -10,7 +10,7 @@ categories: [ telegram ]
 
 如果你嫌注册麻烦，或者新号，容易被封禁的问题，你可以购买一个，目前的价格是 25元一个，可以前往电报频道下单，[https://t.me/fjzhgxp](./302.html?target=https://t.me/fjzhgxp) 无法电报联系，请右下角聊天窗口联系，或者首页加一下技术客服的 QQ 1702242347，加了没同意，请加 2928893676
 <div align=center>
-    <img alt="频道信息" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/account-buy.webp" height=200px onerror="this.onerror=null;this.src='/assets/img/account-buy.webp'" />
+    <img alt="频道信息" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/account-buy.webp" height=200px onerror="this.onerror=null;this.src='/assets/img/account-buy.webp'" />
 </div>
 
 ### SMS-接码平台自行注册
@@ -20,8 +20,8 @@ categories: [ telegram ]
 注册教程可以参考这里 [sms activate 注册教程](./receive-code.html)
 
 <div align=center  style="display: flex">
-    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/sms-1.webp" height=400px onerror="this.onerror=null;this.src='/assets/img/sms-1.webp'" />
-    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/sms-2.webp" height=400px onerror="this.onerror=null;this.src='/assets/img/sms-2.webp'" />
+    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/sms-1.webp" height=400px onerror="this.onerror=null;this.src='/assets/img/sms-1.webp'" />
+    <img style="flex: 1;text-align: center;object-fit: cover;" alt="sms2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/sms-2.webp" height=400px onerror="this.onerror=null;this.src='/assets/img/sms-2.webp'" />
 </div>
 
 这个价格大家自己计算一下，比如上面的 telegram 价格是 15卢布，那么换算成 rmb 就是 1.19元，是不是超级便宜？更别说下面的其他账号的了，比如 twitter 才 1卢布。

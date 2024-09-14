@@ -20,7 +20,7 @@ async function processFilesInDirectory(directoryPath) {
             // 使用正则表达式进行替换
             content = content.replace(
                 /<img\s*([^>]*)src="https:\/\/cdn\.jsdelivr\.net\/gh\/[^\/]+\/[^\/]+\/assets\/img\/([^"]+)"([^>]*)>/g,
-                '<img $1src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/$2"$3 onerror="this.onerror=null;this.src=\'/assets/img/$2\'">'
+                '<img $1src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/$2"$3 onerror="this.onerror=null;this.src=\'/assets/img/$2\'">'
             );
 
             // 写入替换后的内容到文件中

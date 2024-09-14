@@ -16,7 +16,7 @@ Telegram 是一款以隐私保护和安全性著称的即时通讯应用，然�
 这种是比较常见的，泄漏的是短信验证码或者telegram的设备码，短信验证码可能大家都已经警惕性比较高了，不会轻易泄漏，但是设备验证码因为发送的是英文，很多人看不懂，就直接截图发给别人了，导致被盗，就像下面这样的截图，很多人是看不懂的，所以就简单的直接截图发送给别人，从而导致账号被盗。
 
 <div align=center>
-    <img alt="telegram-login-code" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-login-code.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-login-code.webp'" />
+    <img alt="telegram-login-code" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-login-code.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-login-code.webp'" />
 </div>
 
 #### 盗号机器人
@@ -29,7 +29,7 @@ Telegram 是一款以隐私保护和安全性著称的即时通讯应用，然�
 大家只需要认准这个官方账号就行了，不是这个官方账号发送的都别相信
 
 <div align=center>
-    <img alt="telegram-offical-account" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-offical-account.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-offical-accounte.webp'" />
+    <img alt="telegram-offical-account" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-offical-account.webp" class="page-img" width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-offical-accounte.webp'" />
 </div>
 
 ### 如何防止被盗
@@ -39,22 +39,22 @@ Telegram 是一款以隐私保护和安全性著称的即时通讯应用，然�
 在 telegram 中的设置里面，你可以看到一个设备选项，比如下图这样的。
 
 <div align=center>
-    <img alt="telegram-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-setting.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-setting.webp'" />
+    <img alt="telegram-setting" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-setting.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-setting.webp'" />
 </div>
 
 在设备里面，你可以看到你当前账户登录的所有设备信息，这个就要你自己检查下，到底哪些是你的设备，哪些不是，比如下方这种，不是你的要删掉。
 
 <div align=center>
-    <img alt="telegram-device" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-device.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-device.webp'" />
+    <img alt="telegram-device" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-device.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-device.webp'" />
 </div>
 
 #### 设置二重密码，永远不要透露他人
 在 telegram 中最安全的就是设置二次密码了，但是你自己一定要牢记这个密码，只要你有二次密码并且不泄漏给别人，你账号永远是安全的，而且二次密码官方也不会需要的，因此只要你不泄漏这个密码，是不可能被盗的。那么怎么设置二次密码呢？
 
 <div align=center>
-    <img alt="telegram-setting-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-setting-1.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-setting-1.webp'" />
-    <img alt="telegram-private" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/ttelegram-private.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-private.webp'" />
-    <img alt="telegram-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/ttelegram-password.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-password.webp'" />
+    <img alt="telegram-setting-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-setting-1.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-setting-1.webp'" />
+    <img alt="telegram-private" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/ttelegram-private.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-private.webp'" />
+    <img alt="telegram-password" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/ttelegram-password.webp" class="page-img" width="30%" onerror="this.onerror=null;this.src='/assets/img/telegram-password.webp'" />
 </div>
 
 大家可以根据上面的截图，第一步点击设置，找到隐私与安全，在隐私和安全中找到两步验证就可以完成了。

@@ -3,7 +3,7 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
 show_downloads: true
 
 baseurl: "/docs" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://tggsearch.org" # change this to the base hostname & protocol for your site
+url: "https://tggsearch.github.io" # change this to the base hostname & protocol for your site
 permalink: /docs/:title.html
 
 google_analytics: G-61CEYEJKCR

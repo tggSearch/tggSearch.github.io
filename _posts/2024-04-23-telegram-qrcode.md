@@ -14,7 +14,7 @@ categories: [ telegram ]
 好友拿到你的二维码后如何添加你为好友呢？比如下面是我的二维码
 
 <div align=center>
-    <img alt="telegram-qrcode-my" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.org/assets/img/telegram-qrcode-my.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-qrcode-my.webp'" />
+    <img alt="telegram-qrcode-my" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-qrcode-my.webp" class="page-img" width="50%" onerror="this.onerror=null;this.src='/assets/img/telegram-qrcode-my.webp'" />
 </div>
 
 你可以看到上图中有一个非常明显的 @UWANTME12 ，如果有这个大家可以直接前往 telegram 消息界面搜索这个就可以找到了，无需扫码了。
