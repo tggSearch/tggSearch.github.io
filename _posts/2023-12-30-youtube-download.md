@@ -2,7 +2,7 @@
 layout: default
 title: Youtube 下载教程｜油管app下载，最佳1分钟注册下载教程
 description: 油管有app吗？那是肯定有的。油管app下载最新教程，Youtube安卓包、官网最新导航，油管博主推荐等丰富的资源。
-canonical_url: 'https://tggsearch.gtihub.io/docs/youtube-download.html'
+canonical_url: 'https://tggsearch.github.io/docs/youtube-download.html'
 categories: [ youtube ]
 ---
 Youtube 里面的资源还是非常多的，但是很多人不知道怎么下载使用油管，即使下载了有些同学也不知道为什么用不了，今天就带大家入门 Youtube

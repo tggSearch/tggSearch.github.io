@@ -2,7 +2,7 @@
 layout: default
 title: gmail为什么收不到邮件，gmail为什么收不到信，为什么收不到验证码
 description: 遇到Gmail为什么收不到邮件、Gmail为什么收不到信、以及为什么收不到验证码的问题？了解常见原因和解决方法，包括检查垃圾邮件文件夹、过滤器设置、存储空间、发送方地址、互联网连接、以及第三方应用和插件的干扰。全面指南帮你快速恢复正常邮件接收。
-canonical_url: 'https://tggsearch.gtihub.io/docs/gmail-no-email.html'
+canonical_url: 'https://tggsearch.github.io/docs/gmail-no-email.html'
 categories: [ gmail ]
 ---
 在使用Gmail的过程中，你可能会遇到无法接收邮件的情况。这种问题可能会令人非常困扰，尤其是在等待重要邮件的时候。本文将探讨一些可能导致Gmail无法接收邮件的原因，并提供相应的解决方案。

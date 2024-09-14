@@ -2,7 +2,7 @@
 layout: default
 title: line注册收不到验证码，line上不去，line翻墙也用不了，都可以解决
 description: 2024 line 注册收不到验证码解决方案，提示line很抱歉您所在的国家/地区无法使用短信验证功能，固定电话、以“050”开头的电话号码或虚拟电话号码，无法用于验证是否有其他解决方案呢？轻松的快速的注册 line，如果你遇到此类问题，一并可以解决。
-canonical_url: 'https://tggsearch.gtihub.io/docs/line-no-sms-code.html'
+canonical_url: 'https://tggsearch.github.io/docs/line-no-sms-code.html'
 categories: [ line ]
 ---
 在使用 LINE 注册账号时，有人会发现line翻墙也用不了，也有时候会遇到收不到验证码的情况，这可能会导致注册流程受阻。本文将为您介绍一些可能导致这一问题的原因，并提供解决方法。

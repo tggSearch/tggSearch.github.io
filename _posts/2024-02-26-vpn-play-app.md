@@ -2,7 +2,7 @@
 layout: default
 title: 翻墙后可以做什么？翻墙可以干什么？
 description: 翻墙对于很多人来说是非常好奇的事情，但是翻墙后能做什么，有哪些主流平台可以去玩的，翻墙后怎么赚钱都是大家一些疑问，那么这篇文章就是来详细探讨这些知识。
-canonical_url: 'https://tggsearch.gtihub.io/docs/vpn-play-app.html'
+canonical_url: 'https://tggsearch.github.io/docs/vpn-play-app.html'
 categories: [ account ]
 ---
 翻墙后很多人都不知道能干什么，以为翻墙后其实和国内的平台差距不大，其实差距真不大，真正的差异在于平台的内容，除了一些高端技术外，其他海外平台有的，国内基本都有，但是真正的差异在哪里呢？我们来按照分类看看到底有哪些？

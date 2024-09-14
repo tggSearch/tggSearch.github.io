@@ -2,7 +2,7 @@
 layout: default
 title: youtube会员有什么用，youtube会员开通教程
 description: Youtube 会员有哪些功能点，开通会员能享受哪些服务，Youtube 会员如何开通，youtube会员开通的教程。
-canonical_url: 'https://tggsearch.gtihub.io/docs/youtube-vip.html'
+canonical_url: 'https://tggsearch.github.io/docs/youtube-vip.html'
 categories: [ youtube ]
 ---
 在数字化时代，YouTube已成为人们获取信息、娱乐和学习的首选平台之一。而作为其付费服务的一部分，YouTube会员为用户提供了更多的独家内容和优质体验。本文将介绍YouTube会员是什么，以及如何开通YouTube会员。

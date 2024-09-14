@@ -2,7 +2,7 @@
 layout: default
 title: 推特 twitter(X)无法获取推文, 推特敏感设置教程
 description: 推特无法获取推文，twitter无法获取推文，X无法获取推文，推特解除敏感限制方法，敏感设置接触方法，无法查看推文，主要还是敏感限制问题，该如何解决？如果你无法打开推文，提示敏感限制，应该如何操作解决呢？
-canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-spc.html'
+canonical_url: 'https://tggsearch.github.io/docs/twitter-spc.html'
 categories: [ twitter ]
 pin: true
 ---

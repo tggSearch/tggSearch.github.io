@@ -2,7 +2,7 @@
 layout: default
 title: 社交APP排名，优质社交APP推荐，社交app排行榜
 description: 2024年最新社交APP排名，有哪些优质的社交APP，国内外最受欢迎的社交APP排名推荐。
-canonical_url: 'https://tggsearch.gtihub.io/docs/social-app-ranking.html'
+canonical_url: 'https://tggsearch.github.io/docs/social-app-ranking.html'
 categories: [ account ]
 ---
 在移动互联网时代，社交APP成为人们日常生活中不可或缺的一部分。无论是与朋友交流、分享生活，还是寻找志同道合的人，社交APP都扮演着重要的角色。然而，面对市面上琳琅满目的社交APP，如何选择适合自己的优质社交平台成为了许多人的难题。为了帮助大家更好地进行选择，以下是一份社交APP排行榜，推荐几款优质的社交APP。

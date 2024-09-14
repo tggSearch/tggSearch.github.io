@@ -2,7 +2,7 @@
 layout: default
 title: youtube会员价格，哪里便宜，大陆用户怎么开通
 description: youtube会员价格里面最便宜，Youtube Premium哪里可以开通，怎么开通，大陆用户如何微信支付宝开通支付。
-canonical_url: 'https://tggsearch.gtihub.io/docs/youtube-premium.html'
+canonical_url: 'https://tggsearch.github.io/docs/youtube-premium.html'
 categories: [ youtube ]
 ---
 YouTube作为全球最大的视频分享平台，不仅提供海量的免费内容，还提供多种会员服务。开通YouTube会员可以享受广告免打扰、视频下载、后台播放等诸多特权。本文将介绍YouTube会员的价格，并探讨哪里开通最便宜，同时为大陆用户提供详细的开通方法。

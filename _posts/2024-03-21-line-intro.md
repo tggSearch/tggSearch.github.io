@@ -2,7 +2,7 @@
 layout: default
 title: line时啥？探秘 line：跨越国界的通讯巨头，line与微信、facebook、whatsapp有什么差异点
 description: line在东南亚是非常流行的一款社交软件，那么为什么line还有一席之地，相比微信、facebook、whatsapp又存在什么差异点呢？我们应该如何应用好line做营销推广呢？
-canonical_url: 'https://tggsearch.gtihub.io/docs/line-intro.html'
+canonical_url: 'https://tggsearch.github.io/docs/line-intro.html'
 categories: [ line ]
 ---
 在当今数字化时代，通讯应用程序的使用已经成为人们生活中不可或缺的一部分。而line，作为一款跨越国界的通讯应用程序，在许多地区已经变得异常流行。本文将介绍line的概况，探讨其特点以及与国内微信、海外Facebook和WhatsApp的差异，以及它为什么在通讯领域占有一席之地。

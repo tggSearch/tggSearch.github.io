@@ -2,7 +2,7 @@
 layout: default
 title: telegram小游戏中心，小游戏哪里找？
 description: telegram小游戏中心，有边玩边赚小游戏，有空投小游戏，有做任务赚钱小游戏，应用尽有，这个入口帮你挑选了精品的小游戏列表。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-mini-game.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-mini-game.html'
 categories: [ telegram ]
 ---
 随着社交媒体和即时通讯平台的发展，Telegram 也逐渐成为一个充满乐趣和互动的地方。除了日常聊天，Telegram 还提供了各种小游戏，让用户在闲暇时光中获得娱乐和收益。如果你对 Telegram 上的小游戏感兴趣，那么《Telegram 小游戏中心》是你的不二选择！

@@ -2,7 +2,7 @@
 layout: default
 title: 电报下载(Telegram 下载教程)
 description: 由于网上很多假的套壳的电报，因此要想找到比较官方的是比较困难的，这里就告诉大家怎么去找到官方版本，而不是直接给你下载地址。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-download.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-download.html'
 categories: [ telegram ]
 ---
 现在各种套壳的电报非常多，主要是利益较大，盗号之类的或者获取你的信息，既然这样要想电报下载到官方版本很多时候还是有一定困难，这里我就教大家怎么去找到官方版本，避免大家被坑。

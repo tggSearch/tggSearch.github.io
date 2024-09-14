@@ -2,7 +2,7 @@
 layout: default
 title: 推特怎么设置中文，推特设置中文的方法教程
 description: 推特默认情况下是会根据你当前语言设置的，因为绝大部分会设置为中文，但是偶有一些情况下判定出现问题，被默认设置为英文，因此就需要手动切换为中文。
-canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-cn.html'
+canonical_url: 'https://tggsearch.github.io/docs/twitter-cn.html'
 categories: [ twitter ]
 ---
 这里要区分下是网页版还是手机客户端版本，两者切换的方法基本相同，但是路径略有不同，我们先来看下网页版切换方法。

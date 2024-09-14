@@ -2,7 +2,7 @@
 layout: default
 title: 翻墙后怎么赚钱，赚钱引流教程，可实践最全教程
 description: 翻墙后，翻墙怎么赚钱，有没有办法搞到钱？假设你在海外有流量，比如电报群，那么怎么转化为收益呢？翻墙后真的能赚钱吗？有哪些渠道可以在墙外赚钱，赚钱真的合法吗？
-canonical_url: 'https://tggsearch.gtihub.io/docs/vpn-make-money.html'
+canonical_url: 'https://tggsearch.github.io/docs/vpn-make-money.html'
 categories: [ account ]
 ---
 如果你想通过简单的方法就可以赚钱是不可能，没有天上掉下来的馅饼，如果你想赚钱那么还是需要一定头脑和付出的。这里就给大家介绍一些需要努力才能赚钱的方法，这些方法即使是我自己也需要头脑，并不是简单动动手就可以赚钱的方法。

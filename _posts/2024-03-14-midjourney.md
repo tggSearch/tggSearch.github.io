@@ -2,7 +2,7 @@
 layout: default
 title: midjourney怎么用，midjourney教程
 description: Midjourney 是一个由人工智能驱动的创意平台，可以生成逼真的图像和视频。它由 David Holz 在 2020 年创立，其目标是让所有人都能轻松创作艺术作品。现当今大家都想尝试体验 midjourney，但是不知道如何使用，本文就教大家如何使用。
-canonical_url: 'https://tggsearch.gtihub.io/docs/midjourney.html'
+canonical_url: 'https://tggsearch.github.io/docs/midjourney.html'
 categories: [ account ]
 ---
 

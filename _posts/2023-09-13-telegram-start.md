@@ -2,7 +2,7 @@
 layout: default
 title: Telegram电报新用户指南-有趣的电报群，如何寻找电报群
 description: 经常有人会问，有没有比较有趣的电报群，去哪里找一些有趣的电报群，而这里有一个全能电报群叫做 @chineseSearchService，你可以通过这个链接加入
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-start.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-start.html'
 categories: [ telegram ]
 ---
 在注册完成电报后，很多人会看到一篇空白的电报首页，就会认为电报有什么意思，一点价值都没有，怎么会有人说电报好玩呢？

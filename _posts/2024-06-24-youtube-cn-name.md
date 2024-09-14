@@ -2,7 +2,7 @@
 layout: default
 title: youtube为什么叫油管
 description: 探讨 YouTube 为什么被中国网民称为“油管”的原因，揭示这个名称的谐音来源、文化背景和独特的幽默感。深入分析“油管”这一昵称在中文互联网中的特殊地位和吸引力。
-canonical_url: 'https://tggsearch.gtihub.io/docs/youtube-cn-name.html'
+canonical_url: 'https://tggsearch.github.io/docs/youtube-cn-name.html'
 categories: [ youtube ]
 ---
 在中文互联网世界，YouTube 常被称为“油管”。这一别名源自中国网民的创造和口耳相传，但它背后的故事和原因却有着有趣的细节和逻辑。让我们来探讨一下为什么 YouTube 会被中国网民称为“油管”。

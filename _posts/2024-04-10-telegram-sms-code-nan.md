@@ -2,7 +2,7 @@
 layout: default
 title: telegram为什么收不到验证码，telegram为什么收不到短信
 description: 2024最新解决办法，纸飞机收不到验证码，telegram无法收到短信，无法登录，此时应该如何处理呢？应该如何才能收到telegram短信验证码登录呢？
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-sms-code-nan.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-sms-code-nan.html'
 categories: [ telegram ]
 pin: false
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Telegram 群限制有哪些，电报群进不去怎么解决？
 description: telegram 500群组限制解除，为什么我telegram有些群进不去，有些群为什么我进不去，这里面也存在很多问题，这里我就给大家介绍下到底是什么原因，以及如何处理。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-group-limit.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-group-limit.html'
 categories: [ telegram ]
 ---
 Telegram 群因为很多事公开的，基本所有用户都可以访问，为了安全做了一定的账户限制，其次因为电报监管比较松散，因此电报群存在很多黄，未成年人不健康的群，因此 Telegram 在电报群做了很多安全限制。这里我们来看看具体有哪些，和大家息息相关的。

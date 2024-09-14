@@ -2,7 +2,7 @@
 layout: default
 title: 币安做多做空教程，币安做空，币安合约玩法教程
 description: 币安 bnb做空，bnb做多的方法是什么，合约怎么玩，合约怎么可以做多做空，做多做空的风险到底有哪些？在做多做空时如何避免资金损失。
-canonical_url: 'https://tggsearch.gtihub.io/docs/bnb-exchange.html'
+canonical_url: 'https://tggsearch.github.io/docs/bnb-exchange.html'
 categories: [ exchange ]
 ---
 币安交易平台为广大投资者提供了丰富多样的交易工具和机会，包括做多、做空以及合约玩法。无论您是新手还是经验丰富的交易者，本教程都将手把手地教您如何利用币安平台进行交易。

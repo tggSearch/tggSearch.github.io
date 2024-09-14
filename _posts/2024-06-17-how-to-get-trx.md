@@ -2,7 +2,7 @@
 layout: default
 title: 	trx如何获得、获取，又应该如何购买
 description: trx如何获得，通过什么方法可以获取到，如果想购买应该去哪里买，能支持什么支付方式，微信购买trx可以吗，支付购买trx是否也可以，本文提供大家此类教程方法，告诉大家快速购买获得的教程。
-canonical_url: 'https://tggsearch.gtihub.io/docs/how-to-get-trx.html'
+canonical_url: 'https://tggsearch.github.io/docs/how-to-get-trx.html'
 categories: [ exchange ]
 ---
 TRX是Tron区块链的原生代币，广泛用于支付网络上的交易费用和智能合约的执行费用。随着加密货币的普及，越来越多的人开始关注TRX。本文将详细介绍如何获得、获取和购买TRX。

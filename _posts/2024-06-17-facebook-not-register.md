@@ -2,7 +2,7 @@
 layout: default
 title: 	facebook为什么注册不了，facebook为什么不能用
 description: 了解Facebook为什么注册不了以及Facebook为什么不能用的常见原因。本文详细探讨了用户在注册和使用Facebook过程中可能遇到的账户信息问题、网络连接问题、技术故障和地域限制等问题，并提供了相应的解决方案，帮助您顺利注册和使用Facebook。
-canonical_url: 'https://tggsearch.gtihub.io/docs/facebook-not-register.html'
+canonical_url: 'https://tggsearch.github.io/docs/facebook-not-register.html'
 categories: [ facebook ]
 ---
 Facebook作为全球最大的社交平台之一，拥有数十亿的用户。然而，一些用户在尝试注册或使用Facebook时，可能会遇到各种问题，导致他们无法顺利使用这一平台。本文将详细探讨Facebook为什么注册不了以及为什么不能用的常见原因，并提供一些可能的解决方案。

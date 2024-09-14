@@ -2,7 +2,7 @@
 layout: default
 title: 电报 Telegram 双向限制解除教程
 description: Telegram 新旧账号出现双向限制的，telegram为什么会双向，telegram双向了怎么解除教程，发送消息会提示一个红色感叹号，也就是无法发送消息给陌生人，其次如果你私信太频繁，被人举报，那么你也将会被双向限制，那么具体怎么解决呢，我们来看下教程。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-not-send-msg.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-not-send-msg.html'
 categories: [ telegram ]
 ---
 双向限制要分 2 种情况，一种是新账号，一种是老账号，两种双向的原因是不一样的，下面我们先来看看新账号。首先我们了解下什么是双向限制。

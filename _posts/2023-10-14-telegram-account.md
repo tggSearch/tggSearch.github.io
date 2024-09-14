@@ -2,7 +2,7 @@
 layout: default
 title: telegram刚注册就被封，被封telegram申诉方法，telegram被ban原因?
 description: telegram刚注册就被封，telegram为什么会被封号，telegram解封方法，telegram被ban原因，如果你在使用电报或者 telegram 由于触犯到相应的平台规则，被封号了，怎么解决呢？目前有多种渠道可以帮忙处理，包括申诉盒重置都是可以解决的，但是两种都有利弊。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-account.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-account.html'
 categories: [ telegram ]
 ---
 由于某些特殊原因你的电报账号被封了，可能不是因为你自己的原因，可能是被其他人非法注册使用了，那么如果你自己想用了怎么办呢，又是为什么会被封禁呢？今天就教大家一些比较取巧的技巧，让你能够快速的找回自己的账号。

@@ -2,7 +2,7 @@
 layout: default
 title: 纸飞机 telegram 收不到验证码解决方案 （华为/鸿蒙系统也可解决）
 description: telegram 无法收到短信验证码，华为手机无法收到验证码问题都是有多种原因，这些原因都需要追个的进行排查，这里就教大家自我排查的方法，逐步让你自己定为找到无法收到验证码的原因。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-no-sms-code.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-no-sms-code.html'
 categories: [ telegram ]
 pin: true
 ---

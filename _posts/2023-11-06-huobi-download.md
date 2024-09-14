@@ -2,7 +2,7 @@
 layout: default
 title: 火币注册教程｜火币返佣
 description: 火币注册下载教程，包含安卓和苹果的下载方法，其次里面内涵返佣教程
-canonical_url: 'https://tggsearch.gtihub.io/docs/huobi-download.html'
+canonical_url: 'https://tggsearch.github.io/docs/huobi-download.html'
 categories: [ exchange ]
 ---
 在数字货币交易市场中，火币交易所备受青睐。想要开始使用火币App，首先需要了解如何下载并注册账户。以下是详细的步骤指南：

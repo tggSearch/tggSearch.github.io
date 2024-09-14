@@ -2,7 +2,7 @@
 layout: default
 title: Youtube 油管年龄限制怎么取消
 description: 油管上不满 18 岁，很多内容你将无法查看，但是很多人注册的时候误填写了年龄导致意外，因此这里特意教你如何修改你的年龄，避免被限制使用   
-canonical_url: 'https://tggsearch.gtihub.io/docs/youtube-unlock.html'
+canonical_url: 'https://tggsearch.github.io/docs/youtube-unlock.html'
 categories: [ youtube ]
 ---
 为了保护未成年人，Youtube 做了敏感内容限制，18 岁以下，禁止观看部分内容，这里面包含很多，比如：暴力、裸露、粗俗的，这些视频大部分在影响范围内还是可以上传的，但是对于未成年人来是有害的，因此会做限制，那么我们就来看看具体的取消限制的流程和方法。

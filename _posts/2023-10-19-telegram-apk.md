@@ -2,7 +2,7 @@
 layout: default
 title: telegram apk下载中文｜Telegram 中文包(官网正版)
 description: 官方正式正规 telegram apk版本，中文包切换方法，现在很多马甲包 telegram 的 apk 但是马甲包都会限制其验证码，因此必须要正版的 apk
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-apk.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-apk.html'
 categories: [ telegram ]
 ---
 

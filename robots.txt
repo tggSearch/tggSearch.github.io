@@ -4,4 +4,4 @@ Disallow: /docs/docs/
 Disallow: /docs/youtube-download.html
 Disallow: /docs/91.html
 Disallow: /docs/chigua.html
-Sitemap: https://tggsearch.gtihub.io/sitemap.xml
+Sitemap: https://tggsearch.github.io/sitemap.xml

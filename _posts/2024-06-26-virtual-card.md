@@ -2,7 +2,7 @@
 layout: default
 title: 虚拟卡是什么，usdt 虚拟卡哪里开通，如何使用教程
 description: 虚拟卡开卡平台，虚拟卡生成如何生成，chatgpt 虚拟卡如何获取，虚拟卡是一种仅通过互联网使用的支付工具，具有与实体卡相同的功能，如在线购物和支付账单。它的安全性和便捷性使其能有效防止盗用和丢失，且通常为一次性使用，减少信用卡欺诈风险。用户可以通过fomepay平台轻松注册并管理虚拟卡，适用于开通ChatGPT、Google、Netflix等海外服务。
-canonical_url: 'https://tggsearch.gtihub.io/docs/virtual-card.html'
+canonical_url: 'https://tggsearch.github.io/docs/virtual-card.html'
 categories: [ exchange ]
 ---
 虚拟卡是一种没有实体卡片，仅通过互联网使用的支付工具。它通常由银行或支付平台发行，具有与实体信用卡或借记卡相同的功能，包括在线购物、订阅服务和支付账单。虚拟卡最大的优势在于它的安全性和便捷性，因为它能有效防止实体卡被盗用或丢失。

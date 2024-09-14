@@ -2,7 +2,7 @@
 layout: default
 title: telegram会员代开，telegram会员国内怎么买，会员如何代开如何充值？
 description: telegram 会员，提供了多种功能服务，到底核心有哪些功能，那么在国内应该如何开通 telegram 会员呢？电报会员多少钱呢？怎么才能找到靠谱的代充会员渠道呢？
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-permium-question.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-permium-question.html'
 categories: [ telegram ]
 ---
 Telegram 会员是很多人想开通的服务，但是开通 telegram 会员也是存在一些困难的，特别是国内用户，因为你没有境外的支付方式，因此选择代开通是一种比较常见的方式了，但是代开通必须要找到合适的平台，不然很容易被骗，那么这里就给大家几种代开通的教程。

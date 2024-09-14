@@ -2,7 +2,7 @@
 layout: default
 title: chatgpt打不开？chatgpt 无法访问？2024年最新解决办法
 description: chatgpt 无法访问，chatgpt打不开的原因很多，比如你的梯子有问题，或者你梯子的节点选择有问题，或者你的浏览器问题，又或者是chatgpt本身的原因。
-canonical_url: 'https://tggsearch.gtihub.io/docs/chatgpt-error.html'
+canonical_url: 'https://tggsearch.github.io/docs/chatgpt-error.html'
 categories: [ chatgpt ]
 ---
 目前 chatgpt 已经不需要手机号验证就可以注册了，但是现在还是需要海外梯子才可以访问，如果你是在国内是无法访问的，因此你必须要有海外的梯子才行。

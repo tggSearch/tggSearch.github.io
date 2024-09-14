@@ -2,7 +2,7 @@
 layout: default
 title: 小火箭下载，小火箭共享账号，小火箭节点购买
 description: 小火箭shadowrocket下载，android 小火箭，app store 小火箭方法，小火箭 app 共享 ios 账号、小火箭共享苹果账号购买，小火箭免费节点，付费节点购买
-canonical_url: 'https://tggsearch.gtihub.io/docs/shadowrocket.html'
+canonical_url: 'https://tggsearch.github.io/docs/shadowrocket.html'
 categories: [ account ]
 ---
 小火箭也叫做 shadowrocket 目前是非常常用的一款开源梯子翻墙软件，很多都是基于小火箭来提供服务的，这里我们就介绍下大家如何下载小火箭 app，以及如何找到一些免费的小火箭节点，还有就是如何付费小火箭节点。

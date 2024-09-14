@@ -2,7 +2,7 @@
 layout: default
 title: 欧易做多教程，欧易怎么做空，欧易合约玩法，手把手教程
 description: 欧易 okx做空，okx做多的方法是什么，欧易怎么做空教程，合约怎么玩，合约怎么可以做多做空，做多做空的风险到底有哪些？在做多做空时如何避免资金损失。
-canonical_url: 'https://tggsearch.gtihub.io/docs/okx-exchange.html'
+canonical_url: 'https://tggsearch.github.io/docs/okx-exchange.html'
 categories: [ exchange ]
 ---
 欧易交易平台为广大投资者提供了丰富多样的交易工具和机会，包括做多、做空以及合约玩法。无论您是新手还是经验丰富的交易者，本教程都将手把手地教您如何利用欧易平台进行交易。

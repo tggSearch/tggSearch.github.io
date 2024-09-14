@@ -2,7 +2,7 @@
 layout: default
 title: trx哪里买，trx怎么买，trx如何购买？
 description: TRC20的USDT是最多的，不过很多人因为没有 trx 所以经常会导致 usdt 无法转账。那么如何购买 trx。去哪里买，买了以后怎么使用，怎么用最小的手续费等等，这些都是需要知道的，不然很容易会导致手续费过高，转账成本过大。
-canonical_url: 'https://tggsearch.gtihub.io/docs/trx-how-to-buy.html'
+canonical_url: 'https://tggsearch.github.io/docs/trx-how-to-buy.html'
 categories: [ exchange ]
 ---
 首先我们需要知道 usdt 转账很多时候都是基于某条链上的，而当前 TRON 链是大家用的比较多的链，该链的网络也经常被大家叫做 TRC20，那么假设你要再此链上进行操作转账，那么就会涉及到网络费用，而这个网络费用就是使用 trx 来支付的，那么怎么去购买 trx 以及如何才能降低 trx 转账费用呢？这篇文章帮你详细分析解答。

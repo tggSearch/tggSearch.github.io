@@ -2,7 +2,7 @@
 layout: default
 title: vpn 推荐｜vpn哪个好用
 description: 推荐最好用最便宜的vpn软件，vpn好用的有哪些？应该如何选择又便宜又实惠好用的 vpn，青柠vpn这些怎么样？
-canonical_url: 'https://tggsearch.gtihub.io/docs/vpn-recommend.html'
+canonical_url: 'https://tggsearch.github.io/docs/vpn-recommend.html'
 categories: [ account ]
 ---
 这里收集了一大批相对来说比较靠谱的vpn梯子，这里给大家进行一些 vpn 推荐，同时告诉大家哪些比较好用，哪些比较便宜。大部分都是需要下载小火箭app的，如果你不知道如何使用，可以前往各自 vpn 的官网，官网一般都有使用介绍教程。

@@ -2,7 +2,7 @@
 layout: default
 title: 微信为什么会被封，被限制，加不了好友
 description: 想知道为什么微信账号会被封、被限制，或者无法添加好友？了解违规行为、异常检测、账号安全问题和系统误判的原因，以及如何避免这些问题，确保你的微信使用顺畅无忧！阅读我们的详细解析，轻松解决微信常见难题。
-canonical_url: 'https://tggsearch.gtihub.io/docs/wechat-limit.html'
+canonical_url: 'https://tggsearch.github.io/docs/wechat-limit.html'
 categories: [ wechat ]
 ---
 微信，作为中国最受欢迎的即时通讯应用之一，每天有数亿用户在其平台上进行沟通、社交、购物和支付。然而，很多用户在使用微信的过程中，可能会遇到账号被封、被限制，或者无法添加好友的情况。这些问题不仅影响了用户的正常使用体验，也让很多人感到困惑。那么，为什么会出现这些问题呢？

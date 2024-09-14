@@ -2,7 +2,7 @@
 layout: default
 title: gmail邮箱是什么，gmail使用技巧，gmail与国内邮箱有什么差异
 description: telegram中文版有很多山寨的，真正做的好的其实比较少，而 Turrit 算是非常好用的第三方客户端了，那么到底有哪些好用的功能点呢？
-canonical_url: 'https://tggsearch.gtihub.io/docs/gmail-intro.html'
+canonical_url: 'https://tggsearch.github.io/docs/gmail-intro.html'
 categories: [ gmail ]
 ---
 Gmail 是 Google 公司于2004年推出的一项免费电子邮件服务，凭借其强大的功能和简洁的界面，迅速成为全球最受欢迎的电子邮件服务之一。截至目前，Gmail 拥有超过15亿的活跃用户，成为人们日常沟通和工作的得力助手。

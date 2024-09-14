@@ -2,7 +2,7 @@
 layout: default
 title: Telegram网页版打不开解决教程，Telegram进不去教程
 description: telegram app无法进去，telegram无法登录，telegram打不开，Telegram网页版在哪里，网页版打不开，收不到短信，APP 无法接收短信，群无法进去，私信被双向限制，种种问题都是可以解决的，解决方案本文都详细了提供，如果无法解决也可以右下角联系客服来处理。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-not-join.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-not-join.html'
 categories: [ telegram ]
 pin: true
 ---

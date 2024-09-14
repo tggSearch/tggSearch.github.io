@@ -2,7 +2,7 @@
 layout: default
 title: OKX 常见问题汇总，为什么要实名？欧易打不开？欧易为什么不清退？
 description: 欧易靠谱吗？欧易如何下载，欧易入门教程。欧易目前是比较常用的，但是随之而来也有很多问题，那么这里最常见的问题有哪些呢？我这里一一给大家回答，并且针对性的告诉大家一些解决办法。
-canonical_url: 'https://tggsearch.gtihub.io/docs/okx-problem.html'
+canonical_url: 'https://tggsearch.github.io/docs/okx-problem.html'
 categories: [ exchange ]
 ---
 

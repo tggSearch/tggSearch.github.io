@@ -2,7 +2,7 @@
 layout: default
 title: trx 是什么币？有什么作用？trx怎么获取
 description: 想了解TRX是什么币？想知道怎样购买TRX以及它在波场网络中的作用？探索TRX作为波场生态系统的基石，了解其交易、内容创作激励和网络治理功能。发现最佳方式购买和兑换TRX。
-canonical_url: 'https://tggsearch.gtihub.io/docs/what-is-trx.html'
+canonical_url: 'https://tggsearch.github.io/docs/what-is-trx.html'
 categories: [ exchange ]
 ---
 TRX，全称为Tronix，是波场（TRON）区块链网络的原生加密货币。波场是一个去中心化的区块链平台，致力于构建一个全球性的自由内容娱乐系统，通过区块链和分布式存储技术，提供高效的共享方式。波场由孙宇晨（Justin Sun）于2017年创立，其主要目标是通过区块链技术推动互联网去中心化。

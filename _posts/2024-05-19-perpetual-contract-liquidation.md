@@ -2,7 +2,7 @@
 layout: default
 title: 永续合约爆仓，爆仓原因分析，爆仓行为分析，永续合约爆仓交流中心
 description: 为什么永续合约你玩总是爆仓，这里面到底有哪些爆仓的内幕，应该如何避免这种爆仓，有没有永续合约爆仓的交流中心，共同探讨永续合约玩法心得。
-canonical_url: 'https://tggsearch.gtihub.io/docs/perpetual-contract-liquidation.html'
+canonical_url: 'https://tggsearch.github.io/docs/perpetual-contract-liquidation.html'
 categories: [ exchange ]
 ---
 在加密货币交易领域，永续合约已经成为了一种备受瞩目的交易方式。然而，随着其市场规模的不断扩大，永续合约爆仓现象也频频出现，给投资者和市场带来了巨大的风险和不确定性。为了应对这一挑战，永续合约爆仓交流中心应运而生，旨在探讨并解决永续合约爆仓问题，为市场的稳定发展贡献力量。

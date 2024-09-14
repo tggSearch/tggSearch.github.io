@@ -2,7 +2,7 @@
 layout: default
 title: telegram为什么不能私聊，telegram为什么会双向
 description: Telegram 无法私聊用户，私聊发送失败，提示双向限制，那么有哪些情况会导致双向限制，又应该如何解除双向限制。
-canonical_url: 'https://tggsearch.gtihub.io/docs/telegram-nan-send-msg.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-nan-send-msg.html'
 categories: [ telegram ]
 ---
 telegram 目前是比较常用的一款社交软件，但是也有一些限制，很多时候我们会发现无法发送私信给其他人，那么到底有哪些情况会导致无法送私聊呢？发送的时候还会提示只能发送双向的联系人，那么这到底是什么意思呢？

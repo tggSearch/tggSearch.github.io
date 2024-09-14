@@ -2,7 +2,7 @@
 layout: default
 title: youtube怎么使用？油管看什么？油管福利账号资源｜油管订阅排行
 description: Youtube 注册后，发现什么资源都没有，也不知道油管可以看什么，感觉没有什么好玩的，为什么这么多人还不断的想注册油管呢？真正的原因是你没有发现 Youtube 的神秘之处，今天就带大家领略领略。 sutenekokawaii 和 ol_mizuki 都是优质的福利 UP 主。
-canonical_url: 'https://tggsearch.gtihub.io/docs/youtube-start.html'
+canonical_url: 'https://tggsearch.github.io/docs/youtube-start.html'
 categories: [ youtube ]
 ---
 刚注册好油管以后，基本都是空白的，或者首页推荐的一些没有什么特别的视频，你看着也觉得很正常，和正常的国内的视频网站也类似差异不大，那么今天我就告诉大家 Youtube 的好玩之处。如果你想学习更多奇淫巧技，可以关注我的油管 [奇淫巧技教学](./302.html?target=https://www.youtube.com/@aiDigitalMan)，分享各种软件教程以及赚钱币圈教学资源。

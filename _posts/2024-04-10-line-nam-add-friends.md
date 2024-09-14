@@ -2,7 +2,7 @@
 layout: default
 title: line不能添加好友，line为什么加不了好友
 description: line注册后，无法添加好友，添加好友提示错误无法正常执行，遇到此类问题如何解决？
-canonical_url: 'https://tggsearch.gtihub.io/docs/line-nam-add-friends.html'
+canonical_url: 'https://tggsearch.github.io/docs/line-nam-add-friends.html'
 categories: [ line ]
 ---
 line 在东南亚还是比较热门的社交软件的，但是在注册 line 后经常会遇到无法添加好友，如果你还没有 line，你可以查看这篇文章 [line 注册下载教程](./line-register.html)。接下来我们看下 line 注册后无法添加好友的几种解决办法。

@@ -2,7 +2,7 @@
 layout: default
 title: 推特如何注销账号，不想使用了如何删除账号
 description: 如果你决定不再使用推特，注销账号是必需的步骤。本文详细介绍了如何登录、进入设置和隐私、选择“停用你的账号”并确认停用。此外，还包括30天恢复期和数据备份等注意事项，帮助你顺利删除推特账号。
-canonical_url: 'https://tggsearch.gtihub.io/docs/twitter-need-follow.html'
+canonical_url: 'https://tggsearch.github.io/docs/twitter-need-follow.html'
 categories: [ twitter ]
 ---
 在使用推特（Twitter）的过程中，如果你决定不再继续使用这个平台，注销账号是一个需要了解的操作。无论出于何种原因，推特都提供了简便的方法来删除你的账号。下面，我们将详细介绍推特账号的注销步骤，以及需要注意的事项。

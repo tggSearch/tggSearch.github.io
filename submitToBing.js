@@ -4,7 +4,7 @@ async function postIndexNow(key, url) {
     const requestData = {
         host: "www.example.org",
         key: key,
-        keyLocation: `https://tggsearch.gtihub.io/${key}.txt`,
+        keyLocation: `https://tggsearch.github.io/${key}.txt`,
         urlList: urls
     };
 
@@ -27,8 +27,8 @@ async function postIndexNow(key, url) {
 // Example usage:
 const key = "93322823db424d08b5e9a49dfa428112";
 const url = [
-    "https://tggsearch.gtihub.io/docs/telegram-no-sms-code.html",
-    "https://tggsearch.gtihub.io/"
+    "https://tggsearch.github.io/docs/telegram-no-sms-code.html",
+    "https://tggsearch.github.io/"
 ];
 
 postIndexNow(key, url).then();

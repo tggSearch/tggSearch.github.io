@@ -2,7 +2,7 @@
 layout: default
 title: 2024最实用的chrome浏览器插件，chrome extension最佳插件汇总
 description: chrome是各位最常用的浏览器，这里汇集了一些最佳的并且使用的2024年chrome extension，谷歌浏览器最佳插件列表都在这里，一定能满足你的常见需求，提升你的各种效率。
-canonical_url: 'https://tggsearch.gtihub.io/docs/chrome-extension.html'
+canonical_url: 'https://tggsearch.github.io/docs/chrome-extension.html'
 categories: [ chrome ]
 ---
 在当今数字化时代，浏览器扩展程序已经成为了我们日常网络生活中不可或缺的一部分。Chrome浏览器作为全球最受欢迎的浏览器之一，其丰富的插件生态系统为用户提供了极大的便利和功能扩展。在2024年，我们为您精选了一些最实用的Chrome浏览器插件，这些插件涵盖了各种功能，从提高工作效率到增强网络安全，以及提供更好的娱乐体验，让您的浏览器体验更加丰富和高效。
