@@ -14,7 +14,10 @@ telegram 是币圈交流的必备社交软件，大部分社区币圈，都有te
 
 [欧易福利注册链接，注册就送20%返佣+现金盲盒](./302.html?target=https://www.okx.com/join/62030781)
 
-[币安福利注册链接，注册就送20%返佣](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5)
+[币安交易所注册交易10%返佣-国内无梯子地址](./302.html?target=https://www.suitechsui.us/join?ref=ED13UFJ5) 
+
+[币安交易所注册交易10%返佣-国内有梯子地址](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5)
+    
 
 其他交易所请查看 [币圈交易所导航](./coins-index.html) 
 

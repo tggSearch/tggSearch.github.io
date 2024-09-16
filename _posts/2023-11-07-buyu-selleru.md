@@ -11,7 +11,9 @@ categories: [ exchange ]
 
 [欧易返佣地址](./302.html?target=https://www.okx.com/join/62030781)
 
-[币安返佣地址](./302.html?target=https://www.binance.com/join?ref==G1Q331LS)
+[币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==G1Q331LS)
+
+[币安国内链接，无VPN梯子](./302.html?target=https://www.suitechsui.us/join?ref=G1Q331LS) 
 
 [bitGet返佣地址](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)
 
