@@ -20,7 +20,7 @@ betrys
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/betrys](./302.html?target=https://www.okx.com/join/betrys)
 
-[国内无 VPN 梯子注册地址 https://www.jrbslpxzcmbs.com/join/betrys](./302.html?target=https://www.jrbslpxzcmbs.com/join/betrys)
+[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/betrys](./302.html?target=https://www.wqrcdfkyco.com/join/betrys)
 
 ### “betrys” 邀请码福利
 betrys 邀请码可以享受如下福利
