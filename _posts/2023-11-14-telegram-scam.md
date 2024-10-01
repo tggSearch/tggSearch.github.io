@@ -63,7 +63,7 @@ xxx日（根据用户举报处理您的账户已进入双向限制）请您在24
 <<<<<<< HEAD
 请切勿使用第三方钱包，要使用钱包请前往正规平台下载，比如欧易(关闭梯子 VPN 访问) [https://www.sjdncsswbr.com/join/70862004](./302.html?target=https://www.sjdncsswbr.com/join/70862004)
 =======
-请切勿使用第三方钱包，要使用钱包请前往正规平台下载，比如欧易(关闭梯子 VPN 访问) [https://www.wqrcdfkyco.com/join/70862004](./302.html?target=https://www.wqrcdfkyco.com/join/70862004)
+请切勿使用第三方钱包，要使用钱包请前往正规平台下载，比如欧易(关闭梯子 VPN 访问) [https://www.sjdncsswbr.com/join/70862004](./302.html?target=https://www.sjdncsswbr.com/join/70862004)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 ### 闲鱼或者电信/移动兑换兑换卡

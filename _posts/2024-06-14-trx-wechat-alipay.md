@@ -20,7 +20,7 @@ betrys 本社区支持直接少量兑换，如果你想与我们平台进行兑�
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/90884854](./302.html?target=https://www.wqrcdfkyco.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 接下来就去下载，安卓可以直接前往我们这篇文章寻找下载地址 [欧易注册下载教程](./okx-install.html)

@@ -15,7 +15,7 @@ categories: [ exchange ]
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/90884854](./302.html?target=https://www.wqrcdfkyco.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 注册好了以后，再进行下载，下载教程可以查看这篇文章 [欧易注册教程 okx注册教程｜欧易安卓下载](./okx-install.html)

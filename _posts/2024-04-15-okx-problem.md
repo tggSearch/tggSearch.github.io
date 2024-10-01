@@ -31,7 +31,7 @@ OKX 是一家知名的数字资产交易平台，在全球范围内拥有大量�
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/90884854](./302.html?target=https://www.wqrcdfkyco.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 如果你还是无法访问，可以右下角联系我们的技术客服进行解决。
@@ -50,7 +50,7 @@ OKX 是一家知名的数字资产交易平台，在全球范围内拥有大量�
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/90884854](./302.html?target=https://www.wqrcdfkyco.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 [VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)

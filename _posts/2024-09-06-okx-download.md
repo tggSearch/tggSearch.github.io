@@ -30,7 +30,7 @@ pin: true
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/90884854](./302.html?target=https://www.wqrcdfkyco.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 进入页面后，进行注册，注册成功然后再进行实名认证，就可以领取盲盒奖励了。
@@ -71,7 +71,7 @@ pin: true
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/90884854](./302.html?target=https://www.wqrcdfkyco.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/90884854](./302.html?target=https://www.sjdncsswbr.com/join/90884854)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 ### 欧易其他教程

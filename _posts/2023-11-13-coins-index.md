@@ -47,7 +47,7 @@ categories: [ exchange ]
 <<<<<<< HEAD
 | 欧易-okx  | [欧易国内](./302.html?target=https://www.sjdncsswbr.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.sjdncsswbr.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
 =======
-| 欧易-okx  | [欧易国内](./302.html?target=https://www.wqrcdfkyco.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.wqrcdfkyco.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
+| 欧易-okx  | [欧易国内](./302.html?target=https://www.sjdncsswbr.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.sjdncsswbr.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 | 币安-bnb | [币安国内](./302.html?target=https://www.suitechsui.us/join?ref==ED13UFJ5) [币安海外](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5) | [币安返佣地址](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5)  |
 | 火币-HTX | [火币官网](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)  |

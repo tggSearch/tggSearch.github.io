@@ -23,7 +23,7 @@ betrys
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/betrys](./302.html?target=https://www.sjdncsswbr.com/join/betrys)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/betrys](./302.html?target=https://www.wqrcdfkyco.com/join/betrys)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/betrys](./302.html?target=https://www.sjdncsswbr.com/join/betrys)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 ### “betrys” 邀请码福利

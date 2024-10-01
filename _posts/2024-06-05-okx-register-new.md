@@ -18,7 +18,7 @@ OKX（欧易）是全球领先的数字资产交易平台之一，为用户提�
 <<<<<<< HEAD
 [国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/betrys](./302.html?target=https://www.sjdncsswbr.com/join/betrys)
 =======
-[国内无 VPN 梯子注册地址 https://www.wqrcdfkyco.com/join/betrys](./302.html?target=https://www.wqrcdfkyco.com/join/betrys)
+[国内无 VPN 梯子注册地址 https://www.sjdncsswbr.com/join/betrys](./302.html?target=https://www.sjdncsswbr.com/join/betrys)
 >>>>>>> 89c340f57a02d8aa9ff54cfe42864cad4f28f7f5
 
 ### 旧账号无法获得返佣的原因
