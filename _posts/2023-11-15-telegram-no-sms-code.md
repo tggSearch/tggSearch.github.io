@@ -44,7 +44,7 @@ pin: true
 
 [三毛机场，一年9块](./302.html?target=https://www.三毛机场.live/#/register?code=GvzAuYCT)
 
-[青柠机场，首日免费](./302.html?target=https://yikeqn.xyz/#/register?code=UzQHEt2g)
+[青柠机场，首日免费](./302.html?target=https://www.lime1.xyz/#/register?code=UzQHEt2g)
 
 [华夏联盟机场，首日免费](./302.html?target=https://wwe.trx1.cyou/index.php#/register?code=ejjCAnmQ)，7元一月的体验套餐，12-200不等的套餐。
 
