@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.github.io/</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/telegram.html</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/twitter.html</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/account.html</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/exchange.html</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/youtube.html</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/line.html</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/gmail.html</loc>
-    <lastmod>2024-10-10T09:28:45.224Z</lastmod>
+    <lastmod>2024-10-10T11:21:43.327Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1091,6 +1091,11 @@
   </url><url>
     <loc>https://tggsearch.github.io/docs/usdt-stable.html</loc>
     <lastmod>2024-10-10T09:28:40.205Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>https://tggsearch.github.io/docs/yxhy-play.html</loc>
+    <lastmod>2024-10-10T11:21:38.062Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
