@@ -8,8 +8,8 @@ categories: [ exchange ]
 本文都是10年币圈资深永续合约老司机的玩法技巧经验总结，适合新手和进阶交易者的实用教程。如果你想入门币圈的永续合约，并且想赚钱，那么以下教程对你一定有用，下面是老司机的收益曲线，为了真实大家可以直接在欧易搜索 “人肉量化交易”这个账号，就是我们的账号，大家可以去看看。
 
 <div align=center>
-    <img alt="perpetual-skill-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/perpetual-skilll-1.webp" class="page-img" width="40%" onerror="this.onerror=null;this.src='/assets/img/-perpetual-skill-1.webp'" />
-    <img alt="perpetual-skill-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/perpetual-skilll-1.webp" class="page-img" width="40%" onerror="this.onerror=null;this.src='/assets/img/-perpetual-skill-1.webp'" />
+    <img alt="perpetual-skill-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/perpetual-skill-1.webp" class="page-img" width="40%" onerror="this.onerror=null;this.src='/assets/img/perpetual-skill-1.webp'" />
+    <img alt="perpetual-skill-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/perpetual-skill-1.webp" class="page-img" width="40%" onerror="this.onerror=null;this.src='/assets/img/perpetual-skill-1.webp'" />
 </div>
 
 ### 永续合约玩基础，必备条件
