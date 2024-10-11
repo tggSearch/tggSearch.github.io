@@ -9,7 +9,7 @@ categories: [ exchange ]
 
 <div align=center>
     <img alt="perpetual-skill-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/perpetual-skill-1.webp" class="page-img" width="40%" onerror="this.onerror=null;this.src='/assets/img/perpetual-skill-1.webp'" />
-    <img alt="perpetual-skill-1" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/perpetual-skill-1.webp" class="page-img" width="40%" onerror="this.onerror=null;this.src='/assets/img/perpetual-skill-1.webp'" />
+    <img alt="perpetual-skill-2" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/perpetual-skill-2.webp" class="page-img" width="40%" onerror="this.onerror=null;this.src='/assets/img/perpetual-skill-2.webp'" />
 </div>
 
 ### 永续合约玩基础，必备条件
