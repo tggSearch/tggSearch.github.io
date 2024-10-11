@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tggsearch.github.io/</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/telegram.html</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/twitter.html</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/account.html</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/exchange.html</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/youtube.html</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/line.html</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://tggsearch.github.io/gmail.html</loc>
-    <lastmod>2024-10-11T06:24:55.210Z</lastmod>
+    <lastmod>2024-10-11T09:01:50.011Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1099,13 +1099,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
+    <loc>https://tggsearch.github.io/docs/perpetual-skill.html</loc>
+    <lastmod>2024-10-11T09:00:10.401Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url><url>
     <loc>https://tggsearch.github.io/docs/perpetual-vs-leverage.html</loc>
     <lastmod>2024-10-11T06:17:45.711Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url><url>
     <loc>https://tggsearch.github.io/docs/perpetual-vs-spot.html</loc>
-    <lastmod>2024-10-11T06:24:50.588Z</lastmod>
+    <lastmod>2024-10-11T06:30:19.344Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
