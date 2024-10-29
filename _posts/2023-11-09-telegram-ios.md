@@ -32,9 +32,9 @@ telegram 如何注册，整理了下流程分为 4 个大步骤
 
 不知道如何下单支付的请查看本文 [ios账号购买｜小火箭APP苹果账号购买](./ios-account-buy.html)
 #### 接下来的步骤和安卓基本是一样的
-[首选注册地址](./302.html?target=https://www.三毛机场.live/#/register?code=6xuhG85m)
+[首选注册地址](./302.html?target=https://a.smjcdh.com/#/register?code=gVj9CTrz)
 如果首选地址无法打开
-[备用地址](./302.html?target=https://www.三毛机场.live/#/register?code=6xuhG85m)
+[备用地址](./302.html?target=https://a.smjcdh.com/#/register?code=gVj9CTrz)
 看不懂的看下面的图片教程！！！！
 1. **订阅服务**，使用上面的首选地址链接去注册，里面有一个订阅服务， 
 <p class="red-text-word">建议选择9块一个月的就行</p>
