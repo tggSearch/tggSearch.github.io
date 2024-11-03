@@ -10,9 +10,9 @@ categories: [ exchange ]
 ### 注册下载并且KYC
 首先要想玩币安必须得先进行注册下载，注册的链接如下：
 
-[币安交易所注册交易10%返佣-国内无梯子地址](./302.html?target=https://www.suitechsui.us/join?ref=ZGR4DOXV) 
+[币安交易所注册交易10%返佣-国内无梯子地址](./302.html?target=https://www.suitechsui.us/join?ref=betrys) 
 
-[币安交易所注册交易10%返佣-国内有梯子地址](./302.html?target=https://www.binance.com/join?ref==ZGR4DOXV)
+[币安交易所注册交易10%返佣-国内有梯子地址](./302.html?target=https://www.binance.com/join?ref==betrys)
 
 
 注册好了以后，再进行下载，下载教程可以查看这篇文章 [币安注册教程 bnb注册教程｜币安安卓下载](./bnb-buy-coins.html)

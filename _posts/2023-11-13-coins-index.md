@@ -16,7 +16,7 @@ categories: [ exchange ]
     </a>
   </div>
    <div class='icon-block-item'>
-    <a href="./302.html?target=https://www.binance.com/join?ref==ED13UFJ5" target="_blank">
+    <a href="./302.html?target=https://www.binance.com/join?ref==betrys" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/bnb.webp" alt="币安  bnb" height=50px onerror="this.onerror=null;this.src='/assets/img/bnb.webp'">
         <p>币安</p>
     </a>
@@ -49,7 +49,7 @@ categories: [ exchange ]
 
 | 欧易-okx  | [欧易国内](./302.html?target=https://www.itkhxkdi.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.itkhxkdi.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
 
-| 币安-bnb | [币安国内](./302.html?target=https://www.suitechsui.us/join?ref==ED13UFJ5) [币安海外](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5) | [币安返佣地址](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5)  |
+| 币安-bnb | [币安国内](./302.html?target=https://www.suitechsui.us/join?ref==betrys) [币安海外](./302.html?target=https://www.binance.com/join?ref==betrys) | [币安返佣地址](./302.html?target=https://www.binance.com/join?ref==betrys)  |
 | 火币-HTX | [火币官网](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)  |
 | gateIO | [GateIO官网](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103) | [GateIO返佣地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |
 | bitGet | [bitGet官方](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447) | [bitGet 返佣地址](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)  |

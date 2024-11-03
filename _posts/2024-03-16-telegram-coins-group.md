@@ -14,9 +14,9 @@ telegram 是币圈交流的必备社交软件，大部分社区币圈，都有te
 
 [欧易福利注册链接，注册就送20%返佣+现金盲盒](./302.html?target=https://www.okx.com/join/62030781)
 
-[币安交易所注册交易10%返佣-国内无梯子地址](./302.html?target=https://www.suitechsui.us/join?ref=ED13UFJ5) 
+[币安交易所注册交易10%返佣-国内无梯子地址](./302.html?target=https://www.suitechsui.us/join?ref=betrys) 
 
-[币安交易所注册交易10%返佣-国内有梯子地址](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5)
+[币安交易所注册交易10%返佣-国内有梯子地址](./302.html?target=https://www.binance.com/join?ref==betrys)
     
 
 其他交易所请查看 [币圈交易所导航](./coins-index.html) 
@@ -28,7 +28,7 @@ telegram 是币圈交流的必备社交软件，大部分社区币圈，都有te
 |  ----  | ----  | ----  |
 | 币圈综合交流 | [@okxbnbEx](./302.html?target=https://t.me/okxbnbEx) | |
 | 欧易okx官方中文群 | [@OKXGroup_CN](./302.html?target=https://t.me/OKXGroup_CN) | [欧易注册地址](./302.html?target=https://www.okx.com/join/62030781)|
-| 币安bnb官方中文群 | [@binancechinese](./302.html?target=https://t.me/binancechinese) |  [币安注册地址](./302.html?target=https://www.binance.com/join?ref==ED13UFJ5)
+| 币安bnb官方中文群 | [@binancechinese](./302.html?target=https://t.me/binancechinese) |  [币安注册地址](./302.html?target=https://www.binance.com/join?ref==betrys)
 | 火币官方中文群 | [@huobiofficial](./302.html?target=https://t.me/huobiofficial) |  [火币注册地址](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)  |
 | bitGet官方中文群 | [@Bitget_CNOfficial](./302.html?target=https://t.me/Bitget_CNOfficial) | [bitGet 注册地址](./302.html?target=https://partner.bitget.com/bg/ml6l51911687837747447)  |
 | gateIO官方中文群 | [@gate_zh](./302.html?target=https://t.me/gate_zh) | [GateIOz注册地址](./302.html?target=https://www.gate.io/signup/UllHXA0J/ab10?ref_type=103)  |

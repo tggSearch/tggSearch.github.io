@@ -11,15 +11,15 @@ pin: true
 币安（Binance）是全球领先的加密货币交易平台之一。作为数百万用户信赖的首选平台，币安提供安全、可靠和高效的数字资产交易服务。如果您渴望参与加密货币市场并获得丰厚回报，币安绝对是您不可错过的选择。如果你想其他交易所，请查看这里 [🔥币圈各大交易所网址导航🔥](./coins-index.html)
 ### 币安20%返佣注册地址
 
-[币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==ZGR4DOXV)
+[币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==betrys)
 
-[币安国内链接，无VPN梯子](./302.html?target=https://www.suitechsui.us/join?ref=ZGR4DOXV) 
+[币安国内链接，无VPN梯子](./302.html?target=https://www.suitechsui.us/join?ref=betrys) 
 
 ### 下载安装教程
 下载完成，注册的时候一定要填写邀请码，否则没有 20%返佣，邀请码是
 
 <p class="red-text-word">
-ZGR4DOXV
+betrys
 </p>
 
 这里要区分是苹果还是安卓，安卓可以直接下载下面的apk文件，苹果比较麻烦一些，需要海外苹果账号。
@@ -36,9 +36,9 @@ ZGR4DOXV
 币安是币圈最大交易所之一，币安的所有币种都经过严格审核，因此很少会遇到割韭菜的币种。因此作为普通散户，币安是最好的投资交易所之一。
 
 ### 为什么要从这里注册
-[币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==ZGR4DOXV)
+[币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==betrys)
 
-[币安国内链接，无VPN梯子](./302.html?target=https://www.suitechsui.us/join?ref=ZGR4DOXV) 
+[币安国内链接，无VPN梯子](./302.html?target=https://www.suitechsui.us/join?ref=betrys) 
 那么为什么要从返佣这里注册呢？高额佣机会，限时的活动，过了这个村就没这个店了，可以先注册以后再用。因为现在不是牛市，等牛市肯定不会有这么高的返佣机会。
 
 请注意打开链接会提示非安全地址（因为是交易所，苹果会提示欺诈链接，属于正常现象）点击，要打开此链接即可，方法如下：

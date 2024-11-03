@@ -19,9 +19,9 @@ categories: [ exchange ]
 
 [欧易OKX注册国内有VPN ](./302.html?target=https://www.itkhxkdi.com/join/betrys)
 
-[币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==ZGR4DOXV)
+[币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==betrys)
 
-[币安国内链接，无VPN梯子](./302.html?target=https://www.suitechsui.us/join?ref=ZGR4DOXV) 
+[币安国内链接，无VPN梯子](./302.html?target=https://www.suitechsui.us/join?ref=betrys) 
 
 完成注册以后，大家按照我这篇文章的指引，进行首次操作，大家首次操作请只用10美金来操作就足够了，[永续合约新人玩法教程](./coins-yx-play.html)
 

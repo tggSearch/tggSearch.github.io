@@ -19,7 +19,7 @@ categories: [ exchange ]
 ### 如何进行做空做多呢？
 首先你需要注册一个交易所账号，下面两个交易所，你随便选一个，欧易或者币安
 
-[点击打开币安注册地址 https://www.binance.com/zh-CN/join?ref=ZGR4DOXV](./302.html?target=https://www.binance.com/zh-CN/join?ref=ZGR4DOXV)
+[点击打开币安注册地址 https://www.binance.com/zh-CN/join?ref=betrys](./302.html?target=https://www.binance.com/zh-CN/join?ref=betrys)
 
 
 [欧易有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
