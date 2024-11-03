@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 币安下载教程，币安返佣邀请码 Z3P0B4E2
-description: 最新币安最高返佣，直接填写返佣码 Z3P0B4E2 币安教程汇总，高返佣幣安註冊教程，币安最高返佣20%下载教程，币安网址苹果无法打开怎么解决，等等币安各类问题解决方案
+title: 币安下载教程，币安返佣邀请码 betrys
+description: 最新币安最高返佣，直接填写返佣码 betrys 币安教程汇总，高返佣幣安註冊教程，币安最高返佣20%下载教程，币安网址苹果无法打开怎么解决，等等币安各类问题解决方案
 canonical_url: 'https://tggsearch.github.io/docs/bnb-buy-coins.html'
 categories: [ exchange ]
 pin: true
