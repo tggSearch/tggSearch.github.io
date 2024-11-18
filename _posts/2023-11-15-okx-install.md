@@ -17,7 +17,7 @@ pin: true
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.vqdwcraj.com/join/90884854](./302.html?target=https://www.vqdwcraj.com/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ixwstvqa.com/join/90884854](./302.html?target=https://www.ixwstvqa.com/join/90884854)
  
 目前有梯子的也可能无法打开上面的注册地址，请大家使用关闭 VPN 或者再访问下面的地址注册，如果还是无法打开，可以尝试先去下载
 <p class="red-text-word">下载在注册界面一定要填写邀请码 90884854 </p>
