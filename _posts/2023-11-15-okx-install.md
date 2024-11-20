@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欧易注册教程 okx注册教程｜欧易安卓下载
+title: 欧易注册教程 okx注册教程｜欧易安卓下载 888 元注册奖励
 description: 欧易注册方法，欧易安卓下载，欧易apk下载，ouxyi官网，苹果下载教程，OKX盲盒，APK下载，苹果下载教程，注册教程，下载官方最新链接，苹果安装教程，返佣，节点返佣。
 canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 categories: [ exchange ]
@@ -13,7 +13,7 @@ pin: true
 在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到。
 如果链接无法打开注册，请下载此免费 VPN 来打开网页注册 [免费翻墙梯子合集](./vpn-kl.html)，或者可以先前往下载 APP，在注册界面填写邀请码 90884854 记得一定要填写，不填写没有盲盒和返佣奖励。
 
-<p class="red-text-word">盲盒奖励 1-20美金看运气，以及返佣奖励</p>
+<p class="red-text-word">奖励最高 888 元，点击下方注册领取</p>
 
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
