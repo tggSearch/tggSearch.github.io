@@ -126,3 +126,21 @@
 .gsc-control-searchbox-only table td {
     border: 0px;
 }
+
+.register-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.content-btn {
+    background-color: #159957;
+    color: white;
+    font-size: 18px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
