@@ -9,7 +9,7 @@ pin: true
 欧易是世界领先的数字货币交易平台，在平台可以购买比特币、以太币、狗狗币、瑞波币等数字货币。想领取注册就送礼包，节点返佣节省手续费。
 
 <div class='register-button'>
-<a href='./302.html?target=https://www.mnftinqq.com/join/90884854'> 官网注册 </a>
+<a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='content-btn'> 官网注册 </a>
 </div>
 
 ### 首先注册账户
