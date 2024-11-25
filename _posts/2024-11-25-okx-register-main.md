@@ -8,57 +8,29 @@ pin: true
 ---
 欧易是世界领先的数字货币交易平台，在平台可以购买比特币、以太币、狗狗币、瑞波币等数字货币。想领取注册就送礼包，节点返佣节省手续费。
 
-<div class='register-button'>
-<a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='content-btn'> 官网注册 </a>
-</div>
-
-### 首先注册账户
-在安装之前，先去注册账号，请使用下面的链接进行注册，一定要先去注册，不然领取不到。
-
 <p class="red-text-word">奖励最高 888 元，点击下方注册领取</p>
 
 <div class='register-button'>
-<a href='./302.html?target=https://www.mnftinqq.com/join/90884854'> 欧易福利注册地址 </a>
+<a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='content-btn' target='_blank'> 官网注册 </a>
 </div>
 
-无法打开上面链接，请请使用下面链接
+### APP 下载
+安卓下载地址，[点击下载本地安卓apk文件](https://static.vnugkh.cn/upgradeapp/okx-android.apk "download")
 
-[欧易福利注册备用地址](./302.html?target=https:///www.okx.com/join/90884854)
-
-<p class="red-text-word">下载在注册界面一定要填写邀请码 90884854 </p>
-不然无法领取注册奖励和返佣。其次如果还不会下载，也不会玩
-
-注册使用邮箱和手机号都行。注册好后，我们就来安装应用了，这里需要区分安卓还是苹果。
-
-### 安卓安装方法
-
-[点击下载本地安卓apk文件](https://static.vnugkh.cn/upgradeapp/okx-android.apk "download")
-
-下载完成后，点击安装就行，部分手机会识别为风险应用，会让你再三确认，或者需要让你打开纯净模式，都是正常提示，请大家允许就行了。
-
-<p class="red-text-word">下载前没有注册的，在注册界面一定要填写邀请码 90884854 </p>
-
-### 苹果安装方法
-
-苹果你需要有一个海外平台账号，如果你没有，想临时工借用一个，也可以，你可以加入电报群 [综合导航搜索群](./302.html?target=https://t.me/chineseSearchService) 然后回复 appid，就可以得到当前可以使用的共享苹果账号了，或者前往这篇文章获取
-
-[2024 年免费香港最新苹果账号分享](./apple-id.html)
-
-这里要非常注意，登录的方法需要按照这个流程，不可在 icloud 种登录（请特别注意这点，不然可能导致手机被锁）。
-
-想要永久的购买一个海外苹果账号，前往这里购买
+苹果下载地址，请使用海外苹果账号，登录苹果 appsore，然后搜索 OKX 就可以下载，如果没有海外苹果账号请，[2024 年免费香港最新苹果账号分享](./apple-id.html)，想要永久的购买一个海外苹果账号，前往这里购买
  [https://tggsearch.shop/#shop](./302.html?target=https://tggsearch.shop/#shop)
 
-如果你想永久免费申请一个自己的苹果海外账号，请查看该视频，按照视频方法进行处理 [申请海外苹果账号的方法](./302.html?target=https://www.youtube.com/watch?v=Y51VMx4NOfk)
+### 注册下载遇到问题怎么办？
+1. **无法打开注册官网**，注册官网打开异常，请确认是否有梯子，如果有梯子请使用，以下链接，[欧易梯子注册链接](./302.html?target=https://www.okx.com/join/90884854)，如果没有梯子，请尝试使用下面链接，[欧易无梯子注册链接](./302.html?target=https://www.mnftinqq.com/join/90884854)，如果还是无法打开，请右下角联系技术客服。
 
-下载完成后，直接在应用商店搜索 OKX 或者 欧易就行了，然后点击安装。
+2. **APK无法下载**，如果点击上面 APK 无法下载，请打开上面的官网注册链接，前往欧易官网，在欧易官网中找到下载 APP，即可提供下载 APK 最新方法。
 
-<p class="red-text-word">下载前没有注册的，在注册界面一定要填写邀请码 90884854 </p>
+3. **邀请码是多少**，如果你是直接下载 APP 的，请使用邀请码 betrys，如果你通过上面链接注册的，就不需要邀请码了。
 
-### 领取盲盒奖励（玩合约再送5U）
-接下来你需要进行实名认证，实名完成后就可以在欧易的奖励中心获得盲盒奖励了，一般有 1-20美金。如果你注册好后，首次玩合约，请提供 uid 给我，直接送你 5U，右下角联系，或者电报找我 @uwantme12。
+4. **如果领取奖励**，注册下载完成后，需要进行实名认证，实名认证完成后，APP中就会主动提示你有盲盒奖励领取。
 
-### 欧易教程
+5. **如何入金，其他教程有哪些**，以下是我们提供的一些教程，你可以参考看下
+
 [买 USDT 和卖 USDT 方法](./buyu-selleru.html)
 
 [永续合约怎么玩，币圈永续合约是什么，怎么玩永续合约](./coins-yx-play.html)
