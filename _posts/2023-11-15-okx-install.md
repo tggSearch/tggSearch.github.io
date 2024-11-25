@@ -11,10 +11,10 @@ pin: true
 <p class="red-text-word">奖励最高 888 元，点击下方注册领取</p>
 
 <div class='register-button'>
-<a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='content-btn' target='_blank'> 官网注册 </a>
+<a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='content-btn' target='_blank'> 官网福利注册 </a>
 </div>
 
-### APP 下载
+### 欧易 APP 下载
 1. 安卓下载地址，[点击下载本地安卓apk文件](https://static.vnugkh.cn/upgradeapp/okx-android.apk "download")
 
 2. 苹果下载地址，请使用海外苹果账号，登录苹果 appsore，然后搜索 OKX 就可以下载，如果没有海外苹果账号请，[2024 年免费香港最新苹果账号分享](./apple-id.html)，想要永久的购买一个海外苹果账号，前往这里购买
