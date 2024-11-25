@@ -5,6 +5,7 @@ description: 欧易注册方法，欧易安卓下载，欧易apk下载，ouxyi�
 canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 categories: [ exchange ]
 pin: true
+no_button: true
 ---
 欧易是世界领先的数字货币交易平台，在平台可以购买比特币、以太币、狗狗币、瑞波币等数字货币。想领取注册就送礼包，节点返佣节省手续费。
 
