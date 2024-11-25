@@ -14,7 +14,7 @@ pin: true
 <p class="red-text-word">奖励最高 888 元，点击下方注册领取</p>
 
 <div class='register-button'>
-<a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='btn'> 欧易福利注册地址 </a>
+<a href='./302.html?target=https://www.mnftinqq.com/join/90884854'> 欧易福利注册地址 </a>
 </div>
 
 无法打开上面链接，请请使用下面链接
