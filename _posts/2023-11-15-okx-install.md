@@ -10,7 +10,7 @@ no_button: 'yes'
 欧易是世界领先的数字货币交易平台，在平台可以购买比特币、以太币、狗狗币、瑞波币等数字货币。想领取注册就送礼包，节点返佣节省手续费。
 
 <div class='register-button'>
-    <a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='content-btn' target='_blank'> 官网福利注册 </a>
+    <a href='./302.html?target=https://www.mnftinqq.com/join/90884854' class='content-btn' target='_blank'> 欧易官网注册 </a>
 </div>
 <p class="red-text-word">奖励最高 888 元，点击上面按钮进行注册领取</p>
 
