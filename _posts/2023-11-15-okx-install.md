@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欧易注册教程 okx注册教程｜欧易安卓下载 888 元注册奖励
+title: 欧易注册教程，领取最高 888 元奖励
 description: 欧易注册方法，欧易安卓下载，欧易apk下载，ouxyi官网，苹果下载教程，OKX盲盒，APK下载，苹果下载教程。
 canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 categories: [ exchange ]
