@@ -17,7 +17,7 @@ categories: [ exchange ]
 
 [欧易OKX注册国内无VPN ](./302.html?target=https://www.okx.com/join/betrys)
 
-[欧易OKX注册国内有VPN ](./302.html?target=https://www.mnftinqq.com/join/betrys)
+[欧易OKX注册国内有VPN ](./302.html?target=https://www.cewdpjcuzc.com/join/betrys)
 
 [币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==betrys)
 
