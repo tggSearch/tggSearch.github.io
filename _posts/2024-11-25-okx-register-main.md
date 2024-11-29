@@ -4,7 +4,7 @@ title: 欧易注册教程 okx注册教程｜欧易安卓下载 888 元注册奖�
 description: 欧易注册方法，欧易安卓下载，欧易apk下载，ouxyi官网，苹果下载教程，OKX盲盒，APK下载，苹果下载教程。
 canonical_url: 'https://tggsearch.github.io/docs/okx-install.html'
 categories: [ exchange ]
-pin: true
+pin: false
 ---
 欧易是世界领先的数字货币交易平台，在平台可以购买比特币、以太币、狗狗币、瑞波币等数字货币。想领取注册就送礼包，节点返佣节省手续费。
 
