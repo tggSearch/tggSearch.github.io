@@ -11,8 +11,10 @@ pin: false
 ### 1. 选择适合的交易所
 在中国，最常见的比特币购买方式是通过加密货币交易所。这些平台不仅提供便捷的交易服务，还保障资金的安全。以下是中国用户常用的交易平台：
 
-- OKX（原OKEx），注册地址 <div class='register-button'>
-<a href='./302.html?target=https://www.cewdpjcuzc.com/join/90884854' class='content-btn' target='_blank'> OKX 官网注册 </a>
+- OKX（原OKEx），注册地址
+
+<div class='register-button'>
+<a href='./302.html?target=https://www.cewdpjcuzc.com/join/90884854' target='_blank'> OKX 官网注册 </a>
 </div>
 
 - 币安（Binance），[币安官网注册地址](./302.html?target=https://www.binance.com/join?ref==betrys)
