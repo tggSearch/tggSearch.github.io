@@ -14,7 +14,6 @@
     display: grid;  // 使用 grid 布局
     grid-template-columns: repeat(4, 1fr);  // 修正这行
     align-items: start;
-    gap: 10px;
 }
 
 .icon-block-body-two {
