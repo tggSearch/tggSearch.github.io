@@ -3,7 +3,7 @@ function setLinks(countryCode) {
   const registerButtons = document.getElementsByClassName('register-button');
 
   const linkHref = countryCode === 'CN' 
-    ? './302.html?target=www.dqvzgdmisn.com/join/90884854' 
+    ? './302.html?target=https://www.dqvzgdmisn.com/join/90884854' 
     : './302.html?target=https://www.okx.com/join/90884854';
 
   for (let button of registerButtons) {
