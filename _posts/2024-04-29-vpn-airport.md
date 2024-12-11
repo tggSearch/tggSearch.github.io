@@ -30,7 +30,7 @@ categories: [ account ]
 | 机场名称 | 机场优点  | 机场缺点  |
 |--------|------------|------------|
 |[三毛机场](./302.html?target=https://smjcdh.com/#/register?code=GvzAuYCT)|便宜，9块一年|不稳定，有时候节点会无法使用，需要频繁切换节点|
-|[青柠机场](./302.html?target=https://www.lime1.xyz/#/register?code=UzQHEt2g)|首日免费，可以免费体验一天，非常稳定|价格稍贵，20块钱一个月基础套餐|
+|[青柠机场](./302.html?target=https://www.lime1.xyz/register?code=dlQu3cqM)|首日免费，可以免费体验一天，非常稳定|价格稍贵，20块钱一个月基础套餐|
 |[米奇机场](./302.html?target=https://x12.miqijiasu.shop)|价格稍微便宜13.88块一个月，稳定|整体优势和缺点都不明显，适中|
 |[乐连机场](./302.html?target=https://lelian.co/#/register?code=cWuDPuxY)|价格稍微便宜，8元一个月，但是流量较小，非常稳定|价格有优势，也稳定|
 |[CloudRocket机场](./302.html?target=https://cr123.us/?code=FVwFJgPD)|免费2天，非常稳定|价格稍贵，22块钱一个月基础套餐|

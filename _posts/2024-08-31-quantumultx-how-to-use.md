@@ -75,6 +75,6 @@ QuantumultX 支持在 iOS 的快捷指令中创建操作，你可以设定快捷
 |------------------|--------------|-------------|------------------------|------------------------|
 | [三毛机场](./302.html?target=https://smjcdh.com/#/register?code=GvzAuYCT)              | 不支持 | 3块一年            | 50块一年 | 便宜但是不稳定 |
 | [红杏加速器（推荐使用）](./302.html?target=https://hongxingdl.com/web/#/login?code=WjjqTnEn)              | 不支持 | 50块一年，优惠券betrys，5折        | 100块一年 | 稳定有优惠，可支持多设备 |
-| [青柠机场](./302.html?target=https://www.lime1.xyz/#/register?code=UzQHEt2g)            | 支持 | 100块一年       | 100块一年 | 稳定有优惠，可支持多设备 |
+| [青柠机场](./302.html?target=https://www.lime1.xyz/register?code=dlQu3cqM)            | 支持 | 100块一年       | 100块一年 | 稳定有优惠，可支持多设备 |
 | [速盾网络](./302.html?target=https://ww.sudun.site/#/login?code=ny55y0fL)            | 支持 | 10块一个月，优惠券betrys，9折      | 100块一年 | 稳定，流量大300G一个月 |
 | [乐连机场](./302.html?target=https://lelian.co/#/register?code=cWuDPuxY)            | 支持 | 28块一个月      | 45块一年 | 月会员贵，年会员便宜 |

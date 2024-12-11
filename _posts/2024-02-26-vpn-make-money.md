@@ -27,7 +27,7 @@ categories: [ account ]
 #### 各类梯子邀请好友赚钱
 以下梯子都是支持邀请的，你们自己看看想邀请哪个平台，自己试用下，基本都是可以获得邀请资金，也可以直接拿来自己充值。
 
-[青柠机场](https://www.lime1.xyz/#/register?code=UzQHEt2g)
+[青柠机场](https://www.lime1.xyz/register?code=dlQu3cqM)
 
 [CloudRocket](./302.html?target=https://cr123.us/?code=FVwFJgPD)
 
