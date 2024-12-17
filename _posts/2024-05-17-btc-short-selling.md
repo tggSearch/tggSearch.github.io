@@ -25,9 +25,9 @@ categories: [ exchange ]
 [欧易有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
 
-[欧易国内无 VPN 梯子注册地址 https://www.eadwlwbueo.com/join/90884854](./302.html?target=https://www.eadwlwbueo.com/join/90884854)
+[欧易国内无 VPN 梯子注册地址 https://www.domchdqmse.com/join/90884854](./302.html?target=https://www.domchdqmse.com/join/90884854)
 
-[欧易国内无 VPN 梯子注册地址 https://www.eadwlwbueo.com/join/90884854](./302.html?target=https://www.eadwlwbueo.com/join/90884854)
+[欧易国内无 VPN 梯子注册地址 https://www.domchdqmse.com/join/90884854](./302.html?target=https://www.domchdqmse.com/join/90884854)
 
 
 注册好以后，就需要下载 APP，如果你是苹果需要有一个海外苹果账号，如果你没有，可以查看我们这篇文章 [免费海外苹果账号获取教程](./apple-id.html)，如果你是安卓，可以前往这两篇文章获取。
