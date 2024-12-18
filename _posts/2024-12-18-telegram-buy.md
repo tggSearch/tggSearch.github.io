@@ -1,6 +1,6 @@
 ---
 layout: default
-title: telegram号购买，一对一确保登录成功
+title: telegram号电报号购买，一对一确保登录成功
 description: 了解如何安全购买Telegram账号，快速上手并确保登录安全。一对一实名购买方案，帮助实现多账号管理、高效团队协作，并提供账号安全维护的全方位指南，避免低价陷阱，选择可靠渠道，确保业务拓展无忧
 canonical_url: 'https://tggsearch.github.io/docs/telegram-buy.html'
 categories: [ telegram ]
