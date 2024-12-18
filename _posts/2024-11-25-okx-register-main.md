@@ -15,7 +15,7 @@ pin: false
 </div>
 
 ### APP 下载
-1. 安卓下载地址，[点击下载本地安卓apk文件](https://static.vnugkh.cn/upgradeapp/okx-android.apk "download")
+1. 安卓下载地址，<a href='#' class='download-button' target='_blank'>点击前往官网下载安卓apk文件</a>
 
 2. 苹果下载地址，请使用海外苹果账号，登录苹果 appsore，然后搜索 OKX 就可以下载，如果没有海外苹果账号请，[2024 年免费香港最新苹果账号分享](./apple-id.html)，想要永久的购买一个海外苹果账号，前往这里购买
  [https://tggsearch.shop/#shop](./302.html?target=https://tggsearch.shop/#shop)
