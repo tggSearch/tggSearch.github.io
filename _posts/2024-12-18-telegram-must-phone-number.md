@@ -2,7 +2,7 @@
 layout: default
 title: 电报telegram必须要手机号吗？如何不使用自己手机号注册
 description: 电报必须要手机号注册吗？如何不使用自己手机号注册Telegram账号？通过我们的平台购买临时号码，轻松完成注册，保护隐私，同时享受快捷、安全的操作体验！
-canonical_url: 'https://tggsearch.github.io/docs/telegram-buy.html'
+canonical_url: 'https://tggsearch.github.io/docs/telegram-must-phone-number.html'
 categories: [ telegram ]
 ---
 Telegram（电报）是一款备受欢迎的即时通讯工具，以其高隐私性和跨平台兼容性受到全球用户的青睐。然而，很多用户在注册时可能会犹豫：电报必须要使用手机号吗？有没有办法不使用自己的手机号注册？本文将为大家详细解答，并介绍一种便捷的解决方案。
