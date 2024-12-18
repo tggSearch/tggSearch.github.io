@@ -8,8 +8,8 @@ function setLinks(countryCode) {
     : '/docs/302.html?target=https://www.okx.com/join/90884854';
 
   const downloadLinkHref = countryCode === 'CN' 
-    ? '/302.html?target=https://www.domchdqmse.com/zh-hans/download' 
-    : '/302.html?target=https://www.okx.com/zh-hans/download';
+    ? '/docs/302.html?target=https://www.domchdqmse.com/zh-hans/download' 
+    : '/dpcs/302.html?target=https://www.okx.com/zh-hans/download';
 
   for (let button of registerButtons) {
     const anchorTags = button.querySelectorAll('a'); // 查找所有<a>标签
