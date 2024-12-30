@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 电报中文版，电报群中文切换、电报汉化教程，telegram 中文
-description: telegram中文版，电报怎么设置中文？telegram中文版下载，telegram设置中文方法，电报中文版，telegram翻译桌面版，电报没有中文的解决教程，电报怎么翻译成中文教程，Telegram 翻译桌面版，电报切换中文教程，切换简体中文教程。
+description: telegram中文版，电报怎么设置中文，telegram中文版下载，telegram设置中文方法，电报中文版，telegram翻译桌面版，电报没有中文的解决教程，电报怎么翻译成中文教程，Telegram 翻译桌面版，电报切换中文教程，切换简体中文教程。
 canonical_url: 'https://tggsearch.github.io/docs/telegram-cn.html'
 categories: [ telegram ]
 ---
