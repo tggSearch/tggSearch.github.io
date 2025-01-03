@@ -23,7 +23,7 @@ USDT（Tether）作为一种稳定币，广泛应用于加密货币市场，其�
 
 [欧易OKX注册国内无VPN ](./302.html?target=https://www.okx.com/join/betrys)
 
-[欧易OKX注册国内有VPN ](./302.html?target=https://www.chouyi.xyz/join/betrys)
+[欧易OKX注册国内有VPN ](./302.html?target=https://www.chouyi.ninja/join/betrys)
 
 [币安海外链接，有VPN梯子](./302.html?target=https://www.binance.com/join?ref==betrys)
 
