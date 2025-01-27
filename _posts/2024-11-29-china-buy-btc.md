@@ -14,7 +14,7 @@ pin: false
 - OKX（原OKEx），注册地址
 
 <div class='register-button'>
-<a href='./302.html?target=https://www.chouyi.life/join/90884854' target='_blank'> OKX 官网注册 </a>
+<a href='./302.html?target=https://www.chouyi.studio/join/90884854' target='_blank'> OKX 官网注册 </a>
 </div>
 
 - 币安（Binance），[币安官网注册地址](./302.html?target=https://www.binance.com/join?ref==betrys)
