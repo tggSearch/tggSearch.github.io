@@ -11,7 +11,7 @@ pin: false
 <p class="red-text-word">奖励最高 888 元，点击下方注册领取</p>
 
 <div class='register-button'>
-<a href='./302.html?target=https://www.growthouyi.irish/join/90884854' class='content-btn' target='_blank'> 官网注册 </a>
+<a href='./302.html?target=https://www.chouyi.mobi/join/90884854' class='content-btn' target='_blank'> 官网注册 </a>
 </div>
 
 ### APP 下载
@@ -21,7 +21,7 @@ pin: false
  [https://tggsearch.shop/#shop](./302.html?target=https://tggsearch.shop/#shop)
 
 ### 注册下载遇到问题怎么办？
-1. **无法打开注册官网**，注册官网打开异常，请确认是否有梯子，如果有梯子请使用，以下链接，[欧易梯子注册链接](./302.html?target=https://www.okx.com/join/90884854)，如果没有梯子，请尝试使用下面链接，[欧易无梯子注册链接](./302.html?target=https://www.growthouyi.irish/join/90884854)，如果还是无法打开，请右下角联系技术客服。
+1. **无法打开注册官网**，注册官网打开异常，请确认是否有梯子，如果有梯子请使用，以下链接，[欧易梯子注册链接](./302.html?target=https://www.okx.com/join/90884854)，如果没有梯子，请尝试使用下面链接，[欧易无梯子注册链接](./302.html?target=https://www.chouyi.mobi/join/90884854)，如果还是无法打开，请右下角联系技术客服。
 
 2. **APK无法下载**，如果点击上面 APK 无法下载，请打开上面的官网注册链接，前往欧易官网，在欧易官网中找到下载 APP，即可提供下载 APK 最新方法。
 
