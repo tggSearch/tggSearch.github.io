@@ -14,7 +14,7 @@ QuantumultX 是一款功能强大的网络工具，能够帮助用户在 iOS 设
 
 [安卓 clash 下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3ntc)
 
-[Windows PC 下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3rif)
+[Windows PC 下载地址](./302.html?target=https://download.hongxingdl.cc/ClashforWindows.7z)
 
 [Mac 下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3r1i)
 

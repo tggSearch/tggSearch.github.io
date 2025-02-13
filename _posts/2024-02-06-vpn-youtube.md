@@ -17,7 +17,7 @@ Youtube 由于审核力度不像国内那么严格，因此你可以看到很多
 
 [安卓小火箭下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3ntc)
 
-[Windows PC 下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3rif)
+[Windows PC 下载地址](./302.html?target=https://download.hongxingdl.cc/ClashforWindows.7z)
 
 [Mac 下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3r1i)
 

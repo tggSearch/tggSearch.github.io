@@ -15,7 +15,7 @@ categories: [ account ]
 
 [安卓小火箭下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3ntc)
 
-[Windows PC 下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3rif)
+[Windows PC 下载地址](./302.html?target=https://download.hongxingdl.cc/ClashforWindows.7z)
 
 [Mac 下载地址](./302.html?target=https://wwux.lanzouw.com/b04jx3r1i)
 
