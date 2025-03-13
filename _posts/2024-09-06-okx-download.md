@@ -28,9 +28,9 @@ pin: true
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
 
-[国内无 VPN 梯子注册地址 https://www.growthouyi.net/join/90884854](./302.html?target=https://www.growthouyi.net/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.growthouyi.biz/join/90884854](./302.html?target=https://www.growthouyi.biz/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.growthouyi.net/join/90884854](./302.html?target=https://www.growthouyi.net/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.growthouyi.biz/join/90884854](./302.html?target=https://www.growthouyi.biz/join/90884854)
 
 
 进入页面后，进行注册，注册成功然后再进行实名认证，就可以领取盲盒奖励了。
@@ -69,9 +69,9 @@ pin: true
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
 
-[国内无 VPN 梯子注册地址 https://www.growthouyi.net/join/90884854](./302.html?target=https://www.growthouyi.net/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.growthouyi.biz/join/90884854](./302.html?target=https://www.growthouyi.biz/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.growthouyi.net/join/90884854](./302.html?target=https://www.growthouyi.net/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.growthouyi.biz/join/90884854](./302.html?target=https://www.growthouyi.biz/join/90884854)
 
 
 ### 欧易其他教程
