@@ -9,7 +9,7 @@ pin: false
 OKX是一家全球领先的加密货币交易所，提供丰富的数字资产交易和投资服务。然而，由于政策和法规的原因，OKX对某些国家和地区的用户有限制。本文将详细介绍OKX限制的国家和支持使用的国家，帮助您了解在何处可以合法、安全地使用OKX。
 
 <div class='register-button'>
-    <a href='./302.html?target=https://www.chouyi.solutions/join/90884854' class='content-btn' target='_blank'> 欧易官网注册 </a>
+    <a href='./302.html?target=https://www.chouyi.today/join/90884854' class='content-btn' target='_blank'> 欧易官网注册 </a>
 </div>
 <p class="red-text-word">奖励最高 888 元，点击上面按钮进行注册领取</p>
 
@@ -64,7 +64,7 @@ OKX对乌克兰的克里米亚地区用户同样采取限制措施。
 登录OKX官网，查看“受限制地区”的官方声明。
 
 <div class='register-button'>
-    <a href='./302.html?target=https://www.chouyi.solutions/join/90884854' class='content-btn' target='_blank'> 欧易官网链接 </a>
+    <a href='./302.html?target=https://www.chouyi.today/join/90884854' class='content-btn' target='_blank'> 欧易官网链接 </a>
 </div>
 
 **账户注册测试**
