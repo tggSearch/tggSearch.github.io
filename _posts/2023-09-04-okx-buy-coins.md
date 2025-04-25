@@ -13,9 +13,9 @@ categories: [ exchange ]
 [OKX海外注册地址：https://www.okx.com/join/30029571](./302.html?target=https://www.okx.com/join/30029571)
 
 
-[国内无 VPN 梯子注册地址 https://www.chouyi.schule/join/90884854](./302.html?target=https://www.chouyi.schule/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.chouyi.reisen/join/90884854](./302.html?target=https://www.chouyi.reisen/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.chouyi.schule/join/90884854](./302.html?target=https://www.chouyi.schule/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.chouyi.reisen/join/90884854](./302.html?target=https://www.chouyi.reisen/join/90884854)
 
 
 <p class="red-text-word">
