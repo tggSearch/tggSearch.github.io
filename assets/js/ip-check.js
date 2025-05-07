@@ -4,11 +4,11 @@ function setLinks(countryCode) {
   const downloadButtons = document.getElementsByClassName('download-button');
 
   const linkHref = countryCode === 'CN' 
-    ? '/docs/302.html?target=https://www.chouyi.reisen/join/90884854' 
+    ? '/docs/302.html?target=https://www.chouyi.work/join/90884854' 
     : '/docs/302.html?target=https://www.okx.com/join/90884854';
 
   const downloadLinkHref = countryCode === 'CN' 
-    ? '/docs/302.html?target=https://www.chouyi.reisen/zh-hans/download' 
+    ? '/docs/302.html?target=https://www.chouyi.work/zh-hans/download' 
     : '/docs/302.html?target=https://www.okx.com/zh-hans/download';
 
   for (let button of registerButtons) {
