@@ -1,8 +1,9 @@
 ---
-layout:        post
+layout:        default
 title:         "Telegram API 申请指南及注意事项"
 author:        "reever Writer"
 header-style:  text
+canonical_url: 'https://tggsearch.github.io/docs/how-to-register-telegram-api.html'
 catalog:       true
 tags:
     - telegram

@@ -1,7 +1,8 @@
 ---
-layout:        post
+layout:        default
 title:         "Telegram注册验证码未收到的原因及解决方案"
 author:        "reever Writer"
+canonical_url: 'https://tggsearch.github.io/docs/why-no-sms-code.html'
 header-style:  text
 catalog:       true
 tags:
