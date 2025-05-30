@@ -13,7 +13,7 @@ pin: true
 youtube: [https://youtu.be/xRJzP9GjiTs](./302.html?target=https://youtu.be/xRJzP9GjiTs)
 
 <p class="red-text-word">
-如果不想自己操作，或者无法自己操作，可以收费协助，10元可以协助开通，请联系 钉钉 awu168888，备注，敏感限制。
+如果不想自己操作，或者无法自己操作，可以收费协助，10元可以协助开通，请联系 应用市场下载钉钉 awu168888，备注，敏感限制。
 </p>
 
 ## 文字步骤
