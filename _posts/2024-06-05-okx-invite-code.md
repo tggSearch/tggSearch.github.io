@@ -21,9 +21,9 @@ betrys
 [有 VPN 梯子注册地址 https://www.okx.com/join/betrys](./302.html?target=https://www.okx.com/join/betrys)
 
 
-[国内无 VPN 梯子注册地址 https://https://www.ouxyi.link/join/betrys](./302.html?target=https://https://www.ouxyi.link/join/betrys)
+[国内无 VPN 梯子注册地址 https://www.ouxyi.link/join/betrys](./302.html?target=https://www.ouxyi.link/join/betrys)
 
-[国内无 VPN 梯子注册地址 https://https://www.ouxyi.link/join/betrys](./302.html?target=https://https://www.ouxyi.link/join/betrys)
+[国内无 VPN 梯子注册地址 https://www.ouxyi.link/join/betrys](./302.html?target=https://www.ouxyi.link/join/betrys)
 
 
 ### “betrys” 邀请码福利
