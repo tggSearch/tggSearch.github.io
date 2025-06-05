@@ -18,9 +18,9 @@ betrys 本社区支持直接少量兑换，如果你想与我们平台进行兑�
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
 
-[国内无 VPN 梯子注册地址 https://www.chouyi.media/join/90884854](./302.html?target=https://www.chouyi.media/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouyizh.fyi/join/90884854](./302.html?target=https://www.ouyizh.fyi/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.chouyi.media/join/90884854](./302.html?target=https://www.chouyi.media/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouyizh.fyi/join/90884854](./302.html?target=https://www.ouyizh.fyi/join/90884854)
 
 
 接下来就去下载，安卓可以直接前往我们这篇文章寻找下载地址 [欧易注册下载教程](./okx-install.html)
