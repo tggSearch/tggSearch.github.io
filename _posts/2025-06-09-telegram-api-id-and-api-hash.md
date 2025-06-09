@@ -1,6 +1,10 @@
 ---
 title: Telegram开发者必备：api_id与api_hash详解
 description: 本文详细介绍了Telegram开发者在开发应用程序时所需的api_id和api_hash，包括它们的作用、如何获取以及使用方法。
+如果你持续创建失败，提示 ERROR，请右下角联系我们技术客服帮你解决，我们技术客服可以帮你成功申请到（技术是通过内部处理，需要收费，可接受的加qq添加技术客服QQ:3912569045或者应用市场下载钉钉添加钉钉号：awu168888）。
+
+-----------
+  本文来自 tggsearch，复制不写出处必究 https://tggsearch.github.io
 keywords: telegram
 ---
 
