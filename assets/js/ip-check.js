@@ -8,7 +8,7 @@ function setLinks(countryCode) {
     : '/docs/302.html?target=https://www.okx.com/join/90884854';
 
   const downloadLinkHref = countryCode === 'CN' 
-    ? '/docs/302.html?target=https://www.ouyizh.fyi/zh-hans/download' 
+    ? '/docs/302.html?target=https://www.ouyizh.net/zh-hans/download' 
     : '/docs/302.html?target=https://www.okx.com/zh-hans/download';
 
   for (let button of registerButtons) {
