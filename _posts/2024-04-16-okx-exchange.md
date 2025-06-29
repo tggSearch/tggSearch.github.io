@@ -13,9 +13,9 @@ categories: [ exchange ]
 [有 VPN 梯子注册地址 https://www.okx.com/join/90884854](./302.html?target=https://www.okx.com/join/90884854)
 
 
-[国内无 VPN 梯子注册地址 https://www.ouyizh.net/join/90884854](./302.html?target=https://www.ouyizh.net/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouyizh.army/join/90884854](./302.html?target=https://www.ouyizh.army/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.ouyizh.net/join/90884854](./302.html?target=https://www.ouyizh.net/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouyizh.army/join/90884854](./302.html?target=https://www.ouyizh.army/join/90884854)
 
 
 注册好了以后，再进行下载，下载教程可以查看这篇文章 [欧易注册教程 okx注册教程｜欧易安卓下载](./okx-install.html)
