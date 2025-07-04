@@ -23,8 +23,8 @@ categories: [exchange]
 ### 1.注册欧易交易所账户
 首先我们要去注册欧易的账户，你们可以点击下方进行注册
 
-<divclass='register-button'>
-<ahref='./302.html?target=https://www.ouyizh.onl/join/90884854'class='content-btn'target='_blank'>欧易官网注册</a>
+<div class='register-button'>
+    <a href='./302.html?target=https://www.ouyizh.onl/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
 </div>
 
 ### 2.下载欧易交易所app
