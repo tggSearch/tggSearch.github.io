@@ -1,11 +1,12 @@
 ---
-layout:default
-title:欧易如何购买trx，3分钟搞定
-description:新手也能轻松上手！本教程教你如何用欧易（OKX）快速购买TRX（波场币），支持支付宝、银行卡等支付方式，3分钟搞定买币流程，附详细图文步骤，零基础也能看懂！
-canonical_url:'https://tggsearch.github.io/docs/okx-buy-trx.html'
-categories:[exchange]
+layout: default
+title: 欧易如何购买trx，3分钟搞定
+description: 新手也能轻松上手！本教程教你如何用欧易（OKX）快速购买TRX（波场币），支持支付宝、银行卡等支付方式，3分钟搞定买币流程，附详细图文步骤，零基础也能看懂！
+canonical_url: 'https://tggsearch.github.io/docs/okx-buy-trx.html'
+categories: [exchange]
 ---
 想要购买TRX（波场币），但不知道从哪里开始？别担心，这篇教程教你如何用欧易OKX交易所快速完成TRX购买，只需3分钟，小白也能轻松搞定！
+
 
 这里主要分为以下几步：
 1.注册欧易交易所账户
@@ -14,6 +15,8 @@ categories:[exchange]
 4.用支付宝微信购买USDT
 5.使用USDT在欧易兑换TRX
 6.可以提取TRX到钱包，或者其他地方
+
+如果你觉得麻烦，可以直接找我们技术客服，右下角联系我们技术客服，或者加备注TRX qq：3865967803
 
 好下面我们一一来拆解每一个步骤
 
