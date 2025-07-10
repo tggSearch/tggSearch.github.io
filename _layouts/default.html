@@ -176,6 +176,30 @@
              });
         </script>
          <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="d2269887-8595-4140-928a-88eac2c0a381";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BlogPosting",
+            "headline": "{{ page.title | escape }}",
+            "author": {
+                "@type": "Person",
+                "name": "{{ site.author | default: '匿名' }}"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "{{ site.author | default: '个人博客' }}",
+                "logo": {
+                "@type": "ImageObject",
+                "url": "{{ site.url }}/assets/img/logo.png"
+                }
+            },
+            "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "{{ page.canonical_url }}"
+            }
+        }
+        </script>
+
          <script async src="/assets/js/ip-check.js"></script>
     </body>
     </html>
