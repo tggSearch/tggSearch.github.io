@@ -14,9 +14,9 @@ telegram 在搜索方面做的比较烂的应用，你基本上靠 telegram 自�
 在搜索群，你直接可以输入搜索关键词，例如你想搜索币圈相关的内容，你就搜索 吃瓜、套图、或者本地群聊，比如下面这样
 
 <div align=center>
-    <img alt="telegram 无法搜索群" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/search-group-1.webp" class="page-img"  width="30%" onerror="this.onerror=null;this.src='/assets/img/limit.png'">
-    <img alt="litelegram 无法搜索群mit" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/no-search-2.webp" class="page-img"  width="30%" onerror="this.onerror=null;this.src='/assets/img/limit.png'">
-    <img alt="telegram 无法搜索群" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/no-search-3.webp" class="page-img"  width="30%" onerror="this.onerror=null;this.src='/assets/img/limit.png'">
+    <img alt="telegram 无法搜索群" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/search-group-1.webp" class="page-img"  width="30%" onerror="this.onerror=null;this.src='/assets/img/search-group-1.png'">
+    <img alt="litelegram 无法搜索群mit" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/no-search-2.webp" class="page-img"  width="30%" onerror="this.onerror=null;this.src='/assets/img/search-group-2.png'">
+    <img alt="telegram 无法搜索群" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/no-search-3.webp" class="page-img"  width="30%" onerror="this.onerror=null;this.src='/assets/img/search-group-3.png'">
 </div>
 
 你就可以看到很多你想要的群聊或者资源了

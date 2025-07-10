@@ -22,7 +22,7 @@ categories: [ telegram ]
 这个方法听起来有点“非常规”，但目前大部分用户都是靠这个方式激活绑定邮箱提示的。
 
 <div align=center>
-    <img alt="telegram 怎么绑定邮箱登录" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-email-login-step.webp" class="page-img"  width="70%" onerror="this.onerror=null;this.src='/assets/img/limit.png'">
+    <img alt="telegram 怎么绑定邮箱登录" src="https://cdn.jsdelivr.net/gh/tggsearch/tggsearch.github.io/assets/img/telegram-email-login-step.webp" class="page-img"  width="70%" onerror="this.onerror=null;this.src='/assets/img/telegram-email-login-step.png'">
 </div>
 
 **具体步骤如下：**
