@@ -177,34 +177,6 @@
         </script>
          <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="d2269887-8595-4140-928a-88eac2c0a381";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
          <script async src="/assets/js/ip-check.js"></script>
-         {% assign filename = page.path | split: '/' | last %}
-         {% assign date_str = filename | slice: 0, 10 %}
-         {% assign date_parsed = date_str | date: "%Y-%m-%d" %}
-        <script type="application/ld+json">
-        {
-        "@context": "https://schema.org",
-        "@type": "BlogPosting",
-        "headline": "{{ page.title | escape }}",
-        "datePublished": "{{ date_parsed | date_to_xmlschema }}",
-        "dateModified": "{{ date_parsed | date_to_xmlschema }}",
-        "author": {
-            "@type": "Person",
-            "name": "{{ site.author }}"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "{{ site.author }}",
-            "logo": {
-            "@type": "ImageObject",
-            "url": "{{ site.image }}"
-            }
-        },
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "{{ page.canonical_url }}"
-        }
-        }
-        </script>
     </body>
     </html>
     

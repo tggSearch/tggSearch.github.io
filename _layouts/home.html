@@ -78,4 +78,22 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
         </ul>
     {% endif %}
   </div>  
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Blog",
+      "name": "{{ site.title | escape }}",
+      "description": "{{ site.description | escape }}",
+      "url": "{{ site.url }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.author.name }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/img/logo.png"
+        }
+      }
+    }
+    </script>
 </div>
