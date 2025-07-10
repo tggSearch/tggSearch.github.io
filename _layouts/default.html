@@ -181,6 +181,7 @@
             "@context": "https://schema.org",
             "@type": "BlogPosting",
             "headline": "{{ page.title | escape }}",
+            "description": "{{ page.description | strip_newlines | strip_html | escape }}",
             "author": {
                 "@type": "Person",
                 "name": "{{ site.author | default: '匿名' }}"
