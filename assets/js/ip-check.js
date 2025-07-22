@@ -4,11 +4,11 @@ function setLinks(countryCode) {
   const downloadButtons = document.getElementsByClassName('download-button');
 
   const linkHref = countryCode === 'CN' 
-    ? '/docs/302.html?target=https://www.ouzhyi.onl/join/90884854' 
+    ? '/docs/302.html?target=https://www.ouzhyi.co/join/90884854' 
     : '/docs/302.html?target=https://www.okx.com/join/90884854';
 
   const downloadLinkHref = countryCode === 'CN' 
-    ? '/docs/302.html?target=https://www.ouzhyi.onl/zh-hans/download' 
+    ? '/docs/302.html?target=https://www.ouzhyi.co/zh-hans/download' 
     : '/docs/302.html?target=https://www.okx.com/zh-hans/download';
 
   for (let button of registerButtons) {
