@@ -20,7 +20,7 @@ categories: [exchange]
 因此如果你想尝试下，可以点击下方去注册下载
 
 <div class='register-button'>
-    <a href='./302.html?target=https://www.ouzhyi.co/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
+    <a href='./302.html?target=https://www.ouzhyi.blue/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
 </div>
 
 ### 二、使用欧易的安全风险
