@@ -13,9 +13,9 @@ categories: [ exchange ]
 [OKX海外注册地址：https://www.okx.com/join/30029571](./302.html?target=https://www.okx.com/join/30029571)
 
 
-[国内无 VPN 梯子注册地址 https://www.ouzhyi.me/join/90884854](./302.html?target=https://www.ouzhyi.me/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouchyi.co/join/90884854](./302.html?target=https://www.ouchyi.co/join/90884854)
 
-[国内无 VPN 梯子注册地址 https://www.ouzhyi.me/join/90884854](./302.html?target=https://www.ouzhyi.me/join/90884854)
+[国内无 VPN 梯子注册地址 https://www.ouchyi.co/join/90884854](./302.html?target=https://www.ouchyi.co/join/90884854)
 
 
 <p class="red-text-word">
