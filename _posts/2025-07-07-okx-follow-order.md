@@ -52,7 +52,7 @@ categories: [exchange]
    👉 用我这个邀请链接注册可以享受手续费优惠，还能拿到新手礼包：
 
    <div class='register-button'>
-     <a href='./302.html?target=https://www.oucnyi.blue/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
+     <a href='./302.html?target=https://www.oyicn.link/ul/6CngT5?channelId=90884854' class='content-btn' target='_blank'>欧易官网注册</a>
    </div>
 
 2. **进入【交易】-【跟单】页面**
@@ -93,5 +93,5 @@ categories: [exchange]
 如果你想试试跟单，可以通过我这个专属链接注册 OKX，支持一下作者，咱们一起交流经验：
 
 <div class='register-button'>
-  <a href='./302.html?target=https://www.oucnyi.blue/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
+  <a href='./302.html?target=https://www.oyicn.link/ul/6CngT5?channelId=90884854' class='content-btn' target='_blank'>欧易官网注册</a>
 </div>
