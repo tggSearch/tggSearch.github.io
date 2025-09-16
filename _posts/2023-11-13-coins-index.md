@@ -44,9 +44,9 @@ categories: [ exchange ]
 
 |  交易所   | 官网地址  | 返佣地址  | 
 |  ----  | ----  | ----  |
-| 欧易-okx  | [欧易国内](./302.html?target=https://www.tazheo.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.tazheo.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
+| 欧易-okx  | [欧易国内](./302.html?target=https://www.tazhcf.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.tazhcf.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
 
-| 欧易-okx  | [欧易国内](./302.html?target=https://www.tazheo.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.tazheo.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
+| 欧易-okx  | [欧易国内](./302.html?target=https://www.tazhcf.com/join/62030781)  [欧易海外](./302.html?target=https://www.okx.com/join/62030781) | [返佣国内](./302.html?target=https://www.tazhcf.com/join/62030781) [返佣海外](./302.html?target=https://www.okx.com/join/62030781)  |
 
 | 币安-bnb | [币安国内](./302.html?target=https://www.suitechsui.us/join?ref==betrys) [币安海外](./302.html?target=https://www.binance.com/join?ref==betrys) | [币安返佣地址](./302.html?target=https://www.binance.com/join?ref==betrys)  |
 | 火币-HTX | [火币官网](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223) | [火币返佣地址](./302.html?target=https://www.htx.co.si/invite/zh-cn/1g?invite_code=xgf98223)  |
