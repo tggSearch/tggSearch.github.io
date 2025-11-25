@@ -8,7 +8,7 @@ categories: [exchange]
 很多币圈新用户常常问：**OKX 和 OKEx 有什么区别？它们是两个平台吗？**  
 答案是：**OKX 就是原来的 OKEx，只不过进行了品牌升级。**
 
-本文将帮你彻底搞懂两者之间的联系、区别，以及如何通过安全链接注册 OKX 账户。[OKX OKEX官方注册](./302.html?target=https://www.fpgbgruxy.com/join/90884854)
+本文将帮你彻底搞懂两者之间的联系、区别，以及如何通过安全链接注册 OKX 账户。[OKX OKEX官方注册](./302.html?target=https://www.firgrouxywebb.com/join/90884854)
 
 ## 一、OKX 和 OKEx 是什么？
 
@@ -45,7 +45,7 @@ categories: [exchange]
 你可以通过下面的**官方邀请注册链接**注册 OKX，享受手续费折扣、新人奖励等福利：
 
 <div class='register-button'>
-  <a href='./302.html?target=https://www.fpgbgruxy.com/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
+  <a href='./302.html?target=https://www.firgrouxywebb.com/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
 </div>
 
 ## 五、OKX 和 OKEx 的对比表
@@ -64,5 +64,5 @@ OKX 和 OKEx 本质上是同一家平台的两个名字，OKX 是其新的官方
 还没注册 OKX 吗？点击下方按钮开启你的加密投资之旅：
 
 <div class='register-button'>
-  <a href='./302.html?target=https://www.fpgbgruxy.com/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
+  <a href='./302.html?target=https://www.firgrouxywebb.com/join/90884854' class='content-btn' target='_blank'>欧易官网注册</a>
 </div>
