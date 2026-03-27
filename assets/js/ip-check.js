@@ -4,7 +4,7 @@ function setLinks(countryCode) {
   const downloadButtons = document.getElementsByClassName('download-button');
 
   const linkHref = countryCode === 'CN' 
-    ? '/docs/302.html?target=https://teouxyites.com/join/90884854' 
+    ? '/docs/302.html?target=https://oyigwzh.info/join/90884854' 
     : '/docs/302.html?target=https://www.okx.com/join/90884854';
 
   const downloadLinkHref = countryCode === 'CN' 
