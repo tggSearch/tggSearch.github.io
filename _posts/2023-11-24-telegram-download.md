@@ -26,7 +26,7 @@ categories: [ telegram ]
 
 第二个原因没有使用梯子，梯子这里有三个，你们自己选择
 
-[三毛机场，一年9块](./302.html?target=https://www.三毛机场.live/#/register?code=GvzAuYCT)
+[三毛机场，一年9块](./302.html?target=https://g-3.三毛机场.com/#/register?code=xqdCfYjx)
 
 [青柠基础，首日免费](./302.html?target=https://www.lime1.xyz/register?code=dlQu3cqM)
 

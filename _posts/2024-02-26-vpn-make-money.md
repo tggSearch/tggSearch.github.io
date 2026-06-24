@@ -44,8 +44,6 @@ categories: [ account ]
 
 [快连VPN（需要去官网找他们开通）](./302.html?target=https://promter-management.onelink.me/WxKq/dc557412)
 
-[米奇加速器](./302.html?target=https://x12.miqijiasu.shop)
-
 [华夏联盟加速器](./302.html?target=https://wwe.trx1.cyou/index.php#/register?code=ejjCAnmQ)
 
 ### 自媒体赚钱

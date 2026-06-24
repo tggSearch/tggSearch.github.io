@@ -49,7 +49,7 @@ categories: [ account ]
 #### 三毛机场（9元一年机场）
 这个是目前最便宜的机场，一年只要 9块钱，非常便宜，但是随之而来的也是不稳定，三毛机场的注册地址
 
-[三毛机场注册地址](https://smjcdh.com/#/register?code=GvzAuYCT)
+[三毛机场注册地址](https://g-3.三毛机场.com/#/register?code=xqdCfYjx)
 
 具体的使用方法，可以查看他们的使用文档，一般都是一样的流程，主要是购买好套餐，然后导入小火箭就可以了。
 

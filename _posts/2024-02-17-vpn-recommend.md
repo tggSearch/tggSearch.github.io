@@ -10,15 +10,12 @@ categories: [ account ]
 ### 三毛机场（最便宜，不稳定）
 这个是目前最便宜的机场，一年只要 9块钱，非常便宜，但是随之而来的也是不稳定，三毛机场的注册地址
 
-[三毛机场注册地址](https://smjcdh.com/#/register?code=GvzAuYCT)
+[三毛机场注册地址](https://g-3.三毛机场.com/#/register?code=xqdCfYjx)
 
 具体的使用方法，可以查看他们的使用文档，一般都是一样的流程，主要是购买好套餐，然后导入小火箭就可以了。
 
 ### 便宜稳定，优质加速器（50块一年，优惠券betrys可以五折优惠）
 [红杏加速器](./302.html?target=https://hongxingdl.com/web/#/login?code=WjjqTnEn)
-
-### 速盾网络，便宜稳定（10块一月）
-[速盾网络注册](./302.html?target=https://ww.sudun.site/#/login?code=ny55y0fL)
 
 ### 快连VPN（免费3天）（可能无法注册推特）
 目前也是可以免费试用一段时间的，并且还有每小时免费抽，这就看你运气了，如果想买，也不贵一年 40 美金。
@@ -39,10 +36,6 @@ categories: [ account ]
 
 特惠内容：凡新用户注册及现有用户续费，所有套餐均可享受八折优惠。
 优惠使用方法：在套餐购买时，请在优惠券验证区输入“2024”并点击验证，即可获得优惠。
-
-### 米奇加速器（10月一月）
-[注册地址](./302.html?target=https://x12.miqijiasu.shop)
-这个相对比较便宜，一个月10块的也有，相对来说比便宜，也是比较稳定的
 
 ### 一毛机场官网（相对便宜，稳定）
 [首选注册地址](https://xn--4gqu8tcnnope.com/#/register?code=H0jAJDJc)

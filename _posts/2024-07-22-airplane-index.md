@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 机场导航，各类机场分析对比
-description: 一毛机场、三毛机场、米奇加速器、乐连加速器、青柠机场、红杏机场等等，这些机场到底应该用哪个，怎么使用，如何使用最划算，请看这个教程
+description: 一毛机场、三毛机场、乐连加速器、青柠机场、红杏机场等等，这些机场到底应该用哪个，怎么使用，如何使用最划算，请看这个教程
 canonical_url: 'https://tggsearch.github.io/docs/airplane-index.html'
 categories: [ account ]
 pin: true
@@ -26,10 +26,9 @@ pin: true
 
 | 机场名称                   | 免费体验                   | 最优惠价格                   | 大流量套餐                   | 优缺点                   |
 |------------------|--------------|-------------|------------------------|------------------------|
-| [三毛机场](./302.html?target=https://smjcdh.com/#/register?code=GvzAuYCT)              | 不支持 | 3块一年            | 50块一年 | 便宜但是不稳定 |
+| [三毛机场](./302.html?target=https://g-3.三毛机场.com/#/register?code=xqdCfYjx)              | 不支持 | 3块一年            | 50块一年 | 便宜但是不稳定 |
 | [红杏加速器（推荐使用）](./302.html?target=https://hongxingdl.com/web/#/login?code=WjjqTnEn)              | 不支持 | 50块一年，优惠券betrys，5折        | 100块一年 | 稳定有优惠，可支持多设备 |
 | [青柠机场](./302.html?target=https://www.lime1.xyz/register?code=dlQu3cqM)            | 支持 | 100块一年       | 100块一年 | 稳定有优惠，可支持多设备 |
-| [速盾网络](./302.html?target=https://ww.sudun.site/#/login?code=ny55y0fL)            | 支持 | 10块一个月，优惠券betrys，9折      | 100块一年 | 稳定，流量大300G一个月 |
 | [乐连机场](./302.html?target=https://lelian.co/#/register?code=cWuDPuxY)            | 支持 | 28块一个月      | 45块一年 | 月会员贵，年会员便宜 |
 
 ### 图文教程
