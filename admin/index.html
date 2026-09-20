@@ -23,6 +23,47 @@ sitemap: false
       background: radial-gradient(circle at 12% 15%, rgba(37,99,235,.1), transparent 25%), radial-gradient(circle at 88% 82%, rgba(20,184,166,.1), transparent 24%);
     }
   </style>
+  <script>
+    // GitHub Pages cannot complete Sveltia's default OAuth flow without a
+    // separate authenticator. Keep the safer, repository-scoped token flow.
+    (() => {
+      const hiddenChoices = [
+        /使用本地仓库/,
+        /work with (?:a )?local repository/i,
+        /使用.*github.*登录/i,
+        /sign in with\s*github/i,
+      ];
+      const hiddenHelp = [
+        /在弹出的.*对话框.*选择.*(?:文件夹|根目录)/,
+        /once prompted.*select.*folder/i,
+      ];
+
+      const simplifyLogin = () => {
+        document.querySelectorAll('button, a').forEach((element) => {
+          const label = element.textContent.replace(/\s+/g, ' ').trim();
+          if (hiddenChoices.some((pattern) => pattern.test(label))) {
+            element.hidden = true;
+            element.setAttribute('aria-hidden', 'true');
+          }
+        });
+
+        document.querySelectorAll('p, small, div, span').forEach((element) => {
+          if (element.childElementCount > 0) return;
+          const text = element.textContent.replace(/\s+/g, ' ').trim();
+          if (hiddenHelp.some((pattern) => pattern.test(text))) {
+            element.hidden = true;
+            element.setAttribute('aria-hidden', 'true');
+          }
+        });
+      };
+
+      new MutationObserver(simplifyLogin).observe(document.documentElement, {
+        childList: true,
+        subtree: true,
+      });
+      document.addEventListener('DOMContentLoaded', simplifyLogin);
+    })();
+  </script>
 </head>
 <body>
   <noscript>内容管理需要启用 JavaScript。</noscript>
