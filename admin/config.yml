@@ -7,7 +7,11 @@ media_folder: assets/img/uploads
 public_folder: /assets/img/uploads
 site_url: https://tggsearch.github.io
 display_url: https://tggsearch.github.io
-logo_url: https://tggsearch.github.io/assets/img/logo.png
+app_title: 探格教程 · 内容管理
+logo:
+  src: https://tggsearch.github.io/assets/img/logo.png
+  show_in_header: true
+logout_redirect_url: https://tggsearch.github.io/admin/
 locale: zh_Hans
 
 collections:
@@ -22,6 +26,9 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     summary: "{{title}} · {{date}}"
     sortable_fields: [date, title, categories]
+    preview_path: "docs/{{slug}}.html"
+    editor:
+      preview: true
     fields:
       - { label: 布局, name: layout, widget: hidden, default: post }
       - { label: 标题, name: title, widget: string }

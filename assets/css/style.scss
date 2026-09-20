@@ -155,21 +155,84 @@ a:hover { color: #1d4ed8; }
 .footer-copy { display: flex; flex-direction: column; margin-right: auto; }
 .footer-copy strong { color: var(--ink); }
 .footer-copy span { color: var(--muted); font-size: 13px; }
+.mobile-dock { display: none; }
 
 @media (max-width: 700px) {
     .header-inner { min-height: 62px; }
     .site-header { min-height: 62px; }
     .site-nav { line-height: 62px; }
-    .site-nav .trigger { max-height: calc(100vh - 70px); overflow-y: auto; }
-    .page-header { padding: 2.7rem 1.1rem 3rem; }
+    .site-title { font-size: 17px; }
+    .site-title img { width: 30px; height: 30px; }
+    .site-nav { top: 4px; right: 10px; border: 0; background: transparent; }
+    .site-nav label[for="nav-trigger"] { width: 44px; height: 44px; border-radius: 12px; background: var(--soft); }
+    .site-nav .menu-icon { width: 44px; height: 34px; padding-top: 13px; }
+    .site-nav .trigger {
+        position: fixed;
+        top: 62px;
+        right: 10px;
+        left: 10px;
+        max-height: calc(100vh - 140px);
+        padding: 10px !important;
+        overflow-y: auto;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        background: rgba(255,255,255,.98);
+        box-shadow: var(--shadow-lg);
+    }
+    .site-nav .page-link { margin: 0 !important; padding: 12px 14px; border-radius: 10px; text-align: left; }
+    .site-nav .page-link:hover, .site-nav .page-link.is-active { background: #eff6ff; }
+    .page-header { padding: 2.35rem 1rem 2.7rem; }
+    .project-name { font-size: clamp(1.85rem, 9vw, 2.65rem); line-height: 1.18; }
+    .project-tagline { margin-top: .8rem; font-size: 15px; line-height: 1.65; }
+    .page-header .btn { display: inline-flex; align-items: center; margin: 1rem .35rem 0 0; padding: .65rem .8rem; font-size: 12px; }
+    .breadcrumbs { max-width: 100%; overflow: hidden; white-space: nowrap; }
+    .breadcrumbs span:last-child { overflow: hidden; text-overflow: ellipsis; }
     .main-content { padding: 2.6rem 1rem 1.5rem; font-size: 16px; }
+    .main-content h2 { margin-top: 2rem; font-size: 1.45rem; }
+    .main-content h3 { font-size: 1.2rem; }
+    .main-content img { width: auto; max-width: 100%; height: auto; }
     .home-intro { display: block; padding: 1.4rem; }
     .home-intro p { margin-bottom: 1.2rem; }
     .search-cta { display: inline-block; }
     .category-grid, .post-grid, .post-list { grid-template-columns: 1fr; }
     .category-card { padding: 1rem; }
+    .category-icon { width: 50px; height: 50px; }
+    .category-icon img { width: 36px; height: 36px; }
     .category-copy small { white-space: normal; }
+    .home-section { margin-top: 3rem; }
+    .section-heading h2 { font-size: 1.55rem; }
+    .post-card { min-height: 0; padding: 1.2rem; }
+    .pagination { flex-wrap: wrap; gap: 7px; }
+    .pagination li { margin-left: 0; }
     .article-footer { align-items: flex-start; flex-direction: column; }
+    .site-footer { margin: 3rem 0 4.8rem; }
+    .mobile-dock {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        position: fixed;
+        right: 10px;
+        bottom: calc(8px + env(safe-area-inset-bottom));
+        left: 10px;
+        z-index: 45;
+        padding: 7px;
+        border: 1px solid rgba(228,232,240,.9);
+        border-radius: 18px;
+        background: rgba(255,255,255,.94);
+        box-shadow: 0 14px 40px rgba(15,23,42,.18);
+        backdrop-filter: blur(16px);
+    }
+    .mobile-dock a { display: flex; align-items: center; flex-direction: column; gap: 2px; padding: 5px 2px; color: #667085; font-size: 10px; font-weight: 650; }
+    .mobile-dock a:hover { text-decoration: none; }
+    .mobile-dock a span { font-size: 20px; line-height: 1; }
+    .mobile-dock a.is-active { color: var(--brand); }
+}
+
+@media (max-width: 390px) {
+    .site-title span { max-width: 120px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .page-header .btn { max-width: 100%; }
+    .home-intro { padding: 1.2rem; }
+    .category-card { gap: 11px; }
+    .category-arrow { display: none; }
 }
 
 .icon-block-body-three {

@@ -146,6 +146,12 @@
         {% if site.disqus.shortname %}
             {% include disqus_comments.html %}
         {% endif %}
+        <nav class="mobile-dock" aria-label="移动端快捷导航">
+          <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="is-active"{% endif %}><span aria-hidden="true">⌂</span>首页</a>
+          <a href="{{ '/telegram.html' | relative_url }}"{% if page.url == '/telegram.html' %} class="is-active"{% endif %}><span aria-hidden="true">✈</span>电报</a>
+          <a href="{{ '/exchange.html' | relative_url }}"{% if page.url == '/exchange.html' %} class="is-active"{% endif %}><span aria-hidden="true">◇</span>交易所</a>
+          <a href="{{ '/search.html' | relative_url }}"{% if page.url == '/search.html' %} class="is-active"{% endif %}><span aria-hidden="true">⌕</span>搜索</a>
+        </nav>
         <script>
             var menu = document.querySelector("nav.site-nav");
             var checkbox = document.getElementById("nav-trigger");

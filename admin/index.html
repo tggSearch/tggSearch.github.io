@@ -9,11 +9,24 @@ sitemap: false
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="robots" content="noindex,nofollow">
+  <meta name="theme-color" content="#0b1220">
   <title>内容管理 · 探格教程</title>
   <link rel="icon" href="/favicon.ico">
+  <style>
+    :root { color-scheme: light; }
+    body { margin: 0; background: #f5f7fb; }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background: radial-gradient(circle at 12% 15%, rgba(37,99,235,.1), transparent 25%), radial-gradient(circle at 88% 82%, rgba(20,184,166,.1), transparent 24%);
+    }
+  </style>
 </head>
 <body>
   <noscript>内容管理需要启用 JavaScript。</noscript>
   <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+  <script>CMS.registerPreviewStyle('/admin/preview.css');</script>
 </body>
 </html>
