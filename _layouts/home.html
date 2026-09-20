@@ -5,12 +5,12 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
 ---
 
 <div class="home-shell">
-  <section class="home-intro">
-    <span class="eyebrow">实用、清晰、持续更新</span>
-    <h2>找到你需要的海外软件教程</h2>
-    <p>从注册下载到进阶使用，把复杂问题讲简单。按主题浏览，或直接搜索已有教程。</p>
-    <a class="search-cta" href="{{ '/search.html' | relative_url }}">搜索全部教程 <span aria-hidden="true">→</span></a>
-  </section>
+  <form class="home-search" action="{{ '/search.html' | relative_url }}" method="get" role="search">
+    <span class="home-search__icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="21" height="21"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></span>
+    <label class="sr-only" for="home-search-input">搜索全部教程</label>
+    <input id="home-search-input" type="search" name="q" placeholder="搜索 252 篇教程，例如：电报验证码、推特下载…" autocomplete="off" enterkeyhint="search">
+    <button type="submit">搜索教程 <span aria-hidden="true">→</span></button>
+  </form>
 
   {{ content }}
 
