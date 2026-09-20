@@ -5,8 +5,8 @@
     {% assign page_refs = site.header_page_refs | default: default_refs %}
 
       <a class="site-title" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape }}首页">
-        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="" width="34" height="34">
-        <span>探格教程</span>
+        <img src="{{ site.data.site.logo | default: '/assets/img/logo.png' | relative_url }}" alt="" width="34" height="34">
+        <span>{{ site.data.site.site_name | default: site.title }}</span>
       </a>
 
     {% if page_refs %}

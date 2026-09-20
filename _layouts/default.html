@@ -4,6 +4,7 @@
 <head>
     {% assign is_post = false %}
     {% if page.collection == 'posts' %}{% assign is_post = true %}{% endif %}
+    {% assign site_settings = site.data.site %}
 
     {% if site.google_analytics %}
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -18,7 +19,7 @@
     <!-- Non social metatags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.url == '/' %}{{ site.title }}{% else %}{{ page.title }} - {{ site.title }}{% endif %}</title>
+    <title>{% if page.url == '/' %}{{ site_settings.home_title | default: site.title }}{% else %}{{ page.title }} - {{ site_settings.site_name | default: site.title }}{% endif %}</title>
     {% seo title=false %}
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="theme-color" content="#0b1220">
@@ -48,7 +49,7 @@
         {% include site-header.html %}
         
         {% if page.layout == 'home' %}
-        {% assign page-tagline = site.tagline | default: site.description | escape %}
+        {% assign page-tagline = site_settings.tagline | default: site.tagline | default: site.description | escape %}
         {% endif %}
         {% if page.layout == 'page' %}
         {% assign page-tagline = page.tagline | escape %}
@@ -67,13 +68,13 @@
               <a href="{{ '/' | relative_url }}">首页</a><span aria-hidden="true">/</span><span>{{ page.title | escape }}</span>
             </nav>
             {% endif %}
-            <h1 class="project-name">{{ page-title }}</h1>
+            <h1 class="project-name">{% if page.layout == 'home' %}{{ site_settings.home_title | default: page-title }}{% else %}{{ page-title }}{% endif %}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
             <!-- <a href="/docs/okx-install.html" class="btn">🎁欧易1-20美金盲盒领取🎁</a><a href="/docs/302.html?target=https://t.me/chineseSearchService" class="btn">中文电报导航群</a> -->
             <!-- Post tagline -->
             {% if page.no_button != 'yes' %}
-            <a href="/docs/okx-install.html" class="btn">🎁欧易注册领取最高888元🎁</a>
-            <a href="/docs/302.html?target=https://qualrb.com" class="btn">成为KOL推广赚钱</a>
+            {% if site_settings.primary_action.enabled != false %}<a href="{{ site_settings.primary_action.url | default: '/docs/okx-install.html' }}" class="btn">{{ site_settings.primary_action.label | default: '查看推荐教程' }}</a>{% endif %}
+            {% if site_settings.secondary_action.enabled != false %}<a href="{{ site_settings.secondary_action.url | default: '/about.html' }}" class="btn">{{ site_settings.secondary_action.label | default: '了解更多' }}</a>{% endif %}
             {% endif %}
 
             {% if is_post %}
@@ -104,33 +105,44 @@
             </article>{% endif %}
             
             <footer class="site-footer">
-                <div class="footer-copy"><strong>探格教程</strong><span>让海外软件和网络工具更容易使用。</span></div>
+                <div class="footer-copy">
+                  <strong>{{ site_settings.footer.title | default: site_settings.site_name | default: site.title }}</strong>
+                  <span>{{ site_settings.footer.description | default: site_settings.description | default: site.description }}</span>
+                  <small>© {{ 'now' | date: '%Y' }} {{ site_settings.footer.copyright | default: site.title }}</small>
+                  {% if site_settings.footer.contact_url and site_settings.footer.contact_label %}<a class="footer-contact" href="{{ site_settings.footer.contact_url }}">{{ site_settings.footer.contact_label }}</a>{% endif %}
+                </div>
                 <!-- SVG icons from https://iconmonstr.com -->
                 
                 <!-- Github icon -->
+                {% if site_settings.social.youtube_url %}
                 <span class="my-span-icon">
-                    <a href="{{ site.url }}/docs/302.html?target=https://www.youtube.com/@aiDigitalMan" aria-label="软件分析师" title="软件分析师">
+                    <a href="{{ site_settings.social.youtube_url }}" aria-label="YouTube" title="YouTube">
                         <svg lass="my-svg-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 48 48" class="my-svg-icon">
                             <path d="M 44.898438 14.5 C 44.5 12.300781 42.601563 10.699219 40.398438 10.199219 C 37.101563 9.5 31 9 24.398438 9 C 17.800781 9 11.601563 9.5 8.300781 10.199219 C 6.101563 10.699219 4.199219 12.199219 3.800781 14.5 C 3.398438 17 3 20.5 3 25 C 3 29.5 3.398438 33 3.898438 35.5 C 4.300781 37.699219 6.199219 39.300781 8.398438 39.800781 C 11.898438 40.5 17.898438 41 24.5 41 C 31.101563 41 37.101563 40.5 40.601563 39.800781 C 42.800781 39.300781 44.699219 37.800781 45.101563 35.5 C 45.5 33 46 29.398438 46.101563 25 C 45.898438 20.5 45.398438 17 44.898438 14.5 Z M 19 32 L 19 18 L 31.199219 25 Z"></path>
                         </svg>
                     </a>
                 </span>
+                {% endif %}
                 
                 <!-- Twitter icon -->
+                {% if site_settings.social.twitter_url %}
                 <span class="my-span-icon">
-                    <a href="{{ site.url }}/docs/302.html?target=https://twitter.com/{{ site.twitter.username }}" aria-label="{{ site.github.owner_name }}'s Twitter" title="{{ site.github.owner_name }}'s Twitter">
+                    <a href="{{ site_settings.social.twitter_url }}" aria-label="Twitter / X" title="Twitter / X">
                         <svg class="my-svg-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796.944-3.527 2.799-3.527.825 0 1.572.349 2.096.907.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z"/></svg>
                     </a>
                 </span>
+                {% endif %}
                 
                 <!-- Telegram icon -->
+                {% if site_settings.social.telegram_url %}
                 <span class="my-span-icon">
-                    <a href="{{ site.url }}/docs/302.html?target=https://t.me/chinaDianBaoFans" aria-label="{{ site.github.owner_name }}'s Twitter" title="{{ site.github.owner_name }}'s Telegram">
+                    <a href="{{ site_settings.social.telegram_url }}" aria-label="Telegram" title="Telegram">
                         <svg class="my-svg-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 48 48">
                             <path d="M25,2c12.703,0,23,10.297,23,23S37.703,48,25,48S2,37.703,2,25S12.297,2,25,2z M32.934,34.375	c0.423-1.298,2.405-14.234,2.65-16.783c0.074-0.772-0.17-1.285-0.648-1.514c-0.578-0.278-1.434-0.139-2.427,0.219	c-1.362,0.491-18.774,7.884-19.78,8.312c-0.954,0.405-1.856,0.847-1.856,1.487c0,0.45,0.267,0.703,1.003,0.966	c0.766,0.273,2.695,0.858,3.834,1.172c1.097,0.303,2.346,0.04,3.046-0.395c0.742-0.461,9.305-6.191,9.92-6.693	c0.614-0.502,1.104,0.141,0.602,0.644c-0.502,0.502-6.38,6.207-7.155,6.997c-0.941,0.959-0.273,1.953,0.358,2.351	c0.721,0.454,5.906,3.932,6.687,4.49c0.781,0.558,1.573,0.811,2.298,0.811C32.191,36.439,32.573,35.484,32.934,34.375z"></path>
                         </svg>
                     </a>
                 </span>
+                {% endif %}
                 
                  <!-- QQ icon -->
                  <!-- <span class="my-span-icon">

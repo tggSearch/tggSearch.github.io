@@ -157,6 +157,8 @@ a:hover { color: #1d4ed8; }
 .footer-copy { display: flex; flex-direction: column; margin-right: auto; }
 .footer-copy strong { color: var(--ink); }
 .footer-copy span { color: var(--muted); font-size: 13px; }
+.footer-copy small { margin-top: 5px; color: #98a2b3; font-size: 12px; }
+.footer-contact { width: max-content; margin-top: 6px; font-size: 13px; font-weight: 700; }
 .mobile-dock { display: none; }
 .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 

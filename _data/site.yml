@@ -1,0 +1,23 @@
+site_name: 探格教程
+home_title: 海外软件技术教程
+description: 提供全球软件技术交流知识，涵盖电报、纸飞机、推特、YouTube、Facebook、交易所与海外账号等实用教程。
+tagline: 海外软件、社交平台与数字工具的实用指南，从注册下载到进阶使用，一篇讲清。
+logo: /assets/img/logo.png
+primary_action:
+  enabled: true
+  label: 🎁欧易注册领取最高888元🎁
+  url: /docs/okx-install.html
+secondary_action:
+  enabled: true
+  label: 成为KOL推广赚钱
+  url: /docs/302.html?target=https://qualrb.com
+footer:
+  title: 探格教程
+  description: 让海外软件和网络工具更容易使用。
+  copyright: 探格教程。保留所有权利。
+  contact_label: 联系我们
+  contact_url: /about.html
+social:
+  youtube_url: /docs/302.html?target=https://www.youtube.com/@aiDigitalMan
+  twitter_url: /docs/302.html?target=https://twitter.com/idanhua
+  telegram_url: /docs/302.html?target=https://t.me/chinaDianBaoFans

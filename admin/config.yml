@@ -58,6 +58,45 @@ collections:
   - name: settings
     label: 网站设置
     files:
+      - name: site
+        label: 站点管理
+        file: _data/site.yml
+        fields:
+          - { label: 品牌名称, name: site_name, widget: string, hint: 显示在顶部导航和页面底部 }
+          - { label: 首页主标题, name: home_title, widget: string }
+          - { label: 站点 SEO 描述, name: description, widget: text, hint: 建议 70–120 个中文字符，将用于首页描述和结构化数据 }
+          - { label: 首页副标题, name: tagline, widget: text }
+          - { label: 站点 Logo, name: logo, widget: image }
+          - label: 主推广按钮
+            name: primary_action
+            widget: object
+            fields:
+              - { label: 显示, name: enabled, widget: boolean, default: true }
+              - { label: 按钮文字, name: label, widget: string }
+              - { label: 跳转地址, name: url, widget: string }
+          - label: 次推广按钮
+            name: secondary_action
+            widget: object
+            fields:
+              - { label: 显示, name: enabled, widget: boolean, default: true }
+              - { label: 按钮文字, name: label, widget: string }
+              - { label: 跳转地址, name: url, widget: string }
+          - label: 页面底部
+            name: footer
+            widget: object
+            fields:
+              - { label: 底部标题, name: title, widget: string }
+              - { label: 底部简介, name: description, widget: text }
+              - { label: 版权文字, name: copyright, widget: string }
+              - { label: 联系入口文字, name: contact_label, widget: string, required: false }
+              - { label: 联系入口地址, name: contact_url, widget: string, required: false }
+          - label: 社交链接
+            name: social
+            widget: object
+            fields:
+              - { label: YouTube 地址, name: youtube_url, widget: string, required: false }
+              - { label: Twitter / X 地址, name: twitter_url, widget: string, required: false }
+              - { label: Telegram 地址, name: telegram_url, widget: string, required: false }
       - name: categories
         label: 分类管理
         file: _data/categories.yml

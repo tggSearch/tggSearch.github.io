@@ -86,12 +86,12 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
     {
       "@context": "https://schema.org",
       "@type": "Blog",
-      "name": {{ site.title | jsonify }},
-      "description": {{ site.description | jsonify }},
+      "name": {{ site.data.site.home_title | default: site.title | jsonify }},
+      "description": {{ site.data.site.description | default: site.description | jsonify }},
       "url": "{{ site.url }}",
       "publisher": {
         "@type": "Organization",
-        "name": {{ site.author | jsonify }},
+        "name": {{ site.data.site.site_name | default: site.author | jsonify }},
         "logo": {
           "@type": "ImageObject",
           "url": "{{ site.url }}/assets/img/logo.png"
