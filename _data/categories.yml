@@ -1,0 +1,50 @@
+categories:
+- id: telegram
+  name: 电报教程
+  short_name: 电报
+  description: Telegram 注册、下载、设置、安全与实用技巧
+  icon: telegram.png
+  color: "#2AABEE"
+  order: 1
+- id: twitter
+  name: 推特教程
+  short_name: 推特
+  description: X / Twitter 注册、账号、视频下载与使用技巧
+  icon: twitter.png
+  color: "#111827"
+  order: 2
+- id: youtube
+  name: 油管教程
+  short_name: 油管
+  description: YouTube 使用、下载、会员与内容创作指南
+  icon: youtube.webp
+  color: "#FF0033"
+  order: 3
+- id: exchange
+  name: 交易所教程
+  short_name: 交易所
+  description: 数字资产平台入门、交易与安全知识
+  icon: okx.png
+  color: "#2563EB"
+  order: 4
+- id: account
+  name: 账号与工具
+  short_name: 账号类
+  description: 海外账号、网络工具和常用软件指南
+  icon: account-buy.webp
+  color: "#7C3AED"
+  order: 5
+- id: line
+  name: Line 教程
+  short_name: Line
+  description: Line 注册、登录、好友与账号问题解答
+  icon: line.png
+  color: "#06C755"
+  order: 6
+- id: gmail
+  name: Gmail 教程
+  short_name: Gmail
+  description: Gmail 注册、收信、登录与常见问题
+  icon: gmail.webp
+  color: "#EA4335"
+  order: 7

@@ -1,0 +1,14 @@
+<article class="post-card">
+  <div class="post-card__meta">
+    {% assign category_id = include.post.categories | first | strip %}
+    {% assign category_data = site.data.categories.categories | where: "id", category_id | first %}
+    {% if category_data %}
+      <a href="{{ '/' | append: category_data.id | append: '.html' | relative_url }}">{{ category_data.short_name }}</a>
+      <span aria-hidden="true">·</span>
+    {% endif %}
+    <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%Y-%m-%d" }}</time>
+  </div>
+  <h3><a href="{{ include.post.url | relative_url }}">{{ include.post.title | escape }}</a></h3>
+  <p>{{ include.post.description | default: include.post.excerpt | strip_html | strip_newlines | truncate: 105 }}</p>
+  <a class="post-card__more" href="{{ include.post.url | relative_url }}" aria-label="阅读《{{ include.post.title | escape }}》">阅读全文 <span aria-hidden="true">→</span></a>
+</article>

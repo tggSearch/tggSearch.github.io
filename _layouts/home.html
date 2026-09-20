@@ -4,32 +4,31 @@ title:  海外软件技术教程
 description: 提供全球软件技术交流知识，涵盖电报、纸飞机、推特等多个海外平台，深入探讨油管、YouTube、Facebook等内容。欧易和币安的使用教程，节点返佣等实用信息全面解读。如需技术支持，请添加技术客服QQ：技术客服1:1702242347，技术客服2:2928893676，技术客服3:2136868442，技术客服4:3912569045，请右下角联系。
 ---
 
-<div>
+<div class="home-shell">
+  <section class="home-intro">
+    <span class="eyebrow">实用、清晰、持续更新</span>
+    <h2>找到你需要的海外软件教程</h2>
+    <p>从注册下载到进阶使用，把复杂问题讲简单。按主题浏览，或直接搜索已有教程。</p>
+    <a class="search-cta" href="{{ '/search.html' | relative_url }}">搜索全部教程 <span aria-hidden="true">→</span></a>
+  </section>
 
   {{ content }}
 
-  <h2>最新文章</h2>
+  <section class="home-section">
+    <div class="section-heading">
+      <div><span class="eyebrow">Topics</span><h2>按主题浏览</h2></div>
+      <a href="{{ '/search.html' | relative_url }}">查找文章</a>
+    </div>
+    {% include category-grid.html %}
+  </section>
 
-  <div>&nbsp;</div>
-
-  <ul class="post-list">
+  <section class="home-section">
+  <div class="section-heading"><div><span class="eyebrow">Latest</span><h2>最新文章</h2></div></div>
+  <div class="post-grid">
     {% for post in paginator.posts %}
-      <li>
-        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-
-        {% assign url_link = post.url %}
-        <h2>
-          <a class="post-link" href="{{ url_link }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-        </h2>
-
-        {{ post.excerpt | replace: '<script.*?</script>', '' | strip_html | markdownify | truncate: 60 }}
-
-        <p>
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-        </p>
-      </li>
+      {% include post-card.html post=post %}
     {% endfor %}
-  </ul>
+  </div>
   
   <div class="mt-5">
     <!-- Pagination links -->
@@ -59,12 +58,15 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
                       <li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
                   {% elsif page == 1 %}
                       <li class="page-item"><a class="page-link" href="{{site.url}}">{{ page }}</a></li>
+                  {% else %}
+                      <li class="page-item"><a class="page-link" href="/{{ site.paginate_path | replace: ':num', page }}/">{{ page }}</a></li>
                   {% endif %}
               {% endif %}
             {% endfor %}
 
             {% if end_page < paginator.total_pages %}
-                {% if end_page < paginator.total_pages - 1 %}
+                {% assign penultimate_page = paginator.total_pages | minus: 1 %}
+                {% if end_page < penultimate_page %}
                     <li class="page-item disabled"><span class="webjeda page-link">...</span></li>
                 {% endif %}
                 <li class="page-item"><a class="page-link" href="/{{ site.paginate_path | replace: '//', '/' | replace: ':num', paginator.total_pages }}/">{{ paginator.total_pages }}</a></li>
@@ -78,17 +80,18 @@ description: 提供全球软件技术交流知识，涵盖电报、纸飞机、�
         </ul>
     {% endif %}
   </div>  
+  </section>
 
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Blog",
-      "name": "{{ site.title | escape }}",
-      "description": "{{ site.description | escape }}",
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
       "url": "{{ site.url }}",
       "publisher": {
         "@type": "Organization",
-        "name": "{{ site.author.name }}",
+        "name": {{ site.author | jsonify }},
         "logo": {
           "@type": "ImageObject",
           "url": "{{ site.url }}/assets/img/logo.png"

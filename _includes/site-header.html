@@ -1,12 +1,13 @@
 <header class="site-header" role="banner">
 
-  <div class="wrapper">
+  <div class="wrapper header-inner">
     {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
 
-    {% if page.layout != 'home' %}
-      <a class="site-title" href="{{ site.url }}">{{ site.title | escape }}</a>
-    {% endif %}
+      <a class="site-title" href="{{ '/' | relative_url }}" aria-label="{{ site.title | escape }}首页">
+        <img src="{{ '/assets/img/logo.png' | relative_url }}" alt="" width="34" height="34">
+        <span>探格教程</span>
+      </a>
 
     {% if page_refs %}
       <nav class="site-nav">
@@ -24,7 +25,8 @@
         <div class="trigger">
           {% for ref in page_refs %}
           {% if page.layout != 'home' or (page.layout == 'home' and ref.id != 'index') %}
-          <a class="page-link" href="{{ site.url }}/{{ ref.id }}.html">{{ ref.name }}</a>
+          {% assign ref_url = '/' | append: ref.id | append: '.html' %}
+          <a class="page-link{% if page.url == ref_url %} is-active{% endif %}" href="{{ ref_url | relative_url }}">{{ ref.name }}</a>
           {% endif %}
           {% endfor %}
         </div>

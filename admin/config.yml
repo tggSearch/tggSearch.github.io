@@ -1,0 +1,68 @@
+backend:
+  name: github
+  repo: tggSearch/tggSearch.github.io
+  branch: main
+
+media_folder: assets/img/uploads
+public_folder: /assets/img/uploads
+site_url: https://tggsearch.github.io
+display_url: https://tggsearch.github.io
+logo_url: https://tggsearch.github.io/assets/img/logo.png
+locale: zh_Hans
+
+collections:
+  - name: posts
+    label: 文章
+    label_singular: 文章
+    folder: _posts
+    create: true
+    delete: true
+    extension: md
+    format: frontmatter
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{title}} · {{date}}"
+    sortable_fields: [date, title, categories]
+    fields:
+      - { label: 布局, name: layout, widget: hidden, default: post }
+      - { label: 标题, name: title, widget: string }
+      - { label: 发布日期, name: date, widget: datetime, date_format: YYYY-MM-DD, time_format: false }
+      - label: 分类
+        name: categories
+        widget: select
+        multiple: true
+        min: 1
+        options:
+          - { label: 电报, value: telegram }
+          - { label: 推特, value: twitter }
+          - { label: 油管, value: youtube }
+          - { label: 交易所, value: exchange }
+          - { label: 账号类, value: account }
+          - { label: Line, value: line }
+          - { label: Gmail, value: gmail }
+          - { label: Facebook, value: facebook }
+          - { label: ChatGPT, value: chatgpt }
+      - { label: SEO 描述, name: description, widget: text, hint: 建议 70–120 个中文字符 }
+      - { label: 固定网址, name: canonical_url, widget: string, required: false, hint: 老文章请勿修改；新文章留空即可自动生成 }
+      - { label: 封面图, name: image, widget: image, required: false }
+      - { label: 作者, name: author, widget: string, required: false, default: 小青 }
+      - { label: 置顶, name: pin, widget: boolean, default: false, required: false }
+      - { label: 正文, name: body, widget: markdown }
+
+  - name: settings
+    label: 网站设置
+    files:
+      - name: categories
+        label: 分类管理
+        file: _data/categories.yml
+        fields:
+          - label: 分类
+            name: categories
+            widget: list
+            fields:
+              - { label: ID, name: id, widget: string, hint: 英文小写，已有分类不要修改 }
+              - { label: 完整名称, name: name, widget: string }
+              - { label: 导航名称, name: short_name, widget: string }
+              - { label: 简介, name: description, widget: text }
+              - { label: 图标文件, name: icon, widget: image, choose_url: false }
+              - { label: 主题色, name: color, widget: color, default: "#2563EB" }
+              - { label: 排序, name: order, widget: number, value_type: int, min: 1 }

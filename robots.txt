@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /docs/302.html
+Disallow: /admin/
 Disallow: /docs/docs/
 Disallow: /docs/youtube-download.html
 Disallow: /docs/91.html

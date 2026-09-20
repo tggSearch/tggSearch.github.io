@@ -1,8 +1,11 @@
 title: 海外软件技术教程
 description: 提供全球软件技术交流知识，涵盖电报、纸飞机、推特等多个海外平台，深入探讨油管、YouTube、Facebook等内容。欧易和币安的使用教程，节点返佣等实用信息全面解读。如需技术支持，请添加技术客服QQ：技术客服1:1702242347，技术客服2:2928893676，技术客服3:2136868442，技术客服4:3912569045，请右下角联系。
+tagline: 海外软件、社交平台与数字工具的实用指南，从注册下载到进阶使用，一篇讲清。
 show_downloads: true
+lang: zh-CN
+timezone: Asia/Shanghai
 
-baseurl: "/docs" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+baseurl: "" # GitHub Pages 用户站点部署在根目录；文章路径由 permalink 单独保持为 /docs/*.html
 url: "https://tggsearch.github.io" # change this to the base hostname & protocol for your site
 permalink: /docs/:title.html
 
@@ -22,15 +25,28 @@ twitter:
   username: idanhua
  
 plugins:
-  - jekyll-target-blank
   - jekyll-paginate
   - jekyll-seo-tag
-
-target-blank:
-    rel: nofollow
 
 # Paginate
 paginate: 10
 paginate_path: "docs/page:num"
 
 header_page_refs: [{'id' : 'telegram', 'name': '电报'}, {'id': 'twitter', 'name': '推特'}, {'id': 'youtube', 'name': '油管'}, {'id': 'exchange', 'name': '交易所'}, {'id': 'account', 'name': '账号类'}, {'id': 'line', 'name': 'Line'}, {'id': 'gmail', 'name': 'Gmail'}, {'id': 'about', 'name': '关于我们'}]
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: 小青
+
+# 旧主题源码曾被完整复制到 docs/，会产生 /docs/docs/ 重复页面；文章仍由 permalink 输出到 /docs/。
+exclude:
+  - docs
+  - README.md
+  - LICENSE
+  - Gemfile
+  - jekyll-theme-cayman-blog.gemspec
+  - jekyll-theme-cayman.gemspec
